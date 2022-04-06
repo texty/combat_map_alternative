@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+        integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+        crossorigin="" />
+
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+        integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+        crossorigin=""></script>
+
+    <!-- як geojson за допомогою d3.xml -->
+    <script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
+<!--     <script src="//cdnjs.cloudflare.com/ajax/libs/topojson/1.6.19/topojson.min.js"></script>
+    <script src="togeojson.js"></script> -->
+
+</head>
+<style>
+    #map {
+        max-width: 1400px;
+        height: 90vh;
+        margin: auto;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 14px;
+        color: #323232;
+    }
+</style>
+
+<body>
+    <div id="map"></div>
+
+    <script>
+        var map = L.map('map').setView([48.5, 32.08], 6);
+        mapLink = '<a href="http://openstreetmap.org">OpenStreetMap</a>';
+        L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {
+            attribution: '&copy; ' + mapLink + ' Contributors',
+            maxZoom: 18,
+        }).addTo(map);
+
+        //лінк на гугл-карту https://www.google.com/maps/d/kml?mid=10n5IOLu0m7G1jSSKxLXgXPznoGjn7MMO&nl=1/
+
+        // як geojson за допомогою d3.xml         
+        //дістаємо дані: назву, опис, координати і стиль
+        d3.xml('doc.kml', function (xml) {
+            data = [].map.call(xml.querySelectorAll("Placemark"), function (point) {
+                var latlng = (point.querySelector("coordinates").textContent).replace('\n            ', '').split(',');
+                var coordinates = [parseFloat(latlng[1]), parseFloat(latlng[0])]
+                var style = point.querySelector("styleUrl").textContent.replace("#", '').match(/icon-ci-[0-9]{1,2}/g);
+
+                return {
+                    name: point.querySelector("name").textContent,
+                    desc: point.querySelector("description") ? description = point.querySelector("description").textContent : 'NA',
+                    coordinates: coordinates,
+                    style: style != null ? style[0] : "NA",
+                };
+            }).sort(function (a, b) { return d3.descending(a.name, b.name) });
+
+            //дістаємо іконки
+            var icons = [].map.call(xml.querySelectorAll("Style"), function (icon) {
+                theId = icon.getAttribute("id").match(/icon-ci-[0-9]{1,2}/g);
+
+                return {
+                    id: theId != null ? theId[0] : "NA",
+                    img: icon.querySelector("href") ? icon.querySelector("href").textContent : 'NA'
+                }
+
+            });
+            
+
+            data.forEach(function (point) {
+
+                icon = icons.filter(function (pic) { return pic.id === point.style });
+
+                var marker = L.marker(point.coordinates, {
+                    icon: new L.Icon({ iconUrl: icon[0].img }),
+                });
+
+                //var popup = point.desc !="NA" ? (point.name + "<br><br>" + point.desc) : point.name;
+                marker.bindPopup(point.name);
+                
+                
+                marker.on('mouseover', function (e) { this.openPopup(); });
+                marker.on('mouseout', function (e) { this.closePopup(); });
+                marker.addTo(map)
+            });
+
+        });
+    </script>
+</body>
+
+</html>
