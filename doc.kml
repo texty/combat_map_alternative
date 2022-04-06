@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>ВІЙНА-2022: лінія фронту (ОНОВЛЮЄТЬСЯ)</name>
-    <description><![CDATA[Детальніше про проєкт - https://texty.org.ua/projects/106137/karta-bojovyh-dij-onovlyuyetsya/<br>Території під контролем ЗСУ - блакитний колір, РФ - червоний (покинуті позиції РФ - жовтий). Бордовий колір - місця бойових дій.  <br>Цятка означає контроль над населеним пунктом або його околицями. Джерела даних: переважно офіційні зведення ГШ та ОВА (якщо не вказано інше). <br>Клікнувши на конкретний пункт, можна отримати більш детальну інформацію (зазвичай із посиланням на джерело).<br>Там же (після назви населеного пункту) можна дізнатися ДАТУ його звільнення/окупації. Якщо дата не вказана, йдеться про ситуацію станом на 19 березня.<br>Карта оновлюється з розвитком подій.<br>Карта не претендує на вичерпність чи оперативність. <br>Позиції вказані ОРІЄНТОВНО!<br>Автори: Олександра Тимошенко, Павло Солодько, Надя Кельм (ТЕКСТИ.org.ua)]]></description>
+    <description><![CDATA[ПІДТРИМАТИ ПРОЄКТ - https://texty.org.ua/p/support/<br>Детальніше про проєкт - https://texty.org.ua/projects/106137/karta-bojovyh-dij-onovlyuyetsya/<br>Території під контролем ЗСУ - блакитний колір, РФ - червоний (покинуті позиції РФ - жовтий). Бордовий колір - місця бойових дій.  <br>Цятка означає контроль над населеним пунктом або його околицями. Джерела даних: переважно офіційні зведення ГШ та ОВА (якщо не вказано інше). <br>Клікнувши на конкретний пункт, можна отримати більш детальну інформацію (зазвичай із посиланням на джерело).<br>Там же (після назви населеного пункту) можна дізнатися ДАТУ його звільнення/окупації. Якщо дата не вказана, йдеться про ситуацію станом на 19 березня.<br>Карта оновлюється з розвитком подій.<br>Карта не претендує на вичерпність чи оперативність. <br>Позиції вказані ОРІЄНТОВНО!<br>Автори: Олександра Тимошенко, Павло Солодько, Надя Кельм (ТЕКСТИ.org.ua)]]></description>
     <Style id="icon-ci-1-normal">
       <IconStyle>
         <scale>0.9</scale>
@@ -1471,7 +1471,7 @@
       </Placemark>
       <Placemark>
         <name>Вишневе - ракетний удар ЗСУ по артскладам і РЕБ 26.03</name>
-        <description>Знищено артилерійський і не тільки хаб місцевого угрупування військ РФ. В результаті удару відновлено мовленння українського радіо на півночі Чернігівщини - https://suspilne.media/221896-na-cernigivsini-zsu-rozbili-rosijsku-tehniku-ta-sklad-boepripasiv/</description>
+        <description>Знищено артилерійський і не тільки хаб місцевого угрупування військ рф. В результаті удару відновлено мовленння українського радіо на півночі Чернігівщини - https://suspilne.media/221896-na-cernigivsini-zsu-rozbili-rosijsku-tehniku-ta-sklad-boepripasiv/</description>
         <styleUrl>#icon-ci-4</styleUrl>
         <Point>
           <coordinates>
@@ -2041,8 +2041,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>ВОЛНОВАХА</name>
-        <styleUrl>#icon-ci-6-nodesc</styleUrl>
+        <name>ВОЛНОВАХА знищена росіянами</name>
+        <description>https://censor.net/ua/video_news/3331870/totalna_ruyinatsiya_v_zahopleniyi_okupantamy_volnovasi_video</description>
+        <styleUrl>#icon-ci-6</styleUrl>
         <Point>
           <coordinates>
             37.4883316,47.6044782,0
@@ -2109,15 +2110,6 @@
         <Point>
           <coordinates>
             38.708756,48.7221819,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>МАРІУПОЛЬ</name>
-        <styleUrl>#icon-ci-3-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            37.5648046,47.104264,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2528,31 +2520,31 @@
       </Placemark>
       <Placemark>
         <name>Драмтеатр (МАРІУПОЛЬ)</name>
-        <description><![CDATA[Знищене 16.03 російськими авіаударами сховище для дітей і породіль із розбомбленого 9.03 пологового будинку<br>https://novynarnia.com/2022/03/26/teatr-dramy-300/]]></description>
+        <description><![CDATA[Знищене 16.03 російськими авіаударами сховище для дітей і породіль із розбомбленого 9.03 пологового будинку<br>https://novynarnia.com/2022/03/26/teatr-dramy-300/ Окупанти дійшли сюди після того, як 24.03 влаштували вогневі точки у соборі Покрова Божої Матері (найвищій споруді в центрі міста) по сусідству]]></description>
         <styleUrl>#icon-ci-6</styleUrl>
         <Point>
           <coordinates>
-            37.5485767,47.0960842,0
+            37.5481475,47.0962011,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name><![CDATA[Завод "Азовсталь" (МАРІУПОЛЬ)]]></name>
-        <description>один із напрямків російського наступу - https://texty.org.ua/fragments/106213/tom-kuper-v-moskvi-povnistyu-perehlyanuly-svoyu-voyennu-kampaniyu-v-ukrayini/</description>
-        <styleUrl>#icon-ci-7</styleUrl>
+        <name>Лівобережний район (МАРІУПОЛЬ)</name>
+        <description><![CDATA[19.03 росіяни захопили будівлю районної адміністрації. <br>Станом на 4.04 бойові дії на цьому напрямку тривають західніше, на величезній території заводу"Азовсталь": <br>https://texty.org.ua/fragments/106213/tom-kuper-v-moskvi-povnistyu-perehlyanuly-svoyu-voyennu-kampaniyu-v-ukrayini/]]></description>
+        <styleUrl>#icon-ci-6</styleUrl>
         <Point>
           <coordinates>
-            37.5866294,47.1009342,0
+            37.6296735,47.1074483,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>Кальміуська райрада (МАРІУПОЛЬ)</name>
-        <description>https://texty.org.ua/fragments/106213/tom-kuper-v-moskvi-povnistyu-perehlyanuly-svoyu-voyennu-kampaniyu-v-ukrayini/</description>
+        <description><![CDATA[Станом на 4.04:<br>https://texty.org.ua/fragments/106213/tom-kuper-v-moskvi-povnistyu-perehlyanuly-svoyu-voyennu-kampaniyu-v-ukrayini/]]></description>
         <styleUrl>#icon-ci-6</styleUrl>
         <Point>
           <coordinates>
-            37.5659013,47.1279201,0
+            37.5662446,47.1287376,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2563,6 +2555,16 @@
         <Point>
           <coordinates>
             36.994594,47.7916337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[МАРІУПОЛЬ з 1.03 б'ється в оточенні]]></name>
+        <description>https://focus.ua/uk/voennye-novosti/510407-mariupol-v-osade-kak-okruzhili-gorod-chto-kontroliruet-vsu-kak-vyzhivali-gorozhane</description>
+        <styleUrl>#icon-ci-3</styleUrl>
+        <Point>
+          <coordinates>
+            37.5790954,47.1059289,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2770,7 +2772,7 @@
         <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
-            31.4644968,47.5636614,0
+            31.5743653,47.5562435,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2830,7 +2832,8 @@
       </Placemark>
       <Placemark>
         <name>ГУЛЯЙ-ПОЛЕ</name>
-        <styleUrl>#icon-ci-3-nodesc</styleUrl>
+        <description><![CDATA[...через великі втрати на підступах до Гуляй-Поля російські окупанти називають місто "злой город"]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
         <Point>
           <coordinates>
             36.2607323,47.6567314,0
@@ -3175,12 +3178,12 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Олександрівка (3.04 - бойові дії)</name>
-        <description><![CDATA["на Південнобузькому напрямку триває бій за населений пункт Олександрівка" - https://t.me/ministry_of_defense_ua/1020]]></description>
+        <name>Олександрівка (3-6.04 - бойові дії)</name>
+        <description><![CDATA[3 квітня: "...на Південнобузькому напрямку триває бій за населений пункт Олександрівка" - https://t.me/ministry_of_defense_ua/1020 <br>6 квітня: "...тривають бої в районі населеного пункту Олександрівка" - https://censor.net/ua/news/3331755/operatyvna_informatsiya_stanom_na_600_6_kvitnya_schodo_rosiyiskogo_vtorgnennya_genshtab_zsu]]></description>
         <styleUrl>#icon-ci-7</styleUrl>
         <Point>
           <coordinates>
-            32.7537598,46.8406895,0
+            32.1199782,46.6110117,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3211,6 +3214,36 @@
         <Point>
           <coordinates>
             32.3098328,46.8091372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Добрянка (звільнена 5.04)</name>
+        <description>https://censor.net/ua/news/3331755/operatyvna_informatsiya_stanom_na_600_6_kvitnya_schodo_rosiyiskogo_vtorgnennya_genshtab_zsu</description>
+        <styleUrl>#icon-ci-3</styleUrl>
+        <Point>
+          <coordinates>
+            33.622415,47.4599069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Трудолюбівка (звільнена 5.04)</name>
+        <description>https://censor.net/ua/news/3331755/operatyvna_informatsiya_stanom_na_600_6_kvitnya_schodo_rosiyiskogo_vtorgnennya_genshtab_zsu</description>
+        <styleUrl>#icon-ci-3</styleUrl>
+        <Point>
+          <coordinates>
+            33.6848998,47.4436558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Нововознесенське (5.04)</name>
+        <description>https://censor.net/ua/news/3331755/operatyvna_informatsiya_stanom_na_600_6_kvitnya_schodo_rosiyiskogo_vtorgnennya_genshtab_zsu</description>
+        <styleUrl>#icon-ci-3</styleUrl>
+        <Point>
+          <coordinates>
+            33.6076522,47.4301868,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3260,6 +3293,16 @@
         <Point>
           <coordinates>
             37.2370417,49.1564771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Яковлівка (5.03 зруйнована російським авіаударом)</name>
+        <description>https://censor.net/ua/news/3321845/rosiyiski_okupanty_povnistyu_znyschyly_selo_yakovlivka_v_harkivskiyi_oblasti_videofoto</description>
+        <styleUrl>#icon-ci-7</styleUrl>
+        <Point>
+          <coordinates>
+            36.1361237,49.8315465,0
           </coordinates>
         </Point>
       </Placemark>
