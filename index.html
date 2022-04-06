@@ -46,7 +46,11 @@
 
         // як geojson за допомогою d3.xml         
         //дістаємо дані: назву, опис, координати і стиль
-        d3.xml('doc.kml', function (xml) {
+        d3.text('https://raw.githubusercontent.com/texty/combat_map_alternative/main/doc.kml', function (raw) {
+
+            const parser = new DOMParser();
+            const xml = parser.parseFromString( raw, "text/xml");        
+
             data = [].map.call(xml.querySelectorAll("Placemark"), function (point) {
                 var latlng = (point.querySelector("coordinates").textContent).replace('\n            ', '').split(',');
                 var coordinates = [parseFloat(latlng[1]), parseFloat(latlng[0])]
