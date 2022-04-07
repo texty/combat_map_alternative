@@ -21,13 +21,43 @@
 
 </head>
 <style>
-    #map {
+    #map-wrapper {
+        position:relative;
         max-width: 1400px;
+        margin: auto;
+    }
+
+    #map {
+        width: 100%;
         height: 90vh;
         margin: auto;
         font-family: Arial, Helvetica, sans-serif;
         font-size: 14px;
         color: #323232;
+        z-index: 10;
+    }
+
+    #legend {
+        display: flex;
+        position: absolute;
+        top:0;
+        right:0;
+        background-color: #ffffff96;
+        z-index: 20;
+    }
+
+    #legend img {
+        width: 20px;
+    }
+
+    #legend img.m {
+        margin-right: 10px;
+
+    }
+
+    #legend p span {
+        font-size: 14px;
+        display: block;
     }
 
     .leaflet-popup {
@@ -39,8 +69,23 @@
 </style>
 
 <body>
+    <div id='map-wrapper'>
+    <div id='legend'>
+        <p>
+            <span><img src='images/icon-3.png'/>позиції ЗСУ</span>
+            <span><img src='images/icon-6.png'/>позиції рф</span>
+            <span><img src='images/icon-1.png'/>покинуті позиції рф</span>
+            <span><img src='images/icon-7.png'/>ведуться бої</span>       
+            <span><img class='m' src='images/icon-2.png'/>міст, зруйн. ЗСУ</span> 
+            <span><img class='m' src='images/icon-5.png'/>міст, зруйн. рф</span>        
+            <span><img src='images/icon-4.png'/>зсу завдали удару</span>                
+            <span><img src='images/icon-8.png'/>рф завдали удару</span>
+        </p>
+    </div>
+
     <div id="map"></div>
 
+</div>
     <script>
         var map = L.map('map').setView([48.5, 32.08], 6);
         mapLink = '<a href="http://openstreetmap.org">OpenStreetMap</a>';
@@ -91,9 +136,7 @@
                     icon: new L.Icon({ iconUrl: icon[0].img }),
                 });
 
-                var popup = point.desc != "NA" ? point.name+ "<br>"+ point.desc : point.name
-
-                //var popup = point.desc !="NA" ? (point.name + "<br><br>" + point.desc) : point.name;
+                var popup = point.desc != "NA" ? point.name+ "<br>"+ point.desc : point.name;               
                 marker.bindPopup(popup);
                 
                 
