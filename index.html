@@ -29,6 +29,13 @@
         font-size: 14px;
         color: #323232;
     }
+
+    .leaflet-popup {
+        word-wrap: break-word;
+        word-break: break-word;
+        hyphens: auto;
+        margin-left: 15px;
+    }
 </style>
 
 <body>
@@ -84,12 +91,15 @@
                     icon: new L.Icon({ iconUrl: icon[0].img }),
                 });
 
+                var popup = point.desc != "NA" ? point.name+ "<br>"+ point.desc : point.name
+
                 //var popup = point.desc !="NA" ? (point.name + "<br><br>" + point.desc) : point.name;
-                marker.bindPopup(point.name);
+                marker.bindPopup(popup);
                 
                 
+                marker.on('click', function (e) { this.openPopup(); });
                 marker.on('mouseover', function (e) { this.openPopup(); });
-                marker.on('mouseout', function (e) { this.closePopup(); });
+                //marker.on('mouseout', function (e) { this.closePopup(); });
                 marker.addTo(map)
             });
 
