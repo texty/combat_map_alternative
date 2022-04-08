@@ -2010,6 +2010,26 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Добрянка (звільнена 5.04)</name>
+        <description>https://pravdatutnews.com/society/2022/04/05/14937-ukrayina-vidnovlyuye-kontrol-nad-liniyeyu-derzhavnogo-kordonu</description>
+        <styleUrl>#icon-ci-4</styleUrl>
+        <Point>
+          <coordinates>
+            31.1815193,52.0680522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Грем'яч (7.04 - під контролем ДПСУ)]]></name>
+        <description><![CDATA[В цьому селі з 2018 року не транслюється жоден український телеканал<br>https://novynarnia.com/2022/04/07/prykordonnyky-pidnyaly/]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
+        <Point>
+          <coordinates>
+            33.2644891,52.3381063,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>ДОНЕЦЬКИЙ напрямок</name>
@@ -3198,8 +3218,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name><![CDATA[Мар'їнське (4.04 - російські обстріли)]]></name>
-        <description>https://censor.net/ua/news/3331155/vnochi_okupanty_obstrilyaly_novovorontsovku_ta_maryanske_vilkul</description>
+        <name><![CDATA[Мар'їнське (тут росіяни розстріляли човен, який евакуйовував цивільних)
+]]></name>
+        <description><![CDATA[4.04 - російські обстріли: https://censor.net/ua/news/3331155/vnochi_okupanty_obstrilyaly_novovorontsovku_ta_maryanske_vilkul<br>7.04 - розстріл цивільних - https://censor.net/ua/news/3332295/16richnu_vagitnu_divchynu_ta_78richnu_babusyu_zvaltuvaly_rashysty_na_hersonschyni_vilkul]]></description>
         <styleUrl>#icon-ci-4</styleUrl>
         <Point>
           <coordinates>
@@ -3485,7 +3506,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Олександрівка</name>
+        <name>Олександрівка (станом на 19.03 як рубіжний пункт)</name>
         <styleUrl>#icon-ci-6-nodesc</styleUrl>
         <Point>
           <coordinates>
@@ -3789,6 +3810,26 @@
         <Point>
           <coordinates>
             35.3534875,50.5895359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Удар по важливому складу боєприпасів РФ під Бєлгородом (с. Красний Октябрь, 29.03)</name>
+        <description>https://censor.net/ua/news/3330708/zelenskyyi_prokomentuvav_vybuhy_u_byelgorodi</description>
+        <styleUrl>#icon-ci-5</styleUrl>
+        <Point>
+          <coordinates>
+            36.3412945,50.4470243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Авіаудар по нафтобазі в Бєлгороді (1.04)</name>
+        <description>https://censor.net/ua/news/3330708/zelenskyyi_prokomentuvav_vybuhy_u_byelgorodi</description>
+        <styleUrl>#icon-ci-5</styleUrl>
+        <Point>
+          <coordinates>
+            36.6705424,50.5925145,0
           </coordinates>
         </Point>
       </Placemark>
