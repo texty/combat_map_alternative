@@ -2626,6 +2626,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>ракетний удар РФ по пасажирському вокзалу Краматорська 8.04</name>
+        <description>https://censor.net/ua/news/3332382/raketnyyi_obstril_vokzalu_kramatorska_ponad_30_zagyblyh_ta_bilshe_100_poranenyh_videofotoreportaj_18</description>
+        <styleUrl>#icon-ci-8</styleUrl>
+        <Point>
+          <coordinates>
+            37.543852,48.7250809,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>ТАВРІЙСЬКИЙ напрямок</name>
@@ -3493,8 +3503,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Тарасівка (станом на 19.03 як рубіжний пункт)</name>
-        <styleUrl>#icon-ci-6-nodesc</styleUrl>
+        <name>Тарасівка (звільнена на початку квітня, станом на 19.03 як рубіжний пункт)</name>
+        <description>https://censor.net/ua/news/3332320/sumsku_oblast_povnistyu_zvilneno_vid_rosiyiskyh_okupantiv_jyvytskyyi</description>
+        <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
             35.3012777,50.4761727,0
@@ -3565,7 +3576,7 @@
         <styleUrl>#icon-ci-4-nodesc</styleUrl>
         <Point>
           <coordinates>
-            37.0228127,48.9242485,0
+            37.0389489,48.9081168,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3755,7 +3766,8 @@
       </Placemark>
       <Placemark>
         <name>Гусарівка (звільнена 27.03)</name>
-        <styleUrl>#icon-ci-4-nodesc</styleUrl>
+        <description>тут окупанти катували місцевих, а потім їх спалили - https://censor.net/ua/photo_news/3332297/okupanty_katuvaly_ta_spalyly_troh_mistsevyh_jyteliv_v_seli_gusarivka_na_harkivschyni_prokuratura_foto</description>
+        <styleUrl>#icon-ci-4</styleUrl>
         <Point>
           <coordinates>
             36.8284284,49.3595203,0
@@ -3781,9 +3793,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Буринь (орієнтовно з 1.04)</name>
-        <description>В містечку й довкола накопичується велика кількість ворожої техніки - https://censor.net/ua/news/3330845/operatyvna_informatsiya_stanom_na_1800_2_kvitnya_schodo_rosiyiskogo_vtorgnennya_genshtab_zsu</description>
-        <styleUrl>#icon-ci-6</styleUrl>
+        <name>Буринь (звільнене до 7.04)</name>
+        <description><![CDATA[8.04: https://censor.net/ua/news/3332320/sumsku_oblast_povnistyu_zvilneno_vid_rosiyiskyh_okupantiv_jyvytskyyi<br>-----<br>2.04: В містечку й довкола накопичується велика кількість ворожої техніки - https://censor.net/ua/news/3330845/operatyvna_informatsiya_stanom_na_1800_2_kvitnya_schodo_rosiyiskogo_vtorgnennya_genshtab_zsu]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
             33.8305162,51.1974875,0
@@ -3791,9 +3803,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name><![CDATA[Юр'єве (2.04)]]></name>
-        <description>В селищі окупанти проводять рейди з метою перепису населення та пошуку зброї - https://censor.net/ua/n3330845</description>
-        <styleUrl>#icon-ci-6</styleUrl>
+        <name><![CDATA[Юр'єве (звільнене до 7.04)]]></name>
+        <description><![CDATA[8.04: https://censor.net/ua/news/3332320/sumsku_oblast_povnistyu_zvilneno_vid_rosiyiskyh_okupantiv_jyvytskyyi<br>-----<br>2.04: в селищі окупанти проводять рейди з метою перепису населення та пошуку зброї - https://censor.net/ua/n3330845]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
             34.0924715,51.2929103,0
@@ -3877,6 +3889,16 @@
         <Point>
           <coordinates>
             37.3775081,50.0585144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Авіаудар РФ по залізничному шляхопроводу 7.04</name>
+        <description>https://suspilne.media/226314-evakuacia-z-donbasu-zablokovana-rf-vdarila-z-aviacii-po-zaliznici-u-barvinkovomu/</description>
+        <styleUrl>#icon-ci-8</styleUrl>
+        <Point>
+          <coordinates>
+            36.9949417,48.8967481,0
           </coordinates>
         </Point>
       </Placemark>
