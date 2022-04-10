@@ -656,7 +656,7 @@
         <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
-            30.0414294,50.3696689,0
+            30.0441764,50.3714208,0
           </coordinates>
         </Point>
       </Placemark>
@@ -844,7 +844,7 @@
         <styleUrl>#icon-ci-4</styleUrl>
         <Point>
           <coordinates>
-            29.8066346,50.4613327,0
+            29.8073209,50.4490916,0
           </coordinates>
         </Point>
       </Placemark>
@@ -873,7 +873,7 @@
         <styleUrl>#icon-ci-4-nodesc</styleUrl>
         <Point>
           <coordinates>
-            30.3630445,50.6912066,0
+            30.3493116,50.6929465,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1294,11 +1294,11 @@
       </Placemark>
       <Placemark>
         <name>Спалена російська колона (фото з цього місця - схоже, зроблене на початку квітня)</name>
-        <description><![CDATA[<img src="https://doc-04-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/1o3ii950o04rfdvvs2eomqhljg/1649580300000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vYivTa_-mkj4Eoag-ND2Pjp0SlJVpFQBzq-ltFAjlIvQJtM5d6_uXDLFIMW2oz_NF7ciVOXmbWeU_4PixpKGQrfe15AS3_TUVdGsv4qv-_jjdOu3PP2ddqrkB7W6R4DgIPRPRIj_UGgUvNiKxKl-JQI04uinxJzAjHwopTUdWkkgEq3aXei7psIvEU1dAr6n_U?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
+        <description><![CDATA[<img src="https://doc-0g-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/5bl1h701n8j453fg6ghlurqn2g/1649591100000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vbnNg36cza4CfZuJopr6tzsBoqkXx5vCm9rJf6hATRdgl_USQoAhvizKx9sH9fYweeIaKHCP4cKbDpVHG5r3ydoRCg3hWcbM3bkwT3-vrq8MKSMzoTAvOGSQTNrUWX4TYRbJIz9m3BR41skKr5sOhX_8EenhZ54WADKE_BLOC4ZLb0opJGysMLY6aSgVWcHbIo?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
         <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://doc-04-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/1o3ii950o04rfdvvs2eomqhljg/1649580300000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vYivTa_-mkj4Eoag-ND2Pjp0SlJVpFQBzq-ltFAjlIvQJtM5d6_uXDLFIMW2oz_NF7ciVOXmbWeU_4PixpKGQrfe15AS3_TUVdGsv4qv-_jjdOu3PP2ddqrkB7W6R4DgIPRPRIj_UGgUvNiKxKl-JQI04uinxJzAjHwopTUdWkkgEq3aXei7psIvEU1dAr6n_U?fife</value>
+            <value>https://doc-0g-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/5bl1h701n8j453fg6ghlurqn2g/1649591100000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vbnNg36cza4CfZuJopr6tzsBoqkXx5vCm9rJf6hATRdgl_USQoAhvizKx9sH9fYweeIaKHCP4cKbDpVHG5r3ydoRCg3hWcbM3bkwT3-vrq8MKSMzoTAvOGSQTNrUWX4TYRbJIz9m3BR41skKr5sOhX_8EenhZ54WADKE_BLOC4ZLb0opJGysMLY6aSgVWcHbIo?fife</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -1530,6 +1530,16 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>Баришівка (11.03 - російський обстріл)</name>
+        <description>https://www.ukrinform.ua/rubric-ato/3426423-zagarbniki-zavdali-raketnogo-udaru-po-barisivci.html</description>
+        <styleUrl>#icon-ci-3</styleUrl>
+        <Point>
+          <coordinates>
+            31.3240674,50.3601119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Браниця (як рубіжний пункт)</name>
         <styleUrl>#icon-ci-1-nodesc</styleUrl>
         <Point>
@@ -1569,7 +1579,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Вишневе - ракетний удар ЗСУ по артскладам і РЕБ 26.03</name>
+        <name>Вишневе - ракетний удар ЗСУ по російським артскладам і РЕБ 26.03</name>
         <description>Знищено артилерійський і не тільки хаб місцевого угрупування військ рф. В результаті удару відновлено мовленння українського радіо на півночі Чернігівщини - https://suspilne.media/221896-na-cernigivsini-zsu-rozbili-rosijsku-tehniku-ta-sklad-boepripasiv/</description>
         <styleUrl>#icon-ci-6</styleUrl>
         <Point>
@@ -2142,11 +2152,12 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>РУБІЖНЕ</name>
-        <styleUrl>#icon-ci-3-nodesc</styleUrl>
+        <name>РУБІЖНЕ (станом на 10.04 - позиційний бій у центрі міста)</name>
+        <description>Джерело: Луганська ОВА</description>
+        <styleUrl>#icon-ci-3</styleUrl>
         <Point>
           <coordinates>
-            38.3846873,49.0122647,0
+            38.3786792,49.0128276,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2175,6 +2186,16 @@
         <Point>
           <coordinates>
             37.2498087,47.7725419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ракетний удар ЗСУ по російській авіабазі "Міллєрово" - 25.02]]></name>
+        <description>https://www.facebook.com/butusov.yuriy/posts/7314264398613793</description>
+        <styleUrl>#icon-ci-6</styleUrl>
+        <Point>
+          <coordinates>
+            40.297499,48.948315,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2921,7 +2942,7 @@
         <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
-            31.5743653,47.5562435,0
+            31.5743693,47.5469805,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3694,7 +3715,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Олешня (на 19.03 як рубіжний пункт)</name>
+        <name>Олешня (на 19.03 як рубіжний пункт окупантів)</name>
         <styleUrl>#icon-ci-1-nodesc</styleUrl>
         <Point>
           <coordinates>
