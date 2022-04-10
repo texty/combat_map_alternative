@@ -574,7 +574,7 @@
       <Placemark>
         <name><![CDATA[метро "Берестейська" (Київ) - місце бою в ніч із 25 на 26 лютого]]></name>
         <description><![CDATA[Росіяни невдало намагалися штурмувати столицю з боку Житомира, уздовж проспекту Перемоги<br>https://glavcom.ua/video/naslidki-nichnih-bojiv-na-beresteyskiy-foto-video-825247.html]]></description>
-        <styleUrl>#icon-ci-3</styleUrl>
+        <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
             30.4211016,50.4583142,0
@@ -587,7 +587,7 @@
         <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
-            30.200755,50.4224193,0
+            30.2014414,50.4337924,0
           </coordinates>
         </Point>
       </Placemark>
@@ -982,6 +982,16 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>Підірваний уранці 26.02 міст через Ірпінь під Стоянкою (Житомирська траса)</name>
+        <description><![CDATA[Знищений, схоже, росіянами після невдалої атаки на Київ з заходу (бій на метро "Берестейська" вночі 25-26 лютого) - щоб прикрити лівий фланг окупантів в ході їхніх подальших спроб наступати південніше Житомирської траси<br>https://nv.ua/ukr/ukraine/events/viyna-rosiji-proti-ukrajini-pidirvali-mist-bilya-stoyanki-novini-kiyeva-50220226.html]]></description>
+        <styleUrl>#icon-ci-5</styleUrl>
+        <Point>
+          <coordinates>
+            30.2348442,50.4469965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Дмитрівка (29.03 - під контролем ЗСУ, станом на 19.03 - окупована)</name>
         <styleUrl>#icon-ci-1-nodesc</styleUrl>
         <Point>
@@ -1055,6 +1065,16 @@
         <Point>
           <coordinates>
             30.0542767,51.4023695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Міст через Здвиж на варшавській трасі, підірваний в перші дні російського наступу на Київ</name>
+        <description><![CDATA[Станом на 28.02 вже був знищений - <br>https://www.dsnews.ua/ukr/society/virvani-balkoni-i-spaleni-marketi-kolona-okupantiv-proyshla-borodyankoyu-na-kijivshchini-video-foto-28022022-453109]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
+        <Point>
+          <coordinates>
+            29.9289457,50.63437,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1283,22 +1303,12 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Підірваний уранці 26.02 міст через Ірпінь під Стоянкою (Житомирська траса)</name>
-        <description><![CDATA[Знищений, схоже, росіянами після невдалої атаки на Київ з заходу (бій на метро "Берестейська" вночі 25-26 лютого) - щоб прикрити лівий фланг окупантів в ході їхніх подальших спроб наступати південніше Житомирської траси<br>https://nv.ua/ukr/ukraine/events/viyna-rosiji-proti-ukrajini-pidirvali-mist-bilya-stoyanki-novini-kiyeva-50220226.html]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
-        <Point>
-          <coordinates>
-            30.2348442,50.4469965,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Спалена російська колона (фото з цього місця - схоже, зроблене на початку квітня)</name>
-        <description><![CDATA[<img src="https://doc-0g-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/5bl1h701n8j453fg6ghlurqn2g/1649591100000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vbnNg36cza4CfZuJopr6tzsBoqkXx5vCm9rJf6hATRdgl_USQoAhvizKx9sH9fYweeIaKHCP4cKbDpVHG5r3ydoRCg3hWcbM3bkwT3-vrq8MKSMzoTAvOGSQTNrUWX4TYRbJIz9m3BR41skKr5sOhX_8EenhZ54WADKE_BLOC4ZLb0opJGysMLY6aSgVWcHbIo?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
+        <description><![CDATA[<img src="https://doc-0c-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/h7cndvak8j8bsqvsbkfnrb5kd4/1649605500000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vYK4szdgGagk2XoKeJw2UJb4cP5cTtk5oHxmoVRvd-qGrY25f9h294vfnQTiQyAzlUO3i6DD7PgT-ywC1mHzxUuAre-oRHAecuwGMF2h8uvnvMvT4TabrBZeiNhzbIi8HmhfArdvtX0qZJI3xrNVtfF8zuVFBamwCuq286UUrvfdxxcpw0W5HcreacAwWc9-e4?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
         <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://doc-0g-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/5bl1h701n8j453fg6ghlurqn2g/1649591100000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vbnNg36cza4CfZuJopr6tzsBoqkXx5vCm9rJf6hATRdgl_USQoAhvizKx9sH9fYweeIaKHCP4cKbDpVHG5r3ydoRCg3hWcbM3bkwT3-vrq8MKSMzoTAvOGSQTNrUWX4TYRbJIz9m3BR41skKr5sOhX_8EenhZ54WADKE_BLOC4ZLb0opJGysMLY6aSgVWcHbIo?fife</value>
+            <value>https://doc-0c-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/h7cndvak8j8bsqvsbkfnrb5kd4/1649605500000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vYK4szdgGagk2XoKeJw2UJb4cP5cTtk5oHxmoVRvd-qGrY25f9h294vfnQTiQyAzlUO3i6DD7PgT-ywC1mHzxUuAre-oRHAecuwGMF2h8uvnvMvT4TabrBZeiNhzbIi8HmhfArdvtX0qZJI3xrNVtfF8zuVFBamwCuq286UUrvfdxxcpw0W5HcreacAwWc9-e4?fife</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -1307,19 +1317,9 @@
           </coordinates>
         </Point>
       </Placemark>
-      <Placemark>
-        <name>Міст через Здвиж на варшавській трасі, підірваний в перші дні російського наступу на Київ</name>
-        <description><![CDATA[Станом на 28.02 вже був знищений - <br>https://www.dsnews.ua/ukr/society/virvani-balkoni-i-spaleni-marketi-kolona-okupantiv-proyshla-borodyankoyu-na-kijivshchini-video-foto-28022022-453109]]></description>
-        <styleUrl>#icon-ci-2</styleUrl>
-        <Point>
-          <coordinates>
-            29.9289457,50.63437,0
-          </coordinates>
-        </Point>
-      </Placemark>
     </Folder>
     <Folder>
-      <name>СІВЕРСЬКИЙ</name>
+      <name>СІВЕРСЬКИЙ напрямок</name>
       <Placemark>
         <name>ЧЕРНІГІВ</name>
         <styleUrl>#icon-ci-4-nodesc</styleUrl>
@@ -2245,6 +2245,16 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>Городище (тут 24.02 росіяни атакували, прикрившись машинами ОБСЄ)</name>
+        <description>https://www.unian.ua/war/na-luganshchini-rosiyani-vistavili-pered-svojimi-tankami-avtomobili-z-simvolikoyu-obsye-novini-vtorgnennya-rosiji-v-ukrajinu-11715487.html</description>
+        <styleUrl>#icon-ci-7</styleUrl>
+        <Point>
+          <coordinates>
+            39.662723,49.0559981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Жолобок</name>
         <styleUrl>#icon-ci-3-nodesc</styleUrl>
         <Point>
@@ -2373,6 +2383,16 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>Мілове (тут 24.02 росіяни атакували, прикрившись машинами ОБСЄ)</name>
+        <description>https://www.unian.ua/war/na-luganshchini-rosiyani-vistavili-pered-svojimi-tankami-avtomobili-z-simvolikoyu-obsye-novini-vtorgnennya-rosiji-v-ukrajinu-11715487.html</description>
+        <styleUrl>#icon-ci-7</styleUrl>
+        <Point>
+          <coordinates>
+            40.0740535,49.3610193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Ясинувата</name>
         <styleUrl>#icon-ci-7-nodesc</styleUrl>
         <Point>
@@ -2451,6 +2471,16 @@
         <Point>
           <coordinates>
             37.8681191,48.2586737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Красна Талівка (тут 24.02 росіяни атакували, прикрившись машинами ОБСЄ)</name>
+        <description>https://www.unian.ua/war/na-luganshchini-rosiyani-vistavili-pered-svojimi-tankami-avtomobili-z-simvolikoyu-obsye-novini-vtorgnennya-rosiji-v-ukrajinu-11715487.html</description>
+        <styleUrl>#icon-ci-7</styleUrl>
+        <Point>
+          <coordinates>
+            39.8132936,48.8706954,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3510,7 +3540,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>СЛОБОЖАНСЬКИЙ</name>
+      <name>СЛОБОЖАНСЬКИЙ напрямок</name>
       <Placemark>
         <name><![CDATA[Кам'янка (під контролем окупантів з перших днів квітня)]]></name>
         <description>https://texty.org.ua/fragments/106234/tom-kuper-putina-bilshe-ne-cikavyt-ni-joho-osobysta-reputaciya-ni-imidzh-rosiyi/</description>
@@ -3697,7 +3727,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Безруки (як рубіжний пункт)</name>
+        <name>Безруки (станом на 19.03 - як рубіжний пункт росіян)</name>
         <styleUrl>#icon-ci-7-nodesc</styleUrl>
         <Point>
           <coordinates>
