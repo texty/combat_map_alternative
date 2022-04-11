@@ -487,6 +487,28 @@
         <styleUrl>#icon-ci-8-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="line-F9A825-9138-normal">
+      <LineStyle>
+        <color>ff25a8f9</color>
+        <width>9.138</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-F9A825-9138-highlight">
+      <LineStyle>
+        <color>ff25a8f9</color>
+        <width>13.707</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-F9A825-9138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-F9A825-9138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-F9A825-9138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="line-FF5252-4875-normal">
       <LineStyle>
         <color>ff5252ff</color>
@@ -1114,7 +1136,7 @@
         <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
-            30.2216693,50.5504475,0
+            30.2156612,50.557973,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1288,7 +1310,7 @@
         <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
-            30.2200214,50.5751733,0
+            30.2274029,50.5778986,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1324,11 +1346,11 @@
       </Placemark>
       <Placemark>
         <name>Спалена російська колона (фото з цього місця - схоже, зроблене на початку квітня)</name>
-        <description><![CDATA[<img src="https://doc-0k-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/ve180mkknafn7crjeqd683ppkk/1649666700000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vbRCcLZ1zF3ESFw-OxfqCiijQzjGIXdEf4HMJcG3N5X0qZ-tnmC34BAV4O6U8YweEkx0OoiRe-h6Jq2nLl8JwCWCqAdLsHKlPJikAOIH01wfeRjqciEkeqlvju4HeX174dA2gPsvGKbytuCrs-RX50WKK9r2r8nEPDcYEERA0mle4Blk98-W4XSPxOK0-U2FQU?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
+        <description><![CDATA[<img src="https://doc-00-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/u807d41t08ljpkj66jm1ocm3l8/1649677500000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vZjBON_vV2OGxRSDmyVsbo03QNRWcLhy84JmieV5dY8LVXDKir0sEbv-KFOdvB3tKv6EcLY6zmBnSKX1pKto42t1MUMZzNBtiz38r6WDQBQyNFM1LnzK5DxdNBz8JphCBbI2eTqTy5GtpOGxKVoxdA4-T61QJzlokgfvJxSZN8PVwKHJh9YGbPoy4VwsYOelwY?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
         <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://doc-0k-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/ve180mkknafn7crjeqd683ppkk/1649666700000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vbRCcLZ1zF3ESFw-OxfqCiijQzjGIXdEf4HMJcG3N5X0qZ-tnmC34BAV4O6U8YweEkx0OoiRe-h6Jq2nLl8JwCWCqAdLsHKlPJikAOIH01wfeRjqciEkeqlvju4HeX174dA2gPsvGKbytuCrs-RX50WKK9r2r8nEPDcYEERA0mle4Blk98-W4XSPxOK0-U2FQU?fife</value>
+            <value>https://doc-00-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/u807d41t08ljpkj66jm1ocm3l8/1649677500000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vZjBON_vV2OGxRSDmyVsbo03QNRWcLhy84JmieV5dY8LVXDKir0sEbv-KFOdvB3tKv6EcLY6zmBnSKX1pKto42t1MUMZzNBtiz38r6WDQBQyNFM1LnzK5DxdNBz8JphCBbI2eTqTy5GtpOGxKVoxdA4-T61QJzlokgfvJxSZN8PVwKHJh9YGbPoy4VwsYOelwY?fife</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -1336,6 +1358,18 @@
             30.0123357,50.4292579,0
           </coordinates>
         </Point>
+      </Placemark>
+      <Placemark>
+        <name>вул. Яблунська (БУЧА): на цих 50 метрах вулиці росіяни вбили 7 людей - до 23.03</name>
+        <description><![CDATA[Зйомка з дрона станом на ранок 23 березня показує вже мертві тіла. За два квартали західніше на тій же Яблунській (буд. №211) видно позицію окупантів, за 50 метрів від неї посеред вулиці (навпроти буд. №340) лежить восьмий убитий<br>https://detector.media/infospace/article/198229/2022-04-08-meduza-opublikuvala-videodokaz-shcho-rosiyski-viyskovi-buly-v-buchi-odnochasno-z-tilamy-tsyvilnykh-na-vulytsyakh/]]></description>
+        <styleUrl>#line-F9A825-9138</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            30.2299432,50.5418053,0
+            30.2306191,50.5420065,0
+          </coordinates>
+        </LineString>
       </Placemark>
     </Folder>
     <Folder>
@@ -1852,9 +1886,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Шевченкове (1.04)</name>
-        <description>https://censor.net/ua/news/3330493/vorog_zoseredjuye_zusyllya_na_provedenni_nastupu_u_shidniyi_operatsiyiniyi_zoni_operatyvna_informatsiya</description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <name>Шевченкове (1.04 - звільнене)</name>
+        <description>тут окупанти вбивали місцевих, скидаючи трупи в льох - https://censor.net/ua/video_news/3333111/zastreleni_v_golovu_ta_skynuti_u_loh_okupanty_vbyly_shistoh_jyteliv_sela_shevchenkove_na_kyyivschyni</description>
+        <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
             31.0445273,50.6486894,0
@@ -1862,7 +1896,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Бобрик (1.04)</name>
+        <name>Бобрик (1.04 - звільнений)</name>
         <description>https://censor.net/ua/news/3330493/vorog_zoseredjuye_zusyllya_na_provedenni_nastupu_u_shidniyi_operatsiyiniyi_zoni_operatyvna_informatsiya</description>
         <styleUrl>#icon-ci-5</styleUrl>
         <Point>
