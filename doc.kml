@@ -347,6 +347,44 @@
         <styleUrl>#icon-ci-6-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="icon-ci-6-nodesc-normal">
+      <IconStyle>
+        <scale>0.7</scale>
+        <Icon>
+          <href>images/icon-6.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-ci-6-nodesc-highlight">
+      <IconStyle>
+        <scale>0.7</scale>
+        <Icon>
+          <href>images/icon-6.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.7</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-ci-6-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-ci-6-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-ci-6-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="icon-ci-7-normal">
       <IconStyle>
         <scale>1.1</scale>
@@ -569,7 +607,7 @@
         <styleUrl>#icon-ci-2</styleUrl>
         <Point>
           <coordinates>
-            30.6670583,50.5337434,0
+            30.6519522,50.5306882,0
           </coordinates>
         </Point>
       </Placemark>
@@ -585,11 +623,11 @@
       </Placemark>
       <Placemark>
         <name>площа Т.Шевченка (КИЇВ) - місце бою 25.02</name>
-        <description>Тут уранці 25 лютого росіяни намагалися прорватися в місто - https://kyiv.tsn.ua/u-kiyevi-na-oboloni-trivaye-biy-z-rosiyskimi-diversantami-1987813.html</description>
+        <description><![CDATA[Тут уранці 25 лютого росіяни намагалися прорватися в місто - https://kyiv.tsn.ua/u-kiyevi-na-oboloni-trivaye-biy-z-rosiyskimi-diversantami-1987813.html<br>Також були повідомлення про переодягнену ДРГ на Оболоні - https://www.ukrinform.ua/rubric-ato/3412346-rosiani-zahopili-dva-avtomobili-zsu-i-ruhautsa-do-centru-kieva-minoboroni.html]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <Point>
           <coordinates>
-            30.4495736,50.5206843,0
+            30.4571268,50.5215574,0
           </coordinates>
         </Point>
       </Placemark>
@@ -927,6 +965,16 @@
         <Point>
           <coordinates>
             30.1349007,50.8079545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Міст через обвідний канал Київського водосховища, підірваний 25.02</name>
+        <description><![CDATA["щоб ускладнити окупантам завдання з перекиданням військ" - https://apostrophe.ua/ua/news/kyiv/podii/2022-02-26/oborona-kieva-chto-proishodit-v-stolitse-i-na-podstupah-v-ney-foto-i-video/260528]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
+        <Point>
+          <coordinates>
+            30.5434867,50.5840796,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1376,11 +1424,11 @@
       </Placemark>
       <Placemark>
         <name>Спалена російська колона (фото з цього місця - схоже, зроблене на початку квітня)</name>
-        <description><![CDATA[<img src="https://doc-08-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/s5unvvqqt3qq5qrk5b2seut4i8/1649691900000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vZ0hE0ygQgUihYVuirOet4be3ew8N75PdWWYR7ckB9aYyl7nbavf7r0WZ2nZU7AX2zLWagYKexivl0iaxnr6U4Xi7UzrdGGBMyeWYv6MHun6mkYLQxm7cH4ICuqypx9OITdYnBoQHPWzrH87Q29Xv0ybnFIhft188TmoMpKWfcx1PACUOLdwYijzRLQR4BYpnc?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
+        <description><![CDATA[<img src="https://doc-0s-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/97s7ra8rpfdcohobdjugre02hg/1649753100000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vbuwfbFtU1lfVBR880pi2N3qq5nyG62pkc5GdWSnDAcBhcwOkSXFOWeueLoS-9KsjuMuzYhd56acBEKkvd58Y0iFiMcS9AV67JhyGCpaAzTXljglwDBwge9TZj5cVW41Gw7Qqrq9WNtxnqKaFJW_UceSi8iBAO9g4KkeyUNRTXlT_Ww6WjiEKtVjlrdnWABa-o?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
         <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://doc-08-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/s5unvvqqt3qq5qrk5b2seut4i8/1649691900000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vZ0hE0ygQgUihYVuirOet4be3ew8N75PdWWYR7ckB9aYyl7nbavf7r0WZ2nZU7AX2zLWagYKexivl0iaxnr6U4Xi7UzrdGGBMyeWYv6MHun6mkYLQxm7cH4ICuqypx9OITdYnBoQHPWzrH87Q29Xv0ybnFIhft188TmoMpKWfcx1PACUOLdwYijzRLQR4BYpnc?fife</value>
+            <value>https://doc-0s-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/97s7ra8rpfdcohobdjugre02hg/1649753100000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vbuwfbFtU1lfVBR880pi2N3qq5nyG62pkc5GdWSnDAcBhcwOkSXFOWeueLoS-9KsjuMuzYhd56acBEKkvd58Y0iFiMcS9AV67JhyGCpaAzTXljglwDBwge9TZj5cVW41Gw7Qqrq9WNtxnqKaFJW_UceSi8iBAO9g4KkeyUNRTXlT_Ww6WjiEKtVjlrdnWABa-o?fife</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -1391,7 +1439,7 @@
       </Placemark>
       <Placemark>
         <name>вул. Яблунська (БУЧА): на цих 50 метрах вулиці росіяни вбили 7 людей - до 23.03</name>
-        <description><![CDATA[Зйомка з дрона станом на ранок 23 березня показує вже мертві тіла. За два квартали західніше на тій же Яблунській (буд. №211) видно позицію окупантів, за 50 метрів від неї посеред вулиці (навпроти буд. №340) лежить восьмий убитий<br>https://detector.media/infospace/article/198229/2022-04-08-meduza-opublikuvala-videodokaz-shcho-rosiyski-viyskovi-buly-v-buchi-odnochasno-z-tilamy-tsyvilnykh-na-vulytsyakh/]]></description>
+        <description><![CDATA[Зйомка з дрона станом на ранок 23 березня показує вже мертві тіла. За два квартали західніше на тій же Яблунській (буд. №211) видно позицію окупантів, за 50 метрів від неї посеред вулиці (навпроти буд. №340) лежить восьмий убитий:<br>https://detector.media/infospace/article/198229/2022-04-08-meduza-opublikuvala-videodokaz-shcho-rosiyski-viyskovi-buly-v-buchi-odnochasno-z-tilamy-tsyvilnykh-na-vulytsyakh/<br>Дев'ятого українця росіяни розстріляли на початку березня під парканом будинку №342 по Яблунській (перехрестя з Вокзальною). Це вбивство потрапило на відео:<br>https://www.pravda.com.ua/news/2022/04/6/7337472/<br>Загалом на Яблунській в той час було вбито не менше 12 мирних мешканців.]]></description>
         <styleUrl>#line-F9A825-9138</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -1535,7 +1583,7 @@
         <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
-            31.1201259,51.3851652,0
+            31.1175939,51.3783083,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1550,11 +1598,11 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Киселівка (як рубіжний пункт)</name>
+        <name>Киселівка (станом на 19.03 - рубіжний пункт російських окупантів)</name>
         <styleUrl>#icon-ci-1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            31.4493766,51.5442397,0
+            31.4318671,51.5415707,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1663,12 +1711,41 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>Підірваний міст через річку Вереб</name>
+        <description>https://www.pravda.com.ua/news/2022/04/11/7338904/</description>
+        <styleUrl>#icon-ci-6</styleUrl>
+        <Point>
+          <coordinates>
+            31.1208809,51.3846499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>НЕДРИГАЙЛІВ (станом на 19.03 у зведенні ГШ ЗСУ місто вказане як рубіжний пункт окупаційних військ РФ)</name>
         <description><![CDATA[На початку великої війни місцеві підпалили російський бензовоз "бандерівським смузі" - https://lb.ua/society/2022/02/26/507051_sumshchini_mistsevi_vluchno_potsilili.html]]></description>
         <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
             33.9279073,50.8215683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Підірваний міст через р.Замглай</name>
+        <styleUrl>#icon-ci-6-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            31.4469295,51.5434924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Підірваний міст через річку Жеведь під селом Смолин</name>
+        <description>https://www.pravda.com.ua/news/2022/04/11/7338904/</description>
+        <styleUrl>#icon-ci-3</styleUrl>
+        <Point>
+          <coordinates>
+            31.0104104,51.2903545,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2872,6 +2949,16 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name><![CDATA[МАРІУПОЛЬ з 1.03 б'ється в оточенні]]></name>
+        <description><![CDATA[Станом на 8.04 під українським контролем залишається більша частина міста - Приморський район, частина Лівобережного району, територія біля заводу "Азовсталь" і порт Маріуполя (радник міського голови Петро Андрющенко)<br>-----<br>https://focus.ua/uk/voennye-novosti/510407-mariupol-v-osade-kak-okruzhili-gorod-chto-kontroliruet-vsu-kak-vyzhivali-gorozhane]]></description>
+        <styleUrl>#icon-ci-5</styleUrl>
+        <Point>
+          <coordinates>
+            37.5790954,47.1059289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Кримське</name>
         <styleUrl>#icon-ci-2-nodesc</styleUrl>
         <Point>
@@ -2921,12 +3008,12 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name><![CDATA[МАРІУПОЛЬ з 1.03 б'ється в оточенні]]></name>
-        <description><![CDATA[Станом на 8.04 під українським контролем залишається більша частина міста - Приморський район, частина Лівобережного району, територія біля заводу "Азовсталь" і порт Маріуполя (радник міського голови Петро Андрющенко)<br>-----<br>https://focus.ua/uk/voennye-novosti/510407-mariupol-v-osade-kak-okruzhili-gorod-chto-kontroliruet-vsu-kak-vyzhivali-gorozhane]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <name>Михайлівка (11.04 - російські обстріли)</name>
+        <description>https://www.pravda.com.ua/news/2022/04/11/7338908/</description>
+        <styleUrl>#icon-ci-2</styleUrl>
         <Point>
           <coordinates>
-            37.5790954,47.1059289,0
+            37.3709712,48.1425346,0
           </coordinates>
         </Point>
       </Placemark>
