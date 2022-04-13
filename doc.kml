@@ -105,6 +105,44 @@
         <styleUrl>#icon-ci-2-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="icon-ci-2-nodesc-normal">
+      <IconStyle>
+        <scale>0.9</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-ci-2-nodesc-highlight">
+      <IconStyle>
+        <scale>0.9</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.9</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-ci-2-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-ci-2-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-ci-2-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="icon-ci-3-normal">
       <IconStyle>
         <scale>0.7</scale>
@@ -923,7 +961,7 @@
       </Placemark>
       <Placemark>
         <name>Підірваний у ніч на 26.02 міст через Тетерів на варшавській трасі</name>
-        <description><![CDATA[Офіційного повідомлення про підрив знайти не вдалося, але є інформація про постраждалих. Припускаємо, що міст знищили росіяни - щоб прикрити правий фланг свого наступу на південь через житомирську трасу <br>https://novynarnia.com/2022/02/26/shhob-vorog-ne-prorvavsya-do-kyyeva-z-boku-zhytomyrshhyny-pidryvayut-mosty-ye-zhertvy/]]></description>
+        <description><![CDATA[Офіційного повідомлення про підрив знайти не вдалося, але є інформація про постраждалих - <br>https://novynarnia.com/2022/02/26/shhob-vorog-ne-prorvavsya-do-kyyeva-z-boku-zhytomyrshhyny-pidryvayut-mosty-ye-zhertvy/]]></description>
         <styleUrl>#icon-ci-6</styleUrl>
         <Point>
           <coordinates>
@@ -1456,11 +1494,11 @@
       </Placemark>
       <Placemark>
         <name>Спалена російська колона (фото з цього місця - схоже, зроблене на початку квітня)</name>
-        <description><![CDATA[<img src="https://doc-08-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/c6ik31jhogem5m0bulheqsbbg0/1649850300000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vbpSR8XOK5PzPwX3FSd3iF2s2i51uj9oEobNjJcJGWDmyWvEjoOstldNtjaGsEvCIgpNRYeNhhGhVo2b4A0kR8XkU8Ru2eK5VFt9yfoxOMDEVV92WzF7-YQYDb2MVFbefnP9DW4pR7D4OQTc2KJc3V1BQ6XOORERYU7-WQ8F_KhDapd4prcakpaGIqlOi9MAYw?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
+        <description><![CDATA[<img src="https://doc-0g-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/proaa0kido2fv2065im6vonl40/1649864700000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vbN_42tbOyfGA2uTSoaLipmeeKyuOWvqRuDOpFIzTzBrM8BXDTKzhM2nlWT3i62-FeOi6Ey2kooQJjlzy0crWEOOlV1rpY9ZIJrilBQlMzzJ92pFSdYj1VyhzEsbYbg4n7Uxu8GqF92VabCj0Y3u2_iG3CaKqsEDspZ8dboiYOydIfwYjb3RrMLcI3OtdfJ3wc?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
         <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://doc-08-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/c6ik31jhogem5m0bulheqsbbg0/1649850300000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vbpSR8XOK5PzPwX3FSd3iF2s2i51uj9oEobNjJcJGWDmyWvEjoOstldNtjaGsEvCIgpNRYeNhhGhVo2b4A0kR8XkU8Ru2eK5VFt9yfoxOMDEVV92WzF7-YQYDb2MVFbefnP9DW4pR7D4OQTc2KJc3V1BQ6XOORERYU7-WQ8F_KhDapd4prcakpaGIqlOi9MAYw?fife</value>
+            <value>https://doc-0g-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/proaa0kido2fv2065im6vonl40/1649864700000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vbN_42tbOyfGA2uTSoaLipmeeKyuOWvqRuDOpFIzTzBrM8BXDTKzhM2nlWT3i62-FeOi6Ey2kooQJjlzy0crWEOOlV1rpY9ZIJrilBQlMzzJ92pFSdYj1VyhzEsbYbg4n7Uxu8GqF92VabCj0Y3u2_iG3CaKqsEDspZ8dboiYOydIfwYjb3RrMLcI3OtdfJ3wc?fife</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -1634,7 +1672,7 @@
         <styleUrl>#icon-ci-1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            31.4318671,51.5415707,0
+            31.4510074,51.5313738,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1891,9 +1929,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name><![CDATA[Скибин (місце "бою під Броварами" 9.03)]]></name>
+        <name><![CDATA[Скибин (місце "бою під Броварами" 10.03)]]></name>
         <description>https://www.facebook.com/rublagoy/videos/1354172401661331/</description>
-        <styleUrl>#icon-ci-2</styleUrl>
+        <styleUrl>#icon-ci-5</styleUrl>
         <Point>
           <coordinates>
             30.8351498,50.5815673,0
@@ -2215,7 +2253,7 @@
       <Placemark>
         <name>Новоселівка (звільнена 1-2.04)</name>
         <description>Новоселівка заснована після Другої світової замість спаленого німецькими карателями Яцева (зараз там міське кладовище Чернігова). Російські карателі знищили село вдруге - https://suspilne.media/224534-zvilneni-sela-bila-cernigova-rozbiti-budinki-ta-mogili-z-nevidomimi-soldatami/</description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
             31.3788737,51.5297693,0
@@ -2707,8 +2745,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Терни</name>
-        <styleUrl>#icon-ci-8-nodesc</styleUrl>
+        <name>Терни (станом на 19.03 - бойові дії)</name>
+        <styleUrl>#icon-ci-2-nodesc</styleUrl>
         <Point>
           <coordinates>
             37.9526823,49.084617,0
@@ -3861,6 +3899,15 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>Довжик (станом на 19.03)</name>
+        <styleUrl>#icon-ci-5-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            35.9510476,50.2038486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Топольське</name>
         <styleUrl>#icon-ci-9-nodesc</styleUrl>
         <Point>
@@ -3881,7 +3928,7 @@
       <Placemark>
         <name>Яковлівка (5.03 зруйнована російським авіаударом)</name>
         <description>https://censor.net/ua/news/3321845/rosiyiski_okupanty_povnistyu_znyschyly_selo_yakovlivka_v_harkivskiyi_oblasti_videofoto</description>
-        <styleUrl>#icon-ci-8</styleUrl>
+        <styleUrl>#icon-ci-2</styleUrl>
         <Point>
           <coordinates>
             36.1361237,49.8315465,0
@@ -3952,7 +3999,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Малинівка</name>
+        <name>Малинівка (станом на 19.03 - рубіжний пункт російських окупантів)</name>
         <styleUrl>#icon-ci-9-nodesc</styleUrl>
         <Point>
           <coordinates>
@@ -3961,7 +4008,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Кочеток</name>
+        <name>Кочеток (станом на 19.03 - рубіжний пункт російських окупантів)</name>
         <styleUrl>#icon-ci-9-nodesc</styleUrl>
         <Point>
           <coordinates>
@@ -4018,7 +4065,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Безруки (станом на 19.03 - як рубіжний пункт росіян)</name>
+        <name>Безруки (станом на 19.03 - рубіжний пункт російських окупантів)</name>
         <styleUrl>#icon-ci-9-nodesc</styleUrl>
         <Point>
           <coordinates>
@@ -4029,7 +4076,7 @@
       <Placemark>
         <name>Старий Салтів (тут 25.02 була спалена колона Росгвардії)</name>
         <description>Відоме відео, зняте через пару тижнів після бою: https://censor.net/ua/video_news/3325335/rozbyta_kolona_rosiyiskyh_okupantiv_v_rayioni_starogo_saltova_na_harkivschyni_video</description>
-        <styleUrl>#icon-ci-8</styleUrl>
+        <styleUrl>#icon-ci-2</styleUrl>
         <Point>
           <coordinates>
             36.771027,50.0701075,0
@@ -4107,7 +4154,7 @@
       </Placemark>
       <Placemark>
         <name>Люботин</name>
-        <styleUrl>#icon-ci-5-nodesc</styleUrl>
+        <styleUrl>#icon-ci-2-nodesc</styleUrl>
         <Point>
           <coordinates>
             35.9508563,49.9725119,0
@@ -4192,6 +4239,15 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>БОГОДУХІВ (станом на 3.03)</name>
+        <styleUrl>#icon-ci-5-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            35.5225808,50.1525102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Олексіївка (Харків)</name>
         <description>російські обстріли - https://censor.net/ua/news/3329472/zsu_vytisnyayut_okupantiv_iz_roganskogo_chuguyivskogo_dergachivskogo_napryamkiv_izyum_krytychna_tochka</description>
         <styleUrl>#icon-ci-5</styleUrl>
@@ -4214,7 +4270,7 @@
       <Placemark>
         <name>Салтівка (Харків)</name>
         <description>російські обстріли - https://censor.net/ua/news/3329472/zsu_vytisnyayut_okupantiv_iz_roganskogo_chuguyivskogo_dergachivskogo_napryamkiv_izyum_krytychna_tochka</description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <styleUrl>#icon-ci-8</styleUrl>
         <Point>
           <coordinates>
             36.3611277,50.0370953,0
@@ -4222,9 +4278,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Мала Комишуваха</name>
+        <name>Мала Комишуваха (1.04 - бойові дії)</name>
         <description>https://censor.net/ua/news/3330493/vorog_zoseredjuye_zusyllya_na_provedenni_nastupu_u_shidniyi_operatsiyiniyi_zoni_operatyvna_informatsiya</description>
-        <styleUrl>#icon-ci-8</styleUrl>
+        <styleUrl>#icon-ci-2</styleUrl>
         <Point>
           <coordinates>
             37.2285366,49.0997391,0
@@ -4522,6 +4578,98 @@
         <Point>
           <coordinates>
             36.4656367,49.59316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ЗОЛОЧІВ (станом на 10.04)</name>
+        <styleUrl>#icon-ci-5-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            36.003311,50.2694682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Підрив залізничного мосту через річку Нежеголь на ділянці Бєлгород-Куп'янськ(12.04)]]></name>
+        <description>https://defence-ua.com/news/rf_provalila_svoju_spetsoperatsiju_iz_zahistu_infrastrukturi_v_krajini-6913.html</description>
+        <styleUrl>#icon-ci-7</styleUrl>
+        <Point>
+          <coordinates>
+            36.8314,50.3883366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>ВОЛИНСЬКИЙ напрямок</name>
+      <Placemark>
+        <name>Українка (станом на 3.03 - рубіжний пункт оборони окупантів, пізніше - під обстрілами росіян)</name>
+        <description><![CDATA[3.03: "на Волинському напрямку ворог силами до 2 БТГр перейшов до оборонних дій і намагається утриматися на рубежі Бігунь, Овруч, Пірожки, Різня, Українка" -<br>https://armyinform.com.ua/2022/03/03/rosijski-vijska-zmusheni-vvodyty-v-diyu-rezervy-generalnyj-shtab-zsu/<br>-----<br>29.03: "...авіаударів збройних сил російської федерації зазнали села Українка, Лумля та Дружне, а увечері цього ж дня – села Любовичі та Привітне" - <br>https://www.facebook.com/zhytomyr.police/posts/336735645152423]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <Point>
+          <coordinates>
+            29.3690888,50.7789465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Різня (станом на 3.03 - рубіжний пункт оборони окупантів)</name>
+        <description><![CDATA["На Волинському напрямку ворог силами до 2 БТГр перейшов до оборонних дій і намагається утриматися на рубежі Бігунь, Овруч, Пірожки, Різня, Українка"<br>https://armyinform.com.ua/2022/03/03/rosijski-vijska-zmusheni-vvodyty-v-diyu-rezervy-generalnyj-shtab-zsu/]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <Point>
+          <coordinates>
+            29.3364302,50.8156479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Пиріжки (станом на 3.03 - рубіжний пункт оборони окупантів)</name>
+        <description><![CDATA[На Волинському напрямку ворог силами до 2 БТГр перейшов до оборонних дій і намагається утриматися на рубежі Бігунь, Овруч, Пірожки, Різня, Українка.<br>https://armyinform.com.ua/2022/03/03/rosijski-vijska-zmusheni-vvodyty-v-diyu-rezervy-generalnyj-shtab-zsu/]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <Point>
+          <coordinates>
+            29.2250282,50.8425351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Бігунь (станом на 3.03 - рубіжний пункт оборони окупантів)</name>
+        <description><![CDATA[На Волинському напрямку ворог силами до 2 БТГр перейшов до оборонних дій і намагається утриматися на рубежі Бігунь, Овруч, Пірожки, Різня, Українка.<br>https://armyinform.com.ua/2022/03/03/rosijski-vijska-zmusheni-vvodyty-v-diyu-rezervy-generalnyj-shtab-zsu/]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <Point>
+          <coordinates>
+            28.2838529,51.3947794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3.03 - рубіжний пункт оборони окупантів (місто окуповане не було)</name>
+        <description><![CDATA["...на Волинському напрямку ворог силами до 2 БТГр перейшов до оборонних дій і намагається утриматися на рубежі Бігунь, Овруч, Пірожки, Різня, Українка" - https://armyinform.com.ua/2022/03/03/rosijski-vijska-zmusheni-vvodyty-v-diyu-rezervy-generalnyj-shtab-zsu/]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <Point>
+          <coordinates>
+            28.8436956,51.321101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОВРУЧ (6.03 - російські обстріли)</name>
+        <description>https://uk.wikipedia.org/wiki/%D0%9E%D0%B1%D1%81%D1%82%D1%80%D1%96%D0%BB%D0%B8_%D0%9E%D0%B2%D1%80%D1%83%D1%87%D0%B0 </description>
+        <styleUrl>#icon-ci-5</styleUrl>
+        <Point>
+          <coordinates>
+            28.7928843,51.3090842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>МАЛИН (6-8.03 - російські авіаудари)</name>
+        <description>Протягом березня місто з околицями кілька разів було обстріляне окупантами - https://uk.wikipedia.org/wiki/%D0%9E%D0%B1%D1%81%D1%82%D1%80%D1%96%D0%BB%D0%B8_%D0%9C%D0%B0%D0%BB%D0%B8%D0%BD%D0%B0</description>
+        <styleUrl>#icon-ci-5</styleUrl>
+        <Point>
+          <coordinates>
+            29.2419457,50.7692017,0
           </coordinates>
         </Point>
       </Placemark>
