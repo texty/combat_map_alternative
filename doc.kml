@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>ВІЙНА-2022: лінія фронту (ОНОВЛЮЄТЬСЯ)</name>
-    <description><![CDATA[ПІДТРИМАТИ ПРОЄКТ - https://texty.org.ua/p/support/<br>ДЕТАЛЬНІШЕ ПРО КАРТУ...<br>https://texty.org.ua/projects/106137/karta-bojovyh-dij-onovlyuyetsya/<br>Території під контролем ЗСУ - блакитний колір, РФ - червоний (покинуті позиції РФ - жовтий). Бордовий колір - місця бойових дій або обстрілів, сірий - колишні бої.  <br>Цятка означає контроль над населеним пунктом або його околицями. Джерела даних: переважно офіційні зведення ГШ та ОВА (якщо не вказано інше). <br>Клікнувши на конкретний пункт, можна отримати більш детальну інформацію (зазвичай із посиланням на джерело).<br>Там же (після назви населеного пункту) можна дізнатися ДАТУ його звільнення/окупації. Якщо дата не вказана, йдеться про ситуацію станом на 19 березня.<br>Карта оновлюється з розвитком подій.<br>Карта не претендує на вичерпність чи оперативність. <br>Позиції вказані ОРІЄНТОВНО!<br>Автори: Олександра Тимошенко, Павло Солодько, Надя Кельм (ТЕКСТИ.org.ua)]]></description>
+    <description><![CDATA[ПІДТРИМАТИ ПРОЄКТ - https://texty.org.ua/p/support/<br>ДЕТАЛЬНІШЕ ПРО КАРТУ...<br>https://texty.org.ua/projects/106137/karta-bojovyh-dij-onovlyuyetsya/<br>Території під контролем ЗСУ - блакитний колір, РФ - червоний (покинуті позиції РФ - жовтий). Бордовий колір - місця бойових дій або обстрілів, сірий - колишні бої/обстріли.<br>Цятка означає контроль над населеним пунктом або його околицями. Джерела даних: переважно офіційні зведення ГШ та ОВА (якщо не вказано інше). <br>Клікнувши на конкретний пункт, можна отримати більш детальну інформацію (зазвичай із посиланням на джерело).<br>Там же (після назви населеного пункту) можна дізнатися ДАТУ його звільнення/окупації. Якщо дата не вказана, йдеться про ситуацію станом на 19 березня.<br>Карта оновлюється з розвитком подій.<br>Карта не претендує на вичерпність чи оперативність. <br>Позиції вказані ОРІЄНТОВНО!<br>Автори: Олександра Тимошенко, Павло Солодько, Надя Кельм (ТЕКСТИ.org.ua)]]></description>
     <Style id="icon-ci-1-normal">
       <IconStyle>
         <scale>0.9</scale>
@@ -1494,11 +1494,11 @@
       </Placemark>
       <Placemark>
         <name>Спалена російська колона (фото з цього місця - схоже, зроблене на початку квітня)</name>
-        <description><![CDATA[<img src="https://doc-0g-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/6nincup8srh0m5frfeqm1qoha8/1649936700000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vZlep09PFwr6whDMrc4XueZBGAVGjFNx7UAIVQl4y1c9qcer1BUffuNCK-c3GrUhL0XrzB3btjJFpHIupKzPNxSXheOOWxs29xOoG_pCfcTB42-V0xD3hfaFs8rSIdPyW4OHUicoAD-9bexrBs6m3Gb-ugXzvZHgHuXT9drA9i6gdRrt0ikiHr1yf4Fd6kOBMY?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
-        <styleUrl>#icon-ci-1</styleUrl>
+        <description><![CDATA[<img src="https://doc-0s-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/r9ij3f5qqit6nsnjt8qlnb28og/1649951100000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vYCeapY7JVQB44kQ21E4Yse9_KcPYwpJJ9mwzG4NTESWVyy8yjx7WMd5A0crmAjT3QmBTyWhzOHJ0WN2n6XUPjFnvrlyfudwmN1BUxJuIzmSSwixNmjBUMWn7syTzZ_eJYQ5m2z9vkS8Jy1yFtN5an49X-DHLaLileQD-UUvCYMX7EhCHH_5895e2fv3YNmWZ8?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://doc-0g-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/6nincup8srh0m5frfeqm1qoha8/1649936700000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vZlep09PFwr6whDMrc4XueZBGAVGjFNx7UAIVQl4y1c9qcer1BUffuNCK-c3GrUhL0XrzB3btjJFpHIupKzPNxSXheOOWxs29xOoG_pCfcTB42-V0xD3hfaFs8rSIdPyW4OHUicoAD-9bexrBs6m3Gb-ugXzvZHgHuXT9drA9i6gdRrt0ikiHr1yf4Fd6kOBMY?fife</value>
+            <value>https://doc-0s-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/r9ij3f5qqit6nsnjt8qlnb28og/1649951100000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vYCeapY7JVQB44kQ21E4Yse9_KcPYwpJJ9mwzG4NTESWVyy8yjx7WMd5A0crmAjT3QmBTyWhzOHJ0WN2n6XUPjFnvrlyfudwmN1BUxJuIzmSSwixNmjBUMWn7syTzZ_eJYQ5m2z9vkS8Jy1yFtN5an49X-DHLaLileQD-UUvCYMX7EhCHH_5895e2fv3YNmWZ8?fife</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -4005,6 +4005,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name><![CDATA[13.04 - ракетний удар по крейсеру "Москва"]]></name>
+        <description><![CDATA[Як мінімум ушкоджено флагмана чф рф - основного носія крилатих ракет "Калібр" в регіоні - https://www.pravda.com.ua/news/2022/04/14/7339554/]]></description>
+        <styleUrl>#icon-ci-7</styleUrl>
+        <Point>
+          <coordinates>
+            30.6858937,45.3205157,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>СЛОБОЖАНСЬКИЙ напрямок</name>
@@ -4418,6 +4428,16 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>ШОСТКА (була в російській блокаді)</name>
+        <description>https://suspilne.media/227217-ak-zminilosa-zitta-u-sostci-na-sumsini-pid-cas-blokadi/</description>
+        <styleUrl>#icon-ci-5</styleUrl>
+        <Point>
+          <coordinates>
+            33.477012,51.8634423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Мала Комишуваха (1.04 - бойові дії)</name>
         <description>https://censor.net/ua/news/3330493/vorog_zoseredjuye_zusyllya_na_provedenni_nastupu_u_shidniyi_operatsiyiniyi_zoni_operatyvna_informatsiya</description>
         <styleUrl>#icon-ci-9</styleUrl>
@@ -4429,7 +4449,8 @@
       </Placemark>
       <Placemark>
         <name>КОНОТОП</name>
-        <styleUrl>#icon-ci-5-nodesc</styleUrl>
+        <description>https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D1%97_%D0%B7%D0%B0_%D0%9A%D0%BE%D0%BD%D0%BE%D1%82%D0%BE%D0%BF_(2022)</description>
+        <styleUrl>#icon-ci-5</styleUrl>
         <Point>
           <coordinates>
             33.1888677,51.2415821,0
@@ -4462,6 +4483,16 @@
         <Point>
           <coordinates>
             36.4524891,49.9948444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Міст через Сейм на московській трасі біля Батурина</name>
+        <description>Підірваний вранці 25 лютого - https://24tv.ua/baturin-bahmach-gotovi-do-oboroni-mist-cherez-seym-pidirvali_n1878298</description>
+        <styleUrl>#icon-ci-3</styleUrl>
+        <Point>
+          <coordinates>
+            32.9072919,51.3394868,0
           </coordinates>
         </Point>
       </Placemark>
@@ -4533,6 +4564,16 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>ГЛУХІВ</name>
+        <description>https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D1%97_%D0%B7%D0%B0_%D0%93%D0%BB%D1%83%D1%85%D1%96%D0%B2</description>
+        <styleUrl>#icon-ci-5</styleUrl>
+        <Point>
+          <coordinates>
+            33.9204157,51.6690371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Славгород (звільнено 27.03, за даними Гончаренка)</name>
         <styleUrl>#icon-ci-5-nodesc</styleUrl>
         <Point>
@@ -4582,7 +4623,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>ПУТИВЛЬ (станом на 2.04 - оточений росіянами)</name>
+        <name>ПУТИВЛЬ (станом на 2.04 був оточений росіянами)</name>
         <description><![CDATA[Зі зведення ГШ: "...триває блокада Путивля, місто оточене блокпостами ворога" - https://censor.net/ua/n3330845]]></description>
         <styleUrl>#icon-ci-5</styleUrl>
         <Point>
@@ -4787,6 +4828,16 @@
         <Point>
           <coordinates>
             34.9592133,50.8712281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Свеса</name>
+        <description>https://suspilne.media/228569-v-prikordonnij-svesi-civilni-obednalis-dla-zabezpecenna-gromadskogo-poradku/</description>
+        <styleUrl>#icon-ci-5</styleUrl>
+        <Point>
+          <coordinates>
+            33.9400603,51.947337,0
           </coordinates>
         </Point>
       </Placemark>
