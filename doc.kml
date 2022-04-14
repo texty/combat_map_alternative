@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>ВІЙНА-2022: лінія фронту (ОНОВЛЮЄТЬСЯ)</name>
-    <description><![CDATA[ПІДТРИМАТИ ПРОЄКТ - https://texty.org.ua/p/support/<br>ДЕТАЛЬНІШЕ ПРО КАРТУ...<br>https://texty.org.ua/projects/106137/karta-bojovyh-dij-onovlyuyetsya/<br>Території під контролем ЗСУ - блакитний колір, РФ - червоний (покинуті позиції РФ - жовтий). Бордовий колір - місця бойових дій.  <br>Цятка означає контроль над населеним пунктом або його околицями. Джерела даних: переважно офіційні зведення ГШ та ОВА (якщо не вказано інше). <br>Клікнувши на конкретний пункт, можна отримати більш детальну інформацію (зазвичай із посиланням на джерело).<br>Там же (після назви населеного пункту) можна дізнатися ДАТУ його звільнення/окупації. Якщо дата не вказана, йдеться про ситуацію станом на 19 березня.<br>Карта оновлюється з розвитком подій.<br>Карта не претендує на вичерпність чи оперативність. <br>Позиції вказані ОРІЄНТОВНО!<br>Автори: Олександра Тимошенко, Павло Солодько, Надя Кельм (ТЕКСТИ.org.ua)]]></description>
+    <description><![CDATA[ПІДТРИМАТИ ПРОЄКТ - https://texty.org.ua/p/support/<br>ДЕТАЛЬНІШЕ ПРО КАРТУ...<br>https://texty.org.ua/projects/106137/karta-bojovyh-dij-onovlyuyetsya/<br>Території під контролем ЗСУ - блакитний колір, РФ - червоний (покинуті позиції РФ - жовтий). Бордовий колір - місця бойових дій або обстрілів, сірий - колишні бої.  <br>Цятка означає контроль над населеним пунктом або його околицями. Джерела даних: переважно офіційні зведення ГШ та ОВА (якщо не вказано інше). <br>Клікнувши на конкретний пункт, можна отримати більш детальну інформацію (зазвичай із посиланням на джерело).<br>Там же (після назви населеного пункту) можна дізнатися ДАТУ його звільнення/окупації. Якщо дата не вказана, йдеться про ситуацію станом на 19 березня.<br>Карта оновлюється з розвитком подій.<br>Карта не претендує на вичерпність чи оперативність. <br>Позиції вказані ОРІЄНТОВНО!<br>Автори: Олександра Тимошенко, Павло Солодько, Надя Кельм (ТЕКСТИ.org.ua)]]></description>
     <Style id="icon-ci-1-normal">
       <IconStyle>
         <scale>0.9</scale>
@@ -1494,11 +1494,11 @@
       </Placemark>
       <Placemark>
         <name>Спалена російська колона (фото з цього місця - схоже, зроблене на початку квітня)</name>
-        <description><![CDATA[<img src="https://doc-14-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/dhnbtnatliekop862d2ce73ta0/1649925900000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vaftkMz_Lyr6AEygmLNzBgaRMUieeeJ9XXwxIt4Ucht1UP4BS6ZrOl9FDtPGWOiuXN1UuBkhhl0EVjjLwkFfiYOwvjMA25vLxUEBCHPTTo_Ihdfd2gaRpoYgwfQUGhjc2z7S4DaAgLsB7Nhhd12jw4xlRWeKwLJV8CiKUSwnfw7Y06hJ2_QAEhKRM6osvySxBM?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
+        <description><![CDATA[<img src="https://doc-0g-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/6nincup8srh0m5frfeqm1qoha8/1649936700000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vZlep09PFwr6whDMrc4XueZBGAVGjFNx7UAIVQl4y1c9qcer1BUffuNCK-c3GrUhL0XrzB3btjJFpHIupKzPNxSXheOOWxs29xOoG_pCfcTB42-V0xD3hfaFs8rSIdPyW4OHUicoAD-9bexrBs6m3Gb-ugXzvZHgHuXT9drA9i6gdRrt0ikiHr1yf4Fd6kOBMY?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
         <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://doc-14-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/dhnbtnatliekop862d2ce73ta0/1649925900000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vaftkMz_Lyr6AEygmLNzBgaRMUieeeJ9XXwxIt4Ucht1UP4BS6ZrOl9FDtPGWOiuXN1UuBkhhl0EVjjLwkFfiYOwvjMA25vLxUEBCHPTTo_Ihdfd2gaRpoYgwfQUGhjc2z7S4DaAgLsB7Nhhd12jw4xlRWeKwLJV8CiKUSwnfw7Y06hJ2_QAEhKRM6osvySxBM?fife</value>
+            <value>https://doc-0g-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/6nincup8srh0m5frfeqm1qoha8/1649936700000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vZlep09PFwr6whDMrc4XueZBGAVGjFNx7UAIVQl4y1c9qcer1BUffuNCK-c3GrUhL0XrzB3btjJFpHIupKzPNxSXheOOWxs29xOoG_pCfcTB42-V0xD3hfaFs8rSIdPyW4OHUicoAD-9bexrBs6m3Gb-ugXzvZHgHuXT9drA9i6gdRrt0ikiHr1yf4Fd6kOBMY?fife</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -2507,7 +2507,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Жолобок</name>
+        <name>Жолобок (станом на 19.03 - бойові дії)</name>
         <styleUrl>#icon-ci-8-nodesc</styleUrl>
         <Point>
           <coordinates>
@@ -2812,7 +2812,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Молодіжне</name>
+        <name>Молодіжне (станом на 19.03 - бойові дії)</name>
         <description>https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/</description>
         <styleUrl>#icon-ci-8</styleUrl>
         <Point>
@@ -2827,6 +2827,15 @@
         <Point>
           <coordinates>
             37.9980009,49.222039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Тошківка</name>
+        <styleUrl>#icon-ci-5-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            38.5685253,48.7873803,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2914,8 +2923,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Золоте</name>
-        <styleUrl>#icon-ci-5-nodesc</styleUrl>
+        <name>Золоте (11.04 - спроба російського наступу)</name>
+        <description><![CDATA[11.04 "...ворог намагався провести штурмові дії в районі Золотого, успіху не мав"<br>https://www.radiosvoboda.org/a/news-rosiiski-viiska-nastup-na-iziumskyi-napriamok/31796555.html]]></description>
+        <styleUrl>#icon-ci-5</styleUrl>
         <Point>
           <coordinates>
             38.5068866,48.6998171,0
@@ -4213,7 +4223,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Олександрівка (станом на 19.03 як рубіжний пункт)</name>
+        <name>Олександрівка (станом на 19.03 як рубіжний пункт окупантів)</name>
         <styleUrl>#icon-ci-9-nodesc</styleUrl>
         <Point>
           <coordinates>
@@ -4231,7 +4241,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Тарасівка (звільнена на початку квітня, станом на 19.03 як рубіжний пункт)</name>
+        <name>Тарасівка (звільнена на початку квітня, станом на 19.03 як рубіжний пункт окупантів)</name>
         <description>https://censor.net/ua/news/3332320/sumsku_oblast_povnistyu_zvilneno_vid_rosiyiskyh_okupantiv_jyvytskyyi</description>
         <styleUrl>#icon-ci-1</styleUrl>
         <Point>
@@ -4436,7 +4446,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Великий Бобрик (росіяни полишили село 26.03)</name>
+        <name>Великий Бобрик (з 16.03 до 26.03 село було під окупацією)</name>
         <description>https://suspilne.media/222611-zvirski-katuvali-so-rozkazuut-ziteli-sela-na-sumsini-ake-10-dniv-okupovuvali-rosiani/</description>
         <styleUrl>#icon-ci-1</styleUrl>
         <Point>
@@ -4730,6 +4740,56 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Стеблянки (з 19.03 до 26.03 були окуповані)</name>
+        <description>https://suspilne.media/228536-spali-sidaci-j-topili-snig-ziteli-sela-steblanki-na-sumsini-rozpovili-ak-perezili-okupaciu/</description>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <Point>
+          <coordinates>
+            34.7762479,50.5974482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Низи (13.03 - російські обстріли)</name>
+        <description>https://suspilne.media/217413-artobstrili-v-sumskomu-rajoni-rosijski-vijskovi-strilali-po-selisu-nizi-j-verhnij-sirovatci/</description>
+        <styleUrl>#icon-ci-2</styleUrl>
+        <Point>
+          <coordinates>
+            34.7823087,50.7820919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Верхня Сироватка (13.03 - російські обстріли)</name>
+        <description>https://suspilne.media/217413-artobstrili-v-sumskomu-rajoni-rosijski-vijskovi-strilali-po-selisu-nizi-j-verhnij-sirovatci/</description>
+        <styleUrl>#icon-ci-2</styleUrl>
+        <Point>
+          <coordinates>
+            34.9402614,50.8330762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Гребениківка (звідси в березні росіяни обстрілювали Суми і прилеглі села)</name>
+        <description>https://suspilne.media/217413-artobstrili-v-sumskomu-rajoni-rosijski-vijskovi-strilali-po-selisu-nizi-j-verhnij-sirovatci/</description>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <Point>
+          <coordinates>
+            35.0092136,50.7309819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Бездрик (12.03 - російські обстріли)</name>
+        <description>https://suspilne.media/217413-artobstrili-v-sumskomu-rajoni-rosijski-vijskovi-strilali-po-selisu-nizi-j-verhnij-sirovatci/</description>
+        <styleUrl>#icon-ci-2</styleUrl>
+        <Point>
+          <coordinates>
+            34.9592133,50.8712281,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>ВОЛИНСЬКИЙ напрямок</name>
@@ -4816,7 +4876,7 @@
       <Placemark>
         <name>Привітне (29.03 - російські авіаудари)</name>
         <description>https://www.facebook.com/zhytomyr.police/posts/336735645152423</description>
-        <styleUrl>#icon-ci-2</styleUrl>
+        <styleUrl>#icon-ci-5</styleUrl>
         <Point>
           <coordinates>
             29.4039748,50.8280457,0
@@ -4826,7 +4886,7 @@
       <Placemark>
         <name>Лумля (29.03 - російські авіаудари)</name>
         <description>https://www.facebook.com/zhytomyr.police/posts/336735645152423</description>
-        <styleUrl>#icon-ci-2</styleUrl>
+        <styleUrl>#icon-ci-5</styleUrl>
         <Point>
           <coordinates>
             29.2734522,50.8407905,0
@@ -4836,7 +4896,7 @@
       <Placemark>
         <name>Дружне (29.03 - російські авіаудари)</name>
         <description>https://www.facebook.com/zhytomyr.police/posts/336735645152423</description>
-        <styleUrl>#icon-ci-2</styleUrl>
+        <styleUrl>#icon-ci-5</styleUrl>
         <Point>
           <coordinates>
             29.2765421,50.8709161,0
