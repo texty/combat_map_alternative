@@ -1494,11 +1494,11 @@
       </Placemark>
       <Placemark>
         <name>Спалена російська колона (фото з цього місця - схоже, зроблене на початку квітня)</name>
-        <description><![CDATA[<img src="https://doc-0s-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/r9ij3f5qqit6nsnjt8qlnb28og/1649951100000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vYCeapY7JVQB44kQ21E4Yse9_KcPYwpJJ9mwzG4NTESWVyy8yjx7WMd5A0crmAjT3QmBTyWhzOHJ0WN2n6XUPjFnvrlyfudwmN1BUxJuIzmSSwixNmjBUMWn7syTzZ_eJYQ5m2z9vkS8Jy1yFtN5an49X-DHLaLileQD-UUvCYMX7EhCHH_5895e2fv3YNmWZ8?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
+        <description><![CDATA[<img src="https://doc-10-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/3c8dka48s5elo2s21qg5o88q78/1650012300000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vaUFEoAVO5IRJkXjRA_sWP87CNyxZtTt6jaGQ4OsXwuiiRgQFL5MHH7OrHMl3tDEhwOPZEtUlQqLln_jX0d6mV2WIko3K6vKivsgOcwYWkDCQIL1saB5d6mRlnlqANE1INf2_ggJoInn9kRZABFtxFbhgbl1sYTmfeNYaNjZkPZbKqN6o8ujYZOiWSRGxwU_Qo?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://doc-0s-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/r9ij3f5qqit6nsnjt8qlnb28og/1649951100000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vYCeapY7JVQB44kQ21E4Yse9_KcPYwpJJ9mwzG4NTESWVyy8yjx7WMd5A0crmAjT3QmBTyWhzOHJ0WN2n6XUPjFnvrlyfudwmN1BUxJuIzmSSwixNmjBUMWn7syTzZ_eJYQ5m2z9vkS8Jy1yFtN5an49X-DHLaLileQD-UUvCYMX7EhCHH_5895e2fv3YNmWZ8?fife</value>
+            <value>https://doc-10-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/3c8dka48s5elo2s21qg5o88q78/1650012300000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vaUFEoAVO5IRJkXjRA_sWP87CNyxZtTt6jaGQ4OsXwuiiRgQFL5MHH7OrHMl3tDEhwOPZEtUlQqLln_jX0d6mV2WIko3K6vKivsgOcwYWkDCQIL1saB5d6mRlnlqANE1INf2_ggJoInn9kRZABFtxFbhgbl1sYTmfeNYaNjZkPZbKqN6o8ujYZOiWSRGxwU_Qo?fife</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -1518,6 +1518,16 @@
             30.2306191,50.5420065,0
           </coordinates>
         </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Вільча (14.04 - під контролем ДПСУ)</name>
+        <description>https://www.ukrinform.ua/rubric-regions/3457369-prikordonniki-ponovili-kontrol-u-punkti-propusku-vilca-na-dilanci-z-bilorussu.html</description>
+        <styleUrl>#icon-ci-5</styleUrl>
+        <Point>
+          <coordinates>
+            29.4096598,51.3757266,0
+          </coordinates>
+        </Point>
       </Placemark>
     </Folder>
     <Folder>
@@ -1797,6 +1807,16 @@
         <Point>
           <coordinates>
             33.9279073,50.8215683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[26.02 - авіаудар ЗСУ по російському ешелону з паливом на станції "Низківка"]]></name>
+        <description>https://www.ukrinform.ua/rubric-ato/3416450-ukrainski-vijskovi-pokazali-ak-bajraktar-nisit-vorozu-kolonu-z-palnim.html</description>
+        <styleUrl>#icon-ci-7</styleUrl>
+        <Point>
+          <coordinates>
+            32.0781233,51.6687477,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2390,6 +2410,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>КОРЮКІВКА</name>
+        <description>http://www.golos.com.ua/news/151957</description>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <Point>
+          <coordinates>
+            32.2471055,51.7674012,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>ДОНЕЦЬКИЙ напрямок</name>
@@ -2682,6 +2712,24 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>Павлопіль</name>
+        <styleUrl>#icon-ci-9-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            37.7896462,47.2586636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Старогнатівка</name>
+        <styleUrl>#icon-ci-9-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            37.7727471,47.5386259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Солодке</name>
         <styleUrl>#icon-ci-5-nodesc</styleUrl>
         <Point>
@@ -2742,6 +2790,15 @@
         <Point>
           <coordinates>
             37.6134009,48.891419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Гранітне</name>
+        <styleUrl>#icon-ci-9-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            37.8680888,47.4527442,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2836,6 +2893,15 @@
         <Point>
           <coordinates>
             38.5685253,48.7873803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Широкине</name>
+        <styleUrl>#icon-ci-9-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            37.812006,47.0962211,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3203,6 +3269,15 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Біла Гора (2.04)</name>
+        <styleUrl>#icon-ci-5-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            38.5035549,48.8487442,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>ТАВРІЙСЬКИЙ напрямок</name>
@@ -3484,6 +3559,15 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>Велика Новосілка</name>
+        <styleUrl>#icon-ci-5-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            36.8361865,47.8357742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>бойові дії, російські обстріли (28.03)</name>
         <description>https://censor.net/ua/news/3329200/nich_u_regionah_na_hersonschyni_yidut_boyi_na_meji_z_mykolayivschynoyu_ta_dnipropetrovschynoyu_raketni</description>
         <styleUrl>#icon-ci-8</styleUrl>
@@ -3543,7 +3627,7 @@
       </Placemark>
       <Placemark>
         <name>Скадовськ</name>
-        <styleUrl>#icon-ci-1-nodesc</styleUrl>
+        <styleUrl>#icon-ci-9-nodesc</styleUrl>
         <Point>
           <coordinates>
             32.911817,46.1298567,0
@@ -4006,12 +4090,12 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name><![CDATA[13.04 - ракетний удар по крейсеру "Москва"]]></name>
-        <description><![CDATA[Як мінімум ушкоджено флагмана чф рф - основного носія крилатих ракет "Калібр" в регіоні - https://www.pravda.com.ua/news/2022/04/14/7339554/]]></description>
+        <name><![CDATA[13.04 - ракетний удар ЗСУ по крейсеру "Москва"]]></name>
+        <description><![CDATA[Затонув флагман чф рф - основна протиповітряна "парасолька" для місцевого угруповання російських кораблів, озброєних крилатими ракетами. Тепер "калібри" запускатимуть на сотню-другу км далі від українських берегів.<br>Знищено головне судно ВМФ росії в Чорноморському регіоні, один із мілітарних символів вєлічія, один із чотирьох усіх російських крейсерів.<br>Останній раз крейсер (аргентинський "Генерал Бельграно") було потоплено в 1982 році в ході війни між Аргентиною та Великою Британією.]]></description>
         <styleUrl>#icon-ci-7</styleUrl>
         <Point>
           <coordinates>
-            30.6858937,45.3205157,0
+            30.7738315,45.4015553,0
           </coordinates>
         </Point>
       </Placemark>
