@@ -1494,11 +1494,11 @@
       </Placemark>
       <Placemark>
         <name>Спалена російська колона (фото з цього місця - схоже, зроблене на початку квітня)</name>
-        <description><![CDATA[<img src="https://doc-0g-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/bj21jd9v3g75jvdhnvklhsabqs/1650037500000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vYnlMtyqobiD9bNLqc9nCZjRELAHlchZ-_ngt-vwcSJQE88bUdf51AzoyIVlbvRY7DrxVZKjMOkg17P1EAY-q3DoyQjRuqeb9fYNBcVdpkD7Z2vWweFhMt-oMsrJwqSn9_7te0NyTNbERhkNFJeBqARNNz8Qj3zd5FRnRfj1kYTNkvQgHyQJ5dC5JGjgAXlz_E?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
+        <description><![CDATA[<img src="https://doc-0k-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/e4n6qqk03al5ca1sum37mjvp4s/1650109500000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vblnbB212d9MHtWNjPPoGZr452ffyfKz-sAJag2y2aC6IhIfXK5yjK0PKh8UDxS6NSblwuFXX55GOPDqY3InTEHZmGzBUFwkX43MKH8oxlZoKPaXjOC465oKlry3Zo4L5E1NVfs4zjPQwkGNIJbCr8QI6urktosNgCLxmY76FYg0Q_ybQRc8tYUyUjiKoWh5RA?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://doc-0g-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/bj21jd9v3g75jvdhnvklhsabqs/1650037500000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vYnlMtyqobiD9bNLqc9nCZjRELAHlchZ-_ngt-vwcSJQE88bUdf51AzoyIVlbvRY7DrxVZKjMOkg17P1EAY-q3DoyQjRuqeb9fYNBcVdpkD7Z2vWweFhMt-oMsrJwqSn9_7te0NyTNbERhkNFJeBqARNNz8Qj3zd5FRnRfj1kYTNkvQgHyQJ5dC5JGjgAXlz_E?fife</value>
+            <value>https://doc-0k-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/e4n6qqk03al5ca1sum37mjvp4s/1650109500000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vblnbB212d9MHtWNjPPoGZr452ffyfKz-sAJag2y2aC6IhIfXK5yjK0PKh8UDxS6NSblwuFXX55GOPDqY3InTEHZmGzBUFwkX43MKH8oxlZoKPaXjOC465oKlry3Zo4L5E1NVfs4zjPQwkGNIJbCr8QI6urktosNgCLxmY76FYg0Q_ybQRc8tYUyUjiKoWh5RA?fife</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -4922,6 +4922,16 @@
         <Point>
           <coordinates>
             33.9400603,51.947337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Рогань (звільнено 15.04, за даними ОВА)</name>
+        <description>https://censor.net/ua/photo_news/3334420/selo_rogan_na_harkivschyni_zvilnene_vid_rosiyiskyh_okupantiv_ta_povertayetsya_do_jyttya_ova_fotoreportaj</description>
+        <styleUrl>#icon-ci-5</styleUrl>
+        <Point>
+          <coordinates>
+            36.4927746,49.9057879,0
           </coordinates>
         </Point>
       </Placemark>
