@@ -961,7 +961,7 @@
       </Placemark>
       <Placemark>
         <name>Підірваний у ніч на 26.02 міст через Тетерів на варшавській трасі</name>
-        <description><![CDATA[Офіційного повідомлення про підрив знайти не вдалося, але є інформація про постраждалих - <br>https://novynarnia.com/2022/02/26/shhob-vorog-ne-prorvavsya-do-kyyeva-z-boku-zhytomyrshhyny-pidryvayut-mosty-ye-zhertvy/]]></description>
+        <description><![CDATA[Офіційного повідомлення про підрив знайти не вдалося, є інформація про постраждалих - <br>https://novynarnia.com/2022/02/26/shhob-vorog-ne-prorvavsya-do-kyyeva-z-boku-zhytomyrshhyny-pidryvayut-mosty-ye-zhertvy/]]></description>
         <styleUrl>#icon-ci-6</styleUrl>
         <Point>
           <coordinates>
@@ -1358,7 +1358,7 @@
       <Placemark>
         <name>Глібівка (звільнено 1.04)</name>
         <description>https://censor.net/ua/news/3330493/vorog_zoseredjuye_zusyllya_na_provedenni_nastupu_u_shidniyi_operatsiyiniyi_zoni_operatyvna_informatsiya</description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
             30.3614203,50.8037371,0
@@ -1368,7 +1368,7 @@
       <Placemark>
         <name>Ясногородка (1.04)</name>
         <description>https://censor.net/ua/news/3330493/vorog_zoseredjuye_zusyllya_na_provedenni_nastupu_u_shidniyi_operatsiyiniyi_zoni_operatyvna_informatsiya</description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
             30.3981558,50.8506768,0
@@ -1378,7 +1378,7 @@
       <Placemark>
         <name>Толокунь (1.04)</name>
         <description>https://censor.net/ua/news/3330493/vorog_zoseredjuye_zusyllya_na_provedenni_nastupu_u_shidniyi_operatsiyiniyi_zoni_operatyvna_informatsiya</description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
             30.4204718,50.8935745,0
@@ -1388,7 +1388,7 @@
       <Placemark>
         <name>Сухолуччя (звільнене 1.04)</name>
         <description>https://censor.net/ua/news/3330493/vorog_zoseredjuye_zusyllya_na_provedenni_nastupu_u_shidniyi_operatsiyiniyi_zoni_operatyvna_informatsiya</description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
             30.4379813,50.9433555,0
@@ -1494,11 +1494,11 @@
       </Placemark>
       <Placemark>
         <name>Спалена російська колона (фото з цього місця - схоже, зроблене на початку квітня)</name>
-        <description><![CDATA[<img src="https://doc-0g-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/68llecg39rcqrcu60pvh3hfjio/1650210300000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vZvE-PuLqxp4A73zw-d865qbKhWqc0gdPeLyRXTKnad42hTgJtfWiqCQFyH9OQfZ9FCpLdnSVN6mOEOnG4RhbSNRSJYCbTZpoN8qOFjjQ4wUUOnLSlPr031j0z7fwtUaHkkfrnDTBDjanCffISoiTse6t2f7zWMwCjL5gtaTZ15jZNCKu6i_gKw9XmXBkEkrVE?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
+        <description><![CDATA[<img src="https://doc-0g-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/siq3d1ii100g6qdvtpth9snj80/1650271500000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vYBk-24U0F0M3zRSJq4qDa7giB3FZcYdNtCsufb6Vb8K4MiIahhbRKAhaluODMA0t9DdI65BIImbkyEmE_iJRLue6glBMUNIdo0czUyspf44Z6pzk1ideUd3J8U5TErSg1W3WR79LELXIrO_KIkzFpLTcytzqNVNWjIxcgRd4bRz0FbueWfJFJmV-490zQ8YQk?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://doc-0g-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/68llecg39rcqrcu60pvh3hfjio/1650210300000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vZvE-PuLqxp4A73zw-d865qbKhWqc0gdPeLyRXTKnad42hTgJtfWiqCQFyH9OQfZ9FCpLdnSVN6mOEOnG4RhbSNRSJYCbTZpoN8qOFjjQ4wUUOnLSlPr031j0z7fwtUaHkkfrnDTBDjanCffISoiTse6t2f7zWMwCjL5gtaTZ15jZNCKu6i_gKw9XmXBkEkrVE?fife</value>
+            <value>https://doc-0g-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/siq3d1ii100g6qdvtpth9snj80/1650271500000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vYBk-24U0F0M3zRSJq4qDa7giB3FZcYdNtCsufb6Vb8K4MiIahhbRKAhaluODMA0t9DdI65BIImbkyEmE_iJRLue6glBMUNIdo0czUyspf44Z6pzk1ideUd3J8U5TErSg1W3WR79LELXIrO_KIkzFpLTcytzqNVNWjIxcgRd4bRz0FbueWfJFJmV-490zQ8YQk?fife</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -2424,8 +2424,8 @@
     <Folder>
       <name>ДОНЕЦЬКИЙ напрямок</name>
       <Placemark>
-        <name>КРЕМІННА</name>
-        <styleUrl>#icon-ci-5-nodesc</styleUrl>
+        <name>КРЕМІННА (18.04 - бойові дії всередині міста)</name>
+        <styleUrl>#icon-ci-8-nodesc</styleUrl>
         <Point>
           <coordinates>
             38.2250423,49.0482817,0
@@ -2457,7 +2457,7 @@
         <styleUrl>#icon-ci-9</styleUrl>
         <Point>
           <coordinates>
-            37.4883316,47.6044782,0
+            37.5068712,47.6095705,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2499,8 +2499,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name><![CDATA[Мар'їнка]]></name>
-        <styleUrl>#icon-ci-5-nodesc</styleUrl>
+        <name><![CDATA[Мар'їнка (16.04 - російські обстріли)]]></name>
+        <styleUrl>#icon-ci-8-nodesc</styleUrl>
         <Point>
           <coordinates>
             37.5062727,47.9397871,0
@@ -2823,7 +2823,7 @@
       <Placemark>
         <name>Червонопопівка</name>
         <description>https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/</description>
-        <styleUrl>#icon-ci-8</styleUrl>
+        <styleUrl>#icon-ci-9</styleUrl>
         <Point>
           <coordinates>
             38.163788,49.1295128,0
@@ -3107,7 +3107,7 @@
       <Placemark>
         <name>Красногорівка (16.04 - російські обстріли)</name>
         <description>https://censor.net/ua/photo_news/3334682/za_dobu_viyiska_rf_obstrilyaly_13_naselenyh_punktiv_donechchyny_dvoye_myrnyh_jyteliv_zagynuly_natspolitsiya</description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <styleUrl>#icon-ci-8</styleUrl>
         <Point>
           <coordinates>
             37.522498,48.014351,0
@@ -4008,6 +4008,15 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>НІКОПОЛЬ</name>
+        <styleUrl>#icon-ci-5-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            34.3957304,47.5693826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Добрянка (звільнена 5.04)</name>
         <description>https://censor.net/ua/news/3331755/operatyvna_informatsiya_stanom_na_600_6_kvitnya_schodo_rosiyiskogo_vtorgnennya_genshtab_zsu</description>
         <styleUrl>#icon-ci-5</styleUrl>
@@ -4110,7 +4119,7 @@
       <Placemark>
         <name>Приютне (8.04 - російські обстріли)</name>
         <description>https://censor.net/ua/news/3332699/okupanty_zahopyly_prymischennya_ukrtelekomu_v_energodari_u_seli_verhniyi_tokmak_shukayut_uchasnykiv</description>
-        <styleUrl>#icon-ci-8</styleUrl>
+        <styleUrl>#icon-ci-2</styleUrl>
         <Point>
           <coordinates>
             36.6678192,47.7202385,0
@@ -4120,7 +4129,7 @@
       <Placemark>
         <name>Старомайорське (8.04 - російські обстріли)</name>
         <description>https://censor.net/ua/news/3332699/okupanty_zahopyly_prymischennya_ukrtelekomu_v_energodari_u_seli_verhniyi_tokmak_shukayut_uchasnykiv</description>
-        <styleUrl>#icon-ci-8</styleUrl>
+        <styleUrl>#icon-ci-2</styleUrl>
         <Point>
           <coordinates>
             36.7984418,47.7520611,0
@@ -4178,7 +4187,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name><![CDATA[13.04 - ракетний удар ЗСУ по крейсеру "Москва"]]></name>
+        <name><![CDATA[13.04 - ракетний удар ВМС України по крейсеру "Москва"]]></name>
         <description><![CDATA[Затонув флагман чф рф - основна протиповітряна "парасолька" для місцевого угруповання російських кораблів, озброєних крилатими ракетами. Тепер "калібри" запускатимуть на сотню-другу км далі від українських берегів.<br>Знищено головне судно ВМФ росії в Чорноморському регіоні, один із мілітарних символів вєлічія, один із чотирьох усіх російських крейсерів.<br>Це перший ракетний крейсер, утрачений у бою. Останній раз крейсер (аргентинський "Генерал Бельграно") було потоплено в 1982 році торпедою з британського підводного човна в ході Фольклендської (Мальвінської) війни ]]></description>
         <styleUrl>#icon-ci-7</styleUrl>
         <Point>
@@ -4679,11 +4688,11 @@
       </Placemark>
       <Placemark>
         <name>Мала Рогань (звільнено 26.03)</name>
-        <description><![CDATA[На дорозі під селом росіяни розстріляли два десятки цивільних авто разом із пасажирами<br>https://www.youtube.com/watch?v=S-e4dck8fJg]]></description>
+        <description><![CDATA[17 квітня, Харківська ОВА: <br>"...в районі села Мала Рогань наші підрозділи просунулися далі на схід."<br>Джерело: https://censor.net/ua/n3334784<br>-----<br>26 березня: <br>село звільнене ЗСУ. На дорозі під селом росіяни розстріляли два десятки цивільних авто разом із пасажирами<br>https://www.youtube.com/watch?v=S-e4dck8fJg]]></description>
         <styleUrl>#icon-ci-5</styleUrl>
         <Point>
           <coordinates>
-            36.4904327,49.9292205,0
+            36.5371245,49.9338614,0
           </coordinates>
         </Point>
       </Placemark>
@@ -4885,12 +4894,12 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Кутузівка-Прелесне (8.04 - бойові дії)</name>
+        <name>Прелесне (8.04 - бойові дії)</name>
         <description>https://censor.net/ua/video_news/3332436/rosiyiski_soldaty_bijat_pid_vognem_tanka_pidrozdily_kraken_ta_vintaja_pid_harkovom_videofotoreportaj</description>
-        <styleUrl>#icon-ci-8</styleUrl>
+        <styleUrl>#icon-ci-5</styleUrl>
         <Point>
           <coordinates>
-            36.4545433,50.0370516,0
+            36.4547149,50.0244807,0
           </coordinates>
         </Point>
       </Placemark>
@@ -5050,6 +5059,46 @@
         <Point>
           <coordinates>
             37.1185857,49.1263748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>БОРОВА</name>
+        <description>https://censor.net/ua/news/3334740/u_boroviyi_na_harkivschyni_okupanty_pryznachyly_svoyu_vladu_chastyna_tehniky_rf_rushyla_zvidty_na_donbas</description>
+        <styleUrl>#icon-ci-9</styleUrl>
+        <Point>
+          <coordinates>
+            37.6354796,49.3792469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Кутузівка (станом на 17.04 - бойові дії)</name>
+        <description><![CDATA[Харківська ОВА 17 квітня: <br>"...в результаті контрнаступу ЗСУ звільнили Базаліївку, Леб‘яже, частину Кутузівки". <br>Джерело: https://censor.net/ua/n3334784]]></description>
+        <styleUrl>#icon-ci-8</styleUrl>
+        <Point>
+          <coordinates>
+            36.4658402,50.0398488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Леб'яже (станом на 17.04 - звільнене)]]></name>
+        <description><![CDATA[Харківська ОВА 17 квітня:<br>"...в результаті контрнаступу ЗСУ звільнили Базаліївку, Леб‘яже, частину Кутузівки".<br>Джерело: https://censor.net/ua/n3334784]]></description>
+        <styleUrl>#icon-ci-5</styleUrl>
+        <Point>
+          <coordinates>
+            36.9073448,49.8022521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Базаліївка (станом на 17.04 - звільнена)</name>
+        <description><![CDATA[Харківська ОВА 17 квітня:<br>"...в результаті контрнаступу ЗСУ звільнили Базаліївку, Леб‘яже, частину Кутузівки".<br>Джерело: https://censor.net/ua/n3334784]]></description>
+        <styleUrl>#icon-ci-5</styleUrl>
+        <Point>
+          <coordinates>
+            36.9936905,49.8292785,0
           </coordinates>
         </Point>
       </Placemark>
