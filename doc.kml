@@ -595,6 +595,28 @@
         <styleUrl>#icon-ci-9-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="line-F57C00-8169-normal">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>8.169</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-F57C00-8169-highlight">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>12.2535</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-F57C00-8169">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-F57C00-8169-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-F57C00-8169-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="line-F9A825-9138-normal">
       <LineStyle>
         <color>ff25a8f9</color>
@@ -1544,11 +1566,11 @@
       </Placemark>
       <Placemark>
         <name>Спалена російська колона (фото з цього місця - схоже, зроблене на початку квітня)</name>
-        <description><![CDATA[<img src="https://doc-00-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/7gb938pmp6frniofiaqs3mbvj4/1650555900000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vaSt4SWzLwdYE8igIwotuKO6FEaGvIF77PvrFOmqfd6Iybc3AJzqTRmNdo3zIC7H2W7WUYdhOdNkx05jTDAM8g4ip-NK7jthhuFFfdwbUbuA673NsW7IWdz4nAf-8IBNgQM9TirJ94I_koIH-mNSKKFGDh6jFaf_l2uinmtLXM2rw1hBJUEuGCcaf1Ame2frgA?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
+        <description><![CDATA[<img src="https://doc-0o-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/221sshkii0rfdc64mf7cj90ub4/1650617100000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vYZE5wNQgLcXA34sw5ls9StjIX6JXmiAa-JgBsXA710smS77iiYZjJIFDZ6rVOFdNGTHW1w-lB_0es9uB_gUetAd4c8yf4NzMF9kqPYuvuf0BuEn3BG5k-2NDWPB-2XPjMXEBWYRB8FmB6zjKca9pcP-ZWb6NcA-zOcYU8nHB0SnUA-HocH0BtQyhsiD08S878?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://doc-00-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/7gb938pmp6frniofiaqs3mbvj4/1650555900000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vaSt4SWzLwdYE8igIwotuKO6FEaGvIF77PvrFOmqfd6Iybc3AJzqTRmNdo3zIC7H2W7WUYdhOdNkx05jTDAM8g4ip-NK7jthhuFFfdwbUbuA673NsW7IWdz4nAf-8IBNgQM9TirJ94I_koIH-mNSKKFGDh6jFaf_l2uinmtLXM2rw1hBJUEuGCcaf1Ame2frgA?fife</value>
+            <value>https://doc-0o-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/221sshkii0rfdc64mf7cj90ub4/1650617100000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vYZE5wNQgLcXA34sw5ls9StjIX6JXmiAa-JgBsXA710smS77iiYZjJIFDZ6rVOFdNGTHW1w-lB_0es9uB_gUetAd4c8yf4NzMF9kqPYuvuf0BuEn3BG5k-2NDWPB-2XPjMXEBWYRB8FmB6zjKca9pcP-ZWb6NcA-zOcYU8nHB0SnUA-HocH0BtQyhsiD08S878?fife</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -1576,6 +1598,16 @@
         <Point>
           <coordinates>
             29.4096598,51.3757266,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[15.04 - ракетний удар РФ по заводу "Візар"]]></name>
+        <description><![CDATA[- одному з виробників комплектуючих для протикорабельних ракет "Нептун"<br>https://defence-ua.com/people_and_company/ukroboronprom_pidtverdiv_udar_rosijan_po_zavodu_prichetnomu_do_virobnitstva_neptuna-6967.html]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
+        <Point>
+          <coordinates>
+            30.3602638,50.3857125,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3468,9 +3500,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Лиман (станом на 20.04 - російський наступ)</name>
-        <description><![CDATA[20.04: "...продовжується ведення бойових дій в районах населених пунктів Кремінна, Торське та Зелена Долина. Ворог здійснює перегрупування з метою подальшого наступу у напрямку на населений пункт Лиман"<br>https://www.facebook.com/GeneralStaff.ua/posts/298791202433965<br>-----<br>19.04: "На Донеччині тривають важкі бої в районі Лимана..."<br>https://www.ukrinform.ua/rubric-regions/3461282-na-doneccini-trivaut-boi-v-rajoni-limana-rosiani-obstriluut-mista-iz-artilerii-ta-gradiv.html<br>-----<br>17.04: "...основні зусилля ворог зосереджував в районах населених пунктів Лиман, Кремінна, Попасна та Рубіжне..." https://censor.net/ua/n3334837]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <name>Лиман (станом на 22.04 - російський обстріл)</name>
+        <description><![CDATA[22.04: Російські окупанти з "Градів" обстріляли обласну травматологію у місті Лиман на Донеччині.<br> https://censor.net/ua/v3335992<br>-----<br>20.04: "...продовжується ведення бойових дій в районах населених пунктів Кремінна, Торське та Зелена Долина. Ворог здійснює перегрупування з метою подальшого наступу у напрямку на населений пункт Лиман"<br>https://www.facebook.com/GeneralStaff.ua/posts/298791202433965<br>-----<br>19.04: "На Донеччині тривають важкі бої в районі Лимана..."<br>https://www.ukrinform.ua/rubric-regions/3461282-na-doneccini-trivaut-boi-v-rajoni-limana-rosiani-obstriluut-mista-iz-artilerii-ta-gradiv.html<br>-----<br>17.04: "...основні зусилля ворог зосереджував в районах населених пунктів Лиман, Кремінна, Попасна та Рубіжне..." https://censor.net/ua/n3334837]]></description>
+        <styleUrl>#icon-ci-8</styleUrl>
         <Point>
           <coordinates>
             37.8104197,48.9893231,0
@@ -3623,6 +3655,42 @@
         <Point>
           <coordinates>
             37.5054439,47.8517124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[ракетний удар РФ по залізничній станції "Орлівщина" - 21.04]]></name>
+        <description>https://censor.net/ua/news/3335856/okupanty_zavdaly_masovanogo_raketnogo_udaru_po_zaliznychniyi_stantsiyi_orlovschyna_na_dnipropetrovschyni</description>
+        <styleUrl>#icon-ci-4</styleUrl>
+        <Point>
+          <coordinates>
+            35.4014776,48.6154147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>БРАТСЬКА МОГИЛА МАРІУПОЛЬЦІВ довжиною 300 м (станом на 9.04)</name>
+        <description><![CDATA[вирита на узбіччі окружної дороги Мангуша<br>https://www.radiosvoboda.org/a/news-skhemy-bratska-mohyla-manhush/31814746.html]]></description>
+        <styleUrl>#line-F57C00-8169</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            37.2975203,47.0732362,0
+            37.2979602,47.0732581,0
+            37.2985718,47.0732508,0
+            37.2992584,47.0732362,0
+            37.3002455,47.0731485,0
+            37.3014471,47.073017,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Мангуш - тут російські окупанти створили фільтраційний табір</name>
+        <description><![CDATA[для мешканців Маріуполя, які хочуть евакуюватися в напрямку Бердянськ-Запоріжжя<br>https://suspilne.media/225757-rosijski-okupanti-stvorili-filtracijnij-tabir-u-mangusi-pid-mariupolem/]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
+        <Point>
+          <coordinates>
+            37.3137853,47.0482111,0
           </coordinates>
         </Point>
       </Placemark>
@@ -4688,6 +4756,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>ракетний удар рф 21.04 по острову Хортиця</name>
+        <description>https://censor.net/ua/photo_news/3335896/okupanty_vdaryly_raketamy_po_ostrovu_hortytsya_zaporizka_ova_foto</description>
+        <styleUrl>#icon-ci-4</styleUrl>
+        <Point>
+          <coordinates>
+            35.0781114,47.833329,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>СЛОБОЖАНСЬКИЙ напрямок</name>
@@ -4851,9 +4929,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Руські Тишки (станом на 15.03)</name>
+        <name>Руські Тишки (станом на 15.03 - бойові дії)</name>
         <description>https://news.liga.net/ua/politics/news/vsu-otbili-dve-ataki-rossiyskih-voysk-v-prigorodah-harkova</description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <styleUrl>#icon-ci-2</styleUrl>
         <Point>
           <coordinates>
             36.4187554,50.129653,0
@@ -5090,17 +5168,17 @@
         <styleUrl>#icon-ci-5</styleUrl>
         <Point>
           <coordinates>
-            36.2455996,50.0891082,0
+            36.2531527,50.0952755,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>Салтівка (Харків)</name>
         <description>російські обстріли - https://censor.net/ua/news/3329472/zsu_vytisnyayut_okupantiv_iz_roganskogo_chuguyivskogo_dergachivskogo_napryamkiv_izyum_krytychna_tochka</description>
-        <styleUrl>#icon-ci-8</styleUrl>
+        <styleUrl>#icon-ci-5</styleUrl>
         <Point>
           <coordinates>
-            36.3611277,50.0370953,0
+            36.3559777,50.0490014,0
           </coordinates>
         </Point>
       </Placemark>
@@ -5175,7 +5253,8 @@
       </Placemark>
       <Placemark>
         <name>Вільхівка (звільнено 26.03)</name>
-        <styleUrl>#icon-ci-5-nodesc</styleUrl>
+        <description><![CDATA[Голова Харківської ОВА: <br>"Коли ми звільняли населений пункт Вільхівка, так само там були зафіксовані факти, по яких зараз працюють правоохоронні органи – і щодо зґвалтувань, і щодо нелюдського ставлення до місцевих мешканців, про що вони самі розповідали. Люди зі сльозами на очах зустрічали наших військових, коли вони зачищали цей населений пункт від окупантів..."<br>https://www.pravda.com.ua/articles/2022/04/21/7341146/]]></description>
+        <styleUrl>#icon-ci-5</styleUrl>
         <Point>
           <coordinates>
             36.5063972,49.9854343,0
@@ -5395,7 +5474,7 @@
         <styleUrl>#icon-ci-5</styleUrl>
         <Point>
           <coordinates>
-            36.4610664,50.0239844,0
+            36.4540712,50.0226058,0
           </coordinates>
         </Point>
       </Placemark>
@@ -5459,7 +5538,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name><![CDATA[Підрив залізничного мосту через річку Нежеголь на ділянці Бєлгород-Куп'янськ(12.04)]]></name>
+        <name><![CDATA[Підрив залізничного мосту через річку Нежеголь на ділянці Бєлгород-Куп'янськ (12.04)]]></name>
         <description>https://defence-ua.com/news/rf_provalila_svoju_spetsoperatsiju_iz_zahistu_infrastrukturi_v_krajini-6913.html</description>
         <styleUrl>#icon-ci-3</styleUrl>
         <Point>
@@ -5524,7 +5603,7 @@
         <styleUrl>#icon-ci-3</styleUrl>
         <Point>
           <coordinates>
-            37.6242592,49.706851,0
+            37.6242594,49.7046307,0
           </coordinates>
         </Point>
       </Placemark>
@@ -5575,6 +5654,16 @@
         <Point>
           <coordinates>
             37.6354796,49.3792469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ВОВЧАНСЬК</name>
+        <description><![CDATA[21.04, Харківська ОВА - "Вовчанський район повністю окупований"<br>https://www.pravda.com.ua/articles/2022/04/21/7341146/]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
+        <Point>
+          <coordinates>
+            36.9437148,50.277058,0
           </coordinates>
         </Point>
       </Placemark>
@@ -5644,7 +5733,7 @@
         <styleUrl>#icon-ci-5</styleUrl>
         <Point>
           <coordinates>
-            36.4354121,50.049476,0
+            36.4277732,50.0498067,0
           </coordinates>
         </Point>
       </Placemark>
@@ -5655,6 +5744,46 @@
         <Point>
           <coordinates>
             36.6915768,49.7378478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Липці (станом на 21.04 - окуповані)</name>
+        <description><![CDATA[21 квітня, Харківська ОВА:<br>"У ворога наразі є завдання утримати населений пункт Липці ... Наше завдання – звільняти ці території, бо з Липецького району вони наносять удари по Харкову. "Гради", артилерія, реактивні системи залпового вогню працюють саме з цього населеного пункту, бо кілометраж дозволяє їм це робити до будь-якої точки міста Харкова, на жаль".<br>https://www.pravda.com.ua/articles/2022/04/21/7341146/]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
+        <Point>
+          <coordinates>
+            36.425049,50.2047074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Циркуни (станом на 21.04)</name>
+        <description><![CDATA[21 квітня, голова Харківської ОВА:<br>"Не контролюємо північний напрямок – це Липці, Циркуни"<br>https://www.pravda.com.ua/articles/2022/04/21/7341146/]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
+        <Point>
+          <coordinates>
+            36.3919492,50.0903473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Печеніги (станом на 21.04 - "під контролем 50 на 50")]]></name>
+        <description><![CDATA[21 квітня, Харківська ОВА: "...Печеніги – там 50 на 50, російської присутності немає, але блокпости стоять і їхня техніка проїжджає". <br>https://www.pravda.com.ua/articles/2022/04/21/7341146/]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
+        <Point>
+          <coordinates>
+            37.0009317,49.8938547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Куп'янськ-Вузловий]]></name>
+        <description><![CDATA[21.04, Харківська ОВА:<br>"Куп'янськ-Вузловий – це зараз основний логістичний центр, куди доїжджає російська ворожа техніка і далі вже йде по Ізюмському напрямку".<br>https://www.pravda.com.ua/articles/2022/04/21/7341146/]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
+        <Point>
+          <coordinates>
+            37.6507782,49.6625275,0
           </coordinates>
         </Point>
       </Placemark>
