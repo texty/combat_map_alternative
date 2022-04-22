@@ -1566,11 +1566,11 @@
       </Placemark>
       <Placemark>
         <name>Спалена російська колона (фото з цього місця - схоже, зроблене на початку квітня)</name>
-        <description><![CDATA[<img src="https://doc-0o-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/221sshkii0rfdc64mf7cj90ub4/1650617100000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vYZE5wNQgLcXA34sw5ls9StjIX6JXmiAa-JgBsXA710smS77iiYZjJIFDZ6rVOFdNGTHW1w-lB_0es9uB_gUetAd4c8yf4NzMF9kqPYuvuf0BuEn3BG5k-2NDWPB-2XPjMXEBWYRB8FmB6zjKca9pcP-ZWb6NcA-zOcYU8nHB0SnUA-HocH0BtQyhsiD08S878?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
+        <description><![CDATA[<img src="https://doc-04-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/lpjgur44gcqfr9fqommi2osbp0/1650627900000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vaaBd0QtIXzxaC3Y8vIVXMuRIvW_3lbhBqsdaPflebZBv6XaXtjXPGlTivwORRLofSIMhUuEPBNocOuKaiHyoOT91mRuKumsHCROpTy-7lV_kUJAsKY0rpOMBaXKk46bdM3OBM7sErPcZVPsUzgjUSipX_lIiO1Fj5VmLHFNXzYTPSGAQ2s0BQWMAubMDeOGo8?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://doc-0o-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/221sshkii0rfdc64mf7cj90ub4/1650617100000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vYZE5wNQgLcXA34sw5ls9StjIX6JXmiAa-JgBsXA710smS77iiYZjJIFDZ6rVOFdNGTHW1w-lB_0es9uB_gUetAd4c8yf4NzMF9kqPYuvuf0BuEn3BG5k-2NDWPB-2XPjMXEBWYRB8FmB6zjKca9pcP-ZWb6NcA-zOcYU8nHB0SnUA-HocH0BtQyhsiD08S878?fife</value>
+            <value>https://doc-04-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/lpjgur44gcqfr9fqommi2osbp0/1650627900000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vaaBd0QtIXzxaC3Y8vIVXMuRIvW_3lbhBqsdaPflebZBv6XaXtjXPGlTivwORRLofSIMhUuEPBNocOuKaiHyoOT91mRuKumsHCROpTy-7lV_kUJAsKY0rpOMBaXKk46bdM3OBM7sErPcZVPsUzgjUSipX_lIiO1Fj5VmLHFNXzYTPSGAQ2s0BQWMAubMDeOGo8?fife</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -2903,9 +2903,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name><![CDATA[СЛОВ'ЯНСЬК (18.04 - російський обстріл)]]></name>
-        <description><![CDATA[Поліція: "Упродовж минулої доби окупанти вдарили по таких населених пунктах Донеччини: Маріуполь, Авдіївка, Вугледар, Добропілля, Слов’янськ, Торське, Новопіль, Новгородське, Нью-Йорк. Ворог обстрілював мирне населення ракетами, із реактивних систем залпового вогню "Град", танків, важкої артилерії"<br>https://censor.net/ua/p3334872]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <name><![CDATA[СЛОВ'ЯНСЬК (22.04 - російський обстріл)]]></name>
+        <description><![CDATA[22.04, Слов'янська МВА:<br>"...ймовірно, це були касетні бомби. На щастя, обійшлося без жертв. Постраждало кілька районів міста"<br> https://censor.net/ua/n3335980 <br>----<br>18.04, поліція: "Упродовж минулої доби окупанти вдарили по таких населених пунктах Донеччини: Маріуполь, Авдіївка, Вугледар, Добропілля, Слов’янськ, Торське, Новопіль, Новгородське, Нью-Йорк. Ворог обстрілював мирне населення ракетами, із реактивних систем залпового вогню "Град", танків, важкої артилерії"<br>https://censor.net/ua/p3334872]]></description>
+        <styleUrl>#icon-ci-8</styleUrl>
         <Point>
           <coordinates>
             37.6140877,48.8850984,0
@@ -3492,7 +3492,8 @@
       </Placemark>
       <Placemark>
         <name>Курахове</name>
-        <styleUrl>#icon-ci-5-nodesc</styleUrl>
+        <description><![CDATA[22.04, ГШ ЗСУ: <br>"...батальйонна тактична група 136-ї окремої мотострілецької бригади 58-ї загальновійськової армії Південного військового округу Росії, яка діяла на Курахівському напрямку, зазнала значних втрат в живій силі (до 250 осіб) та втратила до 10 одиниць реактивних і ствольних артилерійських систем"<br> https://censor.net/ua/n3335956]]></description>
+        <styleUrl>#icon-ci-5</styleUrl>
         <Point>
           <coordinates>
             37.2926011,47.9891752,0
@@ -3591,7 +3592,8 @@
       </Placemark>
       <Placemark>
         <name>Привілля (20.04 - російські обстріли)</name>
-        <styleUrl>#icon-ci-8-nodesc</styleUrl>
+        <description><![CDATA[20.04, поліція:<br>"Упродовж минулої доби російські військові вдарили по таких населених пунктах Донеччини: Маріуполь, Авдіївка, Вугледар, Мар’їнка, Краматорськ, Новогродівка, Торецьк, Миколаївка, Благодатне, Орлівка, Рубці, Привілля"<br>https://novynarnia.com/2022/04/20/okupanty-obstrilyaly-12-mist/]]></description>
+        <styleUrl>#icon-ci-8</styleUrl>
         <Point>
           <coordinates>
             37.2694129,48.8591454,0
@@ -3601,7 +3603,7 @@
       <Placemark>
         <name>КРАМАТОРСЬК (20.04 - російські обстріли</name>
         <description><![CDATA[20.04, поліція:<br>"Упродовж минулої доби російські військові вдарили по таких населених пунктах Донеччини: Маріуполь, Авдіївка, Вугледар, Мар’їнка, Краматорськ, Новогродівка, Торецьк, Миколаївка, Благодатне, Орлівка, Рубці, Привілля"<br>https://novynarnia.com/2022/04/20/okupanty-obstrilyaly-12-mist/]]></description>
-        <styleUrl>#icon-ci-8</styleUrl>
+        <styleUrl>#icon-ci-5</styleUrl>
         <Point>
           <coordinates>
             37.6058974,48.6865685,0
@@ -3691,6 +3693,16 @@
         <Point>
           <coordinates>
             37.3137853,47.0482111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ямпіль (22.04 - російські обстріли)</name>
+        <description><![CDATA[22 квітня, поліція:<br>"Упродовж минулої доби окупанти вдарили по таких населених пунктах - Маріуполь, Авдіївка, Лиман, Слов’янськ, Мар’їнка, Вугледар, Сіверськ, Світлодарськ, Велика Новосілка, Олександрівка, Зарічне, Очеретине, Дмитро-Дар’ївка, Східне, Новомихайлівка, Новобахмутівка, Новоселівка-3, Шнурки, Ямпіль, траса Київ-Харків-Довжанське".<br> https://censor.net/ua/n3335984]]></description>
+        <styleUrl>#icon-ci-8</styleUrl>
+        <Point>
+          <coordinates>
+            37.9511832,48.9380424,0
           </coordinates>
         </Point>
       </Placemark>
@@ -5698,8 +5710,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Дібровне (19-20.04 - російський наступ)</name>
-        <description><![CDATA[20.04: "Противник здійснив перегрупування військ на Ізюмському напрямку. В районі населеного пункту Дібровне противник проводив наступальні дії, має частковий успіх"<br>https://www.facebook.com/GeneralStaff.ua/posts/299092695737149<br>-----<br>19.04: "На напрямку Ізюм-Барвінкове ворог ... веде наступальні дії на напрямках Андріївка - Заводи, Бражківка - Дмитрівка, Сулигівка - Дібровне"<br>https://censor.net/ua/n3335271<br>-----<br>17.04: "...ворог провів розвідку боєм у районах населених пунктів Заводи, Дмитрівка та Дібровне. Успіху не мав, зазнав втрат і відійшов" - https://censor.net/ua/n3334837]]></description>
+        <name>Дібровне (21.04 - частково окуповане)</name>
+        <description><![CDATA[21.04: "Ворог ... вийшов на північні околиці Дібровного, намагається закріпитись на досягнутому рубежі". <br>https://censor.net/ua/n3335955<br>-----<br>20.04: "Противник здійснив перегрупування військ на Ізюмському напрямку. В районі населеного пункту Дібровне противник проводив наступальні дії, має частковий успіх"<br>https://www.facebook.com/GeneralStaff.ua/posts/299092695737149<br>-----<br>19.04: "На напрямку Ізюм-Барвінкове ворог ... веде наступальні дії на напрямках Андріївка - Заводи, Бражківка - Дмитрівка, Сулигівка - Дібровне"<br>https://censor.net/ua/n3335271<br>-----<br>17.04: "...ворог провів розвідку боєм у районах населених пунктів Заводи, Дмитрівка та Дібровне. Успіху не мав, зазнав втрат і відійшов" - https://censor.net/ua/n3334837]]></description>
         <styleUrl>#icon-ci-8</styleUrl>
         <Point>
           <coordinates>
@@ -5708,8 +5720,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Заводи (19.04 - російський наступ)</name>
-        <description><![CDATA[19.04: "На напрямку Ізюм-Барвінкове ворог ... веде наступальні дії на напрямках Андріївка - Заводи, Бражківка - Дмитрівка, Сулигівка - Дібровне" <br>https://censor.net/ua/n3335271<br>-----<br>17.04: "...ворог провів розвідку боєм у районах населених пунктів Заводи, Дмитрівка та Дібровне. Успіху не мав, зазнав втрат і відійшов" - https://censor.net/ua/n3334837]]></description>
+        <name>Заводи (21.04 - російський наступ)</name>
+        <description><![CDATA[21.04: "...ворог здійснює спроби вести наступ у напрямку населеного пункту Заводи. <br>https://censor.net/ua/n3335955<br>-----<br>19.04: "На напрямку Ізюм-Барвінкове ворог ... веде наступальні дії на напрямках Андріївка - Заводи, Бражківка - Дмитрівка, Сулигівка - Дібровне" <br>https://censor.net/ua/n3335271<br>-----<br>17.04: "...ворог провів розвідку боєм у районах населених пунктів Заводи, Дмитрівка та Дібровне. Успіху не мав, зазнав втрат і відійшов" - https://censor.net/ua/n3334837]]></description>
         <styleUrl>#icon-ci-5</styleUrl>
         <Point>
           <coordinates>
