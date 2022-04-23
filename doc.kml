@@ -1566,11 +1566,11 @@
       </Placemark>
       <Placemark>
         <name>Спалена російська колона (фото з цього місця - схоже, зроблене на початку квітня)</name>
-        <description><![CDATA[<img src="https://doc-0k-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/ocdlgskn5ssq1c8mohg8u7uh4g/1650703500000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vaXAY8g0yLon3LDQBs663oy48TKDrdz7Erbb7TkQmZ5a-QyHZeha23zqQIJkb6Su4dEn2BrZZJB8xNaaQilcFqpNdWrX1cBaEjb2zk7OjS1_wYAh06QhIx7UTZAW9RkCNYHd-1PVLe_4eYHvGQUE6eReXdQgOjOkcQ_J68eSvh62D9ANgBWMdWeOXg96aylvdY?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
+        <description><![CDATA[<img src="https://doc-04-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/nou28dd0lcraevbhu7ohujrdgs/1650714300000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vaWXTlpbu1iJ9b1eXYieqVJbpTlUJ3R5dfBfyN6m7VDkxuHm9dtQWw5n1pKB20-zMOgUI7B5l7X7L10HBuYJvQedY90N2SbpxrlTSk6Yq--Qtphtyl4Wqs6lvhk029m0jx5KLLl1wU92P88aR9C85z_OgRuteX-WZm_IfbgdxFAx_dypp4Ksn5R9kPpv2KRil8?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://doc-0k-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/ocdlgskn5ssq1c8mohg8u7uh4g/1650703500000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vaXAY8g0yLon3LDQBs663oy48TKDrdz7Erbb7TkQmZ5a-QyHZeha23zqQIJkb6Su4dEn2BrZZJB8xNaaQilcFqpNdWrX1cBaEjb2zk7OjS1_wYAh06QhIx7UTZAW9RkCNYHd-1PVLe_4eYHvGQUE6eReXdQgOjOkcQ_J68eSvh62D9ANgBWMdWeOXg96aylvdY?fife</value>
+            <value>https://doc-04-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/nou28dd0lcraevbhu7ohujrdgs/1650714300000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vaWXTlpbu1iJ9b1eXYieqVJbpTlUJ3R5dfBfyN6m7VDkxuHm9dtQWw5n1pKB20-zMOgUI7B5l7X7L10HBuYJvQedY90N2SbpxrlTSk6Yq--Qtphtyl4Wqs6lvhk029m0jx5KLLl1wU92P88aR9C85z_OgRuteX-WZm_IfbgdxFAx_dypp4Ksn5R9kPpv2KRil8?fife</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -2552,6 +2552,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>22.04 - російський обстріл</name>
+        <description><![CDATA[22.04, ДПСУ:<br>"...близько десяти гранат, випущених з-за кордону з автоматичного гранатомета, розірвалися неподалік від прикордонного села Сеньківка.<br>Це вже четвертий зафіксований прикордонниками обстріл Чернігівщини з російської території після того як Сили оборони України витіснили загарбників з області. Два з трьох попередніх обстрілів ворог також цілив на ділянку кордону поблизу Сеньківки, але минулі рази з мінометів" <br>https://censor.net/ua/n3336243]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
+        <Point>
+          <coordinates>
+            31.8648985,52.0941932,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>ДОНЕЦЬКИЙ напрямок</name>
@@ -2842,8 +2852,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Новоайдар</name>
-        <styleUrl>#icon-ci-7-nodesc</styleUrl>
+        <name>Новоайдар (міський шпиталь переповнений пораненими окупантами)</name>
+        <description><![CDATA["....лише за 20 квітня до центральної районної лікарні Новоайдара на Луганщині доставили приблизно 220 поранених та 50 загиблих окупантів":<br>https://hromadske.ua/posts/priblizno-220-poranenih-rosijskih-vijskovih-dostavili-do-likarni-v-novoajdari-lishe-za-odin-den-genshtab-zsu<br>------<br>3 березня - окупований:<br>https://hromadske.radio/news/2022/03/02/rosiys-ki-okupanty-uviyshly-do-mist-starobil-s-k-ta-novoaydar]]></description>
+        <styleUrl>#icon-ci-7</styleUrl>
         <Point>
           <coordinates>
             39.0207795,48.956422,0
@@ -3058,8 +3069,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Старобільськ</name>
-        <styleUrl>#icon-ci-7-nodesc</styleUrl>
+        <name>Старобільськ (окупований 3.03)</name>
+        <description>https://hromadske.radio/news/2022/03/02/rosiys-ki-okupanty-uviyshly-do-mist-starobil-s-k-ta-novoaydar</description>
+        <styleUrl>#icon-ci-7</styleUrl>
         <Point>
           <coordinates>
             38.9160459,49.2725779,0
@@ -4044,7 +4056,7 @@
       <Placemark>
         <name>Станіслав - бойові дії, російькі обстріли (28.03)</name>
         <description>https://censor.net/ua/news/3329200/nich_u_regionah_na_hersonschyni_yidut_boyi_na_meji_z_mykolayivschynoyu_ta_dnipropetrovschynoyu_raketni</description>
-        <styleUrl>#icon-ci-2</styleUrl>
+        <styleUrl>#icon-ci-7</styleUrl>
         <Point>
           <coordinates>
             32.1510582,46.578941,0
@@ -4073,7 +4085,7 @@
       <Placemark>
         <name>бойові дії, російські обстріли (28.03)</name>
         <description>https://censor.net/ua/news/3329200/nich_u_regionah_na_hersonschyni_yidut_boyi_na_meji_z_mykolayivschynoyu_ta_dnipropetrovschynoyu_raketni</description>
-        <styleUrl>#icon-ci-9</styleUrl>
+        <styleUrl>#icon-ci-7</styleUrl>
         <Point>
           <coordinates>
             33.2973221,47.3111134,0
@@ -4103,7 +4115,7 @@
       <Placemark>
         <name>Берислав - бойові дії (28.03)</name>
         <description>https://censor.net/ua/news/3329200/nich_u_regionah_na_hersonschyni_yidut_boyi_na_meji_z_mykolayivschynoyu_ta_dnipropetrovschynoyu_raketni</description>
-        <styleUrl>#icon-ci-9</styleUrl>
+        <styleUrl>#icon-ci-7</styleUrl>
         <Point>
           <coordinates>
             33.4091936,46.8458783,0
@@ -4156,7 +4168,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Генічеськ</name>
+        <name>ГЕНІЧЕСЬК</name>
         <styleUrl>#icon-ci-7-nodesc</styleUrl>
         <Point>
           <coordinates>
@@ -4373,9 +4385,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Олександрівка (під контролем ЗСУ)</name>
+        <name>Олександрівка (3-22.04 - бойові дії)</name>
         <description><![CDATA[22 квітня:<br>"...в районі населеного пункту Олександрівка ворог здійснює оборону зайнятих позицій. Проводить повітряну розвідку. Не виключається ведення штурмових дій з метою виходу на адміністративні межі Херсонської області" <br>https://censor.net/ua/n3336097<br>-----<br>20 квітня - бойові дії:<br>"На Південнобузькому напрямку противник ... веде бойові дії в районі населеного пункту Олександрівка" - <br>https://www.facebook.com/GeneralStaff.ua/posts/298791202433965<br>-----<br>19 квітня: російський наступ - <br>https://censor.net/ua/news/3335271/<br>-----<br>17 квітня: "На Південнобузькому напрямку ворог ... продовжує здійснювати вогневий вплив на позиції наших військ у напрямках на Миколаїв та Олександрівку" -  https://censor.net/ua/n3334837<br>-----<br>6 квітня: "...тривають бої в районі населеного пункту Олександрівка" - https://censor.net/ua/news/3331755/<br>-----<br>3 квітня: "...на Південнобузькому напрямку триває бій за населений пункт Олександрівка" - https://t.me/ministry_of_defense_ua/1020 ]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <styleUrl>#icon-ci-9</styleUrl>
         <Point>
           <coordinates>
             32.1199782,46.6110117,0
@@ -5073,8 +5085,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Безруки (станом на 19.03 - рубіжний пункт російських окупантів)</name>
-        <styleUrl>#icon-ci-7-nodesc</styleUrl>
+        <name>Безруки (21.04 - звільнені)</name>
+        <description><![CDATA[21 квітня, Харківська ОВА: <br>"Наші підрозділи вибили російські війська з населених пунктів: Безруки, Слатіно, Прудянка Дергачівського району та закріпилися на позиціях" <br>https://censor.net/ua/n3336216<br>-----<br>19 березня - станом на цю дату село було рубіжним пунктом російських окупантів:<br>https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
             36.1340731,50.1737475,0
@@ -5260,7 +5273,7 @@
       <Placemark>
         <name>Олексіївка (Харків)</name>
         <description>російські обстріли - https://censor.net/ua/news/3329472/zsu_vytisnyayut_okupantiv_iz_roganskogo_chuguyivskogo_dergachivskogo_napryamkiv_izyum_krytychna_tochka</description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <styleUrl>#icon-ci-2</styleUrl>
         <Point>
           <coordinates>
             36.1894663,50.0548433,0
@@ -5889,6 +5902,36 @@
         <Point>
           <coordinates>
             37.6507782,49.6625275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Слатине (звільнене 21.04)</name>
+        <description><![CDATA[21 квітня, Харківська ОВА:<br>"Наші підрозділи вибили російські війська з населених пунктів: Безруки, Слатіно, Прудянка Дергачівського району та закріпилися на позиціях"<br>https://censor.net/ua/n3336216]]></description>
+        <styleUrl>#icon-ci-5</styleUrl>
+        <Point>
+          <coordinates>
+            36.1551679,50.2094727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Прудянка (звільнена 21.04)</name>
+        <description><![CDATA[21 квітня, Харківська ОВА:<br>"Наші підрозділи вибили російські війська з населених пунктів: Безруки, Слатіно, Прудянка Дергачівського району та закріпилися на позиціях"<br>https://censor.net/ua/n3336216]]></description>
+        <styleUrl>#icon-ci-5</styleUrl>
+        <Point>
+          <coordinates>
+            36.1716778,50.2478787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA["Екопарк Фельдмана" (станом на 13.04 - окупований)]]></name>
+        <description><![CDATA[13 квітня: <br>"...екопарк знаходиться в 300 метрах від позицій російських окупантів"<br>https://life.pravda.com.ua/society/2022/04/13/248230/]]></description>
+        <styleUrl>#icon-ci-7</styleUrl>
+        <Point>
+          <coordinates>
+            36.2895211,50.1030157,0
           </coordinates>
         </Point>
       </Placemark>
