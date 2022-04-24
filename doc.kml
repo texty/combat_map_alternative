@@ -595,70 +595,70 @@
         <styleUrl>#icon-ci-9-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="line-F57C00-8169-normal">
+    <Style id="line-F57C00-19406-normal">
       <LineStyle>
         <color>ff007cf5</color>
-        <width>8.169</width>
+        <width>19.406</width>
       </LineStyle>
     </Style>
-    <Style id="line-F57C00-8169-highlight">
+    <Style id="line-F57C00-19406-highlight">
       <LineStyle>
         <color>ff007cf5</color>
-        <width>12.2535</width>
+        <width>29.109</width>
       </LineStyle>
     </Style>
-    <StyleMap id="line-F57C00-8169">
+    <StyleMap id="line-F57C00-19406">
       <Pair>
         <key>normal</key>
-        <styleUrl>#line-F57C00-8169-normal</styleUrl>
+        <styleUrl>#line-F57C00-19406-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#line-F57C00-8169-highlight</styleUrl>
+        <styleUrl>#line-F57C00-19406-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="line-F57C00-8556-normal">
+    <Style id="line-F57C00-19794-normal">
       <LineStyle>
         <color>ff007cf5</color>
-        <width>8.556</width>
+        <width>19.794</width>
       </LineStyle>
     </Style>
-    <Style id="line-F57C00-8556-highlight">
+    <Style id="line-F57C00-19794-highlight">
       <LineStyle>
         <color>ff007cf5</color>
-        <width>12.834</width>
+        <width>29.691</width>
       </LineStyle>
     </Style>
-    <StyleMap id="line-F57C00-8556">
+    <StyleMap id="line-F57C00-19794">
       <Pair>
         <key>normal</key>
-        <styleUrl>#line-F57C00-8556-normal</styleUrl>
+        <styleUrl>#line-F57C00-19794-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#line-F57C00-8556-highlight</styleUrl>
+        <styleUrl>#line-F57C00-19794-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="line-F9A825-9138-normal">
+    <Style id="line-FBC02D-13594-normal">
       <LineStyle>
-        <color>ff25a8f9</color>
-        <width>9.138</width>
+        <color>ff2dc0fb</color>
+        <width>13.594</width>
       </LineStyle>
     </Style>
-    <Style id="line-F9A825-9138-highlight">
+    <Style id="line-FBC02D-13594-highlight">
       <LineStyle>
-        <color>ff25a8f9</color>
-        <width>13.707</width>
+        <color>ff2dc0fb</color>
+        <width>20.391</width>
       </LineStyle>
     </Style>
-    <StyleMap id="line-F9A825-9138">
+    <StyleMap id="line-FBC02D-13594">
       <Pair>
         <key>normal</key>
-        <styleUrl>#line-F9A825-9138-normal</styleUrl>
+        <styleUrl>#line-FBC02D-13594-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#line-F9A825-9138-highlight</styleUrl>
+        <styleUrl>#line-FBC02D-13594-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="line-FF5252-4875-normal">
@@ -985,6 +985,16 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>Калинівка (24.03 - російські обстріли)</name>
+        <description>https://www.pravda.com.ua/news/2022/03/24/7334303/</description>
+        <styleUrl>#icon-ci-2</styleUrl>
+        <Point>
+          <coordinates>
+            30.2220778,50.2328877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Західна частина Ірпеня (під контролем росіян 8-2?.03)</name>
         <styleUrl>#icon-ci-1-nodesc</styleUrl>
         <Point>
@@ -1089,16 +1099,6 @@
         <Point>
           <coordinates>
             30.1349007,50.8079545,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Калинівка (24.03 - російські обстріли)</name>
-        <description>https://www.pravda.com.ua/news/2022/03/24/7334303/</description>
-        <styleUrl>#icon-ci-2</styleUrl>
-        <Point>
-          <coordinates>
-            30.2220778,50.2328877,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1588,11 +1588,11 @@
       </Placemark>
       <Placemark>
         <name>Спалена російська колона (фото з цього місця - схоже, зроблене на початку квітня)</name>
-        <description><![CDATA[<img src="https://doc-10-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/oqmps1peb9ok3rekr6m0n699ec/1650728700000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vbW1Ckcut_8j5gYpUIFucKLSMQ4k-eeW5YyAehmQQNasSHRyVbVvIWHvajKEbCiXRFYP4kUWh7rGyrU16nztEWSUj3YRLZItWX4UFyVbq8B8bVAr6MslkKMqm8G40-q3kJ1uYRLAhFlq5meJdqS2-uBepvoUGBpx7C5MTmRzajRzEuQGZj6YYcUU3psadpmloE?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
+        <description><![CDATA[<img src="https://doc-0g-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/8d3oklpie8r2k146g10re4bau8/1650815100000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vZ4Ga9ZTain2XFKp51C7vYBI1vG2sCwmWjqpTufhsNsVMTzQmBCuWk83hjyFs1RLNSVXEGH4JfHTdfSCUivHEhzQIQAJfAGPvDjuTwW9eogrHYdNzFgY3c8IlnhJT0FQ9YlbnP5PWRtAjqKPupzfkKtjP9YvSrHMKXxujc5Fzd6COeJZ8xP1BYDpUXEwAj4Hh0?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://doc-10-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/oqmps1peb9ok3rekr6m0n699ec/1650728700000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vbW1Ckcut_8j5gYpUIFucKLSMQ4k-eeW5YyAehmQQNasSHRyVbVvIWHvajKEbCiXRFYP4kUWh7rGyrU16nztEWSUj3YRLZItWX4UFyVbq8B8bVAr6MslkKMqm8G40-q3kJ1uYRLAhFlq5meJdqS2-uBepvoUGBpx7C5MTmRzajRzEuQGZj6YYcUU3psadpmloE?fife</value>
+            <value>https://doc-0g-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/8d3oklpie8r2k146g10re4bau8/1650815100000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vZ4Ga9ZTain2XFKp51C7vYBI1vG2sCwmWjqpTufhsNsVMTzQmBCuWk83hjyFs1RLNSVXEGH4JfHTdfSCUivHEhzQIQAJfAGPvDjuTwW9eogrHYdNzFgY3c8IlnhJT0FQ9YlbnP5PWRtAjqKPupzfkKtjP9YvSrHMKXxujc5Fzd6COeJZ8xP1BYDpUXEwAj4Hh0?fife</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -1604,7 +1604,7 @@
       <Placemark>
         <name>вул. Яблунська (БУЧА): на цих 50 метрах вулиці росіяни вбили 7 людей - до 23.03</name>
         <description><![CDATA[Зйомка з дрона станом на ранок 23 березня показує вже мертві тіла. За два квартали західніше на тій же Яблунській (буд. №211) видно позицію окупантів, за 50 метрів від неї посеред вулиці (навпроти буд. №340) лежить восьмий убитий:<br>https://detector.media/infospace/article/198229/2022-04-08-meduza-opublikuvala-videodokaz-shcho-rosiyski-viyskovi-buly-v-buchi-odnochasno-z-tilamy-tsyvilnykh-na-vulytsyakh/<br>Дев'ятого українця росіяни розстріляли на початку березня під парканом будинку №342 по Яблунській (перехрестя з Вокзальною). Це вбивство потрапило на відео:<br>https://www.pravda.com.ua/news/2022/04/6/7337472/<br>Загалом на Яблунській в той час було вбито не менше 12 мирних мешканців.]]></description>
-        <styleUrl>#line-F9A825-9138</styleUrl>
+        <styleUrl>#line-FBC02D-13594</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -3176,9 +3176,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Золоте (11.04 - спроба російського наступу)</name>
-        <description><![CDATA[11.04 "...ворог намагався провести штурмові дії в районі Золотого, успіху не мав"<br>https://www.radiosvoboda.org/a/news-rosiiski-viiska-nastup-na-iziumskyi-napriamok/31796555.html]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <name>Золоте (23.04 - масовані російські обстрілів)</name>
+        <description><![CDATA[23.04 - шестеро загиблих унаслідок російського обстрілу:<br>https://censor.net/ua/photo_news/3336302/<br>-----<br>11.04 - "...ворог намагався провести штурмові дії в районі Золотого, успіху не мав":<br>https://www.radiosvoboda.org/a/news-rosiiski-viiska-nastup-na-iziumskyi-napriamok/31796555.html]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
         <Point>
           <coordinates>
             38.5068866,48.6998171,0
@@ -3689,7 +3689,7 @@
       <Placemark>
         <name>Рубці (20.04 - російські обстріли)</name>
         <description><![CDATA[20.04, поліція:<br>"Упродовж минулої доби російські військові вдарили по таких населених пунктах Донеччини: Маріуполь, Авдіївка, Вугледар, Мар’їнка, Краматорськ, Новогродівка, Торецьк, Миколаївка, Благодатне, Орлівка, Рубці, Привілля"<br>https://novynarnia.com/2022/04/20/okupanty-obstrilyaly-12-mist/]]></description>
-        <styleUrl>#icon-ci-9</styleUrl>
+        <styleUrl>#icon-ci-2</styleUrl>
         <Point>
           <coordinates>
             37.5768448,49.1705726,0
@@ -3739,7 +3739,7 @@
       <Placemark>
         <name>БРАТСЬКА МОГИЛА МАРІУПОЛЬЦІВ довжиною 300 м (станом на 9.04)</name>
         <description><![CDATA[вирита на узбіччі окружної дороги Мангуша<br>https://www.radiosvoboda.org/a/news-skhemy-bratska-mohyla-manhush/31814746.html]]></description>
-        <styleUrl>#line-F57C00-8169</styleUrl>
+        <styleUrl>#line-F57C00-19794</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -3773,8 +3773,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Зарічне (станом на 21.04 - російський штурм)</name>
-        <description><![CDATA[21.04: "...ворог здійснює штурмові дії в районі населеного пункту Зарічне та, силами до батальйону, намагається наступати в районі населеного пункту Рубіжне" https://censor.net/ua/n3335955]]></description>
+        <name>Зарічне (станом на 22.04 - російські обстріли)</name>
+        <description><![CDATA[22.04 - російські обстріли:<br>https://censor.net/ua/n3335984<br>-----<br>21.04 - російський штурм: <br>"...ворог здійснює штурмові дії в районі населеного пункту Зарічне та, силами до батальйону, намагається наступати в районі населеного пункту Рубіжне" https://censor.net/ua/n3335955]]></description>
         <styleUrl>#icon-ci-9</styleUrl>
         <Point>
           <coordinates>
@@ -3825,7 +3825,7 @@
       <Placemark>
         <name>БРАТСЬКА МОГИЛА під Виноградним (МАРІУПОЛЬ)</name>
         <description><![CDATA[На цьому місці (північна околиця кладовища) окупанти влаштували масове поховання убитих ними маріупольців - станом на 20 квітня розмір братської могили складав 45 на 25 метрів (більше 11 соток).<br>https://www.radiosvoboda.org/a/news-skhemy-vynohradne-bratska-mohyla/31816645.html]]></description>
-        <styleUrl>#line-F57C00-8556</styleUrl>
+        <styleUrl>#line-F57C00-19406</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -3833,6 +3833,26 @@
             37.7146742,47.097758,0
           </coordinates>
         </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Лозове (окуповане 22.04)</name>
+        <description><![CDATA[22.04, ГШ: "Протягом доби ворог здійснював штурмові дії у напрямку міста Слов’янськ, закріпився в населеному пункті Лозове" <br>https://censor.net/ua/n3336097]]></description>
+        <styleUrl>#icon-ci-7</styleUrl>
+        <Point>
+          <coordinates>
+            37.595489,49.2115025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Олександрівка (22.04 - російські обстріли)</name>
+        <description><![CDATA[22.04, Нацполіція: "Упродовж минулої доби окупанти вдарили по таких населених пунктах - Маріуполь, Авдіївка, Лиман, Слов’янськ, Мар’їнка, Вугледар, Сіверськ, Світлодарськ, Велика Новосілка, Олександрівка, Зарічне, Очеретине, Дмитро-Дар’ївка, Східне, Новомихайлівка, Новобахмутівка, Новоселівка-3, Шнурки, Ямпіль, траса Київ-Харків-Довжанське"<br>https://censor.net/ua/n3335984]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
+        <Point>
+          <coordinates>
+            37.5936159,49.1133761,0
+          </coordinates>
+        </Point>
       </Placemark>
     </Folder>
     <Folder>
@@ -3903,8 +3923,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Новомиколаївка</name>
-        <styleUrl>#icon-ci-1-nodesc</styleUrl>
+        <name>Новомиколаївка (станом на 19.03 - окуповане)</name>
+        <description>https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/</description>
+        <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
             32.3556473,46.9672841,0
@@ -3922,8 +3943,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Новогригорівка</name>
-        <styleUrl>#icon-ci-1-nodesc</styleUrl>
+        <name>Новогригорівка (станом на 19.03 - окуповане)</name>
+        <description>https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/</description>
+        <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
             32.3202303,46.8752517,0
@@ -4095,7 +4117,7 @@
         <styleUrl>#icon-ci-7</styleUrl>
         <Point>
           <coordinates>
-            32.1510582,46.578941,0
+            32.1604137,46.578646,0
           </coordinates>
         </Point>
       </Placemark>
@@ -4140,7 +4162,7 @@
       </Placemark>
       <Placemark>
         <name>Високопілля (станом на 21.04 - окуповане)</name>
-        <description><![CDATA[21.04 - погоджуються гуманітарні коридори для евакуації з окупованих населених пунктів Херсонщини - смт Високопілля, с. Нововознесенське, с. Миролюбівка:<br>https://lb.ua/society/2022/04/21/514188_okupovanih_sil_hersonshchini.html<br>-----<br>11.04 - артилерійські обстріли позицій ЗСУ: - https://www.ukrinform.ua/rubric-ato/3454355-rasisti-mozut-vdatis-do-provokacij-na-teritorii-pridnistrova.html<br>-----<br>28.03 - бойові дії: https://censor.net/ua/news/3329200/]]></description>
+        <description><![CDATA[21.04 - погоджуються гуманітарні коридори для евакуації з окупованих населених пунктів Херсонщини - смт Високопілля, с. Нововознесенське, с. Миролюбівка:<br>https://lb.ua/society/2022/04/21/514188_okupovanih_sil_hersonshchini.html<br>-----<br>11.04 - артилерійські обстріли позицій ЗСУ: - https://www.ukrinform.ua/rubric-ato/3454355-rasisti-mozut-vdatis-do-provokacij-na-teritorii-pridnistrova.html<br>-----<br>28.03 - бойові дії: https://censor.net/ua/news/3329200/<br>-----<br>станом на 19.03 - окуповане:<br>"...на Південнобузькому напрямку ворог діє в районах населених пунктів Правдине, Петровське, Новогригорівка, Новомиколаївка, Червоне, Грейгове, Михайло-Ларіне, Інгулка, Христофорівка, Мар’янівка, Новоолександрівка, Партизанське, Снігурівка, Калинівське, Біла Криниця, Кочубеївка, Високопілля, Нововоронцовка..."<br>https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/]]></description>
         <styleUrl>#icon-ci-7</styleUrl>
         <Point>
           <coordinates>
@@ -4302,7 +4324,7 @@
       </Placemark>
       <Placemark>
         <name>Кочубеївка (звільнено 30.03)</name>
-        <description>https://censor.net/ua/news/3330052/zsu_zvilnyly_sche_try_naselenyh_punkty_genshtab</description>
+        <description><![CDATA[https://censor.net/ua/news/3330052/zsu_zvilnyly_sche_try_naselenyh_punkty_genshtab<br>станом на 19.03 було окуповане:<br>https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/]]></description>
         <styleUrl>#icon-ci-5</styleUrl>
         <Point>
           <coordinates>
@@ -4352,8 +4374,8 @@
       </Placemark>
       <Placemark>
         <name>Мала Шестірня (звільнено 31.03)</name>
-        <description>https://www.facebook.com/okPivden/posts/2022535391251037</description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <description><![CDATA[https://www.facebook.com/okPivden/posts/2022535391251037<br>-----<br>станом на 19.03 було окуповане:<br>https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
             33.5506449,47.552173,0
@@ -4362,7 +4384,7 @@
       </Placemark>
       <Placemark>
         <name>Нововоронцовка (звільнено 31.03)</name>
-        <description>https://www.facebook.com/okPivden/posts/2022535391251037</description>
+        <description><![CDATA[https://www.facebook.com/okPivden/posts/2022535391251037<br>------<br>станом на 19.03 було окуповане:<br>https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/]]></description>
         <styleUrl>#icon-ci-5</styleUrl>
         <Point>
           <coordinates>
@@ -4382,7 +4404,7 @@
       </Placemark>
       <Placemark>
         <name>Князівка (звільнено 31.03)</name>
-        <description>https://www.facebook.com/okPivden/posts/2022535391251037</description>
+        <description><![CDATA[https://www.facebook.com/okPivden/posts/2022535391251037<br>-----<br>станом на 19.03 була окупована:<br>https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/]]></description>
         <styleUrl>#icon-ci-5</styleUrl>
         <Point>
           <coordinates>
@@ -4396,14 +4418,14 @@
         <styleUrl>#icon-ci-5</styleUrl>
         <Point>
           <coordinates>
-            33.2273352,47.4583067,0
+            33.2269919,47.4589451,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name><![CDATA[Пригір'я (звільнено 31.03)]]></name>
-        <description>https://www.facebook.com/okPivden/posts/2022535391251037</description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <description><![CDATA[https://www.facebook.com/okPivden/posts/2022535391251037<br>-----<br>станом на 19.03 було окуповане:<br>https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
             33.197398,47.5240594,0
@@ -4413,7 +4435,7 @@
       <Placemark>
         <name>Свободне (звільнено 31.03)</name>
         <description>https://www.facebook.com/okPivden/posts/2022535391251037</description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
             33.1400581,47.5558101,0
@@ -4423,7 +4445,7 @@
       <Placemark>
         <name><![CDATA[Кам'янка (звільнено 31.03)]]></name>
         <description>https://www.facebook.com/okPivden/posts/2022535391251037</description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
             33.1633258,47.5349957,0
@@ -4482,9 +4504,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Любине (5.04)</name>
-        <description>https://www.pravda.com.ua/news/2022/04/5/7337229/</description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <name>Любине (5.04 - обстріли)</name>
+        <description><![CDATA[5 квітня: "...в районі населених пунктів Любине, Мирне, Копані Миколаївської області окупанти обстрілювали з артилерії позиції ЗСУ"<br>https://www.pravda.com.ua/news/2022/04/5/7337229/]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
         <Point>
           <coordinates>
             32.6757706,47.0840202,0
@@ -4511,9 +4533,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Копані (5.04)</name>
-        <description>https://www.pravda.com.ua/news/2022/04/5/7337229/</description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <name>Мирне, Копані (5.04 - обстріли)</name>
+        <description><![CDATA[5 квітня: "...в районі населених пунктів Любине, Мирне, Копані Миколаївської області окупанти обстрілювали з артилерії позиції ЗСУ"<br>https://www.pravda.com.ua/news/2022/04/5/7337229/]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
         <Point>
           <coordinates>
             32.3098328,46.8091372,0
@@ -4610,6 +4632,16 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>Партизанське (станом на 19.03 було окуповане)</name>
+        <description>https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/</description>
+        <styleUrl>#icon-ci-7</styleUrl>
+        <Point>
+          <coordinates>
+            32.5399153,47.0641567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Павлівка (8, 17.04 - російські обстріли)</name>
         <description><![CDATA[17 квітня - російські обстріли:<br>https://censor.net/ua/n3334878<br>-----<br>8 квітня - російські обстріли<br>https://censor.net/ua/news/3332699/okupanty_zahopyly_prymischennya_ukrtelekomu_v_energodari_u_seli_verhniyi_tokmak_shukayut_uchasnykiv]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
@@ -4670,12 +4702,12 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Правдине (тут 12.04 окупанти розстріляли сімох українців)</name>
-        <description>https://texty.org.ua/fragments/106347/sytuaciya-na-hersonshyni-obstrily-j-rozstrily-u-selah-okupovanyj-herson-porozhniye/</description>
+        <name>Правдине (село поруйноване, окупанти розстрілюють людей)</name>
+        <description><![CDATA[23.04 - двоє цивільних підірвались на російській розтяжці:<br>https://censor.net/ua/news/3336304/<br>-----<br>12.04 - окупанти розстріляли сімох українців:<br>https://texty.org.ua/fragments/106347/sytuaciya-na-hersonshyni-obstrily-j-rozstrily-u-selah-okupovanyj-herson-porozhniye/<br>------<br>3.04 - село сильно зруйноване (Херсонська ОВДА):<br>"Пошкоджені та зруйновані майже 90 житлових будинків в селі Правдине Білозерської громади Херсонського району. Немає електропостачання, води та газу.<br>Також пошкоджена школа, дитячий садочок, будинок культури та адміністративне приміщення Правдинського старостату. Зі старостатом зв’язок відсутній".<br>https://suspilne.media/225156-u-seli-pravdine-na-hersonsini-zrujnovani-majze-90-budinkiv-nemae-svitla-gazu-ta-vodi/]]></description>
         <styleUrl>#icon-ci-7</styleUrl>
         <Point>
           <coordinates>
-            32.2149672,46.7355907,0
+            32.2121348,46.732767,0
           </coordinates>
         </Point>
       </Placemark>
@@ -4790,8 +4822,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name><![CDATA[Кам'янське (станом на 1.04 ідуть бої)]]></name>
-        <description><![CDATA[17 квітня - російські обстріли:<br>https://censor.net/ua/n3334878<br>-----<br>1 квітня - бойові дії:<br>https://censor.net/ua/news/3330434/znyscheno_32_viyiskovyh_rf_2_tanky_2_grady_2_btr_na_zaporijji_zvedennya_ova_stanom_na_1_kvitnya]]></description>
+        <name><![CDATA[Кам'янське (квітень - російські обстріли)]]></name>
+        <description><![CDATA[23 квітня - російські обстріли вбили трьох людей:<br>https://censor.net/ua/news/3336385/<br>-----<br>17 квітня - російські обстріли:<br>https://censor.net/ua/n3334878<br>-----<br>1 квітня - бойові дії:<br>https://censor.net/ua/news/3330434/]]></description>
         <styleUrl>#icon-ci-9</styleUrl>
         <Point>
           <coordinates>
@@ -4852,7 +4884,7 @@
       <Placemark>
         <name>Велика Костромка (19-20.04 - російські обстріли)</name>
         <description><![CDATA[20.04 - https://censor.net/ua/news/3335638/<br>-----<br>19.04 - https://censor.net/ua/news/3335135/]]></description>
-        <styleUrl>#icon-ci-9</styleUrl>
+        <styleUrl>#icon-ci-2</styleUrl>
         <Point>
           <coordinates>
             33.7178731,47.538673,0
@@ -4946,6 +4978,36 @@
         <Point>
           <coordinates>
             33.1913716,47.2379635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Калинівське (станом на 19.03 - окуповане)</name>
+        <description>https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/</description>
+        <styleUrl>#icon-ci-7</styleUrl>
+        <Point>
+          <coordinates>
+            32.973633,47.1152965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Нова Шестірня (станом на 19.03)</name>
+        <description><![CDATA[У зведенні ГШ вказана як "Петровське" (назва до 2016 року):<br>https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/]]></description>
+        <styleUrl>#icon-ci-7</styleUrl>
+        <Point>
+          <coordinates>
+            33.2232513,47.4385822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Петрівка (станом на 19.03)</name>
+        <description><![CDATA[станом на 19.03 було окуповане:<br>https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/]]></description>
+        <styleUrl>#icon-ci-7</styleUrl>
+        <Point>
+          <coordinates>
+            33.7919625,47.4100392,0
           </coordinates>
         </Point>
       </Placemark>
@@ -5663,9 +5725,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Шевченкове (9.04 - свіжі підрозділи окупантів з росії)</name>
-        <description><![CDATA["...з метою нарощування угруповання військ із Бєлгородської області у район Шевченкового Харківської області переміщено до двох батальйонних тактичних груп противника" -<br>https://www.facebook.com/GeneralStaff.ua/posts/291324193180666]]></description>
-        <styleUrl>#icon-ci-7</styleUrl>
+        <name>Шевченкове (за неофіційними даними, звільнено)</name>
+        <description><![CDATA[18.04 - за неофіційними (Том Купер) даними, звільнене:<br>"...92-а механізована бригада звільнила Шевченкове, всього за 35 км від Купʼянська..."<br>https://texty.org.ua/fragments/106446/tom-kuper-rosiyany-zitknulysya-z-polipshenymy-systemamy-ukrayinskoyi-ppo-sho-zmushuye-yih-nabahato-retelnishe-planuvaty-svoyi-diyi/<br>-----<br>станом на 9.04 - свіжі підрозділи окупантів:<br>"...з метою нарощування угруповання військ із Бєлгородської області у район Шевченкового Харківської області переміщено до двох батальйонних тактичних груп противника" -<br>https://www.facebook.com/GeneralStaff.ua/posts/291324193180666]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
             37.1720313,49.681167,0
@@ -5884,7 +5946,7 @@
       <Placemark>
         <name>Дібровне (22.04 - російський наступ)</name>
         <description><![CDATA[22.04: "...для покращення тактичного положення підрозділів противник намагався здійснювати наступальні дії у напрямках населених пунктів Заводи та Дібровне, успіху не має"<br> https://censor.net/ua/n3336097<br>-----<br>21.04 - СЕЛО ЧАСТКОВО ОКУПОВАНЕ:<br>"Ворог ... вийшов на північні околиці Дібровного, намагається закріпитись на досягнутому рубежі". <br>https://censor.net/ua/n3335955<br>-----<br>20.04: "Противник здійснив перегрупування військ на Ізюмському напрямку. В районі населеного пункту Дібровне противник проводив наступальні дії, має частковий успіх"<br>https://www.facebook.com/GeneralStaff.ua/posts/299092695737149<br>-----<br>19.04: "На напрямку Ізюм-Барвінкове ворог ... веде наступальні дії на напрямках Андріївка - Заводи, Бражківка - Дмитрівка, Сулигівка - Дібровне"<br>https://censor.net/ua/n3335271<br>-----<br>17.04: "...ворог провів розвідку боєм у районах населених пунктів Заводи, Дмитрівка та Дібровне. Успіху не мав, зазнав втрат і відійшов" - https://censor.net/ua/n3334837]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <styleUrl>#icon-ci-9</styleUrl>
         <Point>
           <coordinates>
             37.2466138,48.9893171,0
@@ -5973,8 +6035,8 @@
       </Placemark>
       <Placemark>
         <name>Слатине (звільнене 21.04)</name>
-        <description><![CDATA[21 квітня, Харківська ОВА:<br>"Наші підрозділи вибили російські війська з населених пунктів: Безруки, Слатіно, Прудянка Дергачівського району та закріпилися на позиціях"<br>https://censor.net/ua/n3336216]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <description><![CDATA[23 квітня - російські обстріли:<br>https://censor.net/ua/news/3336307/<br>-----<br>21 квітня - село звільнене (Харківська ОВА):<br>"Наші підрозділи вибили російські війська з населених пунктів: Безруки, Слатіно, Прудянка Дергачівського району та закріпилися на позиціях"<br>https://censor.net/ua/n3336216]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
         <Point>
           <coordinates>
             36.1551679,50.2094727,0
@@ -5998,6 +6060,76 @@
         <Point>
           <coordinates>
             36.2895211,50.1030157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Бояро-Лежачі (23.04 - російський обстріл)</name>
+        <description>https://censor.net/ua/news/3336337/rosiyiski_viyiska_obstrilyaly_z_artyleriyi_dva_sela_na_sumschyni_ova_foto</description>
+        <styleUrl>#icon-ci-9</styleUrl>
+        <Point>
+          <coordinates>
+            34.2155322,51.2682486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Атинське (23.04 - російський обстріл)</name>
+        <description>https://censor.net/ua/news/3336337/rosiyiski_viyiska_obstrilyaly_z_artyleriyi_dva_sela_na_sumschyni_ova_foto</description>
+        <styleUrl>#icon-ci-9</styleUrl>
+        <Point>
+          <coordinates>
+            34.2658863,51.2371146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Чорноглазівка (тут 23.04 цивільна машина підірвалась на залишеній росіянами міні)</name>
+        <description>https://censor.net/ua/news/3336312/na_harkivschyni_avtomobil_pidirvavsya_na_vorojiyi_mini_dvoye_lyudeyi_zagynuly_prokuratura_foto</description>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <Point>
+          <coordinates>
+            36.0517207,50.2378006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Курулька</name>
+        <description><![CDATA[24.04, Генштаб:<br>"...окупанти обстрілюють позицій наших військ у районах населених пунктів Курулька та Нова Дмитрівка, проводять повітряну розвідку позицій підрозділів Збройних Сил України за допомогою БПЛА "Орлан-10" в районах населених пунктів Барвінкове, Курулька та Гусарівка"<br>https://censor.net/ua/n3336386]]></description>
+        <styleUrl>#icon-ci-5</styleUrl>
+        <Point>
+          <coordinates>
+            37.2553938,48.9541405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Нова Дмитрівка</name>
+        <description><![CDATA[24.04, Генштаб:<br>"...окупанти обстрілюють позицій наших військ у районах населених пунктів Курулька та Нова Дмитрівка, проводять повітряну розвідку позицій підрозділів Збройних Сил України за допомогою БПЛА "Орлан-10" в районах населених пунктів Барвінкове, Курулька та Гусарівка"<br>https://censor.net/ua/n3336386]]></description>
+        <styleUrl>#icon-ci-5</styleUrl>
+        <Point>
+          <coordinates>
+            37.1425173,48.9698506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Піски-Радьківські</name>
+        <description><![CDATA[окуповані 20-21 квітня, за неофіційними даними (Том Купер):<br>"Українцям довелося відступити з Пісків-Радьківських до Лозового...":<br>https://texty.org.ua/fragments/106446/tom-kuper-rosiyany-zitknulysya-z-polipshenymy-systemamy-ukrayinskoyi-ppo-sho-zmushuye-yih-nabahato-retelnishe-planuvaty-svoyi-diyi/]]></description>
+        <styleUrl>#icon-ci-7</styleUrl>
+        <Point>
+          <coordinates>
+            37.6031401,49.2603783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Коротич (22,24.04 - російські обстріли)</name>
+        <description><![CDATA[24.04, ГШ:<br>"...з метою ускладнення переміщення підрозділів Сил оборони в районі населеного пункту Коротичі противник провів дистанційне мінування місцевості"<br>https://censor.net/ua/n3336386<br>-----<br>22.04 - російські обстріли:<br>https://2day.kh.ua/kharkow/obstrel-terminala-v-korotiche-ochevidcy-videli-bombu-na-parashyute]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
+        <Point>
+          <coordinates>
+            36.0439121,49.9535231,0
           </coordinates>
         </Point>
       </Placemark>
