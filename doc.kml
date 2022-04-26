@@ -595,6 +595,50 @@
         <styleUrl>#icon-ci-9-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="line-F57C00-17663-normal">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>17.663</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-F57C00-17663-highlight">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>26.4945</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-F57C00-17663">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-F57C00-17663-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-F57C00-17663-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-F57C00-19019-normal">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>19.019</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-F57C00-19019-highlight">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>28.5285</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-F57C00-19019">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-F57C00-19019-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-F57C00-19019-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="line-F57C00-19406-normal">
       <LineStyle>
         <color>ff007cf5</color>
@@ -637,28 +681,6 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#line-F57C00-19794-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="line-FBC02D-13594-normal">
-      <LineStyle>
-        <color>ff2dc0fb</color>
-        <width>13.594</width>
-      </LineStyle>
-    </Style>
-    <Style id="line-FBC02D-13594-highlight">
-      <LineStyle>
-        <color>ff2dc0fb</color>
-        <width>20.391</width>
-      </LineStyle>
-    </Style>
-    <StyleMap id="line-FBC02D-13594">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#line-FBC02D-13594-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#line-FBC02D-13594-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="line-FF5252-4875-normal">
@@ -1588,11 +1610,11 @@
       </Placemark>
       <Placemark>
         <name>Спалена російська колона (фото з цього місця - схоже, зроблене на початку квітня)</name>
-        <description><![CDATA[<img src="https://doc-0o-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/flfq69ej5sosjvbigqofc5e3p4/1650877200000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vYcfrNmasLDBukOzYPnQj0g8S2VY_qEZ6KUD9CEwYEZXAAhhjlE4v72yQfG2sMAKMhBlmXIX0pIxGbIFxwiKmSFUXAehdYEWoLIE6hGLTOC9qZOuJJMJsAb6tpTwC8J5-QzYIohUEG06rJoAv9J5gO0DmyyQQi8H7u4YS5rMKcpfIj-izIe95e0lOpKedsf7Hw?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
+        <description><![CDATA[<img src="https://doc-08-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/8hg74og6havhabn21okjkofgkc/1650962700000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_va2g3YDsfUZUDuy5Cl2XbuZDe0oGiuCGHdN9Fj_pw_669cQIqPAp51ztjnKiCx9c972hiyU2J-lIAM9sdalVzdzYB1JoBU7ST79MNc9keqI-0mLVR8a7Z26Rb6LeU_oTfAL6v_6Gmz4PU65oNkyjlYcHbVBpuqFGE7sD_FJlgDaGg1qSai-vIWg3nhu2rU4h8Y?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://doc-0o-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/flfq69ej5sosjvbigqofc5e3p4/1650877200000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vYcfrNmasLDBukOzYPnQj0g8S2VY_qEZ6KUD9CEwYEZXAAhhjlE4v72yQfG2sMAKMhBlmXIX0pIxGbIFxwiKmSFUXAehdYEWoLIE6hGLTOC9qZOuJJMJsAb6tpTwC8J5-QzYIohUEG06rJoAv9J5gO0DmyyQQi8H7u4YS5rMKcpfIj-izIe95e0lOpKedsf7Hw?fife</value>
+            <value>https://doc-08-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/8hg74og6havhabn21okjkofgkc/1650962700000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_va2g3YDsfUZUDuy5Cl2XbuZDe0oGiuCGHdN9Fj_pw_669cQIqPAp51ztjnKiCx9c972hiyU2J-lIAM9sdalVzdzYB1JoBU7ST79MNc9keqI-0mLVR8a7Z26Rb6LeU_oTfAL6v_6Gmz4PU65oNkyjlYcHbVBpuqFGE7sD_FJlgDaGg1qSai-vIWg3nhu2rU4h8Y?fife</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -1604,7 +1626,7 @@
       <Placemark>
         <name>вул. Яблунська (БУЧА): на цих 50 метрах вулиці росіяни вбили 7 людей - до 23.03</name>
         <description><![CDATA[Зйомка з дрона станом на ранок 23 березня показує вже мертві тіла. За два квартали західніше на тій же Яблунській (буд. №211) видно позицію окупантів, за 50 метрів від неї посеред вулиці (навпроти буд. №340) лежить восьмий убитий:<br>https://detector.media/infospace/article/198229/2022-04-08-meduza-opublikuvala-videodokaz-shcho-rosiyski-viyskovi-buly-v-buchi-odnochasno-z-tilamy-tsyvilnykh-na-vulytsyakh/<br>Дев'ятого українця росіяни розстріляли на початку березня під парканом будинку №342 по Яблунській (перехрестя з Вокзальною). Це вбивство потрапило на відео:<br>https://www.pravda.com.ua/news/2022/04/6/7337472/<br>Загалом на Яблунській в той час було вбито не менше 12 мирних мешканців.]]></description>
-        <styleUrl>#line-FBC02D-13594</styleUrl>
+        <styleUrl>#line-F57C00-19019</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -2506,6 +2528,16 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>КОРЮКІВКА</name>
+        <description>http://www.golos.com.ua/news/151957</description>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <Point>
+          <coordinates>
+            32.2471055,51.7674012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Дніпровське (5.04 - під контролем ДПС України)</name>
         <description><![CDATA["...підрозділи ДПС ОУВ Сіверськ вийшли на державний кордон України у Чернігівський області та забезпечують охорону [в районі] Дніпровське, Гірськ, Неданчичі" - <br>https://censor.net/ua/photo_news/3331636/ukrayinski_prykordonnyky_ponovyly_ohoronu_derjkordonu_na_dilyantsi_dnprovskegirsknedanchychy_na_chernigivschyni]]></description>
         <styleUrl>#icon-ci-5</styleUrl>
@@ -2576,16 +2608,6 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>КОРЮКІВКА</name>
-        <description>http://www.golos.com.ua/news/151957</description>
-        <styleUrl>#icon-ci-1</styleUrl>
-        <Point>
-          <coordinates>
-            32.2471055,51.7674012,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>22.04 - російський обстріл</name>
         <description><![CDATA[22.04, ДПСУ:<br>"...близько десяти гранат, випущених з-за кордону з автоматичного гранатомета, розірвалися неподалік від прикордонного села Сеньківка.<br>Це вже четвертий зафіксований прикордонниками обстріл Чернігівщини з російської території після того як Сили оборони України витіснили загарбників з області. Два з трьох попередніх обстрілів ворог також цілив на ділянку кордону поблизу Сеньківки, але минулі рази з мінометів" <br>https://censor.net/ua/n3336243]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
@@ -2595,12 +2617,32 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>25.04 - удар по комплексній базі матеріально-технічного забезпечення міноборони рф (БРЯНСК)</name>
+        <description><![CDATA[Палає російська військова нафтобаза:<br>https://www.svoboda.org/a/v-bryanske-gorit-neftebaza-transnefti-/31819545.html<br>ДИВ. ТАКОЖ: одним кілометром північніше горить ключова нафтобаза "Транснєфті"]]></description>
+        <styleUrl>#icon-ci-8</styleUrl>
+        <Point>
+          <coordinates>
+            34.4436894,53.2152608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[25.04 - удар по вузловій нафтобазі "Транснєфті" (БРЯНСК)]]></name>
+        <description><![CDATA[Палають базові склади палива в регіоні, в тому числі й головний транспортний хаб із транзиту російської нафти в Європу:<br>https://www.svoboda.org/a/v-bryanske-gorit-neftebaza-transnefti-/31819545.html<br>-----<br>Юрій Бутусов: "По своему экономическому значению эти нефтебазы - как крейсер "Москва" для Черноморского флота"<br>https://www.facebook.com/butusov.yuriy/posts/7578105445563019<br>-----<br>ДИВ. ТАКОЖ: одним кілометром південніше горить нафтобаза російської армії]]></description>
+        <styleUrl>#icon-ci-8</styleUrl>
+        <Point>
+          <coordinates>
+            34.4572012,53.2266021,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>ДОНЕЦЬКИЙ напрямок</name>
       <Placemark>
-        <name>КРЕМІННА (22.04 - окупована)</name>
-        <description><![CDATA[22 квітня:<br>"В районах Зеленої Долини та Кремінної противник продовжує закріплюватись на зайнятих позиціях, здійснює перегрупування та підготовку до наступальних дій"<br>https://censor.net/ua/n3336097<br>-----<br>20 квітня:<br>"...продовжується ведення бойових дій в районах населених пунктів Кремінна, Торське та Зелена Долина. Ворог здійснює перегрупування з метою подальшого наступу у напрямку на населений пункт Лиман"<br>https://www.facebook.com/GeneralStaff.ua/posts/298791202433965<br>-----<br>19 квітня: <br>"У Луганській області бої точаться у середмістях Кремінної та Попасної. Проте Збройні сили України зберігають контроль над цими територіями"<br>https://www.ukrinform.ua/rubric-regions/3461282-na-doneccini-trivaut-boi-v-rajoni-limana-rosiani-obstriluut-mista-iz-artilerii-ta-gradiv.html<br>-----<br>18 квітня:<br>Луганська ОВА: "На сьогодні найгарячіша точка, крім Попасної, де вже півтора місяці гаряче, це н.п. Кремінна – там вже всередині йдуть бої. Туди вже зайшла російська армія, величезна кількість техніки..."<br>https://www.pravda.com.ua/news/2022/04/18/7340360/<br>"Можемо констатувати, що наступ вже почався!"<br> https://censor.net/ua/n3334856<br>"Окупанти взяли під контроль Кремінну. Бої тривають. Ворог обстріляв цивільне авто, четверо людей загинули" https://censor.net/ua/n3334877]]></description>
+        <name>КРЕМІННА (25.04 - вибухом знищено окупаційну владу міста)</name>
+        <description><![CDATA[25 квітня:<br>"За дивним збігом обставин вибух газу стався під час наради так званого "народного мера" Кремінної зі зрадниками силових структур. Кажуть, що всі, хто зрадив присязі на вірність народу України, загинули", - повідомив Геращенко.<br>https://censor.net/ua/n3336729<br>-----<br>22 квітня:<br>"В районах Зеленої Долини та Кремінної противник продовжує закріплюватись на зайнятих позиціях, здійснює перегрупування та підготовку до наступальних дій"<br>https://censor.net/ua/n3336097<br>-----<br>20 квітня:<br>"...продовжується ведення бойових дій в районах населених пунктів Кремінна, Торське та Зелена Долина. Ворог здійснює перегрупування з метою подальшого наступу у напрямку на населений пункт Лиман"<br>https://www.facebook.com/GeneralStaff.ua/posts/298791202433965<br>-----<br>19 квітня: <br>"У Луганській області бої точаться у середмістях Кремінної та Попасної. Проте Збройні сили України зберігають контроль над цими територіями"<br>https://www.ukrinform.ua/rubric-regions/3461282-na-doneccini-trivaut-boi-v-rajoni-limana-rosiani-obstriluut-mista-iz-artilerii-ta-gradiv.html<br>-----<br>18 квітня:<br>Луганська ОВА: "На сьогодні найгарячіша точка, крім Попасної, де вже півтора місяці гаряче, це н.п. Кремінна – там вже всередині йдуть бої. Туди вже зайшла російська армія, величезна кількість техніки..."<br>https://www.pravda.com.ua/news/2022/04/18/7340360/<br>"Можемо констатувати, що наступ вже почався!"<br> https://censor.net/ua/n3334856<br>"Окупанти взяли під контроль Кремінну. Бої тривають. Ворог обстріляв цивільне авто, четверо людей загинули" https://censor.net/ua/n3334877]]></description>
         <styleUrl>#icon-ci-7</styleUrl>
         <Point>
           <coordinates>
@@ -2610,7 +2652,7 @@
       </Placemark>
       <Placemark>
         <name>РУБІЖНЕ (один із напрямків російського наступу)</name>
-        <description><![CDATA[24.04: "Ворог намагався закріпитись в західній, північно-західній та східній частинах Рубіжного, успіху не досяг"<br>https://www.facebook.com/GeneralStaff.ua/posts/301968408782911<br>-----<br>22.04 - "противник .... безуспішно намагається закріпитись в населеному пункті Рубіжне"<br> https://censor.net/ua/n3336097<br>-----<br>21.04 - "ворог ... силами до батальйону, намагається наступати в районі населеного пункту Рубіжне" <br>https://censor.net/ua/n3335955<br>-----<br>20.04 - "...ворог намагався закріпитись в західній і північно-західній частинах Рубіжного. Зазнав невдачі"<br>https://www.facebook.com/GeneralStaff.ua/posts/299092695737149<br>-----<br>13.04 - "...противник основні зусилля зосереджує на взятті під контроль н.п. Рубіжне, Нижнє, Попасна, Новобахмутівка":<br>https://armyinform.com.ua/2022/04/13/u-doneczkij-ta-luganskij-oblastyah-zsu-vidbyly-6-atak-znyshhyly-2-avto-ta-3-artsystemy-zbyto-su-25/<br>-----<br>10.04 - позиційні бої всередині міста (Луганська ОВА)]]></description>
+        <description><![CDATA[25.04: "...ворог намагався просунутись вглиб території України в районах населених пунктів Коровій Яр і Рубіжне..."<br>https://censor.net/ua/n3336738<br>------<br>24.04: "Ворог намагався закріпитись в західній, північно-західній та східній частинах Рубіжного, успіху не досяг"<br>https://www.facebook.com/GeneralStaff.ua/posts/301968408782911<br>-----<br>22.04 - "противник .... безуспішно намагається закріпитись в населеному пункті Рубіжне"<br> https://censor.net/ua/n3336097<br>-----<br>21.04 - "ворог ... силами до батальйону, намагається наступати в районі населеного пункту Рубіжне" <br>https://censor.net/ua/n3335955<br>-----<br>20.04 - "...ворог намагався закріпитись в західній і північно-західній частинах Рубіжного. Зазнав невдачі"<br>https://www.facebook.com/GeneralStaff.ua/posts/299092695737149<br>-----<br>13.04 - "...противник основні зусилля зосереджує на взятті під контроль н.п. Рубіжне, Нижнє, Попасна, Новобахмутівка":<br>https://armyinform.com.ua/2022/04/13/u-doneczkij-ta-luganskij-oblastyah-zsu-vidbyly-6-atak-znyshhyly-2-avto-ta-3-artsystemy-zbyto-su-25/<br>-----<br>10.04 - позиційні бої всередині міста (Луганська ОВА)]]></description>
         <styleUrl>#icon-ci-9</styleUrl>
         <Point>
           <coordinates>
@@ -2639,7 +2681,7 @@
       </Placemark>
       <Placemark>
         <name>ВУГЛЕДАР (20-22.04 - російські обстріли)</name>
-        <description><![CDATA[22.04, поліція:<br>"Упродовж минулої доби окупанти вдарили по таких населених пунктах Донеччини - Маріуполь, Авдіївка, Лиман, Слов’янськ, Мар’їнка, Вугледар, Сіверськ, Світлодарськ, Велика Новосілка..." <br>https://censor.net/ua/n3335984<br>-----<br>20.04, поліція:<br>"Упродовж минулої доби російські військові вдарили по таких населених пунктах Донеччини: Маріуполь, Авдіївка, Вугледар, Мар’їнка, Краматорськ, Новогродівка, Торецьк, Миколаївка, Благодатне, Орлівка, Рубці, Привілля"<br>https://novynarnia.com/2022/04/20/okupanty-obstrilyaly-12-mist/<br> -----<br>18.04:<br>"Упродовж минулої доби окупанти вдарили по таких населених пунктах Донеччини: Маріуполь, Авдіївка, Вугледар, Добропілля, Слов’янськ, Торське, Новопіль, Новгородське, Нью-Йорк. Ворог обстрілював мирне населення ракетами, із реактивних систем залпового вогню "Град", танків, важкої артилерії"<br> https://censor.net/ua/p3334872]]></description>
+        <description><![CDATA[25.04 - російські обстріли:<br>"...росіяни вдарили по таких населених пунктах Донеччини: Маріуполь, Лиман, Авдіївка, Дружківка, Вугледар, Велика Новосілка..."<br>https://censor.net/ua/p3336594<br>-----<br>22.04, поліція:<br>"Упродовж минулої доби окупанти вдарили по таких населених пунктах Донеччини - Маріуполь, Авдіївка, Лиман, Слов’янськ, Мар’їнка, Вугледар, Сіверськ, Світлодарськ, Велика Новосілка..." <br>https://censor.net/ua/n3335984<br>-----<br>20.04, поліція:<br>"Упродовж минулої доби російські військові вдарили по таких населених пунктах Донеччини: Маріуполь, Авдіївка, Вугледар, Мар’їнка, Краматорськ, Новогродівка, Торецьк, Миколаївка, Благодатне, Орлівка, Рубці, Привілля"<br>https://novynarnia.com/2022/04/20/okupanty-obstrilyaly-12-mist/<br> -----<br>18.04:<br>"Упродовж минулої доби окупанти вдарили по таких населених пунктах Донеччини: Маріуполь, Авдіївка, Вугледар, Добропілля, Слов’янськ, Торське, Новопіль, Новгородське, Нью-Йорк. Ворог обстрілював мирне населення ракетами, із реактивних систем залпового вогню "Град", танків, важкої артилерії"<br> https://censor.net/ua/p3334872]]></description>
         <styleUrl>#icon-ci-9</styleUrl>
         <Point>
           <coordinates>
@@ -2658,12 +2700,12 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>АВДІЇВКА (21.04 - спроба російського наступу)</name>
-        <description><![CDATA[21.04 - спроби російського наступу:<br>"...на Авдіївському напрямку росіяни спробували прорвати нашу оборону, але зазнали невдачі. В самому місті російські снаряди протягом доби пошкодили декілька житлових будинків, сільгосппідприємство, медичний заклад..." https://censor.net/ua/p3335698<br>----<br>20.04 - російські обстріли:<br>"Упродовж минулої доби російські військові вдарили по таких населених пунктах Донеччини: Маріуполь, Авдіївка, Вугледар, Мар’їнка..."<br>https://novynarnia.com/2022/04/20/okupanty-obstrilyaly-12-mist/<br>-----<br>18.04 - ГШ ЗСУ: "Противник ...здійснював штурмові дії в районах населених пунктів Новотошківське, Попасна, Авдіївка та Мар’їнка. Успіху також не мав". <br>Джерело: https://censor.net/ua/n3334837]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <name>АВДІЇВКА (25.04 - російські обстріли)</name>
+        <description><![CDATA[25.04 - російські обстріли:<br>"...росіяни вдарили по таких населених пунктах Донеччини: Маріуполь, Лиман, Авдіївка..."<br>https://censor.net/ua/p3336594<br>-----<br>21.04 - спроби російського наступу:<br>"...на Авдіївському напрямку росіяни спробували прорвати нашу оборону, але зазнали невдачі. В самому місті російські снаряди протягом доби пошкодили декілька житлових будинків, сільгосппідприємство, медичний заклад..." https://censor.net/ua/p3335698<br>-----<br>20.04 - російські обстріли:<br>"Упродовж минулої доби російські військові вдарили по таких населених пунктах Донеччини: Маріуполь, Авдіївка, Вугледар, Мар’їнка..."<br>https://novynarnia.com/2022/04/20/okupanty-obstrilyaly-12-mist/<br>-----<br>18.04 - ГШ ЗСУ: "Противник ...здійснював штурмові дії в районах населених пунктів Новотошківське, Попасна, Авдіївка та Мар’їнка. Успіху також не мав". <br>Джерело: https://censor.net/ua/n3334837]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
         <Point>
           <coordinates>
-            37.7646231,48.1280398,0
+            37.7618765,48.1280398,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2677,9 +2719,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name><![CDATA[Мар'їнка (24.04 - російський штурм)]]></name>
-        <description><![CDATA[24.04 - російський наступ:<br>"...противник здійснив спробу наступу у напрямку населених пунктів Новомихайлівка та Мар’їнка. Успіху не мав"<br>https://www.facebook.com/GeneralStaff.ua/posts/301968408782911<br>-----<br>22 квітня - російський штурм:<br>"Ворог продовжує намагатися за підтримки артилерії здійснювати штурмові дії в районі населеного пункту Мар’їнка"<br> https://censor.net/ua/n3335955<br>-----<br>21 квітня - російські обстріли:<br>https://censor.net/ua/photo_news/3335698/<br>-----<br>20 квітня - російський штурм:<br>"На Донецькому напрямку ворог вів штурмові дії у районі населеного пункту Мар’їнка"<br>https://www.facebook.com/GeneralStaff.ua/posts/298791202433965<br>20 квітня - російські обстріли:<br>https://novynarnia.com/2022/04/20/okupanty-obstrilyaly-12-mist/<br>-----<br>19 квітня - контрнаступ ЗСУ звільняє місто: <br>"...в районі міста Мар’їнка в результаті контрнаступу наших військ ворог зазнав втрат та відступив. Підрозділи Сил оборони відновили контроль над цим населеним пунктом"<br>https://censor.net/ua/n3335308<br>-----<br>18 квітня - ЗСУ втрачає контроль над містом?<br>-----<br>17 квітня: "Противник ... здійснював штурмові дії в районах населених пунктів Новотошківське, Попасна, Авдіївка та Мар’їнка. Успіху також не мав" - https://censor.net/ua/n3334837<br>-----<br>16 квітня - російські обстріли]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <name><![CDATA[Мар'їнка (25.04 - російські обстріли)]]></name>
+        <description><![CDATA[25.04, ОВА - російські обстріли:<br>"...росіяни вбили ще 4 мирних мешканців Донеччини: 2 у Лимані, 1 у Мар’їнці та 1 в Ямполі..."<br>https://censor.net/ua/n3336764<br>-----<br>24.04 - російський наступ:<br>"...противник здійснив спробу наступу у напрямку населених пунктів Новомихайлівка та Мар’їнка. Успіху не мав"<br>https://www.facebook.com/GeneralStaff.ua/posts/301968408782911<br>-----<br>22 квітня - російський штурм:<br>"Ворог продовжує намагатися за підтримки артилерії здійснювати штурмові дії в районі населеного пункту Мар’їнка"<br> https://censor.net/ua/n3335955<br>-----<br>21 квітня - російські обстріли:<br>https://censor.net/ua/photo_news/3335698/<br>-----<br>20 квітня - російський штурм:<br>"На Донецькому напрямку ворог вів штурмові дії у районі населеного пункту Мар’їнка"<br>https://www.facebook.com/GeneralStaff.ua/posts/298791202433965<br>20 квітня - російські обстріли:<br>https://novynarnia.com/2022/04/20/okupanty-obstrilyaly-12-mist/<br>-----<br>19 квітня - контрнаступ ЗСУ звільняє місто: <br>"...в районі міста Мар’їнка в результаті контрнаступу наших військ ворог зазнав втрат та відступив. Підрозділи Сил оборони відновили контроль над цим населеним пунктом"<br>https://censor.net/ua/n3335308<br>-----<br>18 квітня - ЗСУ втрачає контроль над містом?<br>-----<br>17 квітня: "Противник ... здійснював штурмові дії в районах населених пунктів Новотошківське, Попасна, Авдіївка та Мар’їнка. Успіху також не мав" - https://censor.net/ua/n3334837<br>-----<br>16 квітня - російські обстріли]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
         <Point>
           <coordinates>
             37.5062727,47.9397871,0
@@ -2697,8 +2739,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>ПОПАСНА (19-22.04 - бойові дії в середмісті)</name>
-        <description><![CDATA[24.04: "...підрозділи окупантів намагалися закріпитися на досягнутих рубежах. Ворог також проводив перегрупування та ... підготовку до подальших штурмових дій"<br>https://www.facebook.com/GeneralStaff.ua/posts/301968408782911<br> --------<br>22.04: "В районі Попасної ворог проводив штурмові дії в напрямку населеного пункту Новотошківське та вглиб населеного пункту Попасна, успіху не має".<br>https://censor.net/ua/news/3336097/<br>--------<br>21.04: "...триває штурм Попасної"<br>https://censor.net/ua/photo_news/3335658/<br>--------<br>20.04: "Противник намагається здійснювати наступ з метою просування вглиб населеного пункту Попасна"<br>https://www.facebook.com/GeneralStaff.ua/posts/298791202433965<br>-------<br>19.04: "У Луганській області бої точаться у середмістях Кремінної та Попасної. Проте Збройні сили України зберігають контроль над цими територіями":<br>https://www.ukrinform.ua/rubric-regions/3461282-na-doneccini-trivaut-boi-v-rajoni-limana-rosiani-obstriluut-mista-iz-artilerii-ta-gradiv.html<br>--------<br>17.04: "Противник ... здійснював штурмові дії в районах населених пунктів Новотошківське, Попасна, Авдіївка та Мар’їнка. Успіху також не мав": <br>https://censor.net/ua/n3334837<br>--------<br>13.04: "...противник основні зусилля зосереджує на взятті під контроль н.п. Рубіжне, Нижнє, Попасна, Новобахмутівка":<br>https://armyinform.com.ua/2022/04/13/u-doneczkij-ta-luganskij-oblastyah-zsu-vidbyly-6-atak-znyshhyly-2-avto-ta-3-artsystemy-zbyto-su-25/]]></description>
+        <name>ПОПАСНА (19-25.04 - бойові дії в середмісті)</name>
+        <description><![CDATA[25.04: В місті Маріуполь ворог завдавав ракетно-бомбових ударів по позиціях наших військ на території заводу "Азовсталь". Веде штурмові дії населеного пункту Попасна"<br> https://censor.net/ua/n3336569<br>--------<br>24.04: "...підрозділи окупантів намагалися закріпитися на досягнутих рубежах. Ворог також проводив перегрупування та ... підготовку до подальших штурмових дій"<br>https://www.facebook.com/GeneralStaff.ua/posts/301968408782911<br> --------<br>22.04: "В районі Попасної ворог проводив штурмові дії в напрямку населеного пункту Новотошківське та вглиб населеного пункту Попасна, успіху не має".<br>https://censor.net/ua/news/3336097/<br>--------<br>21.04: "...триває штурм Попасної"<br>https://censor.net/ua/photo_news/3335658/<br>--------<br>20.04: "Противник намагається здійснювати наступ з метою просування вглиб населеного пункту Попасна"<br>https://www.facebook.com/GeneralStaff.ua/posts/298791202433965<br>-------<br>19.04: "У Луганській області бої точаться у середмістях Кремінної та Попасної. Проте Збройні сили України зберігають контроль над цими територіями":<br>https://www.ukrinform.ua/rubric-regions/3461282-na-doneccini-trivaut-boi-v-rajoni-limana-rosiani-obstriluut-mista-iz-artilerii-ta-gradiv.html<br>--------<br>17.04: "Противник ... здійснював штурмові дії в районах населених пунктів Новотошківське, Попасна, Авдіївка та Мар’їнка. Успіху також не мав": <br>https://censor.net/ua/n3334837<br>--------<br>13.04: "...противник основні зусилля зосереджує на взятті під контроль н.п. Рубіжне, Нижнє, Попасна, Новобахмутівка":<br>https://armyinform.com.ua/2022/04/13/u-doneczkij-ta-luganskij-oblastyah-zsu-vidbyly-6-atak-znyshhyly-2-avto-ta-3-artsystemy-zbyto-su-25/]]></description>
         <styleUrl>#icon-ci-9</styleUrl>
         <Point>
           <coordinates>
@@ -2780,8 +2822,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Санжарівка</name>
-        <styleUrl>#icon-ci-9-nodesc</styleUrl>
+        <name>Санжарівка (станом на 19.03 - бойові дії)</name>
+        <styleUrl>#icon-ci-2-nodesc</styleUrl>
         <Point>
           <coordinates>
             38.4076686,48.444168,0
@@ -2989,7 +3031,7 @@
       <Placemark>
         <name>Терни (станом на 19.04 - російський наступ)</name>
         <description><![CDATA[19.04: "...основні зусилля противник зосередив на прориві оборони українських військ. Зокрема, в Луганській області – на рубежі Кремінна - Терни, Рубіжне - Попасна..."<br>https://censor.net/ua/n3335271]]></description>
-        <styleUrl>#icon-ci-9</styleUrl>
+        <styleUrl>#icon-ci-2</styleUrl>
         <Point>
           <coordinates>
             37.9526823,49.084617,0
@@ -3056,7 +3098,7 @@
       <Placemark>
         <name>Молодіжне (станом на 19.03 - бойові дії)</name>
         <description>https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/</description>
-        <styleUrl>#icon-ci-9</styleUrl>
+        <styleUrl>#icon-ci-2</styleUrl>
         <Point>
           <coordinates>
             38.4943382,48.6484428,0
@@ -3139,8 +3181,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Гірське</name>
-        <styleUrl>#icon-ci-5-nodesc</styleUrl>
+        <name>Гірське (23.04 - російські обстріли, 4 вбитих)</name>
+        <description><![CDATA[23.04 - російські обстріли убили чотирьох цивільних:<br>https://nv.ua/ukr/ukraine/events/luganska-oblast-chotiri-lyudini-zaginuli-pislya-obstrilu-mista-girske-gayday-novini-ukrajini-50236395.html<br>-----<br>20.04 - російські обстріли:<br>https://hromadske.ua/posts/okupanti-vnochi-obstrilyali-novodruzhesk-ta-girske-na-luganshini]]></description>
+        <styleUrl>#icon-ci-5</styleUrl>
         <Point>
           <coordinates>
             38.5111686,48.722837,0
@@ -3176,8 +3219,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Золоте (23.04 - масовані російські обстріли)</name>
-        <description><![CDATA[23.04 - шестеро загиблих унаслідок російського обстрілу:<br>https://censor.net/ua/photo_news/3336302/<br>-----<br>11.04 - "...ворог намагався провести штурмові дії в районі Золотого, успіху не мав":<br>https://www.radiosvoboda.org/a/news-rosiiski-viiska-nastup-na-iziumskyi-napriamok/31796555.html]]></description>
+        <name>Золоте (23.04 - російські обстріли, 2 вбитих)</name>
+        <description><![CDATA[23.04 - двоє загиблих унаслідок російського обстрілу:<br>https://censor.net/ua/photo_news/3336302/<br>-----<br>11.04 - "...ворог намагався провести штурмові дії в районі Золотого, успіху не мав":<br>https://www.radiosvoboda.org/a/news-rosiiski-viiska-nastup-na-iziumskyi-napriamok/31796555.html]]></description>
         <styleUrl>#icon-ci-9</styleUrl>
         <Point>
           <coordinates>
@@ -3196,9 +3239,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Новотошківське (20-22.04 - російський штурм)</name>
-        <description><![CDATA[22.04: "В районі Попасної ворог проводив штурмові дії в напрямку населеного пункту Новотошківське та вглиб населеного пункту Попасна, успіху не має".<br>https://censor.net/ua/news/3336097/<br>-----<br>21.04: "Тривають оборонні бої з противником у напрямку населених пунктів Новотошківське та Попасна".<br> https://censor.net/ua/n3335955<br>-----<br>20.04: ворог "здійснював штурмові дії в напрямку Новотошківське, успіху не мав"<br>https://www.facebook.com/GeneralStaff.ua/posts/299092695737149<br>-----<br>17.04: "Противник ... здійснював штурмові дії в районах населених пунктів Новотошківське, Попасна, Авдіївка та Мар’їнка..."<br>https://censor.net/ua/n3334837<br>-----<br>5.04: бойові дії<br>https://www.pravda.com.ua/news/2022/04/5/7337229/]]></description>
-        <styleUrl>#icon-ci-9</styleUrl>
+        <name>Новотошківське (25.04 - окуповане)</name>
+        <description><![CDATA[25.04, Луганська ОВА: "Новотошківське захоплене російськими військами після тривалого знищення ударами з повітря"<br>https://censor.net/ua/n3336721<br>-----<br>22.04: "В районі Попасної ворог проводив штурмові дії в напрямку населеного пункту Новотошківське та вглиб населеного пункту Попасна, успіху не має".<br>https://censor.net/ua/news/3336097/<br>-----<br>21.04: "Тривають оборонні бої з противником у напрямку населених пунктів Новотошківське та Попасна".<br> https://censor.net/ua/n3335955<br>-----<br>20.04: ворог "здійснював штурмові дії в напрямку Новотошківське, успіху не мав"<br>https://www.facebook.com/GeneralStaff.ua/posts/299092695737149<br>-----<br>17.04: "Противник ... здійснював штурмові дії в районах населених пунктів Новотошківське, Попасна, Авдіївка та Мар’їнка..."<br>https://censor.net/ua/n3334837<br>-----<br>5.04: бойові дії<br>https://www.pravda.com.ua/news/2022/04/5/7337229/]]></description>
+        <styleUrl>#icon-ci-7</styleUrl>
         <Point>
           <coordinates>
             38.6303989,48.7243581,0
@@ -3328,16 +3371,6 @@
         <Point>
           <coordinates>
             37.7961488,48.2461007,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name><![CDATA[МАРІУПОЛЬ з 1.03 б'ється в оточенні]]></name>
-        <description><![CDATA[Станом на 8.04 під українським контролем залишається більша частина міста - Приморський район, частина Лівобережного району, територія біля заводу "Азовсталь" і порт Маріуполя (радник міського голови Петро Андрющенко)<br>-----<br>https://focus.ua/uk/voennye-novosti/510407-mariupol-v-osade-kak-okruzhili-gorod-chto-kontroliruet-vsu-kak-vyzhivali-gorozhane]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
-        <Point>
-          <coordinates>
-            37.5790954,47.1059289,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3490,7 +3523,7 @@
       <Placemark>
         <name>Калинове (5.04 - російський наступ)</name>
         <description>https://www.pravda.com.ua/news/2022/04/5/7337229/</description>
-        <styleUrl>#icon-ci-9</styleUrl>
+        <styleUrl>#icon-ci-2</styleUrl>
         <Point>
           <coordinates>
             38.4999748,48.5614734,0
@@ -3507,19 +3540,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Новодружеськ (21.04 і до того - російські обстріли)</name>
-        <description><![CDATA[21 квітня, Луганська ОВА: <br>"...значна частина руйнувань внаслідок російського вторгнення за останню добу виникла в Рубіжному та Новодружеську..." https://censor.net/ua/p3335658]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
-        <Point>
-          <coordinates>
-            38.3508166,48.960896,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Хрестище (16.04 - російські обстріли)</name>
-        <description>https://censor.net/ua/photo_news/3334682/za_dobu_viyiska_rf_obstrilyaly_13_naselenyh_punktiv_donechchyny_dvoye_myrnyh_jyteliv_zagynuly_natspolitsiya</description>
-        <styleUrl>#icon-ci-2</styleUrl>
+        <name>Хрестище (25.04 - російські обстріли)</name>
+        <description><![CDATA[25.04 - російські обстріли:<br>https://censor.net/ua/p3336594<br>--------<br>16.04 - російські обстріли:<br>https://censor.net/ua/photo_news/3334682/]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
         <Point>
           <coordinates>
             37.4975287,48.9252593,0
@@ -3567,9 +3590,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Лиман (24.04 - російський штурм)</name>
-        <description><![CDATA[24.04: "...противник намагався здійснювати штурмові дії в напрямку населених пунктів Лиман та Яцьківка, успіху не мав".<br>https://www.facebook.com/GeneralStaff.ua/posts/301968408782911<br>-----<br>22.04: Російські окупанти з "Градів" обстріляли обласну травматологію у місті Лиман на Донеччині.<br> https://censor.net/ua/v3335992<br>-----<br>20.04: "...продовжується ведення бойових дій в районах населених пунктів Кремінна, Торське та Зелена Долина. Ворог здійснює перегрупування з метою подальшого наступу у напрямку на населений пункт Лиман"<br>https://www.facebook.com/GeneralStaff.ua/posts/298791202433965<br>-----<br>19.04: "На Донеччині тривають важкі бої в районі Лимана..."<br>https://www.ukrinform.ua/rubric-regions/3461282-na-doneccini-trivaut-boi-v-rajoni-limana-rosiani-obstriluut-mista-iz-artilerii-ta-gradiv.html<br>-----<br>17.04: "...основні зусилля ворог зосереджував в районах населених пунктів Лиман, Кремінна, Попасна та Рубіжне..." https://censor.net/ua/n3334837]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <name>Лиман (24.04 - росіяни вбили дітей)</name>
+        <description><![CDATA[25.04 - російські обстріли:<br>"...росіяни вбили ще 4 мирних мешканців Донеччини: 2 у Лимані, 1 у Мар’їнці та 1 у Ямполі. Обидві жертви росіян у Лимані – це діти..."<br>https://censor.net/ua/n3336764<br>-----<br>24.04: "...противник намагався здійснювати штурмові дії в напрямку населених пунктів Лиман та Яцьківка, успіху не мав".<br>https://www.facebook.com/GeneralStaff.ua/posts/301968408782911<br>-----<br>22.04: Російські окупанти з "Градів" обстріляли обласну травматологію у місті Лиман на Донеччині.<br> https://censor.net/ua/v3335992<br>-----<br>20.04: "...продовжується ведення бойових дій в районах населених пунктів Кремінна, Торське та Зелена Долина. Ворог здійснює перегрупування з метою подальшого наступу у напрямку на населений пункт Лиман"<br>https://www.facebook.com/GeneralStaff.ua/posts/298791202433965<br>-----<br>19.04: "На Донеччині тривають важкі бої в районі Лимана..."<br>https://www.ukrinform.ua/rubric-regions/3461282-na-doneccini-trivaut-boi-v-rajoni-limana-rosiani-obstriluut-mista-iz-artilerii-ta-gradiv.html<br>-----<br>17.04: "...основні зусилля ворог зосереджував в районах населених пунктів Лиман, Кремінна, Попасна та Рубіжне..." https://censor.net/ua/n3334837]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
         <Point>
           <coordinates>
             37.8104197,48.9893231,0
@@ -3717,9 +3740,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Новомихайлівка (24.04 - російський наступ)</name>
-        <description><![CDATA[24.04 - російський наступ:<br>"...противник здійснив спробу наступу у напрямку населених пунктів Новомихайлівка та Мар’їнка. Успіху не мав"<br>https://www.facebook.com/GeneralStaff.ua/posts/301968408782911<br>--------<br>21.04 - російські обстріли:<br>https://censor.net/ua/photo_news/3335698/viyiska_rf_sprobuvaly_prorvaty_nashu_oboronu_na_avdiyivskomu_napryamku_ale_zaznaly_nevdachi_ova_foto<br>--------<br>24.03 - російські обстріли:<br>https://gazeta.ua/articles/np/_rosijski-okupanti-vbili-135-ukrayinskih-ditej/1078189]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <name>Новомихайлівка (25.04 - російські обстріли)</name>
+        <description><![CDATA[25.04 - російські обстріли:<br>https://censor.net/ua/p3336594<br>--------<br>24.04 - російський наступ:<br>"...противник здійснив спробу наступу у напрямку населених пунктів Новомихайлівка та Мар’їнка. Успіху не мав"<br>https://www.facebook.com/GeneralStaff.ua/posts/301968408782911<br>--------<br>21.04 - російські обстріли:<br>https://censor.net/ua/photo_news/3335698<br>--------<br>24.03 - російські обстріли:<br>https://gazeta.ua/articles/np/_rosijski-okupanti-vbili-135-ukrayinskih-ditej/1078189]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
         <Point>
           <coordinates>
             37.5054439,47.8517124,0
@@ -3738,7 +3761,7 @@
       </Placemark>
       <Placemark>
         <name>БРАТСЬКА МОГИЛА МАРІУПОЛЬЦІВ довжиною 300 м (станом на 9.04)</name>
-        <description><![CDATA[вирита на узбіччі окружної дороги Мангуша<br>https://www.radiosvoboda.org/a/news-skhemy-bratska-mohyla-manhush/31814746.html]]></description>
+        <description><![CDATA[Братська могила вирита на узбіччі окружної дороги селища Мангуш:<br>https://www.radiosvoboda.org/a/news-skhemy-bratska-mohyla-manhush/31814746.html<br>У ній може лежати від 3 до 9 тисяч маріупольців:<br>https://censor.net/ua/photo_news/3336686/]]></description>
         <styleUrl>#line-F57C00-19794</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -3763,8 +3786,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Ямпіль (22.04 - російські обстріли)</name>
-        <description><![CDATA[22 квітня, поліція:<br>"Упродовж минулої доби окупанти вдарили по таких населених пунктах - Маріуполь, Авдіївка, Лиман, Слов’янськ, Мар’їнка, Вугледар, Сіверськ, Світлодарськ, Велика Новосілка, Олександрівка, Зарічне, Очеретине, Дмитро-Дар’ївка, Східне, Новомихайлівка, Новобахмутівка, Новоселівка-3, Шнурки, Ямпіль, траса Київ-Харків-Довжанське".<br> https://censor.net/ua/n3335984]]></description>
+        <name>Ямпіль (25.04 - російські обстріли)</name>
+        <description><![CDATA[25.04, ОВА - російські обстріли:<br>"...росіяни вбили ще 4 мирних мешканців Донеччини: 2 у Лимані, 1 у Мар’їнці та 1 в Ямполі..."<br>https://censor.net/ua/n3336764<br>-----<br>22.04, поліція - російські обстріли:<br>"Упродовж минулої доби окупанти вдарили по таких населених пунктах - Маріуполь, Авдіївка, Лиман, Слов’янськ, Мар’їнка, Вугледар, Сіверськ, Світлодарськ, Велика Новосілка, Олександрівка, Зарічне, Очеретине, Дмитро-Дар’ївка, Східне, Новомихайлівка, Новобахмутівка, Новоселівка-3, Шнурки, Ямпіль, траса Київ-Харків-Довжанське".<br> https://censor.net/ua/n3335984]]></description>
         <styleUrl>#icon-ci-5</styleUrl>
         <Point>
           <coordinates>
@@ -3865,6 +3888,16 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name><![CDATA[МАРІУПОЛЬ з 1.03 б'ється в повному оточенні]]></name>
+        <description><![CDATA[ситуація станом на 13.04:<br>https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-april-13<br>-----<br>8.04 - "...під українським контролем залишається більша частина міста - Приморський район, частина Лівобережного району, територія біля заводу "Азовсталь" і порт Маріуполя" (радник міського голови Петро Андрющенко)<br>-----<br>https://focus.ua/uk/voennye-novosti/510407-mariupol-v-osade-kak-okruzhili-gorod-chto-kontroliruet-vsu-kak-vyzhivali-gorozhane]]></description>
+        <styleUrl>#icon-ci-5</styleUrl>
+        <Point>
+          <coordinates>
+            37.5790954,47.1059289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Киселівка</name>
         <description><![CDATA[22.04 - "Накопичення живої сили і техніки ворога в районі Киселівки для подальшого наступу на Посад-Покровське зазнало вогневої поразки нашими підрозділами. У підсумку окупанти зі значними втратами відійшли у бік Чорнобаївки".<br>https://lb.ua/society/2022/04/24/514529_hersonskiy_oblasti_zsu_zvilnili_8.html]]></description>
         <styleUrl>#icon-ci-1</styleUrl>
@@ -3873,6 +3906,58 @@
             32.388308,46.7451502,0
           </coordinates>
         </Point>
+      </Placemark>
+      <Placemark>
+        <name>Коровий Яр (25.04 - бойові дії)</name>
+        <description><![CDATA[25.04: "...ворог, посиливши обстріли наявними засобами вогневого ураження, намагався просунутись вглиб території України в районах населених пунктів Коровій Яр і Рубіжне..."<br>https://censor.net/ua/n3336738]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
+        <Point>
+          <coordinates>
+            37.6392617,49.1531733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Новодружеськ (21.04 і до того - російські обстріли)</name>
+        <description><![CDATA[-----<br>21.04, Луганська ОВА: <br>"...значна частина руйнувань внаслідок російського вторгнення за останню добу виникла в Рубіжному та Новодружеську..." https://censor.net/ua/p3335658<br>-----<br>перед тим Новодружеськ теж обстріювали]]></description>
+        <styleUrl>#icon-ci-5</styleUrl>
+        <Point>
+          <coordinates>
+            38.3508166,48.960896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ДРУЖКІВКА</name>
+        <description><![CDATA[25.04 - російські обстріли:<br>"...росіяни вдарили по таких населених пунктах Донеччини: Маріуполь, Лиман, Авдіївка, Дружківка, Вугледар, Велика Новосілка, Новомихайлівка, Троїцьке, Хрестище Святогірської громади, Новоселівка-3, Красногорівка Очеретинської громади". Ворог обстрілював мирне населення з авіації, ракетних установок, реактивних систем залпового вогню "Град", танків, важкої артилерії"<br>https://censor.net/ua/p3336594]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
+        <Point>
+          <coordinates>
+            37.5449708,48.6149047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Красногорівка (25.04 - російські обстріли)</name>
+        <description><![CDATA[25.04 - російські обстріли:<br>"...росіяни вдарили по таких населених пунктах Донеччини: Маріуполь, Лиман, Авдіївка, Дружківка, Вугледар, Велика Новосілка, Новомихайлівка, Троїцьке, Хрестище Святогірської громади, Новоселівка-3, Красногорівка Очеретинської громади". Ворог обстрілював мирне населення з авіації, ракетних установок, реактивних систем залпового вогню "Град", танків, важкої артилерії"<br>https://censor.net/ua/p3336594]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
+        <Point>
+          <coordinates>
+            37.7285434,48.2105332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>БРАТСЬКА МОГИЛА у Старому Криму (МАРІУПОЛЬ)</name>
+        <description><![CDATA[Станом на 24.04 довжина масового поховання убитих росіянами маріупольців збільшилася до понад 200 м:<br>https://www.radiosvoboda.org/a/news-skhemy-bratska-mohyla-staryy-krym/31820268.html]]></description>
+        <styleUrl>#line-F57C00-17663</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            37.4819962,47.1381768,0
+            37.4846945,47.1382096,0
+          </coordinates>
+        </LineString>
       </Placemark>
     </Folder>
     <Folder>
@@ -4151,8 +4236,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Велика Новосілка (22.04 - російський обстріл)</name>
-        <description><![CDATA[22.04, поліція Донеччини:<br>"Упродовж минулої доби окупанти вдарили по таких населених пунктах - Маріуполь, Авдіївка, Лиман, Слов’янськ, Мар’їнка, Вугледар, Сіверськ, Світлодарськ, Велика Новосілка..."<br>https://censor.net/ua/n3335984]]></description>
+        <name>Велика Новосілка (25.04 - російський обстріл)</name>
+        <description><![CDATA[25.04 - російські обстріли:<br>"...росіяни вдарили по таких населених пунктах Донеччини: Маріуполь, Лиман, Авдіївка, Дружківка, Вугледар, Велика Новосілка..."<br>https://censor.net/ua/p3336594<br>-------<br>22.04 - російський обстріл:<br>"Упродовж минулої доби окупанти вдарили по таких населених пунктах - Маріуполь, Авдіївка, Лиман, Слов’янськ, Мар’їнка, Вугледар, Сіверськ, Світлодарськ, Велика Новосілка..."<br>https://censor.net/ua/n3335984]]></description>
         <styleUrl>#icon-ci-9</styleUrl>
         <Point>
           <coordinates>
@@ -4161,8 +4246,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Велика Олександрівка (станом на 19.03 - окупована)</name>
-        <description><![CDATA[28.03 - бойові дії, російські обстріли:<br>https://censor.net/ua/news/3329200/nich_u_regionah_na_hersonschyni_yidut_boyi_na_meji_z_mykolayivschynoyu_ta_dnipropetrovschynoyu_raketni]]></description>
+        <name>Велика Олександрівка (окупанти виганяють усіх людей з села)</name>
+        <description><![CDATA[25.04 - росіяни наказали селянам залишити Велику Олександрівку протягом двох діб<br>-------<br>28.03 - бойові дії, російські обстріли:<br>https://censor.net/ua/news/3329200/nich_u_regionah_na_hersonschyni_yidut_boyi_na_meji_z_mykolayivschynoyu_ta_dnipropetrovschynoyu_raketni]]></description>
         <styleUrl>#icon-ci-7</styleUrl>
         <Point>
           <coordinates>
@@ -4319,16 +4404,6 @@
         <Point>
           <coordinates>
             36.051229,47.5088576,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>ОРІХІВ (17.04 - російські обстріли)</name>
-        <description><![CDATA[17 квітня - російські обстріли:<br>https://censor.net/ua/n3334878]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
-        <Point>
-          <coordinates>
-            35.7837808,47.5622857,0
           </coordinates>
         </Point>
       </Placemark>
@@ -4894,7 +4969,7 @@
       <Placemark>
         <name>ЗЕЛЕНОДОЛЬСЬК (Криворізька ТЕС - найбільша в регіоні)</name>
         <description><![CDATA[21.04 - російський обстріл:<br>https://censor.net/ua/news/3335661/<br>-----<br>20.04 - російський обстріл:<br>https://censor.net/ua/news/3335638/<br>-----<br>19.04 - російський обстріл:<br>https://censor.net/ua/news/3335135/]]></description>
-        <styleUrl>#icon-ci-9</styleUrl>
+        <styleUrl>#icon-ci-2</styleUrl>
         <Point>
           <coordinates>
             33.6475124,47.5679927,0
@@ -4902,9 +4977,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Велика Костромка (19-20.04 - російські обстріли)</name>
-        <description><![CDATA[20.04 - https://censor.net/ua/news/3335638/<br>-----<br>19.04 - https://censor.net/ua/news/3335135/]]></description>
-        <styleUrl>#icon-ci-2</styleUrl>
+        <name>Велика Костромка (25.04 - російські обстріли)</name>
+        <description><![CDATA[25.04 - російські обстріли<br>https://censor.net/ua/p3336742<br>-----<br>20.04 - російські обстріли<br>https://censor.net/ua/news/3335638/<br>-----<br>19.04 - російські обстріли <br>https://censor.net/ua/news/3335135/]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
         <Point>
           <coordinates>
             33.7178731,47.538673,0
@@ -5078,6 +5153,36 @@
         <Point>
           <coordinates>
             28.1033676,49.0380693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Інгулець (24.04 - російські обстріли з РСЗВ)</name>
+        <description><![CDATA[Дніпропетровська обласна прокуратура: <br>"24 квітня 2022 року збройні сили РФ здійснили артилерійський обстріл села Інгулець Криворізького району. В ході огляду місця подій виявлено фрагменти ворожих ракет: <br>https://censor.net/ua/p3336742]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
+        <Point>
+          <coordinates>
+            33.2703499,47.7333738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОРІХІВ</name>
+        <description><![CDATA[25.04, : "...на Таврійському напрямках ворог, посиливши обстріли наявними засобами вогневого ураження, намагався ... розвинути наступ в напрямку Запоріжжя. Успіху не мав, зазнав втрат: <br>https://censor.net/ua/n3336738<br>-------<br>17.04 - російські обстріли:<br>https://censor.net/ua/n3334878]]></description>
+        <styleUrl>#icon-ci-5</styleUrl>
+        <Point>
+          <coordinates>
+            35.7837808,47.5622857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Білозерка</name>
+        <description><![CDATA[25.04, перехоплення СБУ:<br>"...я сейчас в белозерке, мы только несколько недель назад отошли с чернобаевки, там сущий ад!"<br>https://www.facebook.com/SecurSerUkraine/posts/345197574373826]]></description>
+        <styleUrl>#icon-ci-7</styleUrl>
+        <Point>
+          <coordinates>
+            32.4392445,46.6103489,0
           </coordinates>
         </Point>
       </Placemark>
@@ -5283,9 +5388,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Безруки (21.04 - звільнені)</name>
-        <description><![CDATA[21 квітня, Харківська ОВА: <br>"Наші підрозділи вибили російські війська з населених пунктів: Безруки, Слатіно, Прудянка Дергачівського району та закріпилися на позиціях" <br>https://censor.net/ua/n3336216<br>-----<br>19 березня - станом на цю дату село було рубіжним пунктом російських окупантів:<br>https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/]]></description>
-        <styleUrl>#icon-ci-1</styleUrl>
+        <name>Безруки (25.04 - російські обстріли)</name>
+        <description><![CDATA[25 квітня - російські обстріли:<br>https://censor.net/ua/news/3336703/<br>-----<br>21 квітня, Харківська ОВА - СЕЛО ЗВІЛЬНЕНЕ:<br>"Наші підрозділи вибили російські війська з населених пунктів: Безруки, Слатіно, Прудянка Дергачівського району та закріпилися на позиціях" <br>https://censor.net/ua/n3336216<br>-----<br>19 березня - станом на цю дату село було рубіжним пунктом російських окупантів:<br>https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
         <Point>
           <coordinates>
             36.1340731,50.1737475,0
@@ -5510,7 +5615,7 @@
       </Placemark>
       <Placemark>
         <name>Мала Комишуваха (16.04 - рубіжний пункт росіян)</name>
-        <description><![CDATA[16.04 - рубіж оборони російських окупантів:<br>"На Ізюмському напрямку основні зусилля окупантів зосереджено на утриманні зайнятих рубежів та позицій в районі населених пунктів Суха Кам’янка, Сулигівка, Бражківка, Мала Комишуваха та Андріївка" https://censor.net/ua/n3334566<br>1.04 - бойові дії:<br>https://censor.net/ua/news/3330493/vorog_zoseredjuye_zusyllya_na_provedenni_nastupu_u_shidniyi_operatsiyiniyi_zoni_operatyvna_informatsiya]]></description>
+        <description><![CDATA[16.04 - рубіж оборони російських окупантів:<br>"На Ізюмському напрямку основні зусилля окупантів зосереджено на утриманні зайнятих рубежів та позицій в районі населених пунктів Суха Кам’янка, Сулигівка, Бражківка, Мала Комишуваха та Андріївка" https://censor.net/ua/n3334566<br>------<br>1.04 - бойові дії:<br>https://censor.net/ua/news/3330493/vorog_zoseredjuye_zusyllya_na_provedenni_nastupu_u_shidniyi_operatsiyiniyi_zoni_operatyvna_informatsiya]]></description>
         <styleUrl>#icon-ci-7</styleUrl>
         <Point>
           <coordinates>
@@ -5974,8 +6079,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>ВОВЧАНСЬК</name>
-        <description><![CDATA[21.04, Харківська ОВА - "Вовчанський район повністю окупований"<br>https://www.pravda.com.ua/articles/2022/04/21/7341146/]]></description>
+        <name>ВОВЧАНСЬК (тут росіяни влаштували концтабір для цивільних)</name>
+        <description><![CDATA[25.04 - російський концтабір - https://censor.net/ua/news/3336757/<br>------<br>21.04, Харківська ОВА - "Вовчанський район повністю окупований"<br>https://www.pravda.com.ua/articles/2022/04/21/7341146/]]></description>
         <styleUrl>#icon-ci-7</styleUrl>
         <Point>
           <coordinates>
@@ -6014,9 +6119,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Дібровне (22.04 - російський наступ)</name>
-        <description><![CDATA[22.04: "...для покращення тактичного положення підрозділів противник намагався здійснювати наступальні дії у напрямках населених пунктів Заводи та Дібровне, успіху не має"<br> https://censor.net/ua/n3336097<br>-----<br>21.04 - СЕЛО ЧАСТКОВО ОКУПОВАНЕ:<br>"Ворог ... вийшов на північні околиці Дібровного, намагається закріпитись на досягнутому рубежі". <br>https://censor.net/ua/n3335955<br>-----<br>20.04: "Противник здійснив перегрупування військ на Ізюмському напрямку. В районі населеного пункту Дібровне противник проводив наступальні дії, має частковий успіх"<br>https://www.facebook.com/GeneralStaff.ua/posts/299092695737149<br>-----<br>19.04: "На напрямку Ізюм-Барвінкове ворог ... веде наступальні дії на напрямках Андріївка - Заводи, Бражківка - Дмитрівка, Сулигівка - Дібровне"<br>https://censor.net/ua/n3335271<br>-----<br>17.04: "...ворог провів розвідку боєм у районах населених пунктів Заводи, Дмитрівка та Дібровне. Успіху не мав, зазнав втрат і відійшов" - https://censor.net/ua/n3334837]]></description>
-        <styleUrl>#icon-ci-9</styleUrl>
+        <name>Дібровне (станом на 25.04 - окуповане)</name>
+        <description><![CDATA[25.04 - село окуповане:<br>"...ворог намагався покращити тактичне положення на напрямках Андріївка - Заводи та Дібровне - Курулька"<br> https://censor.net/ua/n3336738<br>-----<br>22.04: "...для покращення тактичного положення підрозділів противник намагався здійснювати наступальні дії у напрямках населених пунктів Заводи та Дібровне, успіху не має"<br> https://censor.net/ua/n3336097<br>-----<br>21.04 - СЕЛО ЧАСТКОВО ОКУПОВАНЕ:<br>"Ворог ... вийшов на північні околиці Дібровного, намагається закріпитись на досягнутому рубежі". <br>https://censor.net/ua/n3335955<br>-----<br>20.04: "Противник здійснив перегрупування військ на Ізюмському напрямку. В районі населеного пункту Дібровне противник проводив наступальні дії, має частковий успіх"<br>https://www.facebook.com/GeneralStaff.ua/posts/299092695737149<br>-----<br>19.04: "На напрямку Ізюм-Барвінкове ворог ... веде наступальні дії на напрямках Андріївка - Заводи, Бражківка - Дмитрівка, Сулигівка - Дібровне"<br>https://censor.net/ua/n3335271<br>-----<br>17.04: "...ворог провів розвідку боєм у районах населених пунктів Заводи, Дмитрівка та Дібровне. Успіху не мав, зазнав втрат і відійшов" - https://censor.net/ua/n3334837]]></description>
+        <styleUrl>#icon-ci-7</styleUrl>
         <Point>
           <coordinates>
             37.2466138,48.9893171,0
@@ -6024,8 +6129,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Заводи (19-22.04 - російський наступ)</name>
-        <description><![CDATA[22.04: "...противник намагався здійснювати наступальні дії у напрямках населених пунктів Заводи та Дібровне, успіху не має"<br>https://censor.net/ua/n3336097<br>-----<br>21.04: "...ворог здійснює спроби вести наступ у напрямку населеного пункту Заводи". <br>https://censor.net/ua/n3335955<br>-----<br>19.04: "На напрямку Ізюм-Барвінкове ворог ... веде наступальні дії на напрямках Андріївка - Заводи, Бражківка - Дмитрівка, Сулигівка - Дібровне" <br>https://censor.net/ua/n3335271<br>-----<br>17.04: "...ворог провів розвідку боєм у районах населених пунктів Заводи, Дмитрівка та Дібровне. Успіху не мав, зазнав втрат і відійшов" - https://censor.net/ua/n3334837]]></description>
+        <name>Заводи (19-25.04 - російський наступ)</name>
+        <description><![CDATA[25.05 - локальні бої:<br>"...ворог намагався покращити тактичне положення на напрямках Андріївка - Заводи та Дібровне - Курулька"<br>https://censor.net/ua/n3336738<br>-----<br>22.04: "...противник намагався здійснювати наступальні дії у напрямках населених пунктів Заводи та Дібровне, успіху не має"<br>https://censor.net/ua/n3336097<br>-----<br>21.04: "...ворог здійснює спроби вести наступ у напрямку населеного пункту Заводи". <br>https://censor.net/ua/n3335955<br>-----<br>19.04: "На напрямку Ізюм-Барвінкове ворог ... веде наступальні дії на напрямках Андріївка - Заводи, Бражківка - Дмитрівка, Сулигівка - Дібровне" <br>https://censor.net/ua/n3335271<br>-----<br>17.04: "...ворог провів розвідку боєм у районах населених пунктів Заводи, Дмитрівка та Дібровне. Успіху не мав, зазнав втрат і відійшов" - https://censor.net/ua/n3334837]]></description>
         <styleUrl>#icon-ci-5</styleUrl>
         <Point>
           <coordinates>
@@ -6034,8 +6139,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Велика Комишуваха (24.04 - спроби російського наступу)</name>
-        <description><![CDATA[24.04 - "...активізація наступальних та штурмових дій підрозділів противника в районах населених пунктів Пашкове, Довгеньке та Велика Комишуваха. Ворог успіху не мав, зазнав втрат та був вимушений відступити на раніше займані рубежі"<br>https://www.facebook.com/GeneralStaff.ua/posts/301968408782911<br>------<br>10.03 - росіяни розбомбили місцеву школу:<br>https://novynarnia.com/2022/03/10/hronika-oborony-ukrayiny-den-15-10-03-2022-onovlyuyetsya/]]></description>
+        <name>Велика Комишуваха (25.04 - російські обстріли)</name>
+        <description><![CDATA[25.04 - російські обстріли:<br>"На напрямках Ізюм-Барвінкове та Ізюм- Слов’янськ ворог намагався провести штурмові дії, успіху не мав, здійснював обстріли в районах населених пунктів Велика Комишуваха, Вірнопілля та Нова Дмитрівка"<br>https://censor.net/ua/n3336569<br>-------<br>24.04 - "...активізація наступальних та штурмових дій підрозділів противника в районах населених пунктів Пашкове, Довгеньке та Велика Комишуваха. Ворог успіху не мав, зазнав втрат та був вимушений відступити на раніше займані рубежі"<br>https://www.facebook.com/GeneralStaff.ua/posts/301968408782911<br>------<br>10.03 - росіяни розбомбили місцеву школу:<br>https://novynarnia.com/2022/03/10/hronika-oborony-ukrayiny-den-15-10-03-2022-onovlyuyetsya/]]></description>
         <styleUrl>#icon-ci-5</styleUrl>
         <Point>
           <coordinates>
@@ -6106,7 +6211,7 @@
       <Placemark>
         <name>Слатине (звільнене 21.04)</name>
         <description><![CDATA[23 квітня - російські обстріли:<br>https://censor.net/ua/news/3336307/<br>-----<br>21 квітня - село звільнене (Харківська ОВА):<br>"Наші підрозділи вибили російські війська з населених пунктів: Безруки, Слатіно, Прудянка Дергачівського району та закріпилися на позиціях"<br>https://censor.net/ua/n3336216]]></description>
-        <styleUrl>#icon-ci-9</styleUrl>
+        <styleUrl>#icon-ci-5</styleUrl>
         <Point>
           <coordinates>
             36.1551679,50.2094727,0
@@ -6114,9 +6219,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Прудянка (звільнена 21.04)</name>
-        <description><![CDATA[21 квітня, Харківська ОВА:<br>"Наші підрозділи вибили російські війська з населених пунктів: Безруки, Слатіно, Прудянка Дергачівського району та закріпилися на позиціях"<br>https://censor.net/ua/n3336216]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <name>Прудянка (25.04 - російські обстріли)</name>
+        <description><![CDATA[25.04 - російські обстріли:<br>"На Слобожанському напрямку російські окупанти продовжують обстріли із ствольної артилерії та реактивних систем залпового вогню по населених пунктах Харків, Карасівка, Прудянка та Коробочкіно"<br>https://censor.net/ua/n3336569<br><br>21.04, Харківська ОВА - село звільнене:<br>"Наші підрозділи вибили російські війська з населених пунктів: Безруки, Слатіно, Прудянка Дергачівського району та закріпилися на позиціях"<br>https://censor.net/ua/n3336216]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
         <Point>
           <coordinates>
             36.1716778,50.2478787,0
@@ -6164,18 +6269,18 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Курулька (24.04 - російські обстріли)</name>
-        <description><![CDATA[24.04, Генштаб:<br>"...окупанти обстрілюють позицій наших військ у районах населених пунктів Курулька та Нова Дмитрівка, проводять повітряну розвідку позицій підрозділів Збройних Сил України за допомогою БПЛА "Орлан-10" в районах населених пунктів Барвінкове, Курулька та Гусарівка"<br>https://censor.net/ua/n3336386]]></description>
+        <name>Курулька (25.04 - бойові дії)</name>
+        <description><![CDATA[25.04 - локальні бої<br>"...ворог намагався покращити тактичне положення на напрямках Андріївка - Заводи та Дібровне - Курулька"<br>https://censor.net/ua/n3336738<br>--------<br>24.04 - російські обстріли:<br>"...окупанти обстрілюють позицій наших військ у районах населених пунктів Курулька та Нова Дмитрівка, проводять повітряну розвідку позицій підрозділів Збройних Сил України за допомогою БПЛА "Орлан-10" в районах населених пунктів Барвінкове, Курулька та Гусарівка"<br>https://censor.net/ua/n3336386]]></description>
         <styleUrl>#icon-ci-9</styleUrl>
         <Point>
           <coordinates>
-            37.2553938,48.9541405,0
+            37.2553939,48.9550422,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>Нова Дмитрівка</name>
-        <description><![CDATA[24.04, Генштаб:<br>"...окупанти обстрілюють позицій наших військ у районах населених пунктів Курулька та Нова Дмитрівка, проводять повітряну розвідку позицій підрозділів Збройних Сил України за допомогою БПЛА "Орлан-10" в районах населених пунктів Барвінкове, Курулька та Гусарівка"<br>https://censor.net/ua/n3336386]]></description>
+        <description><![CDATA[25.04 - російські обстріли:<br>"На напрямках Ізюм-Барвінкове та Ізюм- Слов’янськ ворог намагався провести штурмові дії, успіху не мав, здійснював обстріли в районах населених пунктів Велика Комишуваха, Вірнопілля та Нова Дмитрівка"<br>https://censor.net/ua/n3336569<br>--------<br>24.04, Генштаб:<br>"...окупанти обстрілюють позицій наших військ у районах населених пунктів Курулька та Нова Дмитрівка, проводять повітряну розвідку позицій підрозділів Збройних Сил України за допомогою БПЛА "Орлан-10" в районах населених пунктів Барвінкове, Курулька та Гусарівка"<br>https://censor.net/ua/n3336386]]></description>
         <styleUrl>#icon-ci-5</styleUrl>
         <Point>
           <coordinates>
@@ -6213,6 +6318,36 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Вірнопілля (25.04 - російські обстріли)</name>
+        <description><![CDATA[25.04 - російські обстріли:<br>"На напрямках Ізюм-Барвінкове та Ізюм- Слов’янськ ворог намагався провести штурмові дії, успіху не мав, здійснював обстріли в районах населених пунктів Велика Комишуваха, Вірнопілля та Нова Дмитрівка"<br>https://censor.net/ua/n3336569]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
+        <Point>
+          <coordinates>
+            37.1288365,49.0283901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Коробочкине (25.04 - російські обстріли)</name>
+        <description><![CDATA[25.04 - російські обстріли:<br>"На Слобожанському напрямку російські окупанти продовжують обстріли із ствольної артилерії та реактивних систем залпового вогню по населених пунктах Харків, Карасівка, Прудянка та Коробочкіно"<br>https://censor.net/ua/n3336569]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
+        <Point>
+          <coordinates>
+            36.8149473,49.7687204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Карасівка (25.04 - російські обстріли)</name>
+        <description><![CDATA[25.04 - російські обстріли:<br>"На Слобожанському напрямку російські окупанти продовжують обстріли із ствольної артилерії та реактивних систем залпового вогню по населених пунктах Харків, Карасівка, Прудянка та Коробочкіно"<br>https://censor.net/ua/n3336569]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
+        <Point>
+          <coordinates>
+            36.067762,50.266701,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>ВОЛИНСЬКИЙ напрямок</name>
@@ -6222,7 +6357,7 @@
         <styleUrl>#icon-ci-5</styleUrl>
         <Point>
           <coordinates>
-            28.6289022,50.9912189,0
+            28.6314771,51.0000781,0
           </coordinates>
         </Point>
       </Placemark>
@@ -6353,6 +6488,26 @@
         <Point>
           <coordinates>
             24.6153102,49.9161815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[25.04 - ракетний удар росіян по залізничній інфраструктурі вузлової станції "Здолбунів"]]></name>
+        <description>https://rivnepost.rv.ua/news/dvi-raketi-vluchili-po-zaliznitsi-u-zdolbunovi-koval</description>
+        <styleUrl>#icon-ci-4</styleUrl>
+        <Point>
+          <coordinates>
+            26.2640249,50.5150001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[25.04 - ракетний удар росіян по інфраструктурі залізничного вузла "Коростень"]]></name>
+        <description>https://censor.net/ua/news/3336636/viyiska_rf_zranku_zavdaly_raketnogo_udaru_po_korostenyu_mer_moskalenko_video</description>
+        <styleUrl>#icon-ci-4</styleUrl>
+        <Point>
+          <coordinates>
+            28.5910854,50.9511072,0
           </coordinates>
         </Point>
       </Placemark>
