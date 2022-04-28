@@ -1619,11 +1619,11 @@
       </Placemark>
       <Placemark>
         <name>Спалена російська колона (фото з цього місця - схоже, зроблене на початку квітня)</name>
-        <description><![CDATA[<img src="https://doc-0c-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/0nfccrle8b8t6hobk18pdi48ng/1651135500000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vaJbCkBHVo5f-6Zkxq9Civyhz2uZA8TGyvGPQc3e-QMyNmDG_pBgpW1VECfM0Mub9ijBNzkMRsRNcZlVFfPpwv7CVP2zw9Bv0RlyTryIgs74DsztRVGdjiKUEAXfiMSak-LE-pzBMDx-G4pkMP52v0sePfl0ETbJQsGU0yWUMlMv0fhXToeG53oZZeVT9uNJz0?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
+        <description><![CDATA[<img src="https://doc-04-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/i6lv4sr28vmg1lvdu4qd93ddto/1651146300000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vZF1-IxaCQpjFf42UeS1czYG0ZJpsabXZGjiv3duVcCxRxGJzs5eJaQ4wUKIBZ1ShjPu6Xx4KODBWM-YgpGsfxyY-cY9Z1DXrSqI2UkpzjpjtRvvAZstGAzVIqnHryCFbth4KJRMm3LWLvlw-oTw5IMDx7g5o7wldwld5jUJgabnwPL6WCVqah6FQL5PY9yIqw?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://doc-0c-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/0nfccrle8b8t6hobk18pdi48ng/1651135500000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vaJbCkBHVo5f-6Zkxq9Civyhz2uZA8TGyvGPQc3e-QMyNmDG_pBgpW1VECfM0Mub9ijBNzkMRsRNcZlVFfPpwv7CVP2zw9Bv0RlyTryIgs74DsztRVGdjiKUEAXfiMSak-LE-pzBMDx-G4pkMP52v0sePfl0ETbJQsGU0yWUMlMv0fhXToeG53oZZeVT9uNJz0?fife</value>
+            <value>https://doc-04-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/i6lv4sr28vmg1lvdu4qd93ddto/1651146300000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vZF1-IxaCQpjFf42UeS1czYG0ZJpsabXZGjiv3duVcCxRxGJzs5eJaQ4wUKIBZ1ShjPu6Xx4KODBWM-YgpGsfxyY-cY9Z1DXrSqI2UkpzjpjtRvvAZstGAzVIqnHryCFbth4KJRMm3LWLvlw-oTw5IMDx7g5o7wldwld5jUJgabnwPL6WCVqah6FQL5PY9yIqw?fife</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -5429,6 +5429,16 @@
         <Point>
           <coordinates>
             32.2195197,46.8596823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Підірваний 28.04 залізничний міст через річку Малий Утлюк біля села Якимівка (НЕОФІЦІЙНО)</name>
+        <description><![CDATA[Виведено з ладу (за лінком нижче є ФОТО) ключову залізничну магістраль із Криму в Мелітополь - основний напрямок забезпечення російських окупантів на Запорізькому та (частково) Маріупольському напрямках. <br>Альтернативний залізничний шлях через Херсон-Снігурівку-Каховку - набагато довший (двічі перетинає Дніпро) і пролягає занадто близько до лінії фронту.<br>https://twitter.com/uawarinfo/status/1519631076985286657?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1519632142522847234%7Ctwgr%5E%7Ctwcon%5Es3_&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2FJulianRoepcke2Fstatus2F1519632142522847234widget%3DTweet]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
+        <Point>
+          <coordinates>
+            35.1566051,46.6739637,0
           </coordinates>
         </Point>
       </Placemark>
