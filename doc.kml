@@ -1619,11 +1619,11 @@
       </Placemark>
       <Placemark>
         <name>Спалена російська колона (фото з цього місця - схоже, зроблене на початку квітня)</name>
-        <description><![CDATA[<img src="https://doc-0g-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/64mia5t39itfvnanb4tkp89k74/1651160700000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vYc_30tGvS_EHJSbiPwIatclD40n8glYzqkVyBYNF19r1pzsVFofKt0wdrMs3aDkoVzN8uv-KUkghV-H6_neAh5U_wpdGCMsXUn7YhfcPTsB13j7jnQUfW5q3qedGT9rJ9noPexHw7Bpd67fW8x6HsoZfC57WNFTy6RsfAIOuXh5lSbdOjGmsIDdbr8RvjWo7M?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
+        <description><![CDATA[<img src="https://doc-00-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/0mg4t37kot7b1l2e257k237pgs/1651221900000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vat5uj0AsApR8ARqragljk9ODkx_1ZktYDwCXpJrcfH9oH_qbSR-FRk2-ca26zuXDtlLKaVuNThQrRnU-hkKjTggOHMz2LpsjZK0eChpEcr32gJoCCf1KdGSknTzDrZTqpPbYZGywZSGU4BTqsgpY_pbLbKKyzZXX3D_7WU8SzxilWo9HsKuoGBd9s0-AnYQfk?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://doc-0g-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/64mia5t39itfvnanb4tkp89k74/1651160700000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vYc_30tGvS_EHJSbiPwIatclD40n8glYzqkVyBYNF19r1pzsVFofKt0wdrMs3aDkoVzN8uv-KUkghV-H6_neAh5U_wpdGCMsXUn7YhfcPTsB13j7jnQUfW5q3qedGT9rJ9noPexHw7Bpd67fW8x6HsoZfC57WNFTy6RsfAIOuXh5lSbdOjGmsIDdbr8RvjWo7M?fife</value>
+            <value>https://doc-00-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/0mg4t37kot7b1l2e257k237pgs/1651221900000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vat5uj0AsApR8ARqragljk9ODkx_1ZktYDwCXpJrcfH9oH_qbSR-FRk2-ca26zuXDtlLKaVuNThQrRnU-hkKjTggOHMz2LpsjZK0eChpEcr32gJoCCf1KdGSknTzDrZTqpPbYZGywZSGU4BTqsgpY_pbLbKKyzZXX3D_7WU8SzxilWo9HsKuoGBd9s0-AnYQfk?fife</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -2648,9 +2648,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>22.04 - російський обстріл</name>
-        <description><![CDATA[22.04, ДПСУ:<br>"...близько десяти гранат, випущених з-за кордону з автоматичного гранатомета, розірвалися неподалік від прикордонного села Сеньківка.<br>Це вже четвертий зафіксований прикордонниками обстріл Чернігівщини з російської території після того як Сили оборони України витіснили загарбників з області. Два з трьох попередніх обстрілів ворог також цілив на ділянку кордону поблизу Сеньківки, але минулі рази з мінометів" <br>https://censor.net/ua/n3336243]]></description>
-        <styleUrl>#icon-ci-2</styleUrl>
+        <name>28.04 - обстріл із території рф</name>
+        <description><![CDATA[28.04 - російські АГСники ніяк си не вспокоять:<br>"...ворог здійснив близько 15 пострілів із автоматичного гранатомета: https://censor.net/ua/n3337465<br><br>22.04, ДПСУ:<br>"...близько десяти гранат, випущених з-за кордону з автоматичного гранатомета, розірвалися неподалік від прикордонного села Сеньківка.<br>Це вже четвертий зафіксований прикордонниками обстріл Чернігівщини з російської території після того як Сили оборони України витіснили загарбників з області. Два з трьох попередніх обстрілів ворог також цілив на ділянку кордону поблизу Сеньківки, але минулі рази з мінометів" <br>https://censor.net/ua/n3336243]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
         <Point>
           <coordinates>
             31.8648985,52.0941932,0
@@ -3014,8 +3014,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Нью-Йорк (Новгородське) - 26.04 російський обстріл</name>
-        <description><![CDATA[26.04 - російські обстріли, загинула людина:<br>https://censor.net/ua/news/3337053/<br>------<br>21.04 - російські обстріли:<br>https://censor.net/ua/photo_news/3335698<br>------<br>18.04 - російські обстріли: <br>"Упродовж минулої доби окупанти вдарили по таких населених пунктах Донеччини: Маріуполь, Авдіївка, Вугледар, Добропілля, Слов’янськ, Торське, Новопіль, Новгородське, Нью-Йорк. Ворог обстрілював мирне населення ракетами, із реактивних систем залпового вогню "Град", танків, важкої артилерії"<br>https://censor.net/ua/p3334872]]></description>
+        <name>Нью-Йорк (Новгородське) - 28.04 російський авіаудар, троє загиблих</name>
+        <description><![CDATA[28.04 російський авіаудар, троє загиблих<br>https://censor.net/ua/photo_news/3337437/<br>------<br>26.04 - російські обстріли, загинула людина:<br>https://censor.net/ua/news/3337053/<br>------<br>21.04 - російські обстріли:<br>https://censor.net/ua/photo_news/3335698<br>------<br>18.04 - російські обстріли: <br>"Упродовж минулої доби окупанти вдарили по таких населених пунктах Донеччини: Маріуполь, Авдіївка, Вугледар, Добропілля, Слов’янськ, Торське, Новопіль, Новгородське, Нью-Йорк. Ворог обстрілював мирне населення ракетами, із реактивних систем залпового вогню "Град", танків, важкої артилерії"<br>https://censor.net/ua/p3334872]]></description>
         <styleUrl>#icon-ci-4</styleUrl>
         <Point>
           <coordinates>
@@ -5434,7 +5434,7 @@
       </Placemark>
       <Placemark>
         <name>Підірваний 28.04 залізничний міст через річку Малий Утлюк біля села Якимівка (НЕОФІЦІЙНО)</name>
-        <description><![CDATA[Виведено з ладу (за лінком нижче є ФОТО) ключову залізничну магістраль із Криму в Мелітополь - основний напрямок забезпечення російських окупантів на Запорізькому та (частково) Маріупольському напрямках. <br>Альтернативний залізничний шлях через Херсон-Снігурівку-Каховку - набагато довший (двічі перетинає Дніпро) і пролягає занадто близько до лінії фронту.<br>https://twitter.com/uawarinfo/status/1519631076985286657?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1519632142522847234%7Ctwgr%5E%7Ctwcon%5Es3_&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2FJulianRoepcke2Fstatus2F1519632142522847234widget%3DTweet]]></description>
+        <description><![CDATA[Виведено з ладу (за лінками нижче є ФОТО) ключову залізничну магістраль із Криму в Мелітополь.<br>ССО: "Саме тут ворог регулярно перевозив залізницею техніку, боєприпаси із кримсього півострова на материкову частину України ... Цей маршрут відігравав важливу роль для нарощування ворожих сил в напрямку Полог, Токмака та Маріуполя": https://censor.net/ua/p3337544<br>Альтернативний залізничний шлях через Херсон-Снігурівку-Каховку - набагато довший (двічі перетинає Дніпро) і пролягає занадто близько до лінії фронту.<br>https://twitter.com/uawarinfo/status/1519631076985286657?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1519632142522847234%7Ctwgr%5E%7Ctwcon%5Es3_&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2FJulianRoepcke2Fstatus2F1519632142522847234widget%3DTweet]]></description>
         <styleUrl>#icon-ci-3</styleUrl>
         <Point>
           <coordinates>
@@ -6389,12 +6389,12 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Кутузівка (станом на 17.04 - бойові дії)</name>
-        <description><![CDATA[Харківська ОВА 17 квітня: <br>"...в результаті контрнаступу ЗСУ звільнили Базаліївку, Леб‘яже, частину Кутузівки". <br>Джерело: https://censor.net/ua/n3334784]]></description>
-        <styleUrl>#icon-ci-9</styleUrl>
+        <name>Кутузівка (звільнена 28.04)</name>
+        <description><![CDATA[28.04 - СЕЛО ЗВІЛЬНЕНЕ:<br>https://censor.net/ua/news/3337519<br>-----<br>17.04 - ЗСУ звільнили частину села: <br>"...в результаті контрнаступу ЗСУ звільнили Базаліївку, Леб‘яже, частину Кутузівки". <br>Джерело: https://censor.net/ua/n3334784]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
         <Point>
           <coordinates>
-            36.4693593,50.0407308,0
+            36.4848941,50.0449196,0
           </coordinates>
         </Point>
       </Placemark>
@@ -6877,6 +6877,59 @@
         <Point>
           <coordinates>
             28.5910854,50.9511072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name><![CDATA["ПРИДНІСТРОВ'Я"]]></name>
+      <Placemark>
+        <name>Рибниця</name>
+        <description><![CDATA[Місце дислокації однієї з чотирьох мотострілецьких бригад "Придністровської Молдавської республіки". <br><br>Якщо "ПМР" - це російський аналог ОРДЛО для Молдови, то її військо - аналог 1-го (ДНР) та 2-го (ЛНР) армійських корпусів. І те, й інше контролюється Москвою.]]></description>
+        <styleUrl>#icon-ci-7</styleUrl>
+        <Point>
+          <coordinates>
+            29.0040966,47.7634003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[ТИРАСПОЛЬ (столиця "Придністровської республіки", самопроголошеної за сприяння Росії на території Молдови в 1991 році)]]></name>
+        <description><![CDATA[Місце дислокації штабу й більшості підрозділів "миротворчих сил" РФ (так звана "оперативна група російських військ у Придністровському регіоні Республіки Молдова").<br><br>Місце дислокації однієї з чотирьох мотострілецьких бригад "Придністровської Молдавської республіки".<br><br>Якщо "ПМР" - це російський аналог ОРДЛО для Молдови, то її військо - аналог 1-го (ДНР) та 2-го (ЛНР) армійських корпусів. І те, й інше контролюється Москвою.<br><br>https://armyinform.com.ua/2019/11/14/prydnistrovskyj-nizh-dlya-udaru-v-spynu/]]></description>
+        <styleUrl>#icon-ci-7</styleUrl>
+        <Point>
+          <coordinates>
+            29.6299456,46.8437116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>БЕНДЕРИ</name>
+        <description><![CDATA["столица бендеровцев" (закреслено) Молдавське місто, окуповане "Придністров'ям" за сприяння Росії.<br><br>Місце дислокації однієї з чотирьох мотострілецьких бригад "Придністровської Молдавської республіки".<br><br>Якщо "ПМР" - це російський аналог ОРДЛО для Молдови, то її військо - аналог 1-го (ДНР) та 2-го (ЛНР) армійських корпусів. І те, й інше контролюється Москвою.]]></description>
+        <styleUrl>#icon-ci-7</styleUrl>
+        <Point>
+          <coordinates>
+            29.4619059,46.831424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Дубоссари</name>
+        <description><![CDATA[Місце дислокації однієї з чотирьох мотострілецьких бригад "Придністровської Молдавської республіки".<br><br>Якщо "ПМР" - це російський аналог ОРДЛО для Молдови, то її військо - аналог 1-го (ДНР) та 2-го (ЛНР) армійських корпусів. І те, й інше контролюється Москвою.]]></description>
+        <styleUrl>#icon-ci-7</styleUrl>
+        <Point>
+          <coordinates>
+            29.1655079,47.2450466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Кобасна (склад озброєння і техніки російських "миротворців" у Придністров'ї)]]></name>
+        <description><![CDATA[Тут розташовано одне з найбільших у Європі сховищ боєприпасів та військової техніки - спадок СРСР. Охороняє ці склади гарнізон російських "миротворчих сил" в регіоні.<br><br>Накопиченої там зброї достатньо, щоб озброїти потужне угруповання російських військ. Варто лише перекинути в Придністров’я необхідну кількість особового складу<br><br>Сценарій, в якому українці захоплюють склади в Кобасній – основна і постійна «легенда» бойових навчань у придністровській групі російських військ.<br><br>https://armyinform.com.ua/2019/11/14/prydnistrovskyj-nizh-dlya-udaru-v-spynu/]]></description>
+        <styleUrl>#icon-ci-7</styleUrl>
+        <Point>
+          <coordinates>
+            29.219503,47.7765469,0
           </coordinates>
         </Point>
       </Placemark>
