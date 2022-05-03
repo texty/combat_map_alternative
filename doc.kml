@@ -1511,8 +1511,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Сухолуччя (звільнене 1.04)</name>
-        <description>https://censor.net/ua/news/3330493/vorog_zoseredjuye_zusyllya_na_provedenni_nastupu_u_shidniyi_operatsiyiniyi_zoni_operatyvna_informatsiya</description>
+        <name>Сухолуччя (тут під час спроби евакуюватися на протилежний берег Дніпра втонули бабуся з онуком)</name>
+        <description><![CDATA[10.03 при спробі евакуюватися з села у шторм на Київському водосховищі загинуло троє людей, серед них 4-річний Сашко:<br>https://life.pravda.com.ua/society/2022/04/5/248119/<br>------<br>1.04 - село ЗВІЛЬНЕНЕ<br>https://censor.net/ua/news/3330493/vorog_zoseredjuye_zusyllya_na_provedenni_nastupu_u_shidniyi_operatsiyiniyi_zoni_operatyvna_informatsiya]]></description>
         <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
@@ -1619,11 +1619,11 @@
       </Placemark>
       <Placemark>
         <name>Спалена російська колона (фото з цього місця - схоже, зроблене на початку квітня)</name>
-        <description><![CDATA[<img src="https://doc-0s-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/06t52km57rtg2ee59tggs6iib8/1651578300000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vaRn1erBVR0h-eofFIkri0C--qfUKKS4pygYB5L0tcl3XeOFe4NurjQeMDk52a9NQ6mCz80hFOm2U5WY8E6f51ZzrIA3C0QQn76rWdTUoF7-4WWEvgeliwjZcxXsvcs8Qb5s7lu21hd7s7cWW35TJAO7E8YgzlMqpyngcesr4QagNg2c5leqIeajFOKajtLjN0?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
+        <description><![CDATA[<img src="https://doc-0o-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/lgl9h4020orcggfq89pr7sg9s8/1651592700000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vbrFktxDYDe0m3n4vAGuMXlY5InR25LfShTeHnAO-NPb9GWPmnLLyl5EoP-YZwqrEYS7rY3QYQrrWDWPLb8WZYBCPaJIOwDUik7x26_jGUDpKZHS8RxteZUIlCRDV3oKA_likq5lto3GO2aV859L5kF4ack1Lw0Up0dcLsJq_RLlMxFwi83cZQQVpwQqw8EjFA?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://doc-0s-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/06t52km57rtg2ee59tggs6iib8/1651578300000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vaRn1erBVR0h-eofFIkri0C--qfUKKS4pygYB5L0tcl3XeOFe4NurjQeMDk52a9NQ6mCz80hFOm2U5WY8E6f51ZzrIA3C0QQn76rWdTUoF7-4WWEvgeliwjZcxXsvcs8Qb5s7lu21hd7s7cWW35TJAO7E8YgzlMqpyngcesr4QagNg2c5leqIeajFOKajtLjN0?fife</value>
+            <value>https://doc-0o-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/lgl9h4020orcggfq89pr7sg9s8/1651592700000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vbrFktxDYDe0m3n4vAGuMXlY5InR25LfShTeHnAO-NPb9GWPmnLLyl5EoP-YZwqrEYS7rY3QYQrrWDWPLb8WZYBCPaJIOwDUik7x26_jGUDpKZHS8RxteZUIlCRDV3oKA_likq5lto3GO2aV859L5kF4ack1Lw0Up0dcLsJq_RLlMxFwi83cZQQVpwQqw8EjFA?fife</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -1701,6 +1701,26 @@
         <Point>
           <coordinates>
             28.8310626,49.7093893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Страхолісся (у березні місцеві організували "ДОРОГУ ЖИТТЯ" на неокупований берег Дніпра)]]></name>
+        <description><![CDATA[...і врятували від росіян 2 тисяч людей. Це дуже крута історія:<br>https://www.pravda.com.ua/articles/2022/05/3/7343559/]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
+        <Point>
+          <coordinates>
+            30.399514,51.0725907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Оране</name>
+        <description><![CDATA[З кінця лютого до початку квітня "...танки ворога стояли ... під селищем Оране, обрізавши дорогу на Іванків і велику землю":]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <Point>
+          <coordinates>
+            30.1252518,51.0533525,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1953,7 +1973,7 @@
         <styleUrl>#icon-ci-4</styleUrl>
         <Point>
           <coordinates>
-            33.4719747,50.7833801,0
+            33.4831321,50.7475502,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2143,6 +2163,16 @@
         <Point>
           <coordinates>
             31.671499,50.5965215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>БАХМАЧ (тут 26.02 місцеві голіруч намагалися зупинити колону російської техніки)</name>
+        <description>ВІДЕО: https://tsn.ua/ukrayina/u-bahmachi-lyudi-goliruch-zupinyali-kolonu-rosiyskih-tankiv-video-1989418.html</description>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <Point>
+          <coordinates>
+            32.8101418,51.175216,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2367,6 +2397,16 @@
         <Point>
           <coordinates>
             31.9373074,50.7270187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Скрипалі</name>
+        <description><![CDATA[7.03 - скупчені під цим селом російські окупанти зазнали вогневого враження від ЗСУ:<br>https://www.facebook.com/GeneralStaff.ua/posts/266469205666165/]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <Point>
+          <coordinates>
+            33.6340036,50.7543928,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2687,16 +2727,6 @@
           </coordinates>
         </Point>
       </Placemark>
-      <Placemark>
-        <name>БАХМАЧ (тут 26.02 місцеві голіруч намагалися зупинити колону російської техніки)</name>
-        <description>ВІДЕО: https://tsn.ua/ukrayina/u-bahmachi-lyudi-goliruch-zupinyali-kolonu-rosiyskih-tankiv-video-1989418.html</description>
-        <styleUrl>#icon-ci-1</styleUrl>
-        <Point>
-          <coordinates>
-            32.8101418,51.175216,0
-          </coordinates>
-        </Point>
-      </Placemark>
     </Folder>
     <Folder>
       <name>ДОНЕЦЬКИЙ напрямок</name>
@@ -2959,8 +2989,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name><![CDATA[ракетний удар РФ по станції "Павлоград-2" 22.03]]></name>
-        <description>спроба припинити залізничне сполучення з південним крилом ООС</description>
+        <name><![CDATA[ракетний удар РФ по станції "Павлоград-2"]]></name>
+        <description><![CDATA[22.03: удар по станції "Павлоград-2" - спроба припинити залізничне сполучення з південним крилом ООС. <br>У квітні росіяни завдали ще трьох ракетних ударів по залізничній інфраструктурі Павлограду - 2.04, 18.04 і 28.04:<br>https://www.railinsider.com.ua/rosijski-okupanty-znovu-obstrilyaly-zaliznyczyu-u-pavlogradskomu-rajoni/]]></description>
         <styleUrl>#icon-ci-5</styleUrl>
         <Point>
           <coordinates>
@@ -4013,9 +4043,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Залізничне (24.04 - російські обстріли)</name>
-        <description><![CDATA[24.04 - російські обстріли:<br>https://tsn.ua/ukrayina/okupanti-grabuyut-naselennya-mobilizuyut-cholovikiv-ta-vedut-obstrili-operativna-situaciya-u-zaporizkiy-oblasti-2044981.html]]></description>
-        <styleUrl>#icon-ci-2</styleUrl>
+        <name>Залізничне (3.05 - російські обстріли убили двох цивільних)</name>
+        <description><![CDATA[3.05 - російські обстріли, двоє загиблих:<br>https://censor.net/ua/photo_news/3338602/<br>-------<br>24.04 - російські обстріли:<br>https://tsn.ua/ukrayina/okupanti-grabuyut-naselennya-mobilizuyut-cholovikiv-ta-vedut-obstrili-operativna-situaciya-u-zaporizkiy-oblasti-2044981.html]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
         <Point>
           <coordinates>
             36.1664177,47.6432104,0
@@ -4295,7 +4325,7 @@
         <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
-            31.5743693,47.5469805,0
+            31.5208109,47.5395647,0
           </coordinates>
         </Point>
       </Placemark>
@@ -4350,14 +4380,14 @@
         <styleUrl>#icon-ci-1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            32.2462974,47.2750707,0
+            32.2574555,47.2690139,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>ГУЛЯЙ-ПОЛЕ (24.04 - російський наступ)</name>
         <description><![CDATA[24.04 - російські обстріли і наступ:<br>"...найбільш активні бойові зіткнення та постійні обстріли відбуваються в районі Гуляйполя. Українські захисники ведуть активну маневрену оборону".<br>https://tsn.ua/ukrayina/okupanti-grabuyut-naselennya-mobilizuyut-cholovikiv-ta-vedut-obstrili-operativna-situaciya-u-zaporizkiy-oblasti-2044981.html<br>------<br>...через великі втрати на підступах до Гуляй-Поля російські окупанти називають махновську столицю "ЗЛОЙ ГОРОД". <br>------<br>Місто регулярно обстрілюють, 18.04 ворог застосував ФОСФОРНІ БОЄПРИПАСИ: https://censor.net/ua/video_news/3334996/rashysty_obstrilyaly_fosfornymy_bombamy_gulyayipole_u_zaporizkiyi_oblasti_video]]></description>
-        <styleUrl>#icon-ci-9</styleUrl>
+        <styleUrl>#icon-ci-4</styleUrl>
         <Point>
           <coordinates>
             36.2607323,47.6567314,0
@@ -4749,7 +4779,7 @@
         <name><![CDATA[Мар'їнське (тут росіяни розстріляли човен, який евакуйовував цивільних)
 ]]></name>
         <description><![CDATA[27.04 - російські обстріли:<br>https://censor.net/ua/video_news/3337105/<br>-----<br>19.04 - російські обстріли:<br>https://censor.net/ua/news/3335135/<br>-----<br>7.04 - розстріл цивільних: <br>https://censor.net/ua/news/3332295/16richnu_vagitnu_divchynu_ta_78richnu_babusyu_zvaltuvaly_rashysty_na_hersonschyni_vilkul<br>-----<br>4.04 - російські обстріли: https://censor.net/ua/news/3331155/vnochi_okupanty_obstrilyaly_novovorontsovku_ta_maryanske_vilkul]]></description>
-        <styleUrl>#icon-ci-9</styleUrl>
+        <styleUrl>#icon-ci-2</styleUrl>
         <Point>
           <coordinates>
             33.9239471,47.5450853,0
@@ -4865,9 +4895,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Осокорівка (звільнена 6.04)</name>
-        <description>https://suspilne.media/225971-zsu-zvilnili-se-odne-hersonske-selo-nepodalik-vid-dnipropetrovsini-golova-oblradi/</description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <name>Осокорівка (3.05 - російські обстріли)</name>
+        <description><![CDATA[3.05 - російські обстріли:<br>https://www.ukrinform.ua/rubric-regions/3473835-na-hersonsini-vijskovi-rf-nisat-obstrilami-selo-osokorivka.html<br>------<br>6.04 - СЕЛО ЗВІЛЬНЕНО:<br>https://suspilne.media/225971-zsu-zvilnili-se-odne-hersonske-selo-nepodalik-vid-dnipropetrovsini-golova-oblradi/]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
         <Point>
           <coordinates>
             33.9128448,47.4304976,0
@@ -5147,7 +5177,7 @@
       <Placemark>
         <name>Велика Костромка (27.04 - російські обстріли)</name>
         <description><![CDATA[27.04 - російські обстріли:<br>https://censor.net/ua/video_news/3337105/<br>-----<br>25.04 - російські обстріли<br>https://censor.net/ua/p3336742<br>-----<br>20.04 - російські обстріли<br>https://censor.net/ua/news/3335638/<br>-----<br>19.04 - російські обстріли <br>https://censor.net/ua/news/3335135/]]></description>
-        <styleUrl>#icon-ci-9</styleUrl>
+        <styleUrl>#icon-ci-2</styleUrl>
         <Point>
           <coordinates>
             33.7178731,47.538673,0
@@ -5355,8 +5385,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Міст через Дністровський лиман -  пошкоджений російським ракетним ударом 26.04</name>
-        <description><![CDATA[Міст біля Затоки - основний транспортний коридор між Одещиною і її найпівденнішою частиною - Буджаком (приморська смуга від Дністра до Дунаю). <br>Фактично це єдиний сухопутний шлях між Буджаком і рештою України.<br>Альтернативний автомобільний маршрут через Дністер пролягає значно північніше - через молдовську Паланку (приблизно 10 км цієї траси прямує територією Молдови).<br><br>https://novynarnia.com/2022/04/26/rosiyany-vdaryly-po-mostu/]]></description>
+        <name>Міст через Дністровський лиман -  тричі обстріляний російськими ракетами (26-27.04 і 2.05)</name>
+        <description><![CDATA[Пошкоджено підйомний міст біля Затоки - основний транспортний коридор між Одещиною і її найпівденнішою частиною - Буджаком (приморська смуга від Дністра до Дунаю). <br>Фактично цей міст через гирло Дністра - єдиний сухопутний шлях між Буджаком і рештою України.<br>Альтернативний автомобільний маршрут через Дністер пролягає значно північніше - через молдовську Паланку (приблизно 10 км цієї траси прямує територією Молдови).<br><br>https://novynarnia.com/2022/04/26/rosiyany-vdaryly-po-mostu/]]></description>
         <styleUrl>#icon-ci-6</styleUrl>
         <Point>
           <coordinates>
@@ -5456,7 +5486,7 @@
       <Placemark>
         <name>Шевченкове (28.04 - російські обстріли)</name>
         <description><![CDATA[28.04 - російські обстріли:<br>https://censor.net/ua/news/3337351/]]></description>
-        <styleUrl>#icon-ci-9</styleUrl>
+        <styleUrl>#icon-ci-2</styleUrl>
         <Point>
           <coordinates>
             32.2195197,46.8596823,0
@@ -5490,6 +5520,46 @@
         <Point>
           <coordinates>
             33.5746213,46.8678247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Новофонтанка (тут російські окупанти катували і вбивали селян)</name>
+        <description>https://censor.net/ua/photo_news/3338602/viyiska_rf_obstrilyaly_selysche_zaliznychne_pid_gulyayipolem_zagynuly_dvi_lyudyny_ova_foto</description>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <Point>
+          <coordinates>
+            32.2134128,47.3225727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Кашперо-Миколаївка (тут окупанти грабували і вбивали селян)</name>
+        <description><![CDATA[ВІДЕО про звірства окупантів у селі:<br>https://dnipro.tv/news-dnipro/iak-rosiiski-okupanty-maroderyly-u-kashpero-mykolaivtsi/<br>-------<br>7.03 - "...триває просування підрозділів противника у північно-східному напрямку вздовж р. Інгул. БТГр форсувала річку та зайняла н.п. Кашперо-Миколаївку":<br>https://www.facebook.com/GeneralStaff.ua/posts/266469205666165/]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <Point>
+          <coordinates>
+            32.1693441,47.3785893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Кандибине</name>
+        <description><![CDATA[тут у першій половині березня окупанти не випустили вагітну жінку народжувати до полового будинку:<br>https://tsn.ua/ato/u-mikolayivskiy-oblasti-rosiyski-okupanti-ne-vipustili-z-sela-vagitnu-zhinka-narodzhuvala-vdoma-2005807.html]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <Point>
+          <coordinates>
+            32.0427053,47.1822432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Аеропорт "МИКОЛАЇВ"]]></name>
+        <description><![CDATA[------<br>Станом на 9.04 міжнародне летовище було практично зруйноване російськими обстрілами:<br>https://suspilne.media/226886-mikolaivskij-miznarodnij-aeroport-ak-vigladae-letovise-pisla-obstriliv/]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <Point>
+          <coordinates>
+            31.9221085,47.059454,0
           </coordinates>
         </Point>
       </Placemark>
@@ -5667,8 +5737,8 @@
       </Placemark>
       <Placemark>
         <name>ЧУГУЇВ (28.04 - російські обстріли)</name>
-        <description><![CDATA[28.04 - "По області протягом доби росіяни обстрілювали Золочів, Дергачі, Чугуїв":<br> https://censor.net/ua/n3337351]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <description><![CDATA[28.04 - "По області протягом доби росіяни обстрілювали Золочів, Дергачі, Чугуїв":<br> https://censor.net/ua/n3337351<br>-------<br>7.03 - МІСТО ЗВІЛЬНЕНЕ:<br>"...звільнено м. Чугуїв. Окупантам нанесено великих втрат в особовому складі та техніці. Знищено командира 61-ї окремої бригади морської піхоти ЗС РФ підполковника Дмитра Сафронова та заступника командира 11-ї окремої десантно-штурмової бригади ПДВ ЗС РФ підполковника Дениса Глєбова"<br>https://www.facebook.com/GeneralStaff.ua/posts/266469205666165/]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
             36.6966424,49.8387625,0
