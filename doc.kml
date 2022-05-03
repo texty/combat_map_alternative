@@ -1619,11 +1619,11 @@
       </Placemark>
       <Placemark>
         <name>Спалена російська колона (фото з цього місця - схоже, зроблене на початку квітня)</name>
-        <description><![CDATA[<img src="https://doc-0c-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/ro4c6k1nbrk9tbcqj74nmcb000/1651567500000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vYrlmQ91MxxKPpvvXZEGVKIqvHoJVrcnQ-aXgbdPPHPzvDNggvKedMOKsRoCLjJpaytwS5KYvEJKG0YvNVrzW-mvrZNTv6eCh501jul8U-yE-XdRTMHCKPtDP3gRzwOBzxtIhNbI8nAf7r4sE22Clzx9g6YIKCF6WtY3P-Bg8Hwl483oAnEUzba6ZPs9blz-Eg?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
+        <description><![CDATA[<img src="https://doc-0s-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/06t52km57rtg2ee59tggs6iib8/1651578300000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vaRn1erBVR0h-eofFIkri0C--qfUKKS4pygYB5L0tcl3XeOFe4NurjQeMDk52a9NQ6mCz80hFOm2U5WY8E6f51ZzrIA3C0QQn76rWdTUoF7-4WWEvgeliwjZcxXsvcs8Qb5s7lu21hd7s7cWW35TJAO7E8YgzlMqpyngcesr4QagNg2c5leqIeajFOKajtLjN0?fife" height="200" width="auto" /><br><br>Судячи з кабіни КамАЗу, колона рухалася в бік Києва]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://doc-0c-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/ro4c6k1nbrk9tbcqj74nmcb000/1651567500000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vYrlmQ91MxxKPpvvXZEGVKIqvHoJVrcnQ-aXgbdPPHPzvDNggvKedMOKsRoCLjJpaytwS5KYvEJKG0YvNVrzW-mvrZNTv6eCh501jul8U-yE-XdRTMHCKPtDP3gRzwOBzxtIhNbI8nAf7r4sE22Clzx9g6YIKCF6WtY3P-Bg8Hwl483oAnEUzba6ZPs9blz-Eg?fife</value>
+            <value>https://doc-0s-b0-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/06t52km57rtg2ee59tggs6iib8/1651578300000/RrEcEcWGM--DzhZ1XpazUWHxh9XKiy_f/*/6AIsG_vaRn1erBVR0h-eofFIkri0C--qfUKKS4pygYB5L0tcl3XeOFe4NurjQeMDk52a9NQ6mCz80hFOm2U5WY8E6f51ZzrIA3C0QQn76rWdTUoF7-4WWEvgeliwjZcxXsvcs8Qb5s7lu21hd7s7cWW35TJAO7E8YgzlMqpyngcesr4QagNg2c5leqIeajFOKajtLjN0?fife</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -5678,7 +5678,7 @@
       <Placemark>
         <name>Дергачі (28.04 - російські обстріли)</name>
         <description><![CDATA[28.04 - "По області протягом доби росіяни обстрілювали Золочів, Дергачі, Чугуїв":<br>https://censor.net/ua/n3337351<br>-------<br>9.03 - МІСТО ЗВІЛЬНЕНЕ:<br>"ЗСУ вигнали російських окупантів із міста Дергачі та повністю контролюють територію" — голова Харківської ОДА<br>https://novynarnia.com/2022/03/09/hronika-oborony-ukrayiny-den-14-09-03-2022/]]></description>
-        <styleUrl>#icon-ci-2</styleUrl>
+        <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
             36.1199636,50.119196,0
@@ -5698,7 +5698,7 @@
       <Placemark>
         <name>Безруки (25.04 - російські обстріли)</name>
         <description><![CDATA[25 квітня - російські обстріли:<br>https://censor.net/ua/news/3336703/<br>-----<br>21 квітня, Харківська ОВА - СЕЛО ЗВІЛЬНЕНЕ:<br>"Наші підрозділи вибили російські війська з населених пунктів: Безруки, Слатіно, Прудянка Дергачівського району та закріпилися на позиціях" <br>https://censor.net/ua/n3336216<br>-----<br>19 березня - станом на цю дату село було рубіжним пунктом російських окупантів:<br>https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
             36.1395663,50.1737475,0
@@ -5896,10 +5896,10 @@
       <Placemark>
         <name><![CDATA[П'ятихатки (Харків)]]></name>
         <description>російські обстріли - https://censor.net/ua/news/3329472/zsu_vytisnyayut_okupantiv_iz_roganskogo_chuguyivskogo_dergachivskogo_napryamkiv_izyum_krytychna_tochka</description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <styleUrl>#icon-ci-2</styleUrl>
         <Point>
           <coordinates>
-            36.2552556,50.0965419,0
+            36.251994,50.0892184,0
           </coordinates>
         </Point>
       </Placemark>
@@ -5965,7 +5965,7 @@
       <Placemark>
         <name>Елітне (звільнене 25.03, за даними Бутусова)</name>
         <description>https://censor.net/ru/resonance/3330159/razgrom_btgr_138yi_brigady_i_59go_polka_vs_rf_u_sela_malaya_rogan_pod_harkovom</description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
             36.4596989,49.997548,0
@@ -5985,7 +5985,7 @@
       <Placemark>
         <name>Вільхівка (звільнено 26.03)</name>
         <description><![CDATA[Голова Харківської ОВА: <br>"Коли ми звільняли населений пункт Вільхівка, так само там були зафіксовані факти, по яких зараз працюють правоохоронні органи – і щодо зґвалтувань, і щодо нелюдського ставлення до місцевих мешканців, про що вони самі розповідали. Люди зі сльозами на очах зустрічали наших військових, коли вони зачищали цей населений пункт від окупантів..."<br>https://www.pravda.com.ua/articles/2022/04/21/7341146/]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
             36.5201301,49.9896284,0
@@ -5995,7 +5995,7 @@
       <Placemark>
         <name>Мала Рогань (звільнено 26.03)</name>
         <description><![CDATA[17 квітня, Харківська ОВА: <br>"...в районі села Мала Рогань наші підрозділи просунулися далі на схід."<br>Джерело: https://censor.net/ua/n3334784<br>-----<br>26 березня: <br>село звільнене ЗСУ. На дорозі під селом росіяни розстріляли два десятки цивільних авто разом із пасажирами<br>https://www.youtube.com/watch?v=S-e4dck8fJg]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
             36.5371245,49.9338614,0
@@ -6232,7 +6232,7 @@
       <Placemark>
         <name>Прелесне (30.04 - під контролем ЗСУ)</name>
         <description><![CDATA[30.04 - "...на Харківщині було відновлено контроль над населеними пунктами Верхня Роганка, Руська Лозова, Слобідське та Прилесне":<br>https://www.facebook.com/GeneralStaff.ua/posts/306191908360561<br>-------<br>8.04 - бойові дії:<br>https://censor.net/ua/video_news/3332436/rosiyiski_soldaty_bijat_pid_vognem_tanka_pidrozdily_kraken_ta_vintaja_pid_harkovom_videofotoreportaj]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
             36.4565603,50.0271826,0
@@ -6382,7 +6382,7 @@
       <Placemark>
         <name>Рогань (15.04 - звільнене, за даними ОВА)</name>
         <description>https://censor.net/ua/photo_news/3334420/selo_rogan_na_harkivschyni_zvilnene_vid_rosiyiskyh_okupantiv_ta_povertayetsya_do_jyttya_ova_fotoreportaj</description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
             36.4927746,49.9057879,0
@@ -6425,7 +6425,7 @@
         <styleUrl>#icon-ci-7</styleUrl>
         <Point>
           <coordinates>
-            36.9437148,50.277058,0
+            36.9437148,50.2708045,0
           </coordinates>
         </Point>
       </Placemark>
@@ -6435,7 +6435,7 @@
         <styleUrl>#icon-ci-4</styleUrl>
         <Point>
           <coordinates>
-            36.4713758,50.0403996,0
+            36.4896578,50.0441479,0
           </coordinates>
         </Point>
       </Placemark>
@@ -6455,7 +6455,7 @@
         <styleUrl>#icon-ci-4</styleUrl>
         <Point>
           <coordinates>
-            36.9724903,49.8476567,0
+            36.9552383,49.8392435,0
           </coordinates>
         </Point>
       </Placemark>
@@ -6535,7 +6535,7 @@
         <styleUrl>#icon-ci-7</styleUrl>
         <Point>
           <coordinates>
-            37.0009317,49.8938547,0
+            37.0198145,49.8934124,0
           </coordinates>
         </Point>
       </Placemark>
@@ -6550,9 +6550,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Слатине (звільнене 21.04)</name>
-        <description><![CDATA[23 квітня - російські обстріли:<br>https://censor.net/ua/news/3336307/<br>-----<br>21 квітня - село звільнене (Харківська ОВА):<br>"Наші підрозділи вибили російські війська з населених пунктів: Безруки, Слатіно, Прудянка Дергачівського району та закріпилися на позиціях"<br>https://censor.net/ua/n3336216]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <name>Слатине (3.05 - російські обстріли)</name>
+        <description><![CDATA[3.05 - "...постійними обстрілами ворог перетворив заможнє селище на майже суцільні руїни. Із 6,5 тисяч людей, які жили тут до вторгнення, у Слатиному залишилося 200 мешканців, є загиблі й поранені":<br>https://t.me/synegubov/3067<br>-------<br>23.04 - російські обстріли:<br>https://censor.net/ua/news/3336307/<br>-------<br>21.04 - СЕЛИЩЕ ЗВІЛЬНЕНЕ (Харківська ОВА):<br>"Наші підрозділи вибили російські війська з населених пунктів: Безруки, Слатіно, Прудянка Дергачівського району та закріпилися на позиціях"<br>https://censor.net/ua/n3336216]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
         <Point>
           <coordinates>
             36.1551679,50.2094727,0
@@ -6570,12 +6570,12 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name><![CDATA["Екопарк Фельдмана" (станом на 13.04 - окупований)]]></name>
-        <description><![CDATA[13 квітня: <br>"...екопарк знаходиться в 300 метрах від позицій російських окупантів"<br>https://life.pravda.com.ua/society/2022/04/13/248230/]]></description>
+        <name><![CDATA["Екопарк Фельдмана"]]></name>
+        <description><![CDATA[Територія екопарку тривалий час перебувала під контролем окупантів.<br>7.03 росіяни розстріляли волонтерів, які спробували нагодувати тварин в екопарку:<br>https://www.pravda.com.ua/news/2022/03/8/7329504/<br>Станом на 19.04 "...екопарк знаходиться в 300 метрах від позицій російських окупантів"<br>https://life.pravda.com.ua/society/2022/04/13/248230/<br>Найімовірніше, територію екопарку звільнено наприкінці квітня в ході контрнаступу ЗСУ на північ від Харкова:<br>https://www.unian.ua/society/na-harkivshchini-azov-evakuyuvav-lyudey-iz-zvilnenih-selishch-lisne-ta-ruska-lozova-foto-novini-harkova-11807262.html]]></description>
         <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
-            36.2810239,50.1059334,0
+            36.2838134,50.1014742,0
           </coordinates>
         </Point>
       </Placemark>
@@ -6761,7 +6761,7 @@
       <Placemark>
         <name>Покотилівка (28.04 - російський обстріл, 2 вбитих)</name>
         <description><![CDATA[28.04 - російська артилерія убила двох, поранила п'ятьох мирних громадян:<br>https://censor.net/ua/news/3337550/]]></description>
-        <styleUrl>#icon-ci-9</styleUrl>
+        <styleUrl>#icon-ci-2</styleUrl>
         <Point>
           <coordinates>
             36.1758867,49.9142934,0
@@ -6771,7 +6771,7 @@
       <Placemark>
         <name>Котляри (28.04 - російський обстріл)</name>
         <description><![CDATA[28.04 - російський обстріл убив і покалічив:<br>https://censor.net/ua/news/3337550/]]></description>
-        <styleUrl>#icon-ci-9</styleUrl>
+        <styleUrl>#icon-ci-2</styleUrl>
         <Point>
           <coordinates>
             36.3025781,49.909896,0
@@ -6801,7 +6801,7 @@
       <Placemark>
         <name>Слобідське (звільнене 30.04)</name>
         <description><![CDATA[30.04 - "...на Харківщині було відновлено контроль над населеними пунктами Верхня Роганка, Руська Лозова, Слобідське та Прилесне":<br>https://www.facebook.com/GeneralStaff.ua/posts/306191908360561]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <styleUrl>#icon-ci-1</styleUrl>
         <Point>
           <coordinates>
             36.4520974,50.0167447,0
@@ -6814,7 +6814,7 @@
         <styleUrl>#icon-ci-4</styleUrl>
         <Point>
           <coordinates>
-            36.5566468,50.0288923,0
+            36.5732122,50.0289475,0
           </coordinates>
         </Point>
       </Placemark>
@@ -6875,6 +6875,36 @@
         <Point>
           <coordinates>
             34.7636821,51.1453567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1.05 - підірваний залізничний міст через річку Конопелька (Курская область РФ)</name>
+        <description><![CDATA[В результаті зупинено рух вантажних поїздів на важливому рокадному напрямку Брянск - Бєлгород:<br>https://www.railinsider.com.ua/u-kurskij-oblasti-obvalyvsya-zaliznychnyj-mist/]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
+        <Point>
+          <coordinates>
+            35.385364,51.1708562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Кицівка</name>
+        <description><![CDATA[Станом на 19.03 була під контролем росіян. Звільнена, найімовірніше, в середині квітня - під час контрудару ЗСУ від Харкова на південний схід.<br>Схоже, про відбудову автомобільного моста саме у Кицівці (і в сусідньому селі Кочеток) йдеться в цій новині за 2.05:<br>https://censor.net/ua/news/3338414/]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <Point>
+          <coordinates>
+            36.8104591,49.8711667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Лісне (звільнене 30.04)</name>
+        <description>https://www.unian.ua/society/na-harkivshchini-azov-evakuyuvav-lyudey-iz-zvilnenih-selishch-lisne-ta-ruska-lozova-foto-novini-harkova-11807262.html</description>
+        <styleUrl>#icon-ci-4</styleUrl>
+        <Point>
+          <coordinates>
+            36.2638538,50.1085207,0
           </coordinates>
         </Point>
       </Placemark>
