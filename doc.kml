@@ -959,12 +959,16 @@ https://armyinform.com.ua/2022/04/13/u-doneczkij-ta-luganskij-oblastyah-zsu-vidb
         </Point>
       </Placemark>
       <Placemark>
-        <name>Микільське (cтаном на 19.03 - рубіжний пункт російських окупантів)</name>
-        <description><![CDATA[description: <br>element_type: red_dot<br>lat: 47.7501458<br>lon: 37.3052928]]></description>
+        <name>Микільське (21.05 - російський авіаудар)</name>
+        <description><![CDATA[description: 21.05 - російський авіаудар - "ворог .... завдав авіаційного удару по населеному пункту Микільське Волноваського району...":<br>https://censor.net/ua/news/3342907/<br>-----<br>станом на 19.03 - рубіжний пункт російських окупантів<br><br>element_type: red_dot<br>lat: 47.7501458<br>lon: 37.3052928]]></description>
         <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value/>
+            <value><![CDATA[21.05 - російський авіаудар - "ворог .... завдав авіаційного удару по населеному пункту Микільське Волноваського району...":
+https://censor.net/ua/news/3342907/
+-----
+станом на 19.03 - рубіжний пункт російських окупантів
+]]></value>
           </Data>
           <Data name="element_type">
             <value>red_dot</value>
