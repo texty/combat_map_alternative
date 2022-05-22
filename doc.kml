@@ -10350,12 +10350,18 @@ https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/</value>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Свободне (звільнено 31.03)</name>
-        <description><![CDATA[description: https://www.facebook.com/okPivden/posts/2022535391251037<br>element_type: yellow_dot<br>lat: 47.5558101<br>lon: 33.1400581]]></description>
+        <name>Свободне (тут окупанти згвалтували вагітну дівчину і 83-річну бабусю)</name>
+        <description><![CDATA[description: 31.03 - село ЗВІЛЬНЕНЕ: <br>https://www.facebook.com/okPivden/posts/2022535391251037<br>12-14.03 - село ОКУПОВАНЕ:<br>російські колаборанти з "народної міліції" ордло не дозволяли селянам евакуюватися, грабували і гвалтували їх:<br>https://m.censor.net/ua/video_news/3341680/<br><br><br>element_type: yellow_dot<br>lat: 47.5558101<br>lon: 33.1400581]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>https://www.facebook.com/okPivden/posts/2022535391251037</value>
+            <value><![CDATA[31.03 - село ЗВІЛЬНЕНЕ: 
+https://www.facebook.com/okPivden/posts/2022535391251037
+12-14.03 - село ОКУПОВАНЕ:
+російські колаборанти з "народної міліції" ордло не дозволяли селянам евакуюватися, грабували і гвалтували їх:
+https://m.censor.net/ua/video_news/3341680/
+
+]]></value>
           </Data>
           <Data name="element_type">
             <value>yellow_dot</value>
@@ -14766,7 +14772,7 @@ https://censor.net/ua/photo_news/3334682/za_dobu_viyiska_rf_obstrilyaly_13_nasel
       </Placemark>
       <Placemark>
         <name>Новопіль (24.04 - російські обстріли)</name>
-        <description><![CDATA[description: 24.04 - російські обстріли:<br>https://tsn.ua/ukrayina/okupanti-grabuyut-naselennya-mobilizuyut-cholovikiv-ta-vedut-obstrili-operativna-situaciya-u-zaporizkiy-oblasti-2044981.html<br>-------<br>18.04, російські обстріли: <br>"Упродовж минулої доби окупанти вдарили по таких населених пунктах Донеччини: Маріуполь, Авдіївка, Вугледар, Добропілля, Слов’янськ, Торське, Новопіль, Новгородське, Нью-Йорк. Ворог обстрілював мирне населення ракетами, із реактивних систем залпового вогню "Град", танків, важкої артилерії" <br>https://censor.net/ua/p3334872<br>element_type: grey_dot<br>lat: 47.8064268<br>lon: 36.6253645]]></description>
+        <description><![CDATA[description: 24.04 - російські обстріли:<br>https://tsn.ua/ukrayina/okupanti-grabuyut-naselennya-mobilizuyut-cholovikiv-ta-vedut-obstrili-operativna-situaciya-u-zaporizkiy-oblasti-2044981.html<br>-------<br>18.04, російські обстріли: <br>"Упродовж минулої доби окупанти вдарили по таких населених пунктах Донеччини: Маріуполь, Авдіївка, Вугледар, Добропілля, Слов’янськ, Торське, Новопіль, Новгородське, Нью-Йорк. Ворог обстрілював мирне населення ракетами, із реактивних систем залпового вогню "Град", танків, важкої артилерії" <br>https://censor.net/ua/p3334872<br>element_type: grey_dot<br>lat: 47.8064268<br>lon: 36.6246779]]></description>
         <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
@@ -14784,12 +14790,12 @@ https://censor.net/ua/p3334872]]></value>
             <value>47.8064268</value>
           </Data>
           <Data name="lon">
-            <value>36.6253645</value>
+            <value>36.6246779</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            36.6253645,47.8064268,0
+            36.6246779,47.8064268,0
           </coordinates>
         </Point>
       </Placemark>
@@ -25036,6 +25042,33 @@ https://novynarnia.com/2022/04/26/rosiyany-vdaryly-po-mostu/</value>
         <Point>
           <coordinates>
             23.9859592,49.8478391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>21.05 - росіяни зруйнували Павлоградський автомобільний міст через Сіверський Донець між Сєвєродонецьком і Лисичанськом</name>
+        <description><![CDATA[description: 21.05, Луганська ОВА -<br>"Російські окупанти зруйнували міст між Сєвєродонецьком та Лисичанськом...":<br>https://m.censor.net/ua/news/3342908/<br><br>element_type: red_bridge<br>lat: 48.9245853<br>lon: 38.4366086]]></description>
+        <styleUrl>#icon-ci-8</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[21.05, Луганська ОВА -
+"Російські окупанти зруйнували міст між Сєвєродонецьком та Лисичанськом...":
+https://m.censor.net/ua/news/3342908/
+]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>red_bridge</value>
+          </Data>
+          <Data name="lat">
+            <value>48.9245853</value>
+          </Data>
+          <Data name="lon">
+            <value>38.4366086</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4366086,48.9245853,0
           </coordinates>
         </Point>
       </Placemark>
