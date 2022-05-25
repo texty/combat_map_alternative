@@ -38574,11 +38574,14 @@ lon: 36.6815332]]></value>
       </Placemark>
       <Placemark>
         <name>Циркуни (звільнені 7.05)</name>
-        <description><![CDATA[description: description: 7.05 - "В результаті наступу підрозділів Збройних Сил України ворог втратив контроль над населеним пунктом Циркуни": <br>https://www.facebook.com/GeneralStaff.ua/posts/311567034489715<br>-------<br>21.04, Харківська ОВА:<br>"Не контролюємо північний напрямок – це Липці, Циркуни"<br>https://www.pravda.com.ua/articles/2022/04/21/7341146/<br>element_type: yellow_dot<br>lat: 50.089246<br>lon: 36.3816494<br>element_type: yellow_dot<br>lat: 50.089246<br>lon: 36.3816494]]></description>
-        <styleUrl>#icon-ci-2</styleUrl>
+        <description><![CDATA[description: description: 24.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/324283196551432<br>-----<br>7.05 - "В результаті наступу підрозділів Збройних Сил України ворог втратив контроль над населеним пунктом Циркуни": <br>https://www.facebook.com/GeneralStaff.ua/posts/311567034489715<br>-------<br>21.04, Харківська ОВА:<br>"Не контролюємо північний напрямок – це Липці, Циркуни"<br>https://www.pravda.com.ua/articles/2022/04/21/7341146/<br>element_type: yellow_dot<br>lat: 50.089246<br>lon: 36.3816494<br><br>element_type: dark_red_dot<br>lat: 50.089246<br>lon: 36.3816494]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[description: 7.05 - "В результаті наступу підрозділів Збройних Сил України ворог втратив контроль над населеним пунктом Циркуни": 
+            <value><![CDATA[description: 24.05 - російські обстріли:
+https://www.facebook.com/GeneralStaff.ua/posts/324283196551432
+-----
+7.05 - "В результаті наступу підрозділів Збройних Сил України ворог втратив контроль над населеним пунктом Циркуни": 
 https://www.facebook.com/GeneralStaff.ua/posts/311567034489715
 -------
 21.04, Харківська ОВА:
@@ -38586,10 +38589,11 @@ https://www.facebook.com/GeneralStaff.ua/posts/311567034489715
 https://www.pravda.com.ua/articles/2022/04/21/7341146/
 element_type: yellow_dot
 lat: 50.089246
-lon: 36.3816494]]></value>
+lon: 36.3816494
+]]></value>
           </Data>
           <Data name="element_type">
-            <value>yellow_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>50.089246</value>
@@ -38776,8 +38780,8 @@ lon: 28.8436956]]></value>
       </Placemark>
       <Placemark>
         <name>ВУГЛЕДАР (14.05 - російські обстріли)</name>
-        <description><![CDATA[description: description: 14.05 - російські обстріли:<br>https://censor.net/ua/p3341281<br>-----<br>3.05 - "Внаслідок ранкового обстрілу Вугледара ЗАГИНУЛО ТРОЄ людей, що йшли по питну воду:<br>https://censor.net/ua/p3338615<br>-----<br>28.04 - російські обстріли:<br>"...Авдіївка, Мар'їнка, Красногорівка, Новомихайлівка, Лиман, Вугледар — під постійними обстрілами" <br>https://censor.net/ua/n3337351<br>-----<br>25.04 - російські обстріли:<br>"...росіяни вдарили по таких населених пунктах Донеччини: Маріуполь, Лиман, Авдіївка, Дружківка, Вугледар, Велика Новосілка..."<br>https://censor.net/ua/p3336594<br>-----<br>22.04, поліція:<br>"Упродовж минулої доби окупанти вдарили по таких населених пунктах Донеччини - Маріуполь, Авдіївка, Лиман, Слов’янськ, Мар’їнка, Вугледар, Сіверськ, Світлодарськ, Велика Новосілка..." <br>https://censor.net/ua/n3335984<br>-----<br>20.04, поліція:<br>"Упродовж минулої доби російські військові вдарили по таких населених пунктах Донеччини: Маріуполь, Авдіївка, Вугледар, Мар’їнка, Краматорськ, Новогродівка, Торецьк, Миколаївка, Благодатне, Орлівка, Рубці, Привілля"<br>https://novynarnia.com/2022/04/20/okupanty-obstrilyaly-12-mist/<br> -----<br>18.04:<br>"Упродовж минулої доби окупанти вдарили по таких населених пунктах Донеччини: Маріуполь, Авдіївка, Вугледар, Добропілля, Слов’янськ, Торське, Новопіль, Новгородське, Нью-Йорк. Ворог обстрілював мирне населення ракетами, із реактивних систем залпового вогню "Град", танків, важкої артилерії"<br> https://censor.net/ua/p3334872<br>element_type: dark_red_dot<br>lat: 47.7809632<br>lon: 37.2422555<br>element_type: dark_red_dot<br>lat: 47.7809632<br>lon: 37.2422555]]></description>
-        <styleUrl>#icon-ci-3</styleUrl>
+        <description><![CDATA[description: description: 14.05 - російські обстріли:<br>https://censor.net/ua/p3341281<br>-----<br>3.05 - "Внаслідок ранкового обстрілу Вугледара ЗАГИНУЛО ТРОЄ людей, що йшли по питну воду:<br>https://censor.net/ua/p3338615<br>-----<br>28.04 - російські обстріли:<br>"...Авдіївка, Мар'їнка, Красногорівка, Новомихайлівка, Лиман, Вугледар — під постійними обстрілами" <br>https://censor.net/ua/n3337351<br>-----<br>25.04 - російські обстріли:<br>"...росіяни вдарили по таких населених пунктах Донеччини: Маріуполь, Лиман, Авдіївка, Дружківка, Вугледар, Велика Новосілка..."<br>https://censor.net/ua/p3336594<br>-----<br>22.04, поліція:<br>"Упродовж минулої доби окупанти вдарили по таких населених пунктах Донеччини - Маріуполь, Авдіївка, Лиман, Слов’янськ, Мар’їнка, Вугледар, Сіверськ, Світлодарськ, Велика Новосілка..." <br>https://censor.net/ua/n3335984<br>-----<br>20.04, поліція:<br>"Упродовж минулої доби російські військові вдарили по таких населених пунктах Донеччини: Маріуполь, Авдіївка, Вугледар, Мар’їнка, Краматорськ, Новогродівка, Торецьк, Миколаївка, Благодатне, Орлівка, Рубці, Привілля"<br>https://novynarnia.com/2022/04/20/okupanty-obstrilyaly-12-mist/<br> -----<br>18.04:<br>"Упродовж минулої доби окупанти вдарили по таких населених пунктах Донеччини: Маріуполь, Авдіївка, Вугледар, Добропілля, Слов’янськ, Торське, Новопіль, Новгородське, Нью-Йорк. Ворог обстрілював мирне населення ракетами, із реактивних систем залпового вогню "Град", танків, важкої артилерії"<br> https://censor.net/ua/p3334872<br>element_type: dark_red_dot<br>lat: 47.7809632<br>lon: 37.2422555<br>element_type: blue_dot<br>lat: 47.7809632<br>lon: 37.2422555]]></description>
+        <styleUrl>#icon-ci-5</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value><![CDATA[description: 14.05 - російські обстріли:
@@ -38810,7 +38814,7 @@ lat: 47.7809632
 lon: 37.2422555]]></value>
           </Data>
           <Data name="element_type">
-            <value>dark_red_dot</value>
+            <value>blue_dot</value>
           </Data>
           <Data name="lat">
             <value>47.7809632</value>
@@ -39134,8 +39138,8 @@ lon: 38.5582665]]></value>
       </Placemark>
       <Placemark>
         <name>Новолуганське (14.05 - російські обстріли)</name>
-        <description><![CDATA[description: description: 14.05 - російські обстріли - "Упродовж минулої доби російські війська вдарили по таких населених пунктах - Маріуполь, Авдіївка, Залізне, Лиман, Слов’янськ, Святогірськ, Сіверськ, Вугледар, Мар’їнка, Іллінка, Новолуганське, Ярова, Бахмутське, Богородичне": <br>https://censor.net/ua/p3341281<br>element_type: dark_red_dot<br>lat: 48.4244757<br>lon: 38.1709169<br>element_type: dark_red_dot<br>lat: 48.4244757<br>lon: 38.1709169]]></description>
-        <styleUrl>#icon-ci-3</styleUrl>
+        <description><![CDATA[description: description: 14.05 - російські обстріли - "Упродовж минулої доби російські війська вдарили по таких населених пунктах - Маріуполь, Авдіївка, Залізне, Лиман, Слов’янськ, Святогірськ, Сіверськ, Вугледар, Мар’їнка, Іллінка, Новолуганське, Ярова, Бахмутське, Богородичне": <br>https://censor.net/ua/p3341281<br>element_type: dark_red_dot<br>lat: 48.4244757<br>lon: 38.1709169<br>element_type: grey_dot<br>lat: 48.4244757<br>lon: 38.1709169]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value><![CDATA[description: 14.05 - російські обстріли - "Упродовж минулої доби російські війська вдарили по таких населених пунктах - Маріуполь, Авдіївка, Залізне, Лиман, Слов’янськ, Святогірськ, Сіверськ, Вугледар, Мар’їнка, Іллінка, Новолуганське, Ярова, Бахмутське, Богородичне": 
@@ -39145,7 +39149,7 @@ lat: 48.4244757
 lon: 38.1709169]]></value>
           </Data>
           <Data name="element_type">
-            <value>dark_red_dot</value>
+            <value>grey_dot</value>
           </Data>
           <Data name="lat">
             <value>48.4244757</value>
@@ -39350,8 +39354,8 @@ lon: 37.8195298]]></value>
       </Placemark>
       <Placemark>
         <name>Комишуваха (15.05 - російський наступ)</name>
-        <description><![CDATA[description: description: 15.05 - російський наступ - "На Бахмутському напрямку тривають бойові дії в районі Комишувахи": <br>https://censor.net/ua/n3341501<br>-----<br>14.05 - російський наступ - "...противник намагається покращити тактичне положення у районах населених пунктів Комишуваха, Красногорівка, Новомихайлівка, Костянтинівка і Побєда. Успіху не має":<br>https://www.facebook.com/GeneralStaff.ua/posts/316553500657735/<br>-----<br>13.05, Луганська ОВА - російські обстріли зруйнували 11 будинків:<br>https://censor.net/ua/photo_news/3341266/<br>13.05 - російський штурм - "На Бахмутському напрямку противник вів штурмові дії у напрямках населених пунктів Золоте та Комишуваха, успіху не мав":<br>https://www.facebook.com/GeneralStaff.ua/posts/316199807359771<br>-----<br>12.05, Луганська ОВА - російські обстріли, зруйновано 12 будинків - "...окупанти вели штурмові дії у напрямку Оріхового та в районі Комишувахи. Успіху щодо просування уперед вони не мали, однак житла зруйновано понад 50 будинків. 15 – у Врубівці, 12 – у Золотому, 11 – у Комишувасі...":<br>https://censor.net/ua/p3340998<br>-----<br>12.05 - російський штурм - "На Бахмутському напрямку ворог веде штурмові дії у напрямку Первомайськ, Комишуваха, бойові дії тривають":<br>https://www.facebook.com/GeneralStaff.ua/posts/315147577464994<br>-----<br>1.05 - російські обстріли - "У Комишувасі (поблизу Попасної) зруйновано будівлю сільради, школу та багатоквартирний будинок": https://censor.net/ua/n3338087<br>element_type: dark_red_dot<br>lat: 48.7013002<br>lon: 38.382129<br>element_type: dark_red_dot<br>lat: 48.7013002<br>lon: 38.382129]]></description>
-        <styleUrl>#icon-ci-3</styleUrl>
+        <description><![CDATA[description: description: 15.05 - російський наступ - "На Бахмутському напрямку тривають бойові дії в районі Комишувахи": <br>https://censor.net/ua/n3341501<br>-----<br>14.05 - російський наступ - "...противник намагається покращити тактичне положення у районах населених пунктів Комишуваха, Красногорівка, Новомихайлівка, Костянтинівка і Побєда. Успіху не має":<br>https://www.facebook.com/GeneralStaff.ua/posts/316553500657735/<br>-----<br>13.05, Луганська ОВА - російські обстріли зруйнували 11 будинків:<br>https://censor.net/ua/photo_news/3341266/<br>13.05 - російський штурм - "На Бахмутському напрямку противник вів штурмові дії у напрямках населених пунктів Золоте та Комишуваха, успіху не мав":<br>https://www.facebook.com/GeneralStaff.ua/posts/316199807359771<br>-----<br>12.05, Луганська ОВА - російські обстріли, зруйновано 12 будинків - "...окупанти вели штурмові дії у напрямку Оріхового та в районі Комишувахи. Успіху щодо просування уперед вони не мали, однак житла зруйновано понад 50 будинків. 15 – у Врубівці, 12 – у Золотому, 11 – у Комишувасі...":<br>https://censor.net/ua/p3340998<br>-----<br>12.05 - російський штурм - "На Бахмутському напрямку ворог веде штурмові дії у напрямку Первомайськ, Комишуваха, бойові дії тривають":<br>https://www.facebook.com/GeneralStaff.ua/posts/315147577464994<br>-----<br>1.05 - російські обстріли - "У Комишувасі (поблизу Попасної) зруйновано будівлю сільради, школу та багатоквартирний будинок": https://censor.net/ua/n3338087<br>element_type: dark_red_dot<br>lat: 48.7013002<br>lon: 38.382129<br>element_type: grey_dot<br>lat: 48.7013002<br>lon: 38.382129]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value><![CDATA[description: 15.05 - російський наступ - "На Бахмутському напрямку тривають бойові дії в районі Комишувахи": 
@@ -39377,7 +39381,7 @@ lat: 48.7013002
 lon: 38.382129]]></value>
           </Data>
           <Data name="element_type">
-            <value>dark_red_dot</value>
+            <value>grey_dot</value>
           </Data>
           <Data name="lat">
             <value>48.7013002</value>
@@ -39750,8 +39754,8 @@ lon: 37.5051005]]></value>
       </Placemark>
       <Placemark>
         <name>Врубівка (14.05 - російські обстріли з РСЗВ та авіаудари)</name>
-        <description><![CDATA[description: description: 14.05, Луганська ОВА - російські обстріли з РСЗВ та авіаудари - "...росіяни руйнують будинки щодня. Стріляють системами залпового вогню і все частіше застосовують авіацію. Майже на кожній вулиці є значні пошкодження":<br>https://censor.net/ua/n3341318<br>-----<br>13.05, Луганська ОВА - російські обстріли зруйнували 5 будинків:<br>https://censor.net/ua/photo_news/3341266/<br>-----<br>12.05, Луганська ОВА - російські обстріли зруйнували 15 будинків - "...окупанти вели штурмові дії у напрямку Оріхового та в районі Комишувахи. Успіху щодо просування уперед вони не мали, однак житла зруйновано понад 50 будинків. 15 – у Врубівці, 12 – у Золотому, 11 – у Комишувасі, шість – у Тошківці, чотири – у Троїцькому та ще дев’ять по іншим селам Попаснянської громади":<br>https://censor.net/ua/p3340998<br>element_type: dark_red_dot<br>lat: 48.7381781<br>lon: 38.3903248<br>element_type: dark_red_dot<br>lat: 48.7381781<br>lon: 38.3903248]]></description>
-        <styleUrl>#icon-ci-3</styleUrl>
+        <description><![CDATA[description: description: 14.05, Луганська ОВА - російські обстріли з РСЗВ та авіаудари - "...росіяни руйнують будинки щодня. Стріляють системами залпового вогню і все частіше застосовують авіацію. Майже на кожній вулиці є значні пошкодження":<br>https://censor.net/ua/n3341318<br>-----<br>13.05, Луганська ОВА - російські обстріли зруйнували 5 будинків:<br>https://censor.net/ua/photo_news/3341266/<br>-----<br>12.05, Луганська ОВА - російські обстріли зруйнували 15 будинків - "...окупанти вели штурмові дії у напрямку Оріхового та в районі Комишувахи. Успіху щодо просування уперед вони не мали, однак житла зруйновано понад 50 будинків. 15 – у Врубівці, 12 – у Золотому, 11 – у Комишувасі, шість – у Тошківці, чотири – у Троїцькому та ще дев’ять по іншим селам Попаснянської громади":<br>https://censor.net/ua/p3340998<br>element_type: dark_red_dot<br>lat: 48.7381781<br>lon: 38.3903248<br>element_type: grey_dot<br>lat: 48.7381781<br>lon: 38.3903248]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value><![CDATA[description: 14.05, Луганська ОВА - російські обстріли з РСЗВ та авіаудари - "...росіяни руйнують будинки щодня. Стріляють системами залпового вогню і все частіше застосовують авіацію. Майже на кожній вулиці є значні пошкодження":
@@ -39767,7 +39771,7 @@ lat: 48.7381781
 lon: 38.3903248]]></value>
           </Data>
           <Data name="element_type">
-            <value>dark_red_dot</value>
+            <value>grey_dot</value>
           </Data>
           <Data name="lat">
             <value>48.7381781</value>
@@ -39812,8 +39816,8 @@ lon: 38.3632547</value>
       </Placemark>
       <Placemark>
         <name>Іллінка (14.05 - російські обстріли)</name>
-        <description><![CDATA[description: description: 14.05 - російські обстріли:<br>https://censor.net/ua/p3341281<br>element_type: dark_red_dot<br>lat: 47.891842<br>lon: 37.3203984<br>element_type: dark_red_dot<br>lat: 47.891842<br>lon: 37.3203984]]></description>
-        <styleUrl>#icon-ci-3</styleUrl>
+        <description><![CDATA[description: description: 14.05 - російські обстріли:<br>https://censor.net/ua/p3341281<br>element_type: dark_red_dot<br>lat: 47.891842<br>lon: 37.3203984<br>element_type: grey_dot<br>lat: 47.891842<br>lon: 37.3203984]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value>description: 14.05 - російські обстріли:
@@ -39823,7 +39827,7 @@ lat: 47.891842
 lon: 37.3203984</value>
           </Data>
           <Data name="element_type">
-            <value>dark_red_dot</value>
+            <value>grey_dot</value>
           </Data>
           <Data name="lat">
             <value>47.891842</value>
@@ -40199,8 +40203,8 @@ lon: 34.6951096</value>
       </Placemark>
       <Placemark>
         <name>Шевченкове (15.05 - російські обстріли)</name>
-        <description><![CDATA[description: description: 15.05 - російські обстріли з авіації:<br>https://censor.net/ua/news/3341502/<br>element_type: dark_red_dot<br>lat: 51.6742893<br>lon: 33.6885293<br>element_type: dark_red_dot<br>lat: 51.6742893<br>lon: 33.6885293]]></description>
-        <styleUrl>#icon-ci-3</styleUrl>
+        <description><![CDATA[description: description: 15.05 - російські обстріли з авіації:<br>https://censor.net/ua/news/3341502/<br>element_type: dark_red_dot<br>lat: 51.6742893<br>lon: 33.6885293<br>element_type: grey_dot<br>lat: 51.6742893<br>lon: 33.6885293]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value>description: 15.05 - російські обстріли з авіації:
@@ -40210,7 +40214,7 @@ lat: 51.6742893
 lon: 33.6885293</value>
           </Data>
           <Data name="element_type">
-            <value>dark_red_dot</value>
+            <value>grey_dot</value>
           </Data>
           <Data name="lat">
             <value>51.6742893</value>
@@ -40710,12 +40714,16 @@ lon: 32.3484173</value>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Світлодарськ (13.05 - російські обстріли)</name>
-        <description><![CDATA[description: description: 13.05, Нацполіція - російські обстріли:<br>https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br>-----<br>11.05, ГШ - російські обстріли:<br>"На Бахмутському напрямку, з метою підготовки наступу, російські окупанти продовжують артилерійські обстріли позицій наших військ в районах населених пунктів Світлодарськ та Троїцьке":<br>https://www.facebook.com/GeneralStaff.ua/posts/314771530835932<br>-----<br>22.04, Нацполіція - російські обстріли: "Упродовж минулої доби окупанти вдарили по таких населених пунктах - Маріуполь, Авдіївка, Лиман, Слов’янськ, Мар’їнка, Вугледар, Сіверськ, Світлодарськ, Велика Новосілка, Олександрівка, Зарічне, Очеретине, Дмитро-Дар’ївка, Східне, Новомихайлівка, Новобахмутівка, Новоселівка-3, Шнурки, Ямпіль, траса Київ-Харків-Довжанське"<br>https://censor.net/ua/n3335984<br>element_type: grey_dot<br>lat: 48.4310926<br>lon: 38.2426099<br>element_type: grey_dot<br>lat: 48.4310926<br>lon: 38.2426099]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <name>Світлодарськ (Вуглегірська ТЕС - одна з найпотужніших)</name>
+        <description><![CDATA[description: description: <br>24.05, Донецька ОВА - "Українські війська відійшли з так званої Світлодарської дуги, що вдавалася в територію ОРДЛО на півночі Донецької області, й охоплювала район населених пунктів Світлодарськ, Миронівський та Луганське":<br>https://novynarnia.com/2022/05/24/taktychne-peregrupuvannya-zsu-vidijshly-zi-svitlodarskoyi-dugy/<br>-----<br>13.05, Нацполіція - російські обстріли:<br>https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br>-----<br>11.05, ГШ - російські обстріли:<br>"На Бахмутському напрямку, з метою підготовки наступу, російські окупанти продовжують артилерійські обстріли позицій наших військ в районах населених пунктів Світлодарськ та Троїцьке":<br>https://www.facebook.com/GeneralStaff.ua/posts/314771530835932<br>-----<br>22.04, Нацполіція - російські обстріли: "Упродовж минулої доби окупанти вдарили по таких населених пунктах - Маріуполь, Авдіївка, Лиман, Слов’янськ, Мар’їнка, Вугледар, Сіверськ, Світлодарськ, Велика Новосілка, Олександрівка, Зарічне, Очеретине, Дмитро-Дар’ївка, Східне, Новомихайлівка, Новобахмутівка, Новоселівка-3, Шнурки, Ямпіль, траса Київ-Харків-Довжанське"<br>https://censor.net/ua/n3335984<br>element_type: grey_dot<br>lat: 48.4310926<br>lon: 38.2426099<br><br>element_type: red_dot<br>lat: 48.4310926<br>lon: 38.2426099]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[description: 13.05, Нацполіція - російські обстріли:
+            <value><![CDATA[description: 
+24.05, Донецька ОВА - "Українські війська відійшли з так званої Світлодарської дуги, що вдавалася в територію ОРДЛО на півночі Донецької області, й охоплювала район населених пунктів Світлодарськ, Миронівський та Луганське":
+https://novynarnia.com/2022/05/24/taktychne-peregrupuvannya-zsu-vidijshly-zi-svitlodarskoyi-dugy/
+-----
+13.05, Нацполіція - російські обстріли:
 https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/
 -----
 11.05, ГШ - російські обстріли:
@@ -40726,10 +40734,11 @@ https://www.facebook.com/GeneralStaff.ua/posts/314771530835932
 https://censor.net/ua/n3335984
 element_type: grey_dot
 lat: 48.4310926
-lon: 38.2426099]]></value>
+lon: 38.2426099
+]]></value>
           </Data>
           <Data name="element_type">
-            <value>grey_dot</value>
+            <value>red_dot</value>
           </Data>
           <Data name="lat">
             <value>48.4310926</value>
@@ -40983,8 +40992,8 @@ lon: 37.3709712</value>
       </Placemark>
       <Placemark>
         <name>Озерянівка (19.03 - бойові дії)</name>
-        <description><![CDATA[description: description: https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/<br>element_type: grey_dot<br>lat: 48.2734839<br>lon: 38.0030301<br>element_type: grey_dot<br>lat: 48.2734839<br>lon: 38.0030301]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <description><![CDATA[description: description: https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/<br>element_type: grey_dot<br>lat: 48.2734839<br>lon: 38.0030301<br>element_type: red_dot<br>lat: 48.2734839<br>lon: 38.0030301]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value>description: https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/
@@ -40993,7 +41002,7 @@ lat: 48.2734839
 lon: 38.0030301</value>
           </Data>
           <Data name="element_type">
-            <value>grey_dot</value>
+            <value>red_dot</value>
           </Data>
           <Data name="lat">
             <value>48.2734839</value>
@@ -44906,18 +44915,20 @@ lon: 38.5003871]]></value>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Миронівський</name>
-        <description><![CDATA[description: description: <br>element_type: blue_dot<br>lat: 48.4591568<br>lon: 38.285433<br>element_type: blue_dot<br>lat: 48.4591568<br>lon: 38.285433]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <name>Миронівський (окуповане 24.05)</name>
+        <description><![CDATA[description: description: 24.05, Донецька ОВА - "Українські війська відійшли з так званої Світлодарської дуги, що вдавалася в територію ОРДЛО на півночі Донецької області, й охоплювала район населених пунктів Світлодарськ, Миронівський та Луганське":<br>https://novynarnia.com/2022/05/24/taktychne-peregrupuvannya-zsu-vidijshly-zi-svitlodarskoyi-dugy/<br>element_type: blue_dot<br>lat: 48.4591568<br>lon: 38.285433<br><br>element_type: red_dot<br>lat: 48.4591568<br>lon: 38.285433]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>description: 
+            <value><![CDATA[description: 24.05, Донецька ОВА - "Українські війська відійшли з так званої Світлодарської дуги, що вдавалася в територію ОРДЛО на півночі Донецької області, й охоплювала район населених пунктів Світлодарськ, Миронівський та Луганське":
+https://novynarnia.com/2022/05/24/taktychne-peregrupuvannya-zsu-vidijshly-zi-svitlodarskoyi-dugy/
 element_type: blue_dot
 lat: 48.4591568
-lon: 38.285433</value>
+lon: 38.285433
+]]></value>
           </Data>
           <Data name="element_type">
-            <value>blue_dot</value>
+            <value>red_dot</value>
           </Data>
           <Data name="lat">
             <value>48.4591568</value>
@@ -45063,8 +45074,8 @@ lon: 38.12446</value>
       </Placemark>
       <Placemark>
         <name>Троїцьке (13.05 - російські обстріли)</name>
-        <description><![CDATA[description: description: 13.05, Луганська ОВА - російські обстріли зруйнували 5 будинків:<br>https://censor.net/ua/photo_news/3341266/<br>-----<br>11.05 - російські обстріли - "На Бахмутському напрямку, з метою підготовки наступу, російські окупанти продовжують артилерійські обстріли позицій наших військ в районах населених пунктів Світлодарськ та Троїцьке":<br>https://www.facebook.com/GeneralStaff.ua/posts/314771530835932<br>element_type: blue_dot<br>lat: 48.5299295<br>lon: 38.360886<br>element_type: blue_dot<br>lat: 48.5299295<br>lon: 38.360886]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <description><![CDATA[description: description: 13.05, Луганська ОВА - російські обстріли зруйнували 5 будинків:<br>https://censor.net/ua/photo_news/3341266/<br>-----<br>11.05 - російські обстріли - "На Бахмутському напрямку, з метою підготовки наступу, російські окупанти продовжують артилерійські обстріли позицій наших військ в районах населених пунктів Світлодарськ та Троїцьке":<br>https://www.facebook.com/GeneralStaff.ua/posts/314771530835932<br>element_type: blue_dot<br>lat: 48.5299295<br>lon: 38.360886<br>element_type: grey_dot<br>lat: 48.5299295<br>lon: 38.360886]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value><![CDATA[description: 13.05, Луганська ОВА - російські обстріли зруйнували 5 будинків:
@@ -45077,7 +45088,7 @@ lat: 48.5299295
 lon: 38.360886]]></value>
           </Data>
           <Data name="element_type">
-            <value>blue_dot</value>
+            <value>grey_dot</value>
           </Data>
           <Data name="lat">
             <value>48.5299295</value>
@@ -45413,11 +45424,14 @@ lon: 37.2926011]]></value>
       </Placemark>
       <Placemark>
         <name>ЛИМАН (один із напрямків російського наступу)</name>
-        <description><![CDATA[description: description: 13.05, Нацполіція - російські обстріли, ЗАГИНУЛА людина:<br>https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br>-----<br>12.05 - "Основним завданням противника залишається встановлення повного контролю над Рубіжним, захоплення Лиману та Сєвєродонецька":<br>https://www.facebook.com/GeneralStaff.ua/posts/315147577464994<br>-----<br>11.05 - "На Донецькому напрямку основні зусилля противника зосереджуються на ... проведенні наступу в напрямку населеного пункту Лиман.":<br>https://www.facebook.com/GeneralStaff.ua/posts/314771530835932<br>-----<br>3.05 - російський обстріл УБИВ ТРЬОХ цивільних: <br>https://censor.net/ua/p3338615<br>-----<br>2.05 - росіійський обстріл:<br>https://www.ukrinform.ua/rubric-regions/3472713-na-doneccini-rosiani-za-dobu-obstrilali-11-naselenih-punktiv.html<br>-----<br>1.05 - російський обстріл УБИВ ЧОТИРЬОХ цивільних:<br>На Донеччині від російських обстрілів за добу неділі загинули четверо мирних мешканців (усі – в Лимані), поранено 11 людей<br>-----<br>30.04 - "...ворог продовжує вести наступ на Лиманському (у районах населених пунктів Ямпіль, Озерне, Лиман) напрямку":<br>https://www.facebook.com/GeneralStaff.ua/posts/305803498399402<br>-----<br>30.04 - російський обстріл, загинула цивільна людина:<br>https://censor.net/ua/n3338087<br>-----<br>28.04 - "...ворог покращив тактичне положення, намагається розвинути наступ на Лиман. Загарбники проводять підготовчі заходи для форсування річки Сіверський Донець" - https://censor.net/ua/n3337339 .<br>Того ж 28.04 - російські обстріли:<br>https://censor.net/ua/n3337351<br>-----<br>27.04 - російський штурм - "На Лиманському напрямку противник встановив контроль над населеним пунктом Зарічне, здійснював штурмові дії у районі населеного пункту Ямпіль":<br>https://censor.net/ua/n3337099<br>------<br>26.04 - російські обстріли, загинула людина:<br>https://censor.net/ua/news/3337053/<br>------<br>25.04 - російські обстріли ВБИЛИ ДВОХ ДІТЕЙ:<br>"...росіяни вбили ще 4 мирних мешканців Донеччини: 2 у Лимані, 1 у Мар’їнці та 1 у Ямполі. Обидві жертви росіян у Лимані – це діти..."<br>https://censor.net/ua/n3336764<br>-----<br>24.04: "...противник намагався здійснювати штурмові дії в напрямку населених пунктів Лиман та Яцьківка, успіху не мав".<br>https://www.facebook.com/GeneralStaff.ua/posts/301968408782911<br>-----<br>22.04: Російські окупанти з "Градів" обстріляли обласну травматологію у місті Лиман на Донеччині.<br> https://censor.net/ua/v3335992<br>-----<br>20.04: "...продовжується ведення бойових дій в районах населених пунктів Кремінна, Торське та Зелена Долина. Ворог здійснює перегрупування з метою подальшого наступу у напрямку на населений пункт Лиман"<br>https://www.facebook.com/GeneralStaff.ua/posts/298791202433965<br>-----<br>19.04: "На Донеччині тривають важкі бої в районі Лимана..."<br>https://www.ukrinform.ua/rubric-regions/3461282-na-doneccini-trivaut-boi-v-rajoni-limana-rosiani-obstriluut-mista-iz-artilerii-ta-gradiv.html<br>-----<br>17.04: "...основні зусилля ворог зосереджував в районах населених пунктів Лиман, Кремінна, Попасна та Рубіжне..." https://censor.net/ua/n3334837<br>element_type: blue_dot<br>lat: 48.9666216<br>lon: 37.8352248<br>element_type: blue_dot<br>lat: 48.9666216<br>lon: 37.8352248]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <description><![CDATA[description: description: 24.05 - російський наступ - "...противник активізував ведення бойових дій. За підтримки артилерії та авіації, веде наступ у напрямку населеного пункту Лиман":<br>https://www.facebook.com/GeneralStaff.ua/posts/324283196551432<br>-----<br>13.05, Нацполіція - російські обстріли, ЗАГИНУЛА людина:<br>https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br>-----<br>12.05 - "Основним завданням противника залишається встановлення повного контролю над Рубіжним, захоплення Лиману та Сєвєродонецька":<br>https://www.facebook.com/GeneralStaff.ua/posts/315147577464994<br>-----<br>11.05 - "На Донецькому напрямку основні зусилля противника зосереджуються на ... проведенні наступу в напрямку населеного пункту Лиман.":<br>https://www.facebook.com/GeneralStaff.ua/posts/314771530835932<br>-----<br>3.05 - російський обстріл УБИВ ТРЬОХ цивільних: <br>https://censor.net/ua/p3338615<br>-----<br>2.05 - росіійський обстріл:<br>https://www.ukrinform.ua/rubric-regions/3472713-na-doneccini-rosiani-za-dobu-obstrilali-11-naselenih-punktiv.html<br>-----<br>1.05 - російський обстріл УБИВ ЧОТИРЬОХ цивільних:<br>На Донеччині від російських обстрілів за добу неділі загинули четверо мирних мешканців (усі – в Лимані), поранено 11 людей<br>-----<br>30.04 - "...ворог продовжує вести наступ на Лиманському (у районах населених пунктів Ямпіль, Озерне, Лиман) напрямку":<br>https://www.facebook.com/GeneralStaff.ua/posts/305803498399402<br>-----<br>30.04 - російський обстріл, загинула цивільна людина:<br>https://censor.net/ua/n3338087<br>-----<br>28.04 - "...ворог покращив тактичне положення, намагається розвинути наступ на Лиман. Загарбники проводять підготовчі заходи для форсування річки Сіверський Донець" - https://censor.net/ua/n3337339 .<br>Того ж 28.04 - російські обстріли:<br>https://censor.net/ua/n3337351<br>-----<br>27.04 - російський штурм - "На Лиманському напрямку противник встановив контроль над населеним пунктом Зарічне, здійснював штурмові дії у районі населеного пункту Ямпіль":<br>https://censor.net/ua/n3337099<br>------<br>26.04 - російські обстріли, загинула людина:<br>https://censor.net/ua/news/3337053/<br>------<br>25.04 - російські обстріли ВБИЛИ ДВОХ ДІТЕЙ:<br>"...росіяни вбили ще 4 мирних мешканців Донеччини: 2 у Лимані, 1 у Мар’їнці та 1 у Ямполі. Обидві жертви росіян у Лимані – це діти..."<br>https://censor.net/ua/n3336764<br>-----<br>24.04: "...противник намагався здійснювати штурмові дії в напрямку населених пунктів Лиман та Яцьківка, успіху не мав".<br>https://www.facebook.com/GeneralStaff.ua/posts/301968408782911<br>-----<br>22.04: Російські окупанти з "Градів" обстріляли обласну травматологію у місті Лиман на Донеччині.<br> https://censor.net/ua/v3335992<br>-----<br>20.04: "...продовжується ведення бойових дій в районах населених пунктів Кремінна, Торське та Зелена Долина. Ворог здійснює перегрупування з метою подальшого наступу у напрямку на населений пункт Лиман"<br>https://www.facebook.com/GeneralStaff.ua/posts/298791202433965<br>-----<br>19.04: "На Донеччині тривають важкі бої в районі Лимана..."<br>https://www.ukrinform.ua/rubric-regions/3461282-na-doneccini-trivaut-boi-v-rajoni-limana-rosiani-obstriluut-mista-iz-artilerii-ta-gradiv.html<br>-----<br>17.04: "...основні зусилля ворог зосереджував в районах населених пунктів Лиман, Кремінна, Попасна та Рубіжне..." https://censor.net/ua/n3334837<br>element_type: blue_dot<br>lat: 48.9666216<br>lon: 37.8352248<br><br>element_type: dark_red_dot<br>lat: 48.9666216<br>lon: 37.8352248]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[description: 13.05, Нацполіція - російські обстріли, ЗАГИНУЛА людина:
+            <value><![CDATA[description: 24.05 - російський наступ - "...противник активізував ведення бойових дій. За підтримки артилерії та авіації, веде наступ у напрямку населеного пункту Лиман":
+https://www.facebook.com/GeneralStaff.ua/posts/324283196551432
+-----
+13.05, Нацполіція - російські обстріли, ЗАГИНУЛА людина:
 https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/
 -----
 12.05 - "Основним завданням противника залишається встановлення повного контролю над Рубіжним, захоплення Лиману та Сєвєродонецька":
@@ -45470,10 +45484,11 @@ https://www.ukrinform.ua/rubric-regions/3461282-na-doneccini-trivaut-boi-v-rajon
 17.04: "...основні зусилля ворог зосереджував в районах населених пунктів Лиман, Кремінна, Попасна та Рубіжне..." https://censor.net/ua/n3334837
 element_type: blue_dot
 lat: 48.9666216
-lon: 37.8352248]]></value>
+lon: 37.8352248
+]]></value>
           </Data>
           <Data name="element_type">
-            <value>blue_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>48.9666216</value>
@@ -45522,8 +45537,8 @@ lon: 36.6817212]]></value>
       </Placemark>
       <Placemark>
         <name>Оріхове (13.05 - триває російський штурм)</name>
-        <description><![CDATA[description: description: 13.05, вечір - російські обстріли - "На Бахмутському напрямку противник ... здійснює обстріли населених пунктів Тошківка та Оріхове":<br>https://www.facebook.com/GeneralStaff.ua/posts/316199807359771<br>13.05, ранок - російський штурм - "На Бахмутському напрямку окупанти вели штурмові дії у напрямку населеного пункту Оріхове та в районі населеного пункту Комишуваха, успіху не мали":<br>https://www.facebook.com/100069092624537/posts/315837394062679/<br>-------<br>11.05 - "Противник провів штурмові дії у напрямках на Оріхове та Тошківку, успіху не мав":<br>https://www.facebook.com/GeneralStaff.ua/posts/314771530835932<br>-------<br>10.05 - "Ворог здійснює штурмові дії в районах населених пунктів Нижнє, Тошківка, Оріхове Луганскої області, успіху не має":<br>https://www.facebook.com/GeneralStaff.ua/posts/314011584245260<br>-------<br>4.05 - російський штурм триває:<br>"Біля Попасної росіяни хотіли захопити Оріхове, але не вдалося"<br>https://www.facebook.com/GeneralStaff.ua/posts/309269478052804<br>-------<br>30.04 - "...на Попаснянському напрямку окупанти продовжують проводити штурмові дії на напрямку Новотошківське – Оріхове":<br>https://censor.net/ua/p3338065<br>-------<br>28.04 - російський наступ:<br>https://censor.net/ua/news/3337339/<br>-------<br>24.04 - "ворог ... розпочав просування у напрямках населених пунктів Оріхове та Нижнє":<br>https://www.facebook.com/GeneralStaff.ua/posts/301968408782911<br>element_type: blue_dot<br>lat: 48.7204908<br>lon: 38.5658218<br>element_type: blue_dot<br>lat: 48.7204908<br>lon: 38.5658218]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <description><![CDATA[description: description: 13.05, вечір - російські обстріли - "На Бахмутському напрямку противник ... здійснює обстріли населених пунктів Тошківка та Оріхове":<br>https://www.facebook.com/GeneralStaff.ua/posts/316199807359771<br>13.05, ранок - російський штурм - "На Бахмутському напрямку окупанти вели штурмові дії у напрямку населеного пункту Оріхове та в районі населеного пункту Комишуваха, успіху не мали":<br>https://www.facebook.com/100069092624537/posts/315837394062679/<br>-------<br>11.05 - "Противник провів штурмові дії у напрямках на Оріхове та Тошківку, успіху не мав":<br>https://www.facebook.com/GeneralStaff.ua/posts/314771530835932<br>-------<br>10.05 - "Ворог здійснює штурмові дії в районах населених пунктів Нижнє, Тошківка, Оріхове Луганскої області, успіху не має":<br>https://www.facebook.com/GeneralStaff.ua/posts/314011584245260<br>-------<br>4.05 - російський штурм триває:<br>"Біля Попасної росіяни хотіли захопити Оріхове, але не вдалося"<br>https://www.facebook.com/GeneralStaff.ua/posts/309269478052804<br>-------<br>30.04 - "...на Попаснянському напрямку окупанти продовжують проводити штурмові дії на напрямку Новотошківське – Оріхове":<br>https://censor.net/ua/p3338065<br>-------<br>28.04 - російський наступ:<br>https://censor.net/ua/news/3337339/<br>-------<br>24.04 - "ворог ... розпочав просування у напрямках населених пунктів Оріхове та Нижнє":<br>https://www.facebook.com/GeneralStaff.ua/posts/301968408782911<br>element_type: blue_dot<br>lat: 48.7204908<br>lon: 38.5658218<br>element_type: red_dot<br>lat: 48.7204908<br>lon: 38.5658218]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value><![CDATA[description: 13.05, вечір - російські обстріли - "На Бахмутському напрямку противник ... здійснює обстріли населених пунктів Тошківка та Оріхове":
@@ -45554,7 +45569,7 @@ lat: 48.7204908
 lon: 38.5658218]]></value>
           </Data>
           <Data name="element_type">
-            <value>blue_dot</value>
+            <value>red_dot</value>
           </Data>
           <Data name="lat">
             <value>48.7204908</value>
@@ -45570,9 +45585,9 @@ lon: 38.5658218]]></value>
         </Point>
       </Placemark>
       <Placemark>
-        <name><![CDATA[МАРІУПОЛЬ з 1.03 б'ється в повному оточенні]]></name>
-        <description><![CDATA[description: description: ситуація станом на 13.04:<br>https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-april-13<br>-----<br>8.04 - "...під українським контролем залишається більша частина міста - Приморський район, частина Лівобережного району, територія біля заводу "Азовсталь" і порт Маріуполя" (радник міського голови Петро Андрющенко)<br>-----<br>https://focus.ua/uk/voennye-novosti/510407-mariupol-v-osade-kak-okruzhili-gorod-chto-kontroliruet-vsu-kak-vyzhivali-gorozhane<br>element_type: blue_dot<br>lat: 47.1059289<br>lon: 37.5790954<br>element_type: blue_dot<br>lat: 47.1059289<br>lon: 37.5790954]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <name>МАРІУПОЛЬ з 1.03 до 20.05 бився в повному оточенні</name>
+        <description><![CDATA[description: description: ситуація станом на 13.04:<br>https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-april-13<br>-----<br>8.04 - "...під українським контролем залишається більша частина міста - Приморський район, частина Лівобережного району, територія біля заводу "Азовсталь" і порт Маріуполя" (радник міського голови Петро Андрющенко)<br>-----<br>https://focus.ua/uk/voennye-novosti/510407-mariupol-v-osade-kak-okruzhili-gorod-chto-kontroliruet-vsu-kak-vyzhivali-gorozhane<br>element_type: red_dot<br>lat: 47.1059289<br>lon: 37.5790954<br>element_type: red_dot<br>lat: 47.1059289<br>lon: 37.5790954]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value><![CDATA[description: ситуація станом на 13.04:
@@ -45581,12 +45596,12 @@ https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessm
 8.04 - "...під українським контролем залишається більша частина міста - Приморський район, частина Лівобережного району, територія біля заводу "Азовсталь" і порт Маріуполя" (радник міського голови Петро Андрющенко)
 -----
 https://focus.ua/uk/voennye-novosti/510407-mariupol-v-osade-kak-okruzhili-gorod-chto-kontroliruet-vsu-kak-vyzhivali-gorozhane
-element_type: blue_dot
+element_type: red_dot
 lat: 47.1059289
 lon: 37.5790954]]></value>
           </Data>
           <Data name="element_type">
-            <value>blue_dot</value>
+            <value>red_dot</value>
           </Data>
           <Data name="lat">
             <value>47.1059289</value>
@@ -45873,8 +45888,8 @@ lon: 38.2467899</value>
       </Placemark>
       <Placemark>
         <name>Дробишеве (13.05 - російські обстріли)</name>
-        <description><![CDATA[description: description: 13.05 - російські обстріли:<br>https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br>-----<br>10.05 - російські обстріли:<br>https://www.npu.gov.ua/news/stoprussia/na-donechchini-za-dobu-rosiyani-obstrilyali-13-naselenix-punktiv-policziya-rozpochala-kriminalni-provadzhennya/<br>-----<br>1.05 - російські обстріли:<br>https://censor.net/ua/photo_news/3338121/na_donechchyni_za_dobu_zadokumentovano_14_rosiyiskyh_obstriliv_sered_postrajdalyh_4_diteyi_natspolitsiya<br>element_type: blue_dot<br>lat: 49.0421233<br>lon: 37.7318143<br>element_type: blue_dot<br>lat: 49.0421233<br>lon: 37.7318143]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <description><![CDATA[description: description: 13.05 - російські обстріли:<br>https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br>-----<br>10.05 - російські обстріли:<br>https://www.npu.gov.ua/news/stoprussia/na-donechchini-za-dobu-rosiyani-obstrilyali-13-naselenix-punktiv-policziya-rozpochala-kriminalni-provadzhennya/<br>-----<br>1.05 - російські обстріли:<br>https://censor.net/ua/photo_news/3338121/na_donechchyni_za_dobu_zadokumentovano_14_rosiyiskyh_obstriliv_sered_postrajdalyh_4_diteyi_natspolitsiya<br>element_type: blue_dot<br>lat: 49.0421233<br>lon: 37.7318143<br>element_type: grey_dot<br>lat: 49.0421233<br>lon: 37.7318143]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value>description: 13.05 - російські обстріли:
@@ -45890,7 +45905,7 @@ lat: 49.0421233
 lon: 37.7318143</value>
           </Data>
           <Data name="element_type">
-            <value>blue_dot</value>
+            <value>grey_dot</value>
           </Data>
           <Data name="lat">
             <value>49.0421233</value>
@@ -46199,12 +46214,12 @@ lon: 36.5936296]]></value>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Білогорівка (5-13.05 - потужні бої за переправу через Сіверський Донець на захопленому росіянами плацдармі)</name>
-        <description><![CDATA[description: description: 13.05, вечір, Юрій Бутусов - російський відступ на лівий берег річки - "Російський наступ під селами Білогорівка, Серебрянка та Дронівка Луганської області повністю розгромлений. 8 діб поспіль (5-13.05) російські війська намагались прорватись через річку Сіверський Донець і створили три плацдарми, але ... просто не витримали бою й були вибиті поступово з кожного плацдарму":<br>https://censor.net/ua/p3341132<br>-----<br>13.05, ранок, Луганська ОВА - тривають бої за переправи і плацдарм на правому березі Сіверського Донця - “Ситуація в нас ускладнюється ... Намагаються вкотре зробити понтонні переправи в районі Білогорівки, щоб перекинути техніку і живу силу через річку Сіверський Донець”:<br>https://novynarnia.com/2022/05/13/okupanty-kynuly-vsi-syly/<br>-----<br>11.05 - "Ворог намагається утримати позиції на правому березі річки Сіверський Донець":<br>https://www.facebook.com/GeneralStaff.ua/posts/314771530835932<br>-----<br>10.05, Луганська ОВА - "ЗСУ знищили понтони й техніку ворога на переправі у Білогорівці, росіяни тікали вплав, зараз триває зачистка берега Сіверського Донця": https://censor.net/ua/n3340340<br>-----<br>9.05, Луганська ОВА - “Сьогоднішній день вирішальний. Будемо битися за “дорогу життя” (трасу Лисичанськ-Бахмут). Тривають потужні бої в Рубіжному та Білогорівці з переправленою через Сіверський Донець російською технікою":<br>https://t.me/luhanskaVTSA/2444<br>-----<br>7.05 - 60 ЗАГИБЛИХ від російського авіаудару - "У розбомбленій школі ховалося майже все село...":<br>https://t.me/luhanskaVTSA/2399<br>https://t.me/luhanskaVTSA/2404<br>element_type: blue_dot<br>lat: 48.9252278<br>lon: 38.2575065<br>element_type: blue_dot<br>lat: 48.9252278<br>lon: 38.2575065]]></description>
+        <name>Білогорівка (5-13.05 - потужні бої за переправу через Сіверський Донець на захопленому росіянами плацдармі)</name>
+        <description><![CDATA[description: description: 13.05, вечір, Юрій Бутусов - російський відступ на лівий берег річки - "Російський наступ під селами Білогорівка, Серебрянка та Дронівка Луганської області повністю розгромлений. 8 діб поспіль (5-13.05) російські війська намагались прорватись через річку Сіверський Донець і створили три плацдарми, але ... просто не витримали бою й були вибиті поступово з кожного плацдарму":<br>https://censor.net/ua/p3341132<br>-----<br>13.05, ранок, Луганська ОВА - тривають бої за переправи і плацдарм на правому березі Сіверського Донця - “Ситуація в нас ускладнюється ... Намагаються вкотре зробити понтонні переправи в районі Білогорівки, щоб перекинути техніку і живу силу через річку Сіверський Донець”:<br>https://novynarnia.com/2022/05/13/okupanty-kynuly-vsi-syly/<br>-----<br>11.05 - "Ворог намагається утримати позиції на правому березі річки Сіверський Донець":<br>https://www.facebook.com/GeneralStaff.ua/posts/314771530835932<br>-----<br>10.05, Луганська ОВА - "ЗСУ знищили понтони й техніку ворога на переправі у Білогорівці, росіяни тікали вплав, зараз триває зачистка берега Сіверського Донця": https://censor.net/ua/n3340340<br>-----<br>9.05, Луганська ОВА - “Сьогоднішній день вирішальний. Будемо битися за “дорогу життя” (трасу Лисичанськ-Бахмут). Тривають потужні бої в Рубіжному та Білогорівці з переправленою через Сіверський Донець російською технікою":<br>https://t.me/luhanskaVTSA/2444<br>-----<br>7.05 - 60 ЗАГИБЛИХ від російського авіаудару - "У розбомбленій школі ховалося майже все село...":<br>https://t.me/luhanskaVTSA/2399<br>https://t.me/luhanskaVTSA/2404<br>element_type: blue_dot<br>lat: 48.9252278<br>lon: 38.2575065<br><br>element_type: blue_dot<br>lat: 48.9252278<br>lon: 38.2575065]]></description>
         <styleUrl>#icon-ci-5</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[description: 13.05, вечір, Юрій Бутусов - російський відступ на лівий берег річки - "Російський наступ під селами Білогорівка, Серебрянка та Дронівка Луганської області повністю розгромлений. 8 діб поспіль (5-13.05) російські війська намагались прорватись через річку Сіверський Донець і створили три плацдарми, але ... просто не витримали бою й були вибиті поступово з кожного плацдарму":
+            <value><![CDATA[description: 13.05, вечір, Юрій Бутусов - російський відступ на лівий берег річки - "Російський наступ під селами Білогорівка, Серебрянка та Дронівка Луганської області повністю розгромлений. 8 діб поспіль (5-13.05) російські війська намагались прорватись через річку Сіверський Донець і створили три плацдарми, але ... просто не витримали бою й були вибиті поступово з кожного плацдарму":
 https://censor.net/ua/p3341132
 -----
 13.05, ранок, Луганська ОВА - тривають бої за переправи і плацдарм на правому березі Сіверського Донця - “Ситуація в нас ускладнюється ... Намагаються вкотре зробити понтонні переправи в районі Білогорівки, щоб перекинути техніку і живу силу через річку Сіверський Донець”:
@@ -46223,7 +46238,8 @@ https://t.me/luhanskaVTSA/2399
 https://t.me/luhanskaVTSA/2404
 element_type: blue_dot
 lat: 48.9252278
-lon: 38.2575065]]></value>
+lon: 38.2575065
+]]></value>
           </Data>
           <Data name="element_type">
             <value>blue_dot</value>
@@ -52644,6 +52660,161 @@ lon: 38.4366086]]></value>
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Липове (24.05 - російський наступ)</name>
+        <description><![CDATA[description: 24.05 - російський наступ - "На Бахмутському напрямку противник наступає в районах населених пунктів Липове та Білогорівка":<br>https://www.facebook.com/GeneralStaff.ua/posts/324283196551432<br><br>element_type: dark_red_dot<br>lat: 48.7207514<br>lon: 38.302393]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[24.05 - російський наступ - "На Бахмутському напрямку противник наступає в районах населених пунктів Липове та Білогорівка":
+https://www.facebook.com/GeneralStaff.ua/posts/324283196551432
+]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>dark_red_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>48.7207514</value>
+          </Data>
+          <Data name="lon">
+            <value>38.302393</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.302393,48.7207514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Пасіка (24.05 - бойові дії)</name>
+        <description><![CDATA[description: 24.05 - бойові дії - "...противник провів розвідку боєм в районі населеного пункту Пасіка, зазнав втрат і відійшов":<br>https://www.facebook.com/GeneralStaff.ua/posts/324283196551432<br><br>element_type: dark_red_dot<br>lat: 49.070268<br>lon: 37.467828]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[24.05 - бойові дії - "...противник провів розвідку боєм в районі населеного пункту Пасіка, зазнав втрат і відійшов":
+https://www.facebook.com/GeneralStaff.ua/posts/324283196551432
+]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>dark_red_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>49.070268</value>
+          </Data>
+          <Data name="lon">
+            <value>37.467828</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.467828,49.070268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Білогорівка (24.05 - російський наступ)</name>
+        <description><![CDATA[description: 24.05 - російський наступ - "На Бахмутському напрямку противник наступає в районах населених пунктів Липове та Білогорівка":<br>https://www.facebook.com/GeneralStaff.ua/posts/324283196551432<br>element_type: blue_dot<br>lat: 48.7296356<br>lon: 38.2201474]]></description>
+        <styleUrl>#icon-ci-5</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[24.05 - російський наступ - "На Бахмутському напрямку противник наступає в районах населених пунктів Липове та Білогорівка":
+https://www.facebook.com/GeneralStaff.ua/posts/324283196551432]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>blue_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>48.7296356</value>
+          </Data>
+          <Data name="lon">
+            <value>38.2201474</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.2201474,48.7296356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Василівка (24.05 - російський наступ)</name>
+        <description><![CDATA[description: 24.05 - російський наступ - "На Бахмутському напрямку ворог покращив тактичне положення у районі населеного пункту Василівка":<br>https://www.facebook.com/GeneralStaff.ua/posts/323858359927249<br><br>element_type: dark_red_dot<br>lat: 48.7217875<br>lon: 38.2594752]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[24.05 - російський наступ - "На Бахмутському напрямку ворог покращив тактичне положення у районі населеного пункту Василівка":
+https://www.facebook.com/GeneralStaff.ua/posts/323858359927249
+]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>dark_red_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>48.7217875</value>
+          </Data>
+          <Data name="lon">
+            <value>38.2594752</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.2594752,48.7217875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Устинівка (24.05 - російський штурм)</name>
+        <description><![CDATA[description: 24.05 - російський штурм - "На Сєверодонецькому напрямку противник, за підтримки артилерії, веде штурмові дії в напрямках Тошківка та Устинівка":<br>https://www.facebook.com/GeneralStaff.ua/posts/323858359927249<br><br>element_type: dark_red_dot<br>lat: 48.8206641<br>lon: 38.5700738]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[24.05 - російський штурм - "На Сєверодонецькому напрямку противник, за підтримки артилерії, веде штурмові дії в напрямках Тошківка та Устинівка":
+https://www.facebook.com/GeneralStaff.ua/posts/323858359927249
+]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>dark_red_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>48.8206641</value>
+          </Data>
+          <Data name="lon">
+            <value>38.5700738</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5700738,48.8206641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[17.05 - ракетний удар рф по селищу "Десна"]]></name>
+        <description><![CDATA[description: Тут розташовано навчальний центр ЗСУ<br>https://novynarnia.com/2022/05/17/rosiyany-zavdaly-raketnogo-3/<br><br>element_type: red_fire<br>lat: 50.9558112<br>lon: 30.7508243]]></description>
+        <styleUrl>#icon-ci-7</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Тут розташовано навчальний центр ЗСУ
+https://novynarnia.com/2022/05/17/rosiyany-zavdaly-raketnogo-3/
+</value>
+          </Data>
+          <Data name="element_type">
+            <value>red_fire</value>
+          </Data>
+          <Data name="lat">
+            <value>50.9558112</value>
+          </Data>
+          <Data name="lon">
+            <value>30.7508243</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.7508243,50.9558112,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>території, окуповані після 2022</name>
@@ -52969,314 +53140,314 @@ lon: 38.4366086]]></value>
             <LinearRing>
               <tessellate>1</tessellate>
               <coordinates>
-                33.607759,46.223555,0
-                33.650542,46.234242,0
-                33.741454,46.1886,0
-                33.803251,46.205463,0
-                33.862076,46.197238,0
-                33.958931,46.149096,0
-                34.059944,46.109975,0
-                34.085495,46.120273,0
-                34.223349,46.058046,0
-                34.330899,46.061757,0
-                34.392099,46.033321,0
-                34.440081,45.971127,0
-                34.491736,45.940004,0
-                34.556017,45.986921,0
-                34.596881,45.995216,0
-                34.67884,45.963627,0
-                34.748172,45.909822,0
-                34.814749,45.900876,0
-                34.795695,45.802695,0
-                34.960071,45.758986,0
-                35.004609,45.775801,0
-                34.887662,45.947431,0
-                34.891227,45.998638,0
-                34.872213,46.100912,0
-                34.848445,46.178316,0
-                35.068298,46.234242,0
-                35.392879,46.375449,0
-                35.494771,46.439726,0
-                35.625234,46.48135,0
-                35.717244,46.542781,0
-                35.805135,46.605087,0
-                35.879121,46.64788,0
-                35.988984,46.663905,0
-                36.051984,46.665907,0
-                36.112409,46.65554,0
-                36.207166,46.648941,0
-                36.28819,46.588101,0
-                36.437192,46.7083,0
-                36.575527,46.751147,0
-                36.694104,46.776208,0
-                36.736914,46.764226,0
-                36.777083,46.743409,0
-                36.804635,46.73035,0
-                36.819054,46.71411,0
-                36.841324,46.697344,0
-                36.876085,46.764545,0
-                36.901041,46.80269,0
-                36.99641,46.862142,0
-                37.040084,46.867017,0
-                37.131442,46.904481,0
-                37.164865,46.911788,0
-                37.194724,46.930355,0
-                37.214332,46.931877,0
-                37.233495,46.947699,0
-                37.356494,46.886209,0
-                37.404624,46.937354,0
-                37.41782,46.956325,0
-                37.458375,46.986568,0
-                37.483178,47.033652,0
-                37.491457,47.042158,0
-                37.498136,47.040358,0
-                37.502522,47.047016,0
-                37.505545,47.051387,0
-                37.511156,47.056239,0
-                37.513158,47.059038,0
-                37.516391,47.060573,0
-                37.520142,47.061756,0
-                37.520837,47.066913,0
-                37.522643,47.071219,0
-                37.527435,47.075145,0
-                37.536534,47.078172,0
-                37.547717,47.07997,0
-                37.550938,47.082664,0
-                37.564686,47.084514,0
-                37.57425,47.085149,0
-                37.585406,47.077264,0
-                37.608339,47.082527,0
-                37.600145,47.111479,0
-                37.590533,47.120412,0
-                37.591355,47.129148,0
-                37.602258,47.146446,0
-                37.589818,47.152417,0
-                37.577183,47.158306,0
-                37.570403,47.170039,0
-                37.566839,47.182241,0
-                37.570252,47.190176,0
-                37.550705,47.19289,0
-                37.518822,47.195852,0
-                37.502944,47.189739,0
-                37.438539,47.184387,0
-                37.389361,47.251593,0
-                37.312263,47.293926,0
-                37.183917,47.402927,0
-                36.990951,47.492737,0
-                36.82704,47.657343,0
-                36.79758,47.692037,0
-                36.784614,47.739808,0
-                36.775913,47.801303,0
-                36.745644,47.802299,0
-                36.71159,47.829493,0
-                36.707295,47.836907,0
-                36.693797,47.845144,0
-                36.672628,47.843497,0
-                36.67048,47.828258,0
-                36.649619,47.822078,0
-                36.618014,47.817754,0
-                36.636906,47.787335,0
-                36.691918,47.761568,0
-                36.695514,47.723649,0
-                36.632979,47.723256,0
-                36.551744,47.714212,0
-                36.535964,47.679597,0
-                36.522161,47.64527,0
-                36.41964,47.643585,0
-                36.342402,47.615499,0
-                36.281423,47.608641,0
-                36.239793,47.610869,0
-                36.231096,47.592974,0
-                36.236118,47.555713,0
-                36.230324,47.508773,0
-                36.130207,47.510198,0
-                35.982474,47.52622,0
-                35.910564,47.544493,0
-                35.85607,47.501638,0
-                35.8202,47.504434,0
-                35.762113,47.529834,0
-                35.721513,47.539645,0
-                35.688605,47.547722,0
-                35.641594,47.541953,0
-                35.571505,47.527236,0
-                35.512527,47.522908,0
-                35.479446,47.514006,0
-                35.445683,47.508521,0
-                35.407647,47.500149,0
-                35.369611,47.498994,0
-                35.281144,47.510542,0
-                35.231889,47.465828,0
-                35.207942,47.455644,0
-                35.172446,47.452964,0
-                35.093229,47.458517,0
-                35.043018,47.450421,0
-                34.963453,47.407307,0
-                34.908608,47.415672,0
-                34.866121,47.459039,0
-                34.780376,47.492194,0
-                34.714716,47.507067,0
-                34.672616,47.535237,0
-                34.630746,47.547998,0
-                34.606956,47.541495,0
-                34.582874,47.525137,0
-                34.538213,47.534598,0
-                34.49939,47.501479,0
-                34.463194,47.501281,0
-                34.410359,47.502859,0
-                34.381817,47.516129,0
-                34.338843,47.483333,0
-                34.328918,47.453734,0
-                34.309653,47.436362,0
-                34.268786,47.439521,0
-                34.206903,47.417404,0
-                34.147355,47.426489,0
-                34.119916,47.422934,0
-                34.048555,47.425311,0
-                34.01271,47.351837,0
-                34.008762,47.316354,0
-                33.971511,47.229698,0
-                33.908286,47.177469,0
-                33.845819,47.138962,0
-                33.800282,47.062263,0
-                33.703954,47.005363,0
-                33.691694,46.985056,0
-                33.681769,46.909331,0
-                33.646741,46.904944,0
-                33.629811,46.890982,0
-                33.633313,46.844682,0
-                33.612296,46.827908,0
-                33.561505,46.818721,0
-                33.514801,46.823115,0
-                33.468096,46.820319,0
-                33.427814,46.794345,0
-                33.391618,46.773558,0
-                33.367682,46.789549,0
-                33.399791,46.818721,0
-                33.435987,46.837095,0
-                33.515385,46.853865,0
-                33.58369,46.855063,0
-                33.597117,46.864644,0
-                33.60062,46.932459,0
-                33.610545,46.946808,0
-                33.663087,46.992423,0
-                33.659585,47.044563,0
-                33.693153,47.064053,0
-                33.765837,47.093672,0
-                33.791525,47.135785,0
-                33.788314,47.176874,0
-                33.809107,47.18964,0
-                33.883668,47.214373,0
-                33.915685,47.242072,0
-                33.924457,47.272733,0
-                33.970948,47.303673,0
-                33.977088,47.365796,0
-                33.978842,47.393119,0
-                33.966853,47.41226,0
-                33.920253,47.410848,0
-                33.864612,47.41226,0
-                33.784628,47.429319,0
-                33.640657,47.401551,0
-                33.582929,47.409554,0
-                33.564846,47.447196,0
-                33.560872,47.481767,0
-                33.565542,47.506427,0
-                33.5304,47.50366,0
-                33.489514,47.496102,0
-                33.43898,47.480398,0
-                33.400135,47.476908,0
-                33.379296,47.476484,0
-                33.334938,47.488214,0
-                33.316423,47.477266,0
-                33.290584,47.458695,0
-                33.250131,47.446803,0
-                33.193926,47.446444,0
-                33.152202,47.438145,0
-                33.128886,47.399118,0
-                33.118451,47.357537,0
-                33.136194,47.323558,0
-                33.130022,47.257628,0
-                33.015109,47.160338,0
-                32.963923,47.134071,0
-                32.898892,47.111355,0
-                32.783437,47.086025,0
-                32.771961,47.070513,0
-                32.733854,47.011163,0
-                32.700012,47.001932,0
-                32.678438,46.977116,0
-                32.620908,46.962106,0
-                32.544342,46.929184,0
-                32.480466,46.908669,0
-                32.451255,46.880182,0
-                32.411514,46.840424,0
-                32.399939,46.799212,0
-                32.37736,46.779536,0
-                32.337675,46.773913,0
-                32.297306,46.784221,0
-                32.246674,46.788438,0
-                32.198736,46.751518,0
-                32.164895,46.737604,0
-                32.101771,46.72073,0
-                32.106861,46.710086,0
-                32.109915,46.690886,0
-                32.094699,46.651977,0
-                32.108544,46.633086,0
-                32.131752,46.61588,0
-                32.105643,46.603379,0
-                32.115401,46.591419,0
-                32.136157,46.55361,0
-                32.235549,46.580164,0
-                32.265418,46.584058,0
-                32.305272,46.549632,0
-                32.404035,46.553458,0
-                32.419336,46.487414,0
-                32.298193,46.472495,0
-                32.12698,46.505573,0
-                31.999444,46.502567,0
-                31.849196,46.534425,0
-                31.733016,46.55305,0
-                31.581895,46.542236,0
-                31.527735,46.556054,0
-                31.554815,46.530819,0
-                31.697201,46.436387,0
-                31.701569,46.46347,0
-                31.735637,46.479714,0
-                31.768831,46.48212,0
-                31.907723,46.450833,0
-                31.961009,46.435785,0
-                31.999444,46.449027,0
-                32.016041,46.448425,0
-                32.037006,46.412301,0
-                32.019536,46.37555,0
-                31.983721,46.352041,0
-                31.911217,46.338171,0
-                31.796784,46.33214,0
-                31.747866,46.317059,0
-                31.758349,46.26998,0
-                31.790669,46.253674,0
-                31.886758,46.262733,0
-                31.90947,46.28447,0
-                31.933056,46.283263,0
-                31.960135,46.255486,0
-                32.059718,46.236758,0
-                32.123486,46.201703,0
-                32.169784,46.185982,0
-                32.219575,46.15634,0
-                32.216081,46.129104,0
-                32.330514,46.099432,0
-                32.540163,46.061259,0
-                32.618781,46.090951,0
-                32.766408,46.108517,0
-                32.8459,46.107912,0
-                32.923645,46.100644,0
-                33.034583,46.106095,0
-                33.077586,46.123156,0
-                33.122894,46.11739,0
-                33.290458,46.067941,0
-                33.450891,46.016797,0
-                33.549528,46.031651,0
-                33.589933,46.121509,0
-                33.631527,46.142921,0
-                33.607759,46.223555,0
+                33.6078173,46.2226247,0
+                33.6505996,46.2333117,0
+                33.74151,46.1876696,0
+                33.803306,46.2045325,0
+                33.86213,46.1963075,0
+                33.9589832,46.1481654,0
+                34.0599944,46.1090443,0
+                34.085545,46.1193423,0
+                34.2233966,46.0571152,0
+                34.3309448,46.0608261,0
+                34.3921437,46.03239,0
+                34.4401248,45.970196,0
+                34.4917789,45.939073,0
+                34.5560589,45.9859899,0
+                34.5969222,45.9942849,0
+                34.6788798,45.9626958,0
+                34.7482106,45.9088908,0
+                34.8147864,45.8999447,0
+                34.7957326,45.8017638,0
+                34.9601058,45.7580547,0
+                35.0046431,45.7748696,0
+                34.8876983,45.9464997,0
+                34.8912633,45.9977067,0
+                34.8722497,46.0999807,0
+                34.8484822,46.1773847,0
+                35.0683316,46.2333106,0
+                35.3929072,46.3745174,0
+                35.4947975,46.4387944,0
+                35.6252583,46.4804183,0
+                35.7172668,46.5418493,0
+                35.8051563,46.6041553,0
+                35.8791411,46.6469482,0
+                35.9890022,46.6629732,0
+                36.0520011,46.6649752,0
+                36.1124251,46.6546082,0
+                36.2071804,46.6480091,0
+                36.288203,46.5871691,0
+                36.4372025,46.7073681,0
+                36.5755351,46.7502151,0
+                36.6941101,46.7752761,0
+                36.7369193,46.7632941,0
+                36.7770876,46.7424771,0
+                36.8046392,46.729418,0
+                36.8190579,46.713178,0
+                36.8413275,46.696412,0
+                36.8760879,46.763613,0
+                36.9010435,46.801758,0
+                36.9964108,46.86121,0
+                37.0400841,46.866085,0
+                37.1314405,46.903549,0
+                37.1648629,46.910856,0
+                37.1947214,46.929423,0
+                37.2143291,46.930945,0
+                37.2334917,46.946767,0
+                37.3564886,46.8852771,0
+                37.4046177,46.9364221,0
+                37.4178135,46.9553931,0
+                37.4583678,46.9856361,0
+                37.4831703,47.0327201,0
+                37.4914492,47.0412261,0
+                37.4981281,47.0394261,0
+                37.502514,47.0460841,0
+                37.505537,47.0504551,0
+                37.5111479,47.0553071,0
+                37.5131498,47.0581061,0
+                37.5163828,47.0596411,0
+                37.5201337,47.0608241,0
+                37.5208287,47.0659811,0
+                37.5226346,47.0702871,0
+                37.5274266,47.0742131,0
+                37.5365254,47.0772401,0
+                37.5477082,47.0790381,0
+                37.5509292,47.0817321,0
+                37.5646769,47.0835821,0
+                37.5742407,47.0842171,0
+                37.5853965,47.0763321,0
+                37.6083291,47.0815951,0
+                37.6001353,47.1105471,0
+                37.5905234,47.1194801,0
+                37.5913454,47.1282161,0
+                37.6022482,47.1455141,0
+                37.5898084,47.1514851,0
+                37.5771737,47.1573741,0
+                37.5703938,47.1691071,0
+                37.5668298,47.1813091,0
+                37.5702428,47.1892441,0
+                37.5506961,47.1919581,0
+                37.5188137,47.1949201,0
+                37.502936,47.1888071,0
+                37.4385321,47.1834551,0
+                37.3893549,47.2506611,0
+                37.3122583,47.2929941,0
+                37.1839145,47.401995,0
+                36.990952,47.491805,0
+                36.8270439,47.656411,0
+                36.7975844,47.6911051,0
+                36.7846187,47.7388761,0
+                36.7759178,47.8003711,0
+                36.7456494,47.8013671,0
+                36.711596,47.8285611,0
+                36.7073011,47.8359751,0
+                36.6938033,47.8442121,0
+                36.6726347,47.8425651,0
+                36.6704867,47.8273261,0
+                36.6496261,47.8211461,0
+                36.6180217,47.8168221,0
+                36.6369133,47.7864031,0
+                36.6919243,47.7606361,0
+                36.6955203,47.7227171,0
+                36.6329864,47.7223241,0
+                36.5517528,47.7132801,0
+                36.5359731,47.6786651,0
+                36.5221703,47.6443381,0
+                36.4196512,47.6426531,0
+                36.3424145,47.6145671,0
+                36.2814366,47.6077091,0
+                36.2398073,47.6099371,0
+                36.2311105,47.5920421,0
+                36.2361324,47.5547811,0
+                36.2303385,47.5078411,0
+                36.1302232,47.5092662,0
+                35.9824929,47.5252882,0
+                35.9105842,47.5435612,0
+                35.8560911,47.5007062,0
+                35.8202217,47.5035023,0
+                35.7621358,47.5289023,0
+                35.7215365,47.5387133,0
+                35.6886291,47.5467903,0
+                35.6416189,47.5410213,0
+                35.5715312,47.5263043,0
+                35.5125542,47.5219764,0
+                35.4794738,47.5130744,0
+                35.4457114,47.5075894,0
+                35.4076761,47.4992174,0
+                35.3696407,47.4980624,0
+                35.2811753,47.5096105,0
+                35.2319211,47.4648965,0
+                35.2079746,47.4547125,0
+                35.1724792,47.4520325,0
+                35.0932636,47.4575856,0
+                35.0430535,47.4494896,0
+                34.9634898,47.4063757,0
+                34.9086458,47.4147407,0
+                34.8661596,47.4581077,0
+                34.7804162,47.4912628,0
+                34.7147574,47.5061358,0
+                34.6726582,47.5343058,0
+                34.6307889,47.5470669,0
+                34.6069993,47.5405639,0
+                34.5829177,47.5242059,0
+                34.5382575,47.5336669,0
+                34.4994352,47.500548,0
+                34.4632398,47.50035,0
+                34.4104058,47.501928,0
+                34.3818643,47.515198,0
+                34.338891,47.4824021,0
+                34.3289661,47.4528031,0
+                34.3097014,47.4354311,0
+                34.2688352,47.4385901,0
+                34.2069532,47.4164732,0
+                34.1474063,47.4255582,0
+                34.1199678,47.4220033,0
+                34.048608,47.4243803,0
+                34.0127635,47.3509063,0
+                34.0088155,47.3154233,0
+                33.971565,47.2287674,0
+                33.908341,47.1765384,0
+                33.845875,47.1380315,0
+                33.8003387,47.0613325,0
+                33.7040123,47.0044326,0
+                33.6917524,46.9841256,0
+                33.6818274,46.9084006,0
+                33.6468,46.9040137,0
+                33.6298703,46.8900517,0
+                33.6333722,46.8437517,0
+                33.6123555,46.8269777,0
+                33.5615653,46.8177908,0
+                33.5148622,46.8221848,0
+                33.468158,46.8193889,0
+                33.4278766,46.7934149,0
+                33.3916812,46.7726279,0
+                33.3677456,46.788619,0
+                33.3998541,46.8177909,0
+                33.4360496,46.8361649,0
+                33.5154462,46.8529348,0
+                33.58375,46.8541327,0
+                33.5971768,46.8637137,0
+                33.6006799,46.9315287,0
+                33.6106048,46.9458777,0
+                33.6631459,46.9914927,0
+                33.6596441,47.0436327,0
+                33.6932116,47.0631226,0
+                33.7658944,47.0927416,0
+                33.791582,47.1348545,0
+                33.7883711,47.1759435,0
+                33.8091638,47.1887095,0
+                33.8837235,47.2134425,0
+                33.91574,47.2411414,0
+                33.9245119,47.2718024,0
+                33.9710022,47.3027424,0
+                33.9771422,47.3648654,0
+                33.9788962,47.3921884,0
+                33.9669074,47.4113294,0
+                33.9203083,47.4099174,0
+                33.8646683,47.4113295,0
+                33.7846857,47.4283885,0
+                33.6407172,47.4006207,0
+                33.5829902,47.4086237,0
+                33.5649076,47.4462658,0
+                33.5609338,47.4808368,0
+                33.5656037,47.5054968,0
+                33.5304624,47.5027298,0
+                33.4895771,47.4951718,0
+                33.4390439,47.4794679,0
+                33.4001996,47.4759779,0
+                33.379361,47.4755539,0
+                33.3350038,47.487284,0
+                33.3164891,47.476336,0
+                33.2906505,47.457765,0
+                33.2501982,47.4458731,0
+                33.1939942,47.4455141,0
+                33.1522709,47.4372152,0
+                33.1289552,47.3981882,0
+                33.1185203,47.3566072,0
+                33.1362629,47.3226282,0
+                33.1300909,47.2566982,0
+                33.0151796,47.1594083,0
+                32.9639945,47.1331414,0
+                32.8989645,47.1104255,0
+                32.7835115,47.0850956,0
+                32.7720356,47.0695836,0
+                32.7339292,47.0102337,0
+                32.7000877,47.0010027,0
+                32.678514,46.9761867,0
+                32.620985,46.9611768,0
+                32.5444202,46.9282549,0
+                32.4805453,46.90774,0
+                32.4513347,46.879253,0
+                32.4115943,46.8394951,0
+                32.4000194,46.7982831,0
+                32.3774407,46.7786071,0
+                32.3377564,46.7729842,0
+                32.2973881,46.7832922,0
+                32.246757,46.7875093,0
+                32.1988197,46.7505894,0
+                32.1649792,46.7366754,0
+                32.1018563,46.7198015,0
+                32.1069462,46.7091575,0
+                32.11,46.6899575,0
+                32.0947842,46.6510485,0
+                32.1086289,46.6321575,0
+                32.1318365,46.6149515,0
+                32.1057279,46.6024505,0
+                32.1154857,46.5904905,0
+                32.1362412,46.5526815,0
+                32.2356316,46.5792353,0
+                32.2655001,46.5831293,0
+                32.3053533,46.5487032,0
+                32.4041146,46.5525291,0
+                32.4194152,46.4864851,0
+                32.2982742,46.4715662,0
+                32.1270642,46.5046445,0
+                31.9995304,46.5016387,0
+                31.849285,46.5334969,0
+                31.7331071,46.552122,0
+                31.5819886,46.5413083,0
+                31.5278296,46.5551264,0
+                31.5549091,46.5298913,0
+                31.6972923,46.4354591,0
+                31.7016603,46.4625421,0
+                31.7357278,46.478786,0
+                31.7689213,46.481192,0
+                31.9078108,46.4499048,0
+                31.9610958,46.4348567,0
+                31.9995302,46.4480987,0
+                32.0161269,46.4474966,0
+                32.0370915,46.4113726,0
+                32.0196217,46.3746216,0
+                31.9838072,46.3511127,0
+                31.9113044,46.3372428,0
+                31.7968733,46.3312119,0
+                31.7479561,46.316131,0
+                31.7584388,46.269052,0
+                31.7907582,46.252746,0
+                31.8868456,46.2618048,0
+                31.9095572,46.2835418,0
+                31.9331428,46.2823347,0
+                31.9602213,46.2545577,0
+                32.0598026,46.2358296,0
+                32.1235694,46.2007745,0
+                32.1698666,46.1850534,0
+                32.2196566,46.1554113,0
+                32.2161626,46.1281753,0
+                32.3305936,46.0985032,0
+                32.540239,46.0603299,0
+                32.6188557,46.0900218,0
+                32.7664803,46.1075876,0
+                32.8459709,46.1069825,0
+                32.9237146,46.0997145,0
+                33.0346507,46.1051653,0
+                33.0776531,46.1222263,0
+                33.1229603,46.1164602,0
+                33.2905213,46.067011,0
+                33.4509515,46.0158669,0
+                33.5495869,46.0307208,0
+                33.5899914,46.1205787,0
+                33.6315847,46.1419907,0
+                33.6078173,46.2226247,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
