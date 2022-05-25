@@ -39353,12 +39353,16 @@ lon: 37.8195298]]></value>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Комишуваха (15.05 - російський наступ)</name>
-        <description><![CDATA[description: description: 15.05 - російський наступ - "На Бахмутському напрямку тривають бойові дії в районі Комишувахи": <br>https://censor.net/ua/n3341501<br>-----<br>14.05 - російський наступ - "...противник намагається покращити тактичне положення у районах населених пунктів Комишуваха, Красногорівка, Новомихайлівка, Костянтинівка і Побєда. Успіху не має":<br>https://www.facebook.com/GeneralStaff.ua/posts/316553500657735/<br>-----<br>13.05, Луганська ОВА - російські обстріли зруйнували 11 будинків:<br>https://censor.net/ua/photo_news/3341266/<br>13.05 - російський штурм - "На Бахмутському напрямку противник вів штурмові дії у напрямках населених пунктів Золоте та Комишуваха, успіху не мав":<br>https://www.facebook.com/GeneralStaff.ua/posts/316199807359771<br>-----<br>12.05, Луганська ОВА - російські обстріли, зруйновано 12 будинків - "...окупанти вели штурмові дії у напрямку Оріхового та в районі Комишувахи. Успіху щодо просування уперед вони не мали, однак житла зруйновано понад 50 будинків. 15 – у Врубівці, 12 – у Золотому, 11 – у Комишувасі...":<br>https://censor.net/ua/p3340998<br>-----<br>12.05 - російський штурм - "На Бахмутському напрямку ворог веде штурмові дії у напрямку Первомайськ, Комишуваха, бойові дії тривають":<br>https://www.facebook.com/GeneralStaff.ua/posts/315147577464994<br>-----<br>1.05 - російські обстріли - "У Комишувасі (поблизу Попасної) зруйновано будівлю сільради, школу та багатоквартирний будинок": https://censor.net/ua/n3338087<br>element_type: dark_red_dot<br>lat: 48.7013002<br>lon: 38.382129<br>element_type: grey_dot<br>lat: 48.7013002<br>lon: 38.382129]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <name>Комишуваха (25.05 - російський наступ)</name>
+        <description><![CDATA[description: description: <br>25.05, Луганська ОВА - російський наступ відбито - "...вночі орки пішли в наступ в районі Комишувахи і Троїцького, успіху не мали, зазнали втрат":<br>https://censor.net/ua/n3343655<br>-----<br>15.05 - російський наступ - "На Бахмутському напрямку тривають бойові дії в районі Комишувахи": <br>https://censor.net/ua/n3341501<br>-----<br>14.05 - російський наступ - "...противник намагається покращити тактичне положення у районах населених пунктів Комишуваха, Красногорівка, Новомихайлівка, Костянтинівка і Побєда. Успіху не має":<br>https://www.facebook.com/GeneralStaff.ua/posts/316553500657735/<br>-----<br>13.05, Луганська ОВА - російські обстріли зруйнували 11 будинків:<br>https://censor.net/ua/photo_news/3341266/<br>13.05 - російський штурм - "На Бахмутському напрямку противник вів штурмові дії у напрямках населених пунктів Золоте та Комишуваха, успіху не мав":<br>https://www.facebook.com/GeneralStaff.ua/posts/316199807359771<br>-----<br>12.05, Луганська ОВА - російські обстріли, зруйновано 12 будинків - "...окупанти вели штурмові дії у напрямку Оріхового та в районі Комишувахи. Успіху щодо просування уперед вони не мали, однак житла зруйновано понад 50 будинків. 15 – у Врубівці, 12 – у Золотому, 11 – у Комишувасі...":<br>https://censor.net/ua/p3340998<br>-----<br>12.05 - російський штурм - "На Бахмутському напрямку ворог веде штурмові дії у напрямку Первомайськ, Комишуваха, бойові дії тривають":<br>https://www.facebook.com/GeneralStaff.ua/posts/315147577464994<br>-----<br>1.05 - російські обстріли - "У Комишувасі (поблизу Попасної) зруйновано будівлю сільради, школу та багатоквартирний будинок": https://censor.net/ua/n3338087<br>element_type: dark_red_dot<br>lat: 48.7013002<br>lon: 38.382129<br><br>element_type: blue_dot<br>lat: 48.7013002<br>lon: 38.382129]]></description>
+        <styleUrl>#icon-ci-5</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[description: 15.05 - російський наступ - "На Бахмутському напрямку тривають бойові дії в районі Комишувахи": 
+            <value><![CDATA[description: 
+25.05, Луганська ОВА - російський наступ відбито - "...вночі орки пішли в наступ в районі Комишувахи і Троїцького, успіху не мали, зазнали втрат":
+https://censor.net/ua/n3343655
+-----
+15.05 - російський наступ - "На Бахмутському напрямку тривають бойові дії в районі Комишувахи": 
 https://censor.net/ua/n3341501
 -----
 14.05 - російський наступ - "...противник намагається покращити тактичне положення у районах населених пунктів Комишуваха, Красногорівка, Новомихайлівка, Костянтинівка і Побєда. Успіху не має":
@@ -39378,10 +39382,11 @@ https://www.facebook.com/GeneralStaff.ua/posts/315147577464994
 1.05 - російські обстріли - "У Комишувасі (поблизу Попасної) зруйновано будівлю сільради, школу та багатоквартирний будинок": https://censor.net/ua/n3338087
 element_type: dark_red_dot
 lat: 48.7013002
-lon: 38.382129]]></value>
+lon: 38.382129
+]]></value>
           </Data>
           <Data name="element_type">
-            <value>grey_dot</value>
+            <value>blue_dot</value>
           </Data>
           <Data name="lat">
             <value>48.7013002</value>
@@ -41895,7 +41900,7 @@ lon: 37.3878737]]></value>
       </Placemark>
       <Placemark>
         <name>Соледар (13.05 - російські обстріли)</name>
-        <description><![CDATA[description: description: 13.05, Нацполіція - російські обстріли:<br>https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br>-----<br>element_type: grey_dot<br>lat: 48.6746102<br>lon: 38.1045341<br>element_type: grey_dot<br>lat: 48.6746102<br>lon: 38.1045341]]></description>
+        <description><![CDATA[description: description: 13.05, Нацполіція - російські обстріли:<br>https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br>-----<br>element_type: grey_dot<br>lat: 48.6746102<br>lon: 38.1045341<br>element_type: grey_dot<br>lat: 48.6739301<br>lon: 38.1033325]]></description>
         <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
@@ -41910,15 +41915,15 @@ lon: 38.1045341</value>
             <value>grey_dot</value>
           </Data>
           <Data name="lat">
-            <value>48.6746102</value>
+            <value>48.6739301</value>
           </Data>
           <Data name="lon">
-            <value>38.1045341</value>
+            <value>38.1033325</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            38.1045341,48.6746102,0
+            38.1033325,48.6739301,0
           </coordinates>
         </Point>
       </Placemark>
@@ -44878,12 +44883,18 @@ lon: 33.2644891</value>
         </Point>
       </Placemark>
       <Placemark>
-        <name>СЄВЕРОДОНЕЦЬК</name>
-        <description><![CDATA[description: description: 13.05 - російський штурм - “Ситуація в нас ускладнюється ... Штурмують Рубіжне, Гірську громаду з боку Золотого та Нижнього, околиці Сєвєродонецька...”:<br>https://novynarnia.com/2022/05/13/hronika-oborony-ukrayiny-den-79-13-05-2022/<br>-----<br>9.05 - російські обстріли - "...зруйновано житлові будинки у Сєверодонецьку та Лисичанську. У Сєверодонецьку ворожий снаряд поцілив у будівлю місцевого осередку Національної поліції, приміщення та обладнання знищені":<br>https://censor.net/ua/p3340324<br>-----<br>4.05 - російські авіаудари:<br>https://censor.net/ua/n3338979<br>-----<br>30.04 - "...по шість масованих артилерійських обстрілів витримали Сєверодонецьк та Лисичанськ": <br>https://censor.net/ua/p3338065<br>element_type: blue_dot<br>lat: 48.9473693<br>lon: 38.5003871<br>element_type: blue_dot<br>lat: 48.9473693<br>lon: 38.5003871]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <name>СЄВЕРОДОНЕЦЬК (25.05 - бойові дії на околицях)</name>
+        <description><![CDATA[description: description: 25.05, Луганська ОВА - ідуть бої на околицях міста:<br>https://censor.net/ua/news/3343655/<br>-----<br>24.05 - російські обстріли УБИЛИ ШІСТЬОХ людей, вісім поранено:<br>https://censor.net/ua/news/3343645/<br>-----<br>13.05 - російський штурм - “Ситуація в нас ускладнюється ... Штурмують Рубіжне, Гірську громаду з боку Золотого та Нижнього, околиці Сєвєродонецька...”:<br>https://novynarnia.com/2022/05/13/hronika-oborony-ukrayiny-den-79-13-05-2022/<br>-----<br>9.05 - російські обстріли - "...зруйновано житлові будинки у Сєверодонецьку та Лисичанську. У Сєверодонецьку ворожий снаряд поцілив у будівлю місцевого осередку Національної поліції, приміщення та обладнання знищені":<br>https://censor.net/ua/p3340324<br>-----<br>4.05 - російські авіаудари:<br>https://censor.net/ua/n3338979<br>-----<br>30.04 - "...по шість масованих артилерійських обстрілів витримали Сєверодонецьк та Лисичанськ": <br>https://censor.net/ua/p3338065<br>element_type: blue_dot<br>lat: 48.9473693<br>lon: 38.5003871<br><br>element_type: dark_red_dot<br>lat: 48.9473693<br>lon: 38.5003871]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[description: 13.05 - російський штурм - “Ситуація в нас ускладнюється ... Штурмують Рубіжне, Гірську громаду з боку Золотого та Нижнього, околиці Сєвєродонецька...”:
+            <value><![CDATA[description: 25.05, Луганська ОВА - ідуть бої на околицях міста:
+https://censor.net/ua/news/3343655/
+-----
+24.05 - російські обстріли УБИЛИ ШІСТЬОХ людей, вісім поранено:
+https://censor.net/ua/news/3343645/
+-----
+13.05 - російський штурм - “Ситуація в нас ускладнюється ... Штурмують Рубіжне, Гірську громаду з боку Золотого та Нижнього, околиці Сєвєродонецька...”:
 https://novynarnia.com/2022/05/13/hronika-oborony-ukrayiny-den-79-13-05-2022/
 -----
 9.05 - російські обстріли - "...зруйновано житлові будинки у Сєверодонецьку та Лисичанську. У Сєверодонецьку ворожий снаряд поцілив у будівлю місцевого осередку Національної поліції, приміщення та обладнання знищені":
@@ -44896,10 +44907,11 @@ https://censor.net/ua/n3338979
 https://censor.net/ua/p3338065
 element_type: blue_dot
 lat: 48.9473693
-lon: 38.5003871]]></value>
+lon: 38.5003871
+]]></value>
           </Data>
           <Data name="element_type">
-            <value>blue_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>48.9473693</value>
@@ -45073,22 +45085,26 @@ lon: 38.12446</value>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Троїцьке (13.05 - російські обстріли)</name>
-        <description><![CDATA[description: description: 13.05, Луганська ОВА - російські обстріли зруйнували 5 будинків:<br>https://censor.net/ua/photo_news/3341266/<br>-----<br>11.05 - російські обстріли - "На Бахмутському напрямку, з метою підготовки наступу, російські окупанти продовжують артилерійські обстріли позицій наших військ в районах населених пунктів Світлодарськ та Троїцьке":<br>https://www.facebook.com/GeneralStaff.ua/posts/314771530835932<br>element_type: blue_dot<br>lat: 48.5299295<br>lon: 38.360886<br>element_type: grey_dot<br>lat: 48.5299295<br>lon: 38.360886]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <name>Троїцьке (25.05 - російський наступ)</name>
+        <description><![CDATA[description: description: 25.05, Луганська ОВА - російський наступ відбито - "...вночі орки пішли в наступ в районі Комишувахи і Троїцького, успіху не мали, зазнали втрат":<br>https://censor.net/ua/n3343655<br>-----<br>13.05, Луганська ОВА - російські обстріли зруйнували 5 будинків:<br>https://censor.net/ua/photo_news/3341266/<br>-----<br>11.05 - російські обстріли - "На Бахмутському напрямку, з метою підготовки наступу, російські окупанти продовжують артилерійські обстріли позицій наших військ в районах населених пунктів Світлодарськ та Троїцьке":<br>https://www.facebook.com/GeneralStaff.ua/posts/314771530835932<br>element_type: blue_dot<br>lat: 48.5299295<br>lon: 38.360886<br><br>element_type: blue_dot<br>lat: 48.5299295<br>lon: 38.360886]]></description>
+        <styleUrl>#icon-ci-5</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[description: 13.05, Луганська ОВА - російські обстріли зруйнували 5 будинків:
+            <value><![CDATA[description: 25.05, Луганська ОВА - російський наступ відбито - "...вночі орки пішли в наступ в районі Комишувахи і Троїцького, успіху не мали, зазнали втрат":
+https://censor.net/ua/n3343655
+-----
+13.05, Луганська ОВА - російські обстріли зруйнували 5 будинків:
 https://censor.net/ua/photo_news/3341266/
 -----
 11.05 - російські обстріли - "На Бахмутському напрямку, з метою підготовки наступу, російські окупанти продовжують артилерійські обстріли позицій наших військ в районах населених пунктів Світлодарськ та Троїцьке":
 https://www.facebook.com/GeneralStaff.ua/posts/314771530835932
 element_type: blue_dot
 lat: 48.5299295
-lon: 38.360886]]></value>
+lon: 38.360886
+]]></value>
           </Data>
           <Data name="element_type">
-            <value>grey_dot</value>
+            <value>blue_dot</value>
           </Data>
           <Data name="lat">
             <value>48.5299295</value>
@@ -45140,7 +45156,7 @@ lon: 38.5111686]]></value>
       </Placemark>
       <Placemark>
         <name>Сіверськ (14.05 - російський обстріл)</name>
-        <description><![CDATA[description: description: 14.05 - російські обстріли:<br>https://censor.net/ua/p3341281<br>-----<br>10.05 - російські обстріли:<br>https://www.npu.gov.ua/news/stoprussia/na-donechchini-za-dobu-rosiyani-obstrilyali-13-naselenix-punktiv-policziya-rozpochala-kriminalni-provadzhennya/<br>-----<br>2.05 - російські обстріли:<br>https://censor.net/ua/photo_news/3338593/<br>-----<br>22.04, поліція - російські обстріли:<br>"Упродовж минулої доби окупанти вдарили по таких населених пунктах - Маріуполь, Авдіївка, Лиман, Слов’янськ, Мар’їнка, Вугледар, Сіверськ, Світлодарськ, Велика Новосілка..."<br>https://censor.net/ua/n3335984<br>-----<br>17.04 - "...російські окупанти продовжують обстріли населених пунктів Сіверськ і Покровське": <br>https://censor.net/ua/n3334837<br>element_type: blue_dot<br>lat: 48.879988<br>lon: 38.1137385<br>element_type: blue_dot<br>lat: 48.879988<br>lon: 38.1137385]]></description>
+        <description><![CDATA[description: description: 14.05 - російські обстріли:<br>https://censor.net/ua/p3341281<br>-----<br>10.05 - російські обстріли:<br>https://www.npu.gov.ua/news/stoprussia/na-donechchini-za-dobu-rosiyani-obstrilyali-13-naselenix-punktiv-policziya-rozpochala-kriminalni-provadzhennya/<br>-----<br>2.05 - російські обстріли:<br>https://censor.net/ua/photo_news/3338593/<br>-----<br>22.04, поліція - російські обстріли:<br>"Упродовж минулої доби окупанти вдарили по таких населених пунктах - Маріуполь, Авдіївка, Лиман, Слов’янськ, Мар’їнка, Вугледар, Сіверськ, Світлодарськ, Велика Новосілка..."<br>https://censor.net/ua/n3335984<br>-----<br>17.04 - "...російські окупанти продовжують обстріли населених пунктів Сіверськ і Покровське": <br>https://censor.net/ua/n3334837<br>element_type: blue_dot<br>lat: 48.879988<br>lon: 38.1137385<br>element_type: blue_dot<br>lat: 48.8804396<br>lon: 38.1137385]]></description>
         <styleUrl>#icon-ci-5</styleUrl>
         <ExtendedData>
           <Data name="description">
@@ -45167,7 +45183,7 @@ lon: 38.1137385]]></value>
             <value>blue_dot</value>
           </Data>
           <Data name="lat">
-            <value>48.879988</value>
+            <value>48.8804396</value>
           </Data>
           <Data name="lon">
             <value>38.1137385</value>
@@ -45175,7 +45191,7 @@ lon: 38.1137385]]></value>
         </ExtendedData>
         <Point>
           <coordinates>
-            38.1137385,48.879988,0
+            38.1137385,48.8804396,0
           </coordinates>
         </Point>
       </Placemark>
@@ -46557,8 +46573,8 @@ lon: 37.4160218]]></value>
       </Placemark>
       <Placemark>
         <name>Щедрищеве</name>
-        <description><![CDATA[description: description: 13.05, Луганська ОВА - "Сьогодні наші зачистили Щедрищеве":<br>https://censor.net/ua/n3341199<br>element_type: blue_dot<br>lat: 48.9816341<br>lon: 38.4980241<br>element_type: blue_dot<br>lat: 48.9816341<br>lon: 38.4980241]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <description><![CDATA[description: description: 13.05, Луганська ОВА - "Сьогодні наші зачистили Щедрищеве":<br>https://censor.net/ua/n3341199<br>element_type: blue_dot<br>lat: 48.9816341<br>lon: 38.4980241<br>element_type: grey_dot<br>lat: 48.9816341<br>lon: 38.4980241]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value><![CDATA[description: 13.05, Луганська ОВА - "Сьогодні наші зачистили Щедрищеве":
@@ -46568,7 +46584,7 @@ lat: 48.9816341
 lon: 38.4980241]]></value>
           </Data>
           <Data name="element_type">
-            <value>blue_dot</value>
+            <value>grey_dot</value>
           </Data>
           <Data name="lat">
             <value>48.9816341</value>
@@ -52713,27 +52729,30 @@ https://www.facebook.com/GeneralStaff.ua/posts/324283196551432
         </Point>
       </Placemark>
       <Placemark>
-        <name>Білогорівка (24.05 - російський наступ)</name>
-        <description><![CDATA[description: 24.05 - російський наступ - "На Бахмутському напрямку противник наступає в районах населених пунктів Липове та Білогорівка":<br>https://www.facebook.com/GeneralStaff.ua/posts/324283196551432<br>element_type: blue_dot<br>lat: 48.7296356<br>lon: 38.2201474]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <name><![CDATA[Білогорівка (тут 24.05 окупанти вийшли на трасу "Бахмут-Сєвєродонецьк")]]></name>
+        <description><![CDATA[description: 24.05, Юрій Бутусов - бойові дії - "Російські війська ... вийшли на трасу Бахмут - Лисичанськ у районі сіл Нагірне та Білогорівка":<br>https://censor.net/ua/n3343700<br>24.05, Генштаб  - російський наступ - "На Бахмутському напрямку противник наступає в районах населених пунктів Липове та Білогорівка":<br>https://www.facebook.com/GeneralStaff.ua/posts/324283196551432<br><br>element_type: dark_red_dot<br>lat: 48.7302018<br>lon: 38.2193749]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[24.05 - російський наступ - "На Бахмутському напрямку противник наступає в районах населених пунктів Липове та Білогорівка":
-https://www.facebook.com/GeneralStaff.ua/posts/324283196551432]]></value>
+            <value><![CDATA[24.05, Юрій Бутусов - бойові дії - "Російські війська ... вийшли на трасу Бахмут - Лисичанськ у районі сіл Нагірне та Білогорівка":
+https://censor.net/ua/n3343700
+24.05, Генштаб  - російський наступ - "На Бахмутському напрямку противник наступає в районах населених пунктів Липове та Білогорівка":
+https://www.facebook.com/GeneralStaff.ua/posts/324283196551432
+]]></value>
           </Data>
           <Data name="element_type">
-            <value>blue_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
-            <value>48.7296356</value>
+            <value>48.7302018</value>
           </Data>
           <Data name="lon">
-            <value>38.2201474</value>
+            <value>38.2193749</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            38.2201474,48.7296356,0
+            38.2193749,48.7302018,0
           </coordinates>
         </Point>
       </Placemark>
@@ -52812,6 +52831,32 @@ https://novynarnia.com/2022/05/17/rosiyany-zavdaly-raketnogo-3/
         <Point>
           <coordinates>
             30.7508243,50.9558112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Нагірне (тут 24.05 окупанти вийшли на трасу "Бахмут-Сєвєродонецьк")]]></name>
+        <description><![CDATA[description: 24.05, Юрій Бутусов - бойові дії - "Російські війська ... вийшли на трасу Бахмут - Лисичанськ у районі сіл Нагірне та Білогорівка":<br>https://censor.net/ua/n3343700<br><br>element_type: dark_red_dot<br>lat: 48.7448988<br>lon: 38.2426459]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[24.05, Юрій Бутусов - бойові дії - "Російські війська ... вийшли на трасу Бахмут - Лисичанськ у районі сіл Нагірне та Білогорівка":
+https://censor.net/ua/n3343700
+]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>dark_red_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>48.7448988</value>
+          </Data>
+          <Data name="lon">
+            <value>38.2426459</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.2426459,48.7448988,0
           </coordinates>
         </Point>
       </Placemark>
