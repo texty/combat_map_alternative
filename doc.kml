@@ -28683,6 +28683,32 @@ https://www.facebook.com/GeneralStaff.ua/posts/325370633109355
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Мідна Руда (окупована 26.05)</name>
+        <description><![CDATA[description: 26.05 - "У напрямках Покровського та Клинового ворог має частковий успіх, оволодів населеним пунктом Мідна Руда. Здійснює перегрупування":<br>https://censor.net/ua/n3344079<br><br>element_type: red_dot<br>lat: 48.5517129<br>lon: 38.206777]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[26.05 - "У напрямках Покровського та Клинового ворог має частковий успіх, оволодів населеним пунктом Мідна Руда. Здійснює перегрупування":
+https://censor.net/ua/n3344079
+]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>red_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>48.5517129</value>
+          </Data>
+          <Data name="lon">
+            <value>38.206777</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.206777,48.5517129,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>інше</name>
