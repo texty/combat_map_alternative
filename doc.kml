@@ -2832,27 +2832,31 @@ https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/]]></value>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Нова Каховка (тут починається канал Дніпро-Крим)</name>
-        <description><![CDATA[description: 12.05 - "...на Миколаївському напрямку в районі Нової Каховки ворог здійснює підготовку інженерних підрозділів до наведення понтонно-мостових переправ":<br>https://www.facebook.com/GeneralStaff.ua/posts/315147577464994<br>element_type: red_dot<br>lat: 46.7490453<br>lon: 33.3982072]]></description>
+        <name>Нова Каховка (тут починається канал Дніпро-Крим і розташована дамба Каховської ГЕС)</name>
+        <description><![CDATA[description: 26.05 - місто почало затоплювати через скид великих обсягів води на Каховській гідроелектростанції - "...не працюють два гідроагрегати, які окупанти не дають змоги відремонтувати. Це вже призвело до часткового затоплення Нової Каховки, набережної та місцевого парку":<br>https://novynarnia.com/2022/05/26/hronika-oborony-ukrayiny-den-92-26-05-2022/<br>-----<br>12.05 - "...на Миколаївському напрямку в районі Нової Каховки ворог здійснює підготовку інженерних підрозділів до наведення понтонно-мостових переправ":<br>https://www.facebook.com/GeneralStaff.ua/posts/315147577464994<br><br>element_type: red_dot<br>lat: 46.7551612<br>lon: 33.3669647]]></description>
         <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[12.05 - "...на Миколаївському напрямку в районі Нової Каховки ворог здійснює підготовку інженерних підрозділів до наведення понтонно-мостових переправ":
-https://www.facebook.com/GeneralStaff.ua/posts/315147577464994]]></value>
+            <value><![CDATA[26.05 - місто почало затоплювати через скид великих обсягів води на Каховській гідроелектростанції - "...не працюють два гідроагрегати, які окупанти не дають змоги відремонтувати. Це вже призвело до часткового затоплення Нової Каховки, набережної та місцевого парку":
+https://novynarnia.com/2022/05/26/hronika-oborony-ukrayiny-den-92-26-05-2022/
+-----
+12.05 - "...на Миколаївському напрямку в районі Нової Каховки ворог здійснює підготовку інженерних підрозділів до наведення понтонно-мостових переправ":
+https://www.facebook.com/GeneralStaff.ua/posts/315147577464994
+]]></value>
           </Data>
           <Data name="element_type">
             <value>red_dot</value>
           </Data>
           <Data name="lat">
-            <value>46.7490453</value>
+            <value>46.7551612</value>
           </Data>
           <Data name="lon">
-            <value>33.3982072</value>
+            <value>33.3669647</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            33.3982072,46.7490453,0
+            33.3669647,46.7551612,0
           </coordinates>
         </Point>
       </Placemark>
@@ -9197,11 +9201,13 @@ https://www.facebook.com/GeneralStaff.ua/posts/323858359927249
       </Placemark>
       <Placemark>
         <name>Устинівка</name>
-        <description><![CDATA[description: 26.05, вечір - частково ОКУПОВАНЕ? - "Противник ... у напрямку населеного пункту Устинівка має частковий успіх":<br>https://censor.net/ua/n3344079<br>26.05, ранок - російський штурм - "Ворог ... вів штурмові дії в напрямку населеного пункту Устинівка, успіху не мав":<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>24.05 - російський штурм - "На Сєверодонецькому напрямку противник, за підтримки артилерії, веде штурмові дії в напрямках Тошківка та Устинівка":<br>https://www.facebook.com/GeneralStaff.ua/posts/323858359927249<br><br>element_type: dark_red_dot<br>lat: 48.8206641<br>lon: 38.5700738]]></description>
+        <description><![CDATA[description: 26.05, Луганська ОВА - російські обстріли УБИЛИ ДВОХ людей:<br>https://novynarnia.com/2022/05/26/rashysty-obstrilyaly-lysychansk-i-syevyerodoneczk-ye-zagybli/<br>26.05, вечір - частково ОКУПОВАНЕ? - "Противник ... у напрямку населеного пункту Устинівка має частковий успіх":<br>https://censor.net/ua/n3344079<br>26.05, ранок - російський штурм - "Ворог ... вів штурмові дії в напрямку населеного пункту Устинівка, успіху не мав":<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>24.05 - російський штурм - "На Сєверодонецькому напрямку противник, за підтримки артилерії, веде штурмові дії в напрямках Тошківка та Устинівка":<br>https://www.facebook.com/GeneralStaff.ua/posts/323858359927249<br><br>element_type: dark_red_dot<br>lat: 48.8206641<br>lon: 38.5700738]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[26.05, вечір - частково ОКУПОВАНЕ? - "Противник ... у напрямку населеного пункту Устинівка має частковий успіх":
+            <value><![CDATA[26.05, Луганська ОВА - російські обстріли УБИЛИ ДВОХ людей:
+https://novynarnia.com/2022/05/26/rashysty-obstrilyaly-lysychansk-i-syevyerodoneczk-ye-zagybli/
+26.05, вечір - частково ОКУПОВАНЕ? - "Противник ... у напрямку населеного пункту Устинівка має частковий успіх":
 https://censor.net/ua/n3344079
 26.05, ранок - російський штурм - "Ворог ... вів штурмові дії в напрямку населеного пункту Устинівка, успіху не мав":
 https://www.facebook.com/GeneralStaff.ua/posts/325370633109355
@@ -16411,18 +16417,22 @@ https://censor.net/ua/n3334837]]></value>
       </Placemark>
       <Placemark>
         <name>ЛИСИЧАНСЬК</name>
-        <description><![CDATA[description: 9.05 - російські обстріли - "...зруйновано житлові будинки у Сєверодонецьку та Лисичанську":<br>https://censor.net/ua/p3340324<br>-------<br>30.04 - "...по шість масованих артилерійських обстрілів витримали Сєверодонецьк та Лисичанськ":<br>https://censor.net/ua/p3338065<br>-------<br>28.04 - "...по десять разів ворог обстрілював Попасну та Лисичанськ...": <br>https://censor.net/ua/n3337351<br>element_type: blue_dot<br>lat: 48.8953948<br>lon: 38.4714207]]></description>
+        <description><![CDATA[description: 26.05 - російські обстріли УБИЛИ людину, зруйнували вісім будинків і гуманітарний центр:<br>https://novynarnia.com/2022/05/26/rashysty-obstrilyaly-lysychansk-i-syevyerodoneczk-ye-zagybli/<br>===<br>9.05 - російські обстріли - "...зруйновано житлові будинки у Сєверодонецьку та Лисичанську":<br>https://censor.net/ua/p3340324<br>-------<br>30.04 - "...по шість масованих артилерійських обстрілів витримали Сєверодонецьк та Лисичанськ":<br>https://censor.net/ua/p3338065<br>-------<br>28.04 - "...по десять разів ворог обстрілював Попасну та Лисичанськ...": <br>https://censor.net/ua/n3337351<br><br>element_type: blue_dot<br>lat: 48.8953948<br>lon: 38.4714207]]></description>
         <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[9.05 - російські обстріли - "...зруйновано житлові будинки у Сєверодонецьку та Лисичанську":
+            <value><![CDATA[26.05 - російські обстріли УБИЛИ людину, зруйнували вісім будинків і гуманітарний центр:
+https://novynarnia.com/2022/05/26/rashysty-obstrilyaly-lysychansk-i-syevyerodoneczk-ye-zagybli/
+===
+9.05 - російські обстріли - "...зруйновано житлові будинки у Сєверодонецьку та Лисичанську":
 https://censor.net/ua/p3340324
 -------
 30.04 - "...по шість масованих артилерійських обстрілів витримали Сєверодонецьк та Лисичанськ":
 https://censor.net/ua/p3338065
 -------
 28.04 - "...по десять разів ворог обстрілював Попасну та Лисичанськ...": 
-https://censor.net/ua/n3337351]]></value>
+https://censor.net/ua/n3337351
+]]></value>
           </Data>
           <Data name="element_type">
             <value>blue_dot</value>
@@ -17007,16 +17017,20 @@ https://texty.org.ua/fragments/106582/</value>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Привілля (7.05 - російські обстріли)</name>
-        <description><![CDATA[description: 7.05 - російські обстріли, троє УБИТИХ:<br>https://t.me/luhanskaVTSA/2404<br>-------<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем Збройних сил України:<br>https://texty.org.ua/fragments/106582/zsu-uvijshly-do-staroho-saltova-armiya-rf-perebuvaye-na-pidstupah-do-lymana-karty-potochnoyi-voyennoyi-sytuaciyi/<br>element_type: blue_dot<br>lat: 49.0008842<br>lon: 38.2883826]]></description>
+        <name>Привілля</name>
+        <description><![CDATA[description: 26.05 - російські обстріли, чотири будинки зруйновано:<br>https://novynarnia.com/2022/05/26/rashysty-obstrilyaly-lysychansk-i-syevyerodoneczk-ye-zagybli/<br>-----<br>7.05 - російські обстріли, троє УБИТИХ:<br>https://t.me/luhanskaVTSA/2404<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем Збройних сил України:<br>https://texty.org.ua/fragments/106582/zsu-uvijshly-do-staroho-saltova-armiya-rf-perebuvaye-na-pidstupah-do-lymana-karty-potochnoyi-voyennoyi-sytuaciyi/<br><br>element_type: blue_dot<br>lat: 49.0008842<br>lon: 38.2883826]]></description>
         <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>7.05 - російські обстріли, троє УБИТИХ:
+            <value>26.05 - російські обстріли, чотири будинки зруйновано:
+https://novynarnia.com/2022/05/26/rashysty-obstrilyaly-lysychansk-i-syevyerodoneczk-ye-zagybli/
+-----
+7.05 - російські обстріли, троє УБИТИХ:
 https://t.me/luhanskaVTSA/2404
--------
+-----
 станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем Збройних сил України:
-https://texty.org.ua/fragments/106582/zsu-uvijshly-do-staroho-saltova-armiya-rf-perebuvaye-na-pidstupah-do-lymana-karty-potochnoyi-voyennoyi-sytuaciyi/</value>
+https://texty.org.ua/fragments/106582/zsu-uvijshly-do-staroho-saltova-armiya-rf-perebuvaye-na-pidstupah-do-lymana-karty-potochnoyi-voyennoyi-sytuaciyi/
+</value>
           </Data>
           <Data name="element_type">
             <value>blue_dot</value>
