@@ -1303,7 +1303,7 @@ https://censor.net/ua/n3335271]]></value>
       </Placemark>
       <Placemark>
         <name>ГОРЛІВКА (окупована з 2014 року)</name>
-        <description><![CDATA[description: <br>element_type: red_dot<br>lat: 48.3107045<br>lon: 38.0392735]]></description>
+        <description><![CDATA[description: <br>element_type: red_dot<br>lat: 48.3264579<br>lon: 38.0609036]]></description>
         <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="description">
@@ -1313,15 +1313,15 @@ https://censor.net/ua/n3335271]]></value>
             <value>red_dot</value>
           </Data>
           <Data name="lat">
-            <value>48.3107045</value>
+            <value>48.3264579</value>
           </Data>
           <Data name="lon">
-            <value>38.0392735</value>
+            <value>38.0609036</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            38.0392735,48.3107045,0
+            38.0609036,48.3264579,0
           </coordinates>
         </Point>
       </Placemark>
@@ -6992,12 +6992,11 @@ https://censor.net/ua/n3339027
       </Placemark>
       <Placemark>
         <name>Світлодарськ (Вуглегірська ТЕС - одна з найпотужніших)</name>
-        <description><![CDATA[description: <br>24.05, Донецька ОВА - "Українські війська відійшли з так званої Світлодарської дуги, що вдавалася в територію ОРДЛО на півночі Донецької області, й охоплювала район населених пунктів Світлодарськ, Миронівський та Луганське":<br>https://novynarnia.com/2022/05/24/taktychne-peregrupuvannya-zsu-vidijshly-zi-svitlodarskoyi-dugy/<br>-----<br>13.05, Нацполіція - російські обстріли:<br>https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br>-----<br>11.05, ГШ - російські обстріли:<br>"На Бахмутському напрямку, з метою підготовки наступу, російські окупанти продовжують артилерійські обстріли позицій наших військ в районах населених пунктів Світлодарськ та Троїцьке":<br>https://www.facebook.com/GeneralStaff.ua/posts/314771530835932<br>-----<br>22.04, Нацполіція - російські обстріли: "Упродовж минулої доби окупанти вдарили по таких населених пунктах - Маріуполь, Авдіївка, Лиман, Слов’янськ, Мар’їнка, Вугледар, Сіверськ, Світлодарськ, Велика Новосілка, Олександрівка, Зарічне, Очеретине, Дмитро-Дар’ївка, Східне, Новомихайлівка, Новобахмутівка, Новоселівка-3, Шнурки, Ямпіль, траса Київ-Харків-Довжанське"<br>https://censor.net/ua/n3335984<br>element_type: red_dot<br>lat: 48.4310926<br>lon: 38.2426099]]></description>
+        <description><![CDATA[description: 24.05, Донецька ОВА - МІСТО ОКУПОВАНЕ -  "Українські війська відійшли з так званої Світлодарської дуги, що вдавалася в територію ОРДЛО на півночі Донецької області, й охоплювала район населених пунктів Світлодарськ, Миронівський та Луганське":<br>https://novynarnia.com/2022/05/24/taktychne-peregrupuvannya-zsu-vidijshly-zi-svitlodarskoyi-dugy/<br>-----<br>13.05, Нацполіція - російські обстріли:<br>https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br>-----<br>11.05, ГШ - російські обстріли:<br>"На Бахмутському напрямку, з метою підготовки наступу, російські окупанти продовжують артилерійські обстріли позицій наших військ в районах населених пунктів Світлодарськ та Троїцьке":<br>https://www.facebook.com/GeneralStaff.ua/posts/314771530835932<br>-----<br>22.04, Нацполіція - російські обстріли: "Упродовж минулої доби окупанти вдарили по таких населених пунктах - Маріуполь, Авдіївка, Лиман, Слов’янськ, Мар’їнка, Вугледар, Сіверськ, Світлодарськ, Велика Новосілка, Олександрівка, Зарічне, Очеретине, Дмитро-Дар’ївка, Східне, Новомихайлівка, Новобахмутівка, Новоселівка-3, Шнурки, Ямпіль, траса Київ-Харків-Довжанське"<br>https://censor.net/ua/n3335984<br>element_type: red_dot<br>lat: 48.4373567<br>lon: 38.2221822]]></description>
         <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[
-24.05, Донецька ОВА - "Українські війська відійшли з так званої Світлодарської дуги, що вдавалася в територію ОРДЛО на півночі Донецької області, й охоплювала район населених пунктів Світлодарськ, Миронівський та Луганське":
+            <value><![CDATA[24.05, Донецька ОВА - МІСТО ОКУПОВАНЕ -  "Українські війська відійшли з так званої Світлодарської дуги, що вдавалася в територію ОРДЛО на півночі Донецької області, й охоплювала район населених пунктів Світлодарськ, Миронівський та Луганське":
 https://novynarnia.com/2022/05/24/taktychne-peregrupuvannya-zsu-vidijshly-zi-svitlodarskoyi-dugy/
 -----
 13.05, Нацполіція - російські обстріли:
@@ -7014,15 +7013,15 @@ https://censor.net/ua/n3335984]]></value>
             <value>red_dot</value>
           </Data>
           <Data name="lat">
-            <value>48.4310926</value>
+            <value>48.4373567</value>
           </Data>
           <Data name="lon">
-            <value>38.2426099</value>
+            <value>38.2221822</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            38.2426099,48.4310926,0
+            38.2221822,48.4373567,0
           </coordinates>
         </Point>
       </Placemark>
@@ -7052,7 +7051,7 @@ https://censor.net/ua/n3335984]]></value>
       </Placemark>
       <Placemark>
         <name>Миронівський (окуповане 24.05)</name>
-        <description><![CDATA[description: 24.05, Донецька ОВА - "Українські війська відійшли з так званої Світлодарської дуги, що вдавалася в територію ОРДЛО на півночі Донецької області, й охоплювала район населених пунктів Світлодарськ, Миронівський та Луганське":<br>https://novynarnia.com/2022/05/24/taktychne-peregrupuvannya-zsu-vidijshly-zi-svitlodarskoyi-dugy/<br>element_type: red_dot<br>lat: 48.4591568<br>lon: 38.285433]]></description>
+        <description><![CDATA[description: 24.05, Донецька ОВА - "Українські війська відійшли з так званої Світлодарської дуги, що вдавалася в територію ОРДЛО на півночі Донецької області, й охоплювала район населених пунктів Світлодарськ, Миронівський та Луганське":<br>https://novynarnia.com/2022/05/24/taktychne-peregrupuvannya-zsu-vidijshly-zi-svitlodarskoyi-dugy/<br>element_type: red_dot<br>lat: 48.4613197<br>lon: 38.2741034]]></description>
         <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="description">
@@ -7063,15 +7062,15 @@ https://novynarnia.com/2022/05/24/taktychne-peregrupuvannya-zsu-vidijshly-zi-svi
             <value>red_dot</value>
           </Data>
           <Data name="lat">
-            <value>48.4591568</value>
+            <value>48.4613197</value>
           </Data>
           <Data name="lon">
-            <value>38.285433</value>
+            <value>38.2741034</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            38.285433,48.4591568,0
+            38.2741034,48.4613197,0
           </coordinates>
         </Point>
       </Placemark>
@@ -7257,12 +7256,12 @@ https://www.facebook.com/GeneralStaff.ua/posts/323137383332680
         </Point>
       </Placemark>
       <Placemark>
-        <name>Донецький аеропорт (термінали)</name>
-        <description><![CDATA[description: окуповано з 21.01.2015 року<br>element_type: red_dot<br>lat: 48.0713547<br>lon: 37.7405835]]></description>
+        <name>Донецький АЕРОПОРТ (термінали)</name>
+        <description><![CDATA[description: окуповано з 2015 року<br>element_type: red_dot<br>lat: 48.0713547<br>lon: 37.7405835]]></description>
         <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>окуповано з 21.01.2015 року</value>
+            <value>окуповано з 2015 року</value>
           </Data>
           <Data name="element_type">
             <value>red_dot</value>
@@ -7438,11 +7437,14 @@ https://www.pravda.com.ua/articles/2022/04/21/7341146/]]></value>
       </Placemark>
       <Placemark>
         <name>АВДІЇВКА</name>
-        <description><![CDATA[description: 26.05, ранок - російський штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>25.05 - російський штурм - "...російські окупанти вели безуспішні штурмові дії в районах населених пунктів Красногорівка, Кам’янка, Авдіївка та Піски":<br>https://www.facebook.com/GeneralStaff.ua/posts/325028756476876<br>-----<br>24.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/324283196551432<br>-----<br>23.05 - російський авіаудар:<br>https://www.facebook.com/GeneralStaff.ua/posts/323137383332680<br>===<br> 14.05 - успішний російський наступ - "Ворог проводить штурмові дії уздовж лінії зіткнення за підтримки авіації та артилерії. Має частковий успіх в районі Авдіївки:<br>https://censor.net/ua/n3341365<br>-----<br>13.05, Нацполіція - російські обстріли, ЗАГИНУЛА людина:<br>https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br>-----<br>10.05 - російські обстріли:<br>https://www.npu.gov.ua/news/stoprussia/na-donechchini-za-dobu-rosiyani-obstrilyali-13-naselenix-punktiv-policziya-rozpochala-kriminalni-provadzhennya/<br>-----<br>3.05 - російський обстріл, 12 УБИТИХ, 15 поранених:<br>https://tsn.ua/video/video-novini/avdiyivku-obstrilyali-raketa-zabrala-zhittya-12-lyudey.html<br>-----<br>2.05 - російські обстріли:<br>https://www.ukrinform.ua/rubric-regions/3472713-na-doneccini-rosiani-za-dobu-obstrilali-11-naselenih-punktiv.html<br>-----<br>28.04 - "...Авдіївка, Мар'їнка, Красногорівка, Новомихайлівка, Лиман, Вугледар — під постійними обстрілами": https://censor.net/ua/n3337351<br>-----<br>25.04 - російські обстріли:<br>"...росіяни вдарили по таких населених пунктах Донеччини: Маріуполь, Лиман, Авдіївка..."<br>https://censor.net/ua/p3336594<br>-----<br>21.04 - спроби російського наступу:<br>"...на Авдіївському напрямку росіяни спробували прорвати нашу оборону, але зазнали невдачі. В самому місті російські снаряди протягом доби пошкодили декілька житлових будинків, сільгосппідприємство, медичний заклад..." https://censor.net/ua/p3335698<br>-----<br>20.04 - російські обстріли:<br>"Упродовж минулої доби російські військові вдарили по таких населених пунктах Донеччини: Маріуполь, Авдіївка, Вугледар, Мар’їнка..."<br>https://novynarnia.com/2022/04/20/okupanty-obstrilyaly-12-mist/<br>-----<br>18.04 - ГШ ЗСУ: "Противник ...здійснював штурмові дії в районах населених пунктів Новотошківське, Попасна, Авдіївка та Мар’їнка. Успіху також не мав". <br>Джерело: https://censor.net/ua/n3334837<br><br>element_type: dark_red_dot<br>lat: 48.1280398<br>lon: 37.7618765]]></description>
+        <description><![CDATA[description: 26.05 - російський наступ відбито - "На Авдіївському напрямку ворог намагався поновити наступ, успіху не має":<br>https://censor.net/ua/n3344079<br>-----<br>26.05, ранок - російський штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>25.05 - російський штурм - "...російські окупанти вели безуспішні штурмові дії в районах населених пунктів Красногорівка, Кам’янка, Авдіївка та Піски":<br>https://www.facebook.com/GeneralStaff.ua/posts/325028756476876<br>-----<br>24.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/324283196551432<br>-----<br>23.05 - російський авіаудар:<br>https://www.facebook.com/GeneralStaff.ua/posts/323137383332680<br>===<br> 14.05 - успішний російський наступ - "Ворог проводить штурмові дії уздовж лінії зіткнення за підтримки авіації та артилерії. Має частковий успіх в районі Авдіївки:<br>https://censor.net/ua/n3341365<br>-----<br>13.05, Нацполіція - російські обстріли, ЗАГИНУЛА людина:<br>https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br>-----<br>10.05 - російські обстріли:<br>https://www.npu.gov.ua/news/stoprussia/na-donechchini-za-dobu-rosiyani-obstrilyali-13-naselenix-punktiv-policziya-rozpochala-kriminalni-provadzhennya/<br>-----<br>3.05 - російський обстріл, 12 УБИТИХ, 15 поранених:<br>https://tsn.ua/video/video-novini/avdiyivku-obstrilyali-raketa-zabrala-zhittya-12-lyudey.html<br>-----<br>2.05 - російські обстріли:<br>https://www.ukrinform.ua/rubric-regions/3472713-na-doneccini-rosiani-za-dobu-obstrilali-11-naselenih-punktiv.html<br>-----<br>28.04 - "...Авдіївка, Мар'їнка, Красногорівка, Новомихайлівка, Лиман, Вугледар — під постійними обстрілами": https://censor.net/ua/n3337351<br>-----<br>25.04 - російські обстріли:<br>"...росіяни вдарили по таких населених пунктах Донеччини: Маріуполь, Лиман, Авдіївка..."<br>https://censor.net/ua/p3336594<br>-----<br>21.04 - спроби російського наступу:<br>"...на Авдіївському напрямку росіяни спробували прорвати нашу оборону, але зазнали невдачі. В самому місті російські снаряди протягом доби пошкодили декілька житлових будинків, сільгосппідприємство, медичний заклад..." https://censor.net/ua/p3335698<br>-----<br>20.04 - російські обстріли:<br>"Упродовж минулої доби російські військові вдарили по таких населених пунктах Донеччини: Маріуполь, Авдіївка, Вугледар, Мар’їнка..."<br>https://novynarnia.com/2022/04/20/okupanty-obstrilyaly-12-mist/<br>-----<br>18.04 - ГШ ЗСУ: "Противник ...здійснював штурмові дії в районах населених пунктів Новотошківське, Попасна, Авдіївка та Мар’їнка. Успіху також не мав". <br>Джерело: https://censor.net/ua/n3334837<br><br>element_type: dark_red_dot<br>lat: 48.1280398<br>lon: 37.7618765]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[26.05, ранок - російський штурм:
+            <value><![CDATA[26.05 - російський наступ відбито - "На Авдіївському напрямку ворог намагався поновити наступ, успіху не має":
+https://censor.net/ua/n3344079
+-----
+26.05, ранок - російський штурм:
 https://www.facebook.com/GeneralStaff.ua/posts/325370633109355
 -----
 25.05 - російський штурм - "...російські окупанти вели безуспішні штурмові дії в районах населених пунктів Красногорівка, Кам’янка, Авдіївка та Піски":
@@ -7694,12 +7696,15 @@ https://t.me/luhanskaVTSA/2404]]></value>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Борівське (15.05 - бойові дії)</name>
-        <description><![CDATA[description: 15.05 - бойові дії - "...в районі Борівського окупанти зазнали втрат та відступили":<br>https://censor.net/ua/n3341501<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем Збройних сил України:<br>https://texty.org.ua/fragments/106582/zsu-uvijshly-do-staroho-saltova-armiya-rf-perebuvaye-na-pidstupah-do-lymana-karty-potochnoyi-voyennoyi-sytuaciyi/<br>-----<br>5.04 - бойові дії:<br>https://www.pravda.com.ua/news/2022/04/5/7337229/<br>-----<br>28.03 - російські обстріли:<br>https://censor.net/ua/news/3329200/nich_u_regionah_na_hersonschyni_yidut_boyi_na_meji_z_mykolayivschynoyu_ta_dnipropetrovschynoyu_raketni<br>element_type: dark_red_dot<br>lat: 48.8700569<br>lon: 38.5582665]]></description>
+        <name>Борівське</name>
+        <description><![CDATA[description: 26.05 - російський наступ - "...противник веде наступ у напрямках населених пунктів Сєвєродонецьк та Борівське. Успіху не має":<br>https://censor.net/ua/n3344079<br>===<br>15.05 - бойові дії - "...в районі Борівського окупанти зазнали втрат та відступили":<br>https://censor.net/ua/n3341501<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем Збройних сил України:<br>https://texty.org.ua/fragments/106582/zsu-uvijshly-do-staroho-saltova-armiya-rf-perebuvaye-na-pidstupah-do-lymana-karty-potochnoyi-voyennoyi-sytuaciyi/<br>-----<br>5.04 - бойові дії:<br>https://www.pravda.com.ua/news/2022/04/5/7337229/<br>-----<br>28.03 - російські обстріли:<br>https://censor.net/ua/news/3329200/nich_u_regionah_na_hersonschyni_yidut_boyi_na_meji_z_mykolayivschynoyu_ta_dnipropetrovschynoyu_raketni<br><br>element_type: dark_red_dot<br>lat: 48.8701698<br>lon: 38.5582665]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[15.05 - бойові дії - "...в районі Борівського окупанти зазнали втрат та відступили":
+            <value><![CDATA[26.05 - російський наступ - "...противник веде наступ у напрямках населених пунктів Сєвєродонецьк та Борівське. Успіху не має":
+https://censor.net/ua/n3344079
+===
+15.05 - бойові дії - "...в районі Борівського окупанти зазнали втрат та відступили":
 https://censor.net/ua/n3341501
 -----
 станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем Збройних сил України:
@@ -7709,13 +7714,14 @@ https://texty.org.ua/fragments/106582/zsu-uvijshly-do-staroho-saltova-armiya-rf-
 https://www.pravda.com.ua/news/2022/04/5/7337229/
 -----
 28.03 - російські обстріли:
-https://censor.net/ua/news/3329200/nich_u_regionah_na_hersonschyni_yidut_boyi_na_meji_z_mykolayivschynoyu_ta_dnipropetrovschynoyu_raketni]]></value>
+https://censor.net/ua/news/3329200/nich_u_regionah_na_hersonschyni_yidut_boyi_na_meji_z_mykolayivschynoyu_ta_dnipropetrovschynoyu_raketni
+]]></value>
           </Data>
           <Data name="element_type">
             <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
-            <value>48.8700569</value>
+            <value>48.8701698</value>
           </Data>
           <Data name="lon">
             <value>38.5582665</value>
@@ -7723,7 +7729,7 @@ https://censor.net/ua/news/3329200/nich_u_regionah_na_hersonschyni_yidut_boyi_na
         </ExtendedData>
         <Point>
           <coordinates>
-            38.5582665,48.8700569,0
+            38.5582665,48.8701698,0
           </coordinates>
         </Point>
       </Placemark>
@@ -8510,11 +8516,13 @@ https://www.facebook.com/GeneralStaff.ua/posts/313588154287603]]></value>
       </Placemark>
       <Placemark>
         <name>СЄВЕРОДОНЕЦЬК (з квітня за місто йдуть жорстокі бої)</name>
-        <description><![CDATA[description: 26.05 - бої в місті - "Ворог намагається закріпитись в районі Сєверодонецька":<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>25.05, Луганська ОВА - ідуть бої на околицях міста:<br>https://censor.net/ua/news/3343655/<br>-----<br>24.05 - російські обстріли УБИЛИ ШІСТЬОХ людей, вісім поранено:<br>https://censor.net/ua/news/3343645/<br>-----<br>23.05 - російський штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/323137383332680<br>===<br>13.05 - російський штурм - “Ситуація в нас ускладнюється ... Штурмують Рубіжне, Гірську громаду з боку Золотого та Нижнього, околиці Сєвєродонецька...”:<br>https://novynarnia.com/2022/05/13/hronika-oborony-ukrayiny-den-79-13-05-2022/<br>-----<br>9.05 - російські обстріли - "...зруйновано житлові будинки у Сєверодонецьку та Лисичанську. У Сєверодонецьку ворожий снаряд поцілив у будівлю місцевого осередку Національної поліції, приміщення та обладнання знищені":<br>https://censor.net/ua/p3340324<br>-----<br>4.05 - російські авіаудари:<br>https://censor.net/ua/n3338979<br>-----<br>30.04 - "...по шість масованих артилерійських обстрілів витримали Сєверодонецьк та Лисичанськ": <br>https://censor.net/ua/p3338065<br><br>element_type: dark_red_dot<br>lat: 48.9473693<br>lon: 38.5003871]]></description>
+        <description><![CDATA[description: 26.05, вечір - російський наступ - "...противник веде наступ у напрямках населених пунктів Сєвєродонецьк та Борівське. Успіху не має":<br>https://censor.net/ua/n3344079<br>26.05, ранок - бої в передмісті - "Ворог намагається закріпитись в районі Сєверодонецька":<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>25.05, Луганська ОВА - ідуть бої на околицях міста:<br>https://censor.net/ua/news/3343655/<br>-----<br>24.05 - російські обстріли УБИЛИ ШІСТЬОХ людей, вісім поранено:<br>https://censor.net/ua/news/3343645/<br>-----<br>23.05 - російський штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/323137383332680<br>===<br>13.05 - російський штурм - “Ситуація в нас ускладнюється ... Штурмують Рубіжне, Гірську громаду з боку Золотого та Нижнього, околиці Сєвєродонецька...”:<br>https://novynarnia.com/2022/05/13/hronika-oborony-ukrayiny-den-79-13-05-2022/<br>-----<br>9.05 - російські обстріли - "...зруйновано житлові будинки у Сєверодонецьку та Лисичанську. У Сєверодонецьку ворожий снаряд поцілив у будівлю місцевого осередку Національної поліції, приміщення та обладнання знищені":<br>https://censor.net/ua/p3340324<br>-----<br>4.05 - російські авіаудари:<br>https://censor.net/ua/n3338979<br>-----<br>30.04 - "...по шість масованих артилерійських обстрілів витримали Сєверодонецьк та Лисичанськ": <br>https://censor.net/ua/p3338065<br><br>element_type: dark_red_dot<br>lat: 48.9473693<br>lon: 38.5003871]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[26.05 - бої в місті - "Ворог намагається закріпитись в районі Сєверодонецька":
+            <value><![CDATA[26.05, вечір - російський наступ - "...противник веде наступ у напрямках населених пунктів Сєвєродонецьк та Борівське. Успіху не має":
+https://censor.net/ua/n3344079
+26.05, ранок - бої в передмісті - "Ворог намагається закріпитись в районі Сєверодонецька":
 https://www.facebook.com/GeneralStaff.ua/posts/325370633109355
 -----
 25.05, Луганська ОВА - ідуть бої на околицях міста:
@@ -8556,13 +8564,20 @@ https://censor.net/ua/p3338065
         </Point>
       </Placemark>
       <Placemark>
-        <name>ЛИМАН (26.05 - частково окупований)</name>
-        <description><![CDATA[description: 26.05 - північна частина міста ОКУПОВАНА, в південній тривають бої:<br> https://novynarnia.com/2022/05/26/lyman-prapor/<br>-----<br>25.05 - російський наступ:<br>https://www.facebook.com/GeneralStaff.ua/posts/324613886518363<br>-----<br>24.05 - російський наступ - "...противник активізував ведення бойових дій. За підтримки артилерії та авіації, веде наступ у напрямку населеного пункту Лиман":<br>https://www.facebook.com/GeneralStaff.ua/posts/324283196551432<br>-----<br>13.05, Нацполіція - російські обстріли, ЗАГИНУЛА людина:<br>https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br>-----<br>12.05 - "Основним завданням противника залишається встановлення повного контролю над Рубіжним, захоплення Лиману та Сєвєродонецька":<br>https://www.facebook.com/GeneralStaff.ua/posts/315147577464994<br>-----<br>11.05 - "На Донецькому напрямку основні зусилля противника зосереджуються на ... проведенні наступу в напрямку населеного пункту Лиман.":<br>https://www.facebook.com/GeneralStaff.ua/posts/314771530835932<br>-----<br>3.05 - російський обстріл УБИВ ТРЬОХ цивільних: <br>https://censor.net/ua/p3338615<br>-----<br>2.05 - росіійський обстріл:<br>https://www.ukrinform.ua/rubric-regions/3472713-na-doneccini-rosiani-za-dobu-obstrilali-11-naselenih-punktiv.html<br>-----<br>1.05 - російський обстріл УБИВ ЧОТИРЬОХ цивільних:<br>На Донеччині від російських обстрілів за добу неділі загинули четверо мирних мешканців (усі – в Лимані), поранено 11 людей<br>-----<br>30.04 - "...ворог продовжує вести наступ на Лиманському (у районах населених пунктів Ямпіль, Озерне, Лиман) напрямку":<br>https://www.facebook.com/GeneralStaff.ua/posts/305803498399402<br>-----<br>30.04 - російський обстріл, загинула цивільна людина:<br>https://censor.net/ua/n3338087<br>-----<br>28.04 - "...ворог покращив тактичне положення, намагається розвинути наступ на Лиман. Загарбники проводять підготовчі заходи для форсування річки Сіверський Донець" - https://censor.net/ua/n3337339 .<br>Того ж 28.04 - російські обстріли:<br>https://censor.net/ua/n3337351<br>-----<br>27.04 - російський штурм - "На Лиманському напрямку противник встановив контроль над населеним пунктом Зарічне, здійснював штурмові дії у районі населеного пункту Ямпіль":<br>https://censor.net/ua/n3337099<br>------<br>26.04 - російські обстріли, загинула людина:<br>https://censor.net/ua/news/3337053/<br>------<br>25.04 - російські обстріли ВБИЛИ ДВОХ ДІТЕЙ:<br>"...росіяни вбили ще 4 мирних мешканців Донеччини: 2 у Лимані, 1 у Мар’їнці та 1 у Ямполі. Обидві жертви росіян у Лимані – це діти..."<br>https://censor.net/ua/n3336764<br>-----<br>24.04: "...противник намагався здійснювати штурмові дії в напрямку населених пунктів Лиман та Яцьківка, успіху не мав".<br>https://www.facebook.com/GeneralStaff.ua/posts/301968408782911<br>-----<br>22.04: Російські окупанти з "Градів" обстріляли обласну травматологію у місті Лиман на Донеччині.<br> https://censor.net/ua/v3335992<br>-----<br>20.04: "...продовжується ведення бойових дій в районах населених пунктів Кремінна, Торське та Зелена Долина. Ворог здійснює перегрупування з метою подальшого наступу у напрямку на населений пункт Лиман"<br>https://www.facebook.com/GeneralStaff.ua/posts/298791202433965<br>-----<br>19.04: "На Донеччині тривають важкі бої в районі Лимана..."<br>https://www.ukrinform.ua/rubric-regions/3461282-na-doneccini-trivaut-boi-v-rajoni-limana-rosiani-obstriluut-mista-iz-artilerii-ta-gradiv.html<br>-----<br>17.04: "...основні зусилля ворог зосереджував в районах населених пунктів Лиман, Кремінна, Попасна та Рубіжне..." https://censor.net/ua/n3334837<br>element_type: dark_red_dot<br>lat: 48.9867899<br>lon: 37.8062139]]></description>
+        <name>ЛИМАН (26.05 частково окупований)</name>
+        <description><![CDATA[description: 27.05, вечір - бойові дії - "...ворог намагається витіснити наші підрозділи з населеного пункту Лиман:<br>https://www.facebook.com/GeneralStaff.ua/posts/326425353003883<br>27.05, ранок - "ворог ... за підтримки артилерії намагається закріпитись у Лиман":<br>https://www.facebook.com/GeneralStaff.ua/posts/326063393040079<br>-----<br>26.05, вечір - схоже, місто ОКУПОВАНЕ - "На Лиманському напрямку противник зосереджував зусилля на вогневому ураженні наших підрозділів в районах Озерного та південніше населеного пункту Лиман": <br>https://censor.net/ua/n3344079<br>26.05, ранок - північна частина міста ОКУПОВАНА, в південній тривають бої:<br>https://novynarnia.com/2022/05/26/lyman-prapor/<br>-----<br>25.05 - російський наступ:<br>https://www.facebook.com/GeneralStaff.ua/posts/324613886518363<br>-----<br>24.05 - російський наступ - "...противник активізував ведення бойових дій. За підтримки артилерії та авіації, веде наступ у напрямку населеного пункту Лиман":<br>https://www.facebook.com/GeneralStaff.ua/posts/324283196551432<br>-----<br>13.05, Нацполіція - російські обстріли, ЗАГИНУЛА людина:<br>https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br>-----<br>12.05 - "Основним завданням противника залишається встановлення повного контролю над Рубіжним, захоплення Лиману та Сєвєродонецька":<br>https://www.facebook.com/GeneralStaff.ua/posts/315147577464994<br>-----<br>11.05 - "На Донецькому напрямку основні зусилля противника зосереджуються на ... проведенні наступу в напрямку населеного пункту Лиман.":<br>https://www.facebook.com/GeneralStaff.ua/posts/314771530835932<br>-----<br>3.05 - російський обстріл УБИВ ТРЬОХ цивільних: <br>https://censor.net/ua/p3338615<br>-----<br>2.05 - росіійський обстріл:<br>https://www.ukrinform.ua/rubric-regions/3472713-na-doneccini-rosiani-za-dobu-obstrilali-11-naselenih-punktiv.html<br>-----<br>1.05 - російський обстріл УБИВ ЧОТИРЬОХ цивільних:<br>На Донеччині від російських обстрілів за добу неділі загинули четверо мирних мешканців (усі – в Лимані), поранено 11 людей<br>-----<br>30.04 - "...ворог продовжує вести наступ на Лиманському (у районах населених пунктів Ямпіль, Озерне, Лиман) напрямку":<br>https://www.facebook.com/GeneralStaff.ua/posts/305803498399402<br>-----<br>30.04 - російський обстріл, загинула цивільна людина:<br>https://censor.net/ua/n3338087<br>-----<br>28.04 - "...ворог покращив тактичне положення, намагається розвинути наступ на Лиман. Загарбники проводять підготовчі заходи для форсування річки Сіверський Донець" - https://censor.net/ua/n3337339 .<br>Того ж 28.04 - російські обстріли:<br>https://censor.net/ua/n3337351<br>-----<br>27.04 - російський штурм - "На Лиманському напрямку противник встановив контроль над населеним пунктом Зарічне, здійснював штурмові дії у районі населеного пункту Ямпіль":<br>https://censor.net/ua/n3337099<br>------<br>26.04 - російські обстріли, загинула людина:<br>https://censor.net/ua/news/3337053/<br>------<br>25.04 - російські обстріли ВБИЛИ ДВОХ ДІТЕЙ:<br>"...росіяни вбили ще 4 мирних мешканців Донеччини: 2 у Лимані, 1 у Мар’їнці та 1 у Ямполі. Обидві жертви росіян у Лимані – це діти..."<br>https://censor.net/ua/n3336764<br>-----<br>24.04: "...противник намагався здійснювати штурмові дії в напрямку населених пунктів Лиман та Яцьківка, успіху не мав".<br>https://www.facebook.com/GeneralStaff.ua/posts/301968408782911<br>-----<br>22.04: Російські окупанти з "Градів" обстріляли обласну травматологію у місті Лиман на Донеччині.<br> https://censor.net/ua/v3335992<br>-----<br>20.04: "...продовжується ведення бойових дій в районах населених пунктів Кремінна, Торське та Зелена Долина. Ворог здійснює перегрупування з метою подальшого наступу у напрямку на населений пункт Лиман"<br>https://www.facebook.com/GeneralStaff.ua/posts/298791202433965<br>-----<br>19.04: "На Донеччині тривають важкі бої в районі Лимана..."<br>https://www.ukrinform.ua/rubric-regions/3461282-na-doneccini-trivaut-boi-v-rajoni-limana-rosiani-obstriluut-mista-iz-artilerii-ta-gradiv.html<br>-----<br>17.04: "...основні зусилля ворог зосереджував в районах населених пунктів Лиман, Кремінна, Попасна та Рубіжне..." https://censor.net/ua/n3334837<br><br>element_type: dark_red_dot<br>lat: 48.9867899<br>lon: 37.8062139]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[26.05 - північна частина міста ОКУПОВАНА, в південній тривають бої:
- https://novynarnia.com/2022/05/26/lyman-prapor/
+            <value><![CDATA[27.05, вечір - бойові дії - "...ворог намагається витіснити наші підрозділи з населеного пункту Лиман:
+https://www.facebook.com/GeneralStaff.ua/posts/326425353003883
+27.05, ранок - "ворог ... за підтримки артилерії намагається закріпитись у Лиман":
+https://www.facebook.com/GeneralStaff.ua/posts/326063393040079
+-----
+26.05, вечір - схоже, місто ОКУПОВАНЕ - "На Лиманському напрямку противник зосереджував зусилля на вогневому ураженні наших підрозділів в районах Озерного та південніше населеного пункту Лиман": 
+https://censor.net/ua/n3344079
+26.05, ранок - північна частина міста ОКУПОВАНА, в південній тривають бої:
+https://novynarnia.com/2022/05/26/lyman-prapor/
 -----
 25.05 - російський наступ:
 https://www.facebook.com/GeneralStaff.ua/posts/324613886518363
@@ -8620,7 +8635,8 @@ https://www.facebook.com/GeneralStaff.ua/posts/298791202433965
 19.04: "На Донеччині тривають важкі бої в районі Лимана..."
 https://www.ukrinform.ua/rubric-regions/3461282-na-doneccini-trivaut-boi-v-rajoni-limana-rosiani-obstriluut-mista-iz-artilerii-ta-gradiv.html
 -----
-17.04: "...основні зусилля ворог зосереджував в районах населених пунктів Лиман, Кремінна, Попасна та Рубіжне..." https://censor.net/ua/n3334837]]></value>
+17.04: "...основні зусилля ворог зосереджував в районах населених пунктів Лиман, Кремінна, Попасна та Рубіжне..." https://censor.net/ua/n3334837
+]]></value>
           </Data>
           <Data name="element_type">
             <value>dark_red_dot</value>
@@ -9121,11 +9137,14 @@ https://www.facebook.com/GeneralStaff.ua/posts/324283196551432
       </Placemark>
       <Placemark>
         <name><![CDATA[Білогорівка (село на трасі "Бахмут-Сєвєродонецьк")]]></name>
-        <description><![CDATA[description: 25.05, Луганська ОВА - "Дорога прострілюється, але ми сьогодні вже змогли завезти гумвантажі. Станом на 13 годину пересування дорогою можливе":<br>https://censor.net/ua/n3343727<br>-----<br>24.05, Юрій Бутусов - бойові дії - "Російські війська ... вийшли на трасу Бахмут - Лисичанськ у районі сіл Нагірне та Білогорівка":<br>https://censor.net/ua/n3343700<br>24.05, Генштаб  - російський наступ - "На Бахмутському напрямку противник наступає в районах населених пунктів Липове та Білогорівка":<br>https://www.facebook.com/GeneralStaff.ua/posts/324283196551432<br><br>element_type: dark_red_dot<br>lat: 48.7302018<br>lon: 38.2193749]]></description>
+        <description><![CDATA[description: 26.05 - російський наступ - "На Бахмутському напрямку російські окупанти ведуть наступ у напрямках населених пунктів Комишуваха, Ниркове, Берестове та Білогорівка, успіху не мають, зазнали втрат та відійшли":<br>https://censor.net/ua/n3344079<br>-----<br>25.05, Луганська ОВА - "Дорога прострілюється, але ми сьогодні вже змогли завезти гумвантажі. Станом на 13 годину пересування дорогою можливе":<br>https://censor.net/ua/n3343727<br>-----<br>24.05, Юрій Бутусов - бойові дії - "Російські війська ... вийшли на трасу Бахмут - Лисичанськ у районі сіл Нагірне та Білогорівка":<br>https://censor.net/ua/n3343700<br>24.05, Генштаб  - російський наступ - "На Бахмутському напрямку противник наступає в районах населених пунктів Липове та Білогорівка":<br>https://www.facebook.com/GeneralStaff.ua/posts/324283196551432<br><br>element_type: dark_red_dot<br>lat: 48.7302018<br>lon: 38.2193749]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[25.05, Луганська ОВА - "Дорога прострілюється, але ми сьогодні вже змогли завезти гумвантажі. Станом на 13 годину пересування дорогою можливе":
+            <value><![CDATA[26.05 - російський наступ - "На Бахмутському напрямку російські окупанти ведуть наступ у напрямках населених пунктів Комишуваха, Ниркове, Берестове та Білогорівка, успіху не мають, зазнали втрат та відійшли":
+https://censor.net/ua/n3344079
+-----
+25.05, Луганська ОВА - "Дорога прострілюється, але ми сьогодні вже змогли завезти гумвантажі. Станом на 13 годину пересування дорогою можливе":
 https://censor.net/ua/n3343727
 -----
 24.05, Юрій Бутусов - бойові дії - "Російські війська ... вийшли на трасу Бахмут - Лисичанськ у районі сіл Нагірне та Білогорівка":
@@ -9178,11 +9197,13 @@ https://www.facebook.com/GeneralStaff.ua/posts/323858359927249
       </Placemark>
       <Placemark>
         <name>Устинівка</name>
-        <description><![CDATA[description: 26.05, ранок - російський штурм - "Ворог ... вів штурмові дії в напрямку населеного пункту Устинівка, успіху не мав":<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>24.05 - російський штурм - "На Сєверодонецькому напрямку противник, за підтримки артилерії, веде штурмові дії в напрямках Тошківка та Устинівка":<br>https://www.facebook.com/GeneralStaff.ua/posts/323858359927249<br><br>element_type: dark_red_dot<br>lat: 48.8206641<br>lon: 38.5700738]]></description>
+        <description><![CDATA[description: 26.05, вечір - частково ОКУПОВАНЕ? - "Противник ... у напрямку населеного пункту Устинівка має частковий успіх":<br>https://censor.net/ua/n3344079<br>26.05, ранок - російський штурм - "Ворог ... вів штурмові дії в напрямку населеного пункту Устинівка, успіху не мав":<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>24.05 - російський штурм - "На Сєверодонецькому напрямку противник, за підтримки артилерії, веде штурмові дії в напрямках Тошківка та Устинівка":<br>https://www.facebook.com/GeneralStaff.ua/posts/323858359927249<br><br>element_type: dark_red_dot<br>lat: 48.8206641<br>lon: 38.5700738]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[26.05, ранок - російський штурм - "Ворог ... вів штурмові дії в напрямку населеного пункту Устинівка, успіху не мав":
+            <value><![CDATA[26.05, вечір - частково ОКУПОВАНЕ? - "Противник ... у напрямку населеного пункту Устинівка має частковий успіх":
+https://censor.net/ua/n3344079
+26.05, ранок - російський штурм - "Ворог ... вів штурмові дії в напрямку населеного пункту Устинівка, успіху не мав":
 https://www.facebook.com/GeneralStaff.ua/posts/325370633109355
 -----
 24.05 - російський штурм - "На Сєверодонецькому напрямку противник, за підтримки артилерії, веде штурмові дії в напрямках Тошківка та Устинівка":
@@ -9343,11 +9364,14 @@ https://www.facebook.com/GeneralStaff.ua/posts/325370633109355
       </Placemark>
       <Placemark>
         <name>Озерне</name>
-        <description><![CDATA[description: 23.05 - російські обстріли - "...oкупанти обстрілювали інфраструктуру в районах населених пунктів Лиман, Озерне та Діброва":<br>https://www.facebook.com/GeneralStaff.ua/posts/323137383332680<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт російських окупантів:<br>https://texty.org.ua/fragments/106582/<br>-----<br>1.05 - російський штурм - "Російські окупанти безуспішно здійснювали штурмові дії в районі населених пунктів Озерне та Мар’їнка":<br>https://www.facebook.com/GeneralStaff.ua/posts/306878508291901<br>-----<br>30.04 - "...ворог продовжує вести наступ на Лиманському (у районах населених пунктів Ямпіль, Озерне, Лиман) напрямку":<br>https://www.facebook.com/GeneralStaff.ua/posts/305803498399402<br>element_type: yellow_dot<br>lat: 48.895847<br>lon: 37.9056973]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <description><![CDATA[description: 26.05, вечір - російські обстріли - "На Лиманському напрямку противник зосереджував зусилля на вогневому ураженні наших підрозділів в районах Озерного...":<br>https://censor.net/ua/n3344079<br>-----<br>23.05 - російські обстріли - "...oкупанти обстрілювали інфраструктуру в районах населених пунктів Лиман, Озерне та Діброва":<br>https://www.facebook.com/GeneralStaff.ua/posts/323137383332680<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт російських окупантів:<br>https://texty.org.ua/fragments/106582/<br>-----<br>1.05 - російський штурм - "Російські окупанти безуспішно здійснювали штурмові дії в районі населених пунктів Озерне та Мар’їнка":<br>https://www.facebook.com/GeneralStaff.ua/posts/306878508291901<br>-----<br>30.04 - "...ворог продовжує вести наступ на Лиманському (у районах населених пунктів Ямпіль, Озерне, Лиман) напрямку":<br>https://www.facebook.com/GeneralStaff.ua/posts/305803498399402<br><br>element_type: dark_red_dot<br>lat: 48.895847<br>lon: 37.9056973]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[23.05 - російські обстріли - "...oкупанти обстрілювали інфраструктуру в районах населених пунктів Лиман, Озерне та Діброва":
+            <value><![CDATA[26.05, вечір - російські обстріли - "На Лиманському напрямку противник зосереджував зусилля на вогневому ураженні наших підрозділів в районах Озерного...":
+https://censor.net/ua/n3344079
+-----
+23.05 - російські обстріли - "...oкупанти обстрілювали інфраструктуру в районах населених пунктів Лиман, Озерне та Діброва":
 https://www.facebook.com/GeneralStaff.ua/posts/323137383332680
 -----
 станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт російських окупантів:
@@ -9357,10 +9381,11 @@ https://texty.org.ua/fragments/106582/
 https://www.facebook.com/GeneralStaff.ua/posts/306878508291901
 -----
 30.04 - "...ворог продовжує вести наступ на Лиманському (у районах населених пунктів Ямпіль, Озерне, Лиман) напрямку":
-https://www.facebook.com/GeneralStaff.ua/posts/305803498399402]]></value>
+https://www.facebook.com/GeneralStaff.ua/posts/305803498399402
+]]></value>
           </Data>
           <Data name="element_type">
-            <value>yellow_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>48.895847</value>
@@ -15152,11 +15177,13 @@ https://censor.net/ua/photo_news/3334682/za_dobu_viyiska_rf_obstrilyaly_13_nasel
       </Placemark>
       <Placemark>
         <name>Комишуваха (Луганська обл.)</name>
-        <description><![CDATA[description: 26.05, ранок - російський наступ відбито -  "...противник безуспішно здійснив спроби наступу в районах Комишувахи, Липового і Нагірного":<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>25.05, Луганська ОВА - російський наступ відбито - "...вночі орки пішли в наступ в районі Комишувахи і Троїцького, успіху не мали, зазнали втрат":<br>https://censor.net/ua/n3343655<br>-----<br>15.05 - російський наступ - "На Бахмутському напрямку тривають бойові дії в районі Комишувахи": <br>https://censor.net/ua/n3341501<br>-----<br>14.05 - російський наступ - "...противник намагається покращити тактичне положення у районах населених пунктів Комишуваха, Красногорівка, Новомихайлівка, Костянтинівка і Побєда. Успіху не має":<br>https://www.facebook.com/GeneralStaff.ua/posts/316553500657735/<br>-----<br>13.05, Луганська ОВА - російські обстріли зруйнували 11 будинків:<br>https://censor.net/ua/photo_news/3341266/<br>13.05 - російський штурм - "На Бахмутському напрямку противник вів штурмові дії у напрямках населених пунктів Золоте та Комишуваха, успіху не мав":<br>https://www.facebook.com/GeneralStaff.ua/posts/316199807359771<br>-----<br>12.05, Луганська ОВА - російські обстріли, зруйновано 12 будинків - "...окупанти вели штурмові дії у напрямку Оріхового та в районі Комишувахи. Успіху щодо просування уперед вони не мали, однак житла зруйновано понад 50 будинків. 15 – у Врубівці, 12 – у Золотому, 11 – у Комишувасі...":<br>https://censor.net/ua/p3340998<br>-----<br>12.05 - російський штурм - "На Бахмутському напрямку ворог веде штурмові дії у напрямку Первомайськ, Комишуваха, бойові дії тривають":<br>https://www.facebook.com/GeneralStaff.ua/posts/315147577464994<br>-----<br>1.05 - російські обстріли - "У Комишувасі (поблизу Попасної) зруйновано будівлю сільради, школу та багатоквартирний будинок": https://censor.net/ua/n3338087<br><br>element_type: blue_dot<br>lat: 48.7013002<br>lon: 38.382129]]></description>
+        <description><![CDATA[description: 26.05, вечір - російський наступ відбито - "На Бахмутському напрямку російські окупанти ведуть наступ у напрямках населених пунктів Комишуваха, Ниркове, Берестове та Білогорівка, успіху не мають, зазнали втрат та відійшли":<br>https://censor.net/ua/n3344079<br>26.05, ранок - російський наступ відбито -  "...противник безуспішно здійснив спроби наступу в районах Комишувахи, Липового і Нагірного":<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>25.05, Луганська ОВА - російський наступ відбито - "...вночі орки пішли в наступ в районі Комишувахи і Троїцького, успіху не мали, зазнали втрат":<br>https://censor.net/ua/n3343655<br>-----<br>15.05 - російський наступ - "На Бахмутському напрямку тривають бойові дії в районі Комишувахи": <br>https://censor.net/ua/n3341501<br>-----<br>14.05 - російський наступ - "...противник намагається покращити тактичне положення у районах населених пунктів Комишуваха, Красногорівка, Новомихайлівка, Костянтинівка і Побєда. Успіху не має":<br>https://www.facebook.com/GeneralStaff.ua/posts/316553500657735/<br>-----<br>13.05, Луганська ОВА - російські обстріли зруйнували 11 будинків:<br>https://censor.net/ua/photo_news/3341266/<br>13.05 - російський штурм - "На Бахмутському напрямку противник вів штурмові дії у напрямках населених пунктів Золоте та Комишуваха, успіху не мав":<br>https://www.facebook.com/GeneralStaff.ua/posts/316199807359771<br>-----<br>12.05, Луганська ОВА - російські обстріли, зруйновано 12 будинків - "...окупанти вели штурмові дії у напрямку Оріхового та в районі Комишувахи. Успіху щодо просування уперед вони не мали, однак житла зруйновано понад 50 будинків. 15 – у Врубівці, 12 – у Золотому, 11 – у Комишувасі...":<br>https://censor.net/ua/p3340998<br>-----<br>12.05 - російський штурм - "На Бахмутському напрямку ворог веде штурмові дії у напрямку Первомайськ, Комишуваха, бойові дії тривають":<br>https://www.facebook.com/GeneralStaff.ua/posts/315147577464994<br>-----<br>1.05 - російські обстріли - "У Комишувасі (поблизу Попасної) зруйновано будівлю сільради, школу та багатоквартирний будинок": https://censor.net/ua/n3338087<br><br>element_type: blue_dot<br>lat: 48.7013002<br>lon: 38.382129]]></description>
         <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[26.05, ранок - російський наступ відбито -  "...противник безуспішно здійснив спроби наступу в районах Комишувахи, Липового і Нагірного":
+            <value><![CDATA[26.05, вечір - російський наступ відбито - "На Бахмутському напрямку російські окупанти ведуть наступ у напрямках населених пунктів Комишуваха, Ниркове, Берестове та Білогорівка, успіху не мають, зазнали втрат та відійшли":
+https://censor.net/ua/n3344079
+26.05, ранок - російський наступ відбито -  "...противник безуспішно здійснив спроби наступу в районах Комишувахи, Липового і Нагірного":
 https://www.facebook.com/GeneralStaff.ua/posts/325370633109355
 -----
 25.05, Луганська ОВА - російський наступ відбито - "...вночі орки пішли в наступ в районі Комишувахи і Троїцького, успіху не мали, зазнали втрат":
@@ -20620,11 +20647,14 @@ https://www.facebook.com/GeneralStaff.ua/posts/323137383332680
       </Placemark>
       <Placemark>
         <name>Ниркове</name>
-        <description><![CDATA[description: 25.05 - російський наступ відбито - "Противник здійснив спроби наступальних та штурмових дій ... в районах населених пунктів Берестове, Липове і Ниркове, успіху не мав, відійшов на раніше зайняті рубежі":<br>https://www.facebook.com/GeneralStaff.ua/posts/325028756476876<br><br>element_type: blue_dot<br>lat: 48.7389073<br>lon: 38.3087514]]></description>
+        <description><![CDATA[description: 26.05 - російський наступ відбито - "На Бахмутському напрямку російські окупанти ведуть наступ у напрямках населених пунктів Комишуваха, Ниркове, Берестове та Білогорівка, успіху не мають, зазнали втрат та відійшли":<br>https://censor.net/ua/n3344079<br>-----<br>25.05 - російський наступ відбито - "Противник здійснив спроби наступальних та штурмових дій ... в районах населених пунктів Берестове, Липове і Ниркове, успіху не мав, відійшов на раніше зайняті рубежі":<br>https://www.facebook.com/GeneralStaff.ua/posts/325028756476876<br><br>element_type: blue_dot<br>lat: 48.7389073<br>lon: 38.3087514]]></description>
         <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[25.05 - російський наступ відбито - "Противник здійснив спроби наступальних та штурмових дій ... в районах населених пунктів Берестове, Липове і Ниркове, успіху не мав, відійшов на раніше зайняті рубежі":
+            <value><![CDATA[26.05 - російський наступ відбито - "На Бахмутському напрямку російські окупанти ведуть наступ у напрямках населених пунктів Комишуваха, Ниркове, Берестове та Білогорівка, успіху не мають, зазнали втрат та відійшли":
+https://censor.net/ua/n3344079
+-----
+25.05 - російський наступ відбито - "Противник здійснив спроби наступальних та штурмових дій ... в районах населених пунктів Берестове, Липове і Ниркове, успіху не мав, відійшов на раніше зайняті рубежі":
 https://www.facebook.com/GeneralStaff.ua/posts/325028756476876
 ]]></value>
           </Data>
@@ -20646,12 +20676,16 @@ https://www.facebook.com/GeneralStaff.ua/posts/325028756476876
       </Placemark>
       <Placemark>
         <name>Берестове</name>
-        <description><![CDATA[description: 25.05 - російський наступ відбито - "Противник здійснив спроби наступальних та штурмових дій ... в районах населених пунктів Берестове, Липове і Ниркове, успіху не мав, відійшов на раніше зайняті рубежі":<br>https://www.facebook.com/GeneralStaff.ua/posts/325028756476876<br>element_type: blue_dot<br>lat: 48.7564434<br>lon: 38.2509732]]></description>
+        <description><![CDATA[description: 26.05 - російський наступ відбито - "На Бахмутському напрямку російські окупанти ведуть наступ у напрямках населених пунктів Комишуваха, Ниркове, Берестове та Білогорівка, успіху не мають, зазнали втрат та відійшли":<br>https://censor.net/ua/n3344079<br>-----<br>25.05 - російський наступ відбито - "Противник здійснив спроби наступальних та штурмових дій ... в районах населених пунктів Берестове, Липове і Ниркове, успіху не мав, відійшов на раніше зайняті рубежі":<br>https://www.facebook.com/GeneralStaff.ua/posts/325028756476876<br><br>element_type: blue_dot<br>lat: 48.7564434<br>lon: 38.2509732]]></description>
         <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[25.05 - російський наступ відбито - "Противник здійснив спроби наступальних та штурмових дій ... в районах населених пунктів Берестове, Липове і Ниркове, успіху не мав, відійшов на раніше зайняті рубежі":
-https://www.facebook.com/GeneralStaff.ua/posts/325028756476876]]></value>
+            <value><![CDATA[26.05 - російський наступ відбито - "На Бахмутському напрямку російські окупанти ведуть наступ у напрямках населених пунктів Комишуваха, Ниркове, Берестове та Білогорівка, успіху не мають, зазнали втрат та відійшли":
+https://censor.net/ua/n3344079
+-----
+25.05 - російський наступ відбито - "Противник здійснив спроби наступальних та штурмових дій ... в районах населених пунктів Берестове, Липове і Ниркове, успіху не мав, відійшов на раніше зайняті рубежі":
+https://www.facebook.com/GeneralStaff.ua/posts/325028756476876
+]]></value>
           </Data>
           <Data name="element_type">
             <value>blue_dot</value>
@@ -25992,6 +26026,32 @@ https://www.facebook.com/GeneralStaff.ua/posts/325370633109355
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Мідна Руда (окуповане 26.05)</name>
+        <description><![CDATA[description: 26.05, вечір - "У напрямках Покровського та Клинового ворог має частковий успіх, оволодів населеним пунктом Мідна Руда. Здійснює перегрупування":<br>https://censor.net/ua/n3344079"<br><br>element_type: red_dot<br>lat: 48.5534676<br>lon: 38.2060181]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[26.05, вечір - "У напрямках Покровського та Клинового ворог має частковий успіх, оволодів населеним пунктом Мідна Руда. Здійснює перегрупування":
+https://censor.net/ua/n3344079"
+]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>red_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>48.5534676</value>
+          </Data>
+          <Data name="lon">
+            <value>38.2060181</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.2060181,48.5534676,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>території, окуповані до 2022</name>
@@ -27003,7 +27063,7 @@ https://www.facebook.com/GeneralStaff.ua/posts/325370633109355
       </Placemark>
       <Placemark>
         <name>вул. Яблунська (БУЧА): на цих 50 метрах вулиці росіяни вбили 7 людей - до 23.03</name>
-        <description><![CDATA[Зйомка з дрона станом на ранок 23 березня показує вже мертві тіла. За два квартали західніше на тій же Яблунській (буд. №211) видно позицію окупантів, за 50 метрів від неї посеред вулиці (навпроти буд. №340) лежить восьмий убитий:<br>https://detector.media/infospace/article/198229/2022-04-08-meduza-opublikuvala-videodokaz-shcho-rosiyski-viyskovi-buly-v-buchi-odnochasno-z-tilamy-tsyvilnykh-na-vulytsyakh/<br>Дев'ятого українця росіяни розстріляли на початку березня під парканом будинку №342 по Яблунській (перехрестя з Вокзальною). Це вбивство потрапило на відео:<br>https://www.pravda.com.ua/news/2022/04/6/7337472/<br>Загалом на Яблунській в той час було вбито не менше 12 мирних мешканців.]]></description>
+        <description><![CDATA[Зйомка з дрона станом на ранок 23 березня показує вже мертві тіла. За два квартали західніше на тій же Яблунській (буд. №211) видно позицію окупантів, за 50 метрів від неї посеред вулиці (навпроти буд. №340) лежить восьмий убитий:<br>https://detector.media/infospace/article/198229/2022-04-08-meduza-opublikuvala-videodokaz-shcho-rosiyski-viyskovi-buly-v-buchi-odnochasno-z-tilamy-tsyvilnykh-na-vulytsyakh/<br>Дев'ятого українця росіяни розстріляли на початку березня під парканом будинку №342 по Яблунській (перехрестя з Вокзальною). Це вбивство потрапило на відео:<br>https://www.pravda.com.ua/news/2022/04/6/7337472/<br>Загалом на цьому відтинку Яблунської в той час було вбито не менше 12 мирних мешканців.]]></description>
         <styleUrl>#line-F57C00-19019</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -27051,6 +27111,18 @@ https://www.facebook.com/GeneralStaff.ua/posts/325370633109355
             38.2239984,48.9510049,0
             38.2261444,48.950089,0
             38.2291056,48.9497084,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>вул. Яблунська, 144 (БУЧА)</name>
+        <description><![CDATA[На цьому місці 4.03 російських окупанти розстріляли не менше ВОСЬМИ українців:<br>https://www.nytimes.com/2022/05/19/world/europe/russia-bucha-ukraine-executions.html]]></description>
+        <styleUrl>#line-F57C00-17663</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            30.2101463,50.5337271,0
+            30.2102053,50.5336674,0
           </coordinates>
         </LineString>
       </Placemark>
