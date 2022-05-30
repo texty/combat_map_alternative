@@ -4467,15 +4467,19 @@ https://texty.org.ua/fragments/106582/
       </Placemark>
       <Placemark>
         <name>Токареве</name>
-        <description><![CDATA[description: станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт російських окупантів:<br>https://texty.org.ua/fragments/106582/<br>element_type: red_dot<br>lat: 47.3003976<br>lon: 33.1734156]]></description>
-        <styleUrl>#icon-ci-1</styleUrl>
+        <description><![CDATA[description: 29.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/328041022842316<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт російських окупантів:<br>https://texty.org.ua/fragments/106582/<br><br>element_type: dark_red_dot<br>lat: 47.3003976<br>lon: 33.1734156]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт російських окупантів:
-https://texty.org.ua/fragments/106582/</value>
+            <value>29.05 - російські обстріли:
+https://www.facebook.com/GeneralStaff.ua/posts/328041022842316
+-----
+станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт російських окупантів:
+https://texty.org.ua/fragments/106582/
+</value>
           </Data>
           <Data name="element_type">
-            <value>red_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>47.3003976</value>
@@ -8927,18 +8931,22 @@ https://tsn.ua/ukrayina/okupanti-grabuyut-naselennya-mobilizuyut-cholovikiv-ta-v
       </Placemark>
       <Placemark>
         <name>Добрянка (звільнена 5.04)</name>
-        <description><![CDATA[description: 26.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>5.04 - СЕЛО ЗВІЛЬНЕНО:<br> https://censor.net/ua/news/3331755/<br>element_type: blue_dot<br>lat: 47.4599069<br>lon: 33.622415]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <description><![CDATA[description: 29.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/328041022842316<br>-----<br>26.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>5.04 - СЕЛО ЗВІЛЬНЕНО:<br> https://censor.net/ua/news/3331755/<br><br>element_type: dark_red_dot<br>lat: 47.4599069<br>lon: 33.622415]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>26.05 - російські обстріли:
+            <value>29.05 - російські обстріли:
+https://www.facebook.com/GeneralStaff.ua/posts/328041022842316
+-----
+26.05 - російські обстріли:
 https://www.facebook.com/GeneralStaff.ua/posts/325370633109355
 -----
 5.04 - СЕЛО ЗВІЛЬНЕНО:
- https://censor.net/ua/news/3331755/</value>
+ https://censor.net/ua/news/3331755/
+</value>
           </Data>
           <Data name="element_type">
-            <value>blue_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>47.4599069</value>
@@ -8954,7 +8962,7 @@ https://www.facebook.com/GeneralStaff.ua/posts/325370633109355
         </Point>
       </Placemark>
       <Placemark>
-        <name>Трудолюбівка</name>
+        <name>Трудолюбівка (звільнена 5.04)</name>
         <description><![CDATA[description: 29.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/327663802880038<br>-----<br>26.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>25.05 - російські обстріли":<br>https://www.facebook.com/GeneralStaff.ua/posts/325028756476876<br>-----<br>1.05 - "Основні зусилля окупанти зосередили на Криворізькому напрямку. Вели артилерійський вогонь по позиціях наших підрозділів у районах Таврійського, Осокорівки, Трудолюбівки та Князівки":<br>https://www.facebook.com/GeneralStaff.ua/posts/306878508291901<br>-----<br>21.04 - російський наступ - "противник ... намагався провести розвідку боєм у районі Трудолюбівки, зазнав втрат, відійшов на раніше зайняті позиції"<br>https://censor.net/ua/n3335955<br>-----<br>5.04 - село ЗВІЛЬНЕНЕ від окупантів:<br>https://censor.net/ua/news/3331755/operatyvna_informatsiya_stanom_na_600_6_kvitnya_schodo_rosiyiskogo_vtorgnennya_genshtab_zsu<br><br>element_type: dark_red_dot<br>lat: 47.4436558<br>lon: 33.7009501]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
@@ -12969,18 +12977,23 @@ https://censor.net/ua/photo_news/3330125/ukrayinski_viyiskovi_zvilnyly_pyat_sil_
         </Point>
       </Placemark>
       <Placemark>
-        <name>Мала Шестірня (звільнено 31.03)</name>
-        <description><![CDATA[description: https://www.facebook.com/okPivden/posts/2022535391251037<br>-----<br>станом на 19.03 було окуповане:<br>https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/<br>element_type: yellow_dot<br>lat: 47.552173<br>lon: 33.5506449]]></description>
-        <styleUrl>#icon-ci-3</styleUrl>
+        <name>Мала Шестірня (звільнена 31.03)</name>
+        <description><![CDATA[description: 29.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/328041022842316<br>-----<br>31.03 - СЕЛО ЗВІЛЬНЕНЕ:<br>https://www.facebook.com/okPivden/posts/2022535391251037<br>-----<br>станом на 19.03 було окуповане:<br>https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/<br><br>element_type: dark_red_dot<br>lat: 47.552173<br>lon: 33.5506449]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>https://www.facebook.com/okPivden/posts/2022535391251037
+            <value>29.05 - російські обстріли:
+https://www.facebook.com/GeneralStaff.ua/posts/328041022842316
+-----
+31.03 - СЕЛО ЗВІЛЬНЕНЕ:
+https://www.facebook.com/okPivden/posts/2022535391251037
 -----
 станом на 19.03 було окуповане:
-https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/</value>
+https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/
+</value>
           </Data>
           <Data name="element_type">
-            <value>yellow_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>47.552173</value>
@@ -13198,7 +13211,7 @@ https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/
       </Placemark>
       <Placemark>
         <name>Засілля (станом на 1.04 - звільнене)</name>
-        <description><![CDATA[description: станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем Збройних сил України:<br>https://texty.org.ua/fragments/106582/<br>-----<br>станом на 1.04 - ЗВІЛЬНЕНЕ:<br>https://www.radiosvoboda.org/a/mykolaivshyna-viyna/31779938.html<br>element_type: yellow_dot<br>lat: 47.0277099<br>lon: 32.4345512]]></description>
+        <description><![CDATA[description: станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем Збройних сил України:<br>https://texty.org.ua/fragments/106582/<br>-----<br>станом на 1.04 - ЗВІЛЬНЕНЕ:<br>https://www.radiosvoboda.org/a/mykolaivshyna-viyna/31779938.html<br>element_type: yellow_dot<br>lat: 47.0181726<br>lon: 32.4282857]]></description>
         <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
@@ -13212,15 +13225,15 @@ https://www.radiosvoboda.org/a/mykolaivshyna-viyna/31779938.html</value>
             <value>yellow_dot</value>
           </Data>
           <Data name="lat">
-            <value>47.0277099</value>
+            <value>47.0181726</value>
           </Data>
           <Data name="lon">
-            <value>32.4345512</value>
+            <value>32.4282857</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            32.4345512,47.0277099,0
+            32.4282857,47.0181726,0
           </coordinates>
         </Point>
       </Placemark>
@@ -18017,22 +18030,26 @@ https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/</value>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Князівка (1.05 - російські обстріли)</name>
-        <description><![CDATA[description: 1.05 - "Основні зусилля окупанти зосередили на Криворізькому напрямку. Вели артилерійський вогонь по позиціях наших підрозділів у районах Таврійського, Осокорівки, Трудолюбівки та Князівки":<br>https://www.facebook.com/GeneralStaff.ua/posts/306878508291901<br>-----<br>31.03 - село ЗВІЛЬНЕНЕ:<br>https://www.facebook.com/okPivden/posts/2022535391251037<br>-----<br>станом на 19.03 була окупована:<br>https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/<br>element_type: blue_dot<br>lat: 47.5226252<br>lon: 33.5218204]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <name>Князівка (звільнена 31.03)</name>
+        <description><![CDATA[description: 29.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/328041022842316<br>-----<br>1.05 - "Основні зусилля окупанти зосередили на Криворізькому напрямку. Вели артилерійський вогонь по позиціях наших підрозділів у районах Таврійського, Осокорівки, Трудолюбівки та Князівки":<br>https://www.facebook.com/GeneralStaff.ua/posts/306878508291901<br>-----<br>31.03 - село ЗВІЛЬНЕНЕ:<br>https://www.facebook.com/okPivden/posts/2022535391251037<br>-----<br>станом на 19.03 була окупована:<br>https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/<br><br>element_type: dark_red_dot<br>lat: 47.5226252<br>lon: 33.5218204]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[1.05 - "Основні зусилля окупанти зосередили на Криворізькому напрямку. Вели артилерійський вогонь по позиціях наших підрозділів у районах Таврійського, Осокорівки, Трудолюбівки та Князівки":
+            <value><![CDATA[29.05 - російські обстріли:
+https://www.facebook.com/GeneralStaff.ua/posts/328041022842316
+-----
+1.05 - "Основні зусилля окупанти зосередили на Криворізькому напрямку. Вели артилерійський вогонь по позиціях наших підрозділів у районах Таврійського, Осокорівки, Трудолюбівки та Князівки":
 https://www.facebook.com/GeneralStaff.ua/posts/306878508291901
 -----
 31.03 - село ЗВІЛЬНЕНЕ:
 https://www.facebook.com/okPivden/posts/2022535391251037
 -----
 станом на 19.03 була окупована:
-https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/]]></value>
+https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/
+]]></value>
           </Data>
           <Data name="element_type">
-            <value>blue_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>47.5226252</value>
@@ -18118,7 +18135,7 @@ https://censor.net/ua/news/3335271/
       </Placemark>
       <Placemark>
         <name>Любине (5.04 - обстріли)</name>
-        <description><![CDATA[description: 5 квітня: "...в районі населених пунктів Любине, Мирне, Копані Миколаївської області окупанти обстрілювали з артилерії позиції ЗСУ"<br>https://www.pravda.com.ua/news/2022/04/5/7337229/<br>element_type: blue_dot<br>lat: 47.080046<br>lon: 32.6824654]]></description>
+        <description><![CDATA[description: 5 квітня: "...в районі населених пунктів Любине, Мирне, Копані Миколаївської області окупанти обстрілювали з артилерії позиції ЗСУ"<br>https://www.pravda.com.ua/news/2022/04/5/7337229/<br>element_type: blue_dot<br>lat: 47.0791693<br>lon: 32.6757706]]></description>
         <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
@@ -18129,15 +18146,15 @@ https://www.pravda.com.ua/news/2022/04/5/7337229/]]></value>
             <value>blue_dot</value>
           </Data>
           <Data name="lat">
-            <value>47.080046</value>
+            <value>47.0791693</value>
           </Data>
           <Data name="lon">
-            <value>32.6824654</value>
+            <value>32.6757706</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            32.6824654,47.080046,0
+            32.6757706,47.0791693,0
           </coordinates>
         </Point>
       </Placemark>
@@ -18257,7 +18274,7 @@ https://censor.net/ua/video_news/3332025/okupanty_obstrilyuyut_sela_lymany_ta_lu
       </Placemark>
       <Placemark>
         <name>Осокорівка (звільнена 6.04)</name>
-        <description><![CDATA[description: 26.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>18.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/319806796999072<br>-----<br>13.05 - російські обстріли - "На Південнобузькому напрямку ... обстрілювали підрозділи наших військ зі ствольної артилерії та мінометів у районах населених пунктів ... Ганнівка і Осокорівка":<br>https://www.facebook.com/100069092624537/posts/315837394062679/<br>-----<br>3.05 - російські обстріли:<br>https://www.ukrinform.ua/rubric-regions/3473835-na-hersonsini-vijskovi-rf-nisat-obstrilami-selo-osokorivka.html<br>-----<br>1.05 - "Основні зусилля окупанти зосередили на Криворізькому напрямку. Вели артилерійський вогонь по позиціях наших підрозділів у районах Таврійського, Осокорівки, Трудолюбівки та Князівки":<br>https://www.facebook.com/GeneralStaff.ua/posts/306878508291901<br>-----<br>6.04 - СЕЛО ЗВІЛЬНЕНО:<br>https://suspilne.media/225971-zsu-zvilnili-se-odne-hersonske-selo-nepodalik-vid-dnipropetrovsini-golova-oblradi/<br><br>element_type: blue_dot<br>lat: 47.4304976<br>lon: 33.8713027]]></description>
+        <description><![CDATA[description: 26.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>18.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/319806796999072<br>-----<br>13.05 - російські обстріли - "На Південнобузькому напрямку ... обстрілювали підрозділи наших військ зі ствольної артилерії та мінометів у районах населених пунктів ... Ганнівка і Осокорівка":<br>https://www.facebook.com/100069092624537/posts/315837394062679/<br>-----<br>3.05 - російські обстріли:<br>https://www.ukrinform.ua/rubric-regions/3473835-na-hersonsini-vijskovi-rf-nisat-obstrilami-selo-osokorivka.html<br>-----<br>1.05 - "Основні зусилля окупанти зосередили на Криворізькому напрямку. Вели артилерійський вогонь по позиціях наших підрозділів у районах Таврійського, Осокорівки, Трудолюбівки та Князівки":<br>https://www.facebook.com/GeneralStaff.ua/posts/306878508291901<br>-----<br>6.04 - СЕЛО ЗВІЛЬНЕНО:<br>https://suspilne.media/225971-zsu-zvilnili-se-odne-hersonske-selo-nepodalik-vid-dnipropetrovsini-golova-oblradi/<br><br>element_type: blue_dot<br>lat: 47.4330523<br>lon: 33.8816024]]></description>
         <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
@@ -18284,15 +18301,15 @@ https://suspilne.media/225971-zsu-zvilnili-se-odne-hersonske-selo-nepodalik-vid-
             <value>blue_dot</value>
           </Data>
           <Data name="lat">
-            <value>47.4304976</value>
+            <value>47.4330523</value>
           </Data>
           <Data name="lon">
-            <value>33.8713027</value>
+            <value>33.8816024</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            33.8713027,47.4304976,0
+            33.8816024,47.4330523,0
           </coordinates>
         </Point>
       </Placemark>
@@ -23487,16 +23504,20 @@ https://censor.net/ua/news/3340073/]]></value>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Котляреве (13.05 - російські обстріли)</name>
-        <description><![CDATA[description: 13.05 - російські обстріли - "На Південнобузькому напрямку ... обстрілювали підрозділи наших військ зі ствольної артилерії та мінометів у районах населених пунктів Олександрівка, Таврійське, Котляреве, Ганнівка і Осокорівка":<br>https://www.facebook.com/100069092624537/posts/315837394062679/<br>element_type: grey_dot<br>lat: 46.8814931<br>lon: 32.2316479]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <name>Котляреве</name>
+        <description><![CDATA[description: 29.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/328041022842316<br>-----<br>13.05 - російські обстріли - "На Південнобузькому напрямку ... обстрілювали підрозділи наших військ зі ствольної артилерії та мінометів у районах населених пунктів Олександрівка, Таврійське, Котляреве, Ганнівка і Осокорівка":<br>https://www.facebook.com/100069092624537/posts/315837394062679/<br><br>element_type: dark_red_dot<br>lat: 46.8814931<br>lon: 32.2316479]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[13.05 - російські обстріли - "На Південнобузькому напрямку ... обстрілювали підрозділи наших військ зі ствольної артилерії та мінометів у районах населених пунктів Олександрівка, Таврійське, Котляреве, Ганнівка і Осокорівка":
-https://www.facebook.com/100069092624537/posts/315837394062679/]]></value>
+            <value><![CDATA[29.05 - російські обстріли:
+https://www.facebook.com/GeneralStaff.ua/posts/328041022842316
+-----
+13.05 - російські обстріли - "На Південнобузькому напрямку ... обстрілювали підрозділи наших військ зі ствольної артилерії та мінометів у районах населених пунктів Олександрівка, Таврійське, Котляреве, Ганнівка і Осокорівка":
+https://www.facebook.com/100069092624537/posts/315837394062679/
+]]></value>
           </Data>
           <Data name="element_type">
-            <value>grey_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>46.8814931</value>
@@ -27070,6 +27091,58 @@ https://www.facebook.com/GeneralStaff.ua/posts/328041022842316
         <Point>
           <coordinates>
             34.1559985,51.252496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Широке</name>
+        <description><![CDATA[description: 29.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/328041022842316<br><br>element_type: dark_red_dot<br>lat: 47.0996812<br>lon: 32.6806476]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>29.05 - російські обстріли:
+https://www.facebook.com/GeneralStaff.ua/posts/328041022842316
+</value>
+          </Data>
+          <Data name="element_type">
+            <value>dark_red_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>47.0996812</value>
+          </Data>
+          <Data name="lon">
+            <value>32.6806476</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            32.6806476,47.0996812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Первомайське</name>
+        <description><![CDATA[description: 29.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/328041022842316<br><br>element_type: dark_red_dot<br>lat: 47.0484823<br>lon: 32.4272437]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>29.05 - російські обстріли:
+https://www.facebook.com/GeneralStaff.ua/posts/328041022842316
+</value>
+          </Data>
+          <Data name="element_type">
+            <value>dark_red_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>47.0484823</value>
+          </Data>
+          <Data name="lon">
+            <value>32.4272437</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            32.4272437,47.0484823,0
           </coordinates>
         </Point>
       </Placemark>
