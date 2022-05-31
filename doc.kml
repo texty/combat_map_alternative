@@ -9011,18 +9011,22 @@ https://censor.net/ua/news/3331755/operatyvna_informatsiya_stanom_na_600_6_kvitn
       </Placemark>
       <Placemark>
         <name>Миколаївка</name>
-        <description><![CDATA[description: 26.05 - російський штурм - "На Криворізькому напрямку російські окупанти безуспішно намагалися вести штурмові дії в районі населеного пункту Миколаївка":<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://texty.org.ua/fragments/106582/<br>-----<br>24.04, Генштаб - "...намагання заволодіти Миколаївкою також виявилися не вдалими":<br>https://www.facebook.com/PvKPivden/posts/7225498880858844<br>element_type: blue_dot<br>lat: 47.4940767<br>lon: 33.3972031]]></description>
+        <description><![CDATA[description: 30.05 - російський відступ - "В ході вдалого наступу підрозділів Сил оборони ворог зазнав втрат та відійшов з населеного пункту Миколаївка Херсонської області...":<br>https://www.facebook.com/GeneralStaff.ua/posts/328769439436141<br>-----<br>26.05 - російський штурм - "На Криворізькому напрямку російські окупанти безуспішно намагалися вести штурмові дії в районі населеного пункту Миколаївка":<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://texty.org.ua/fragments/106582/<br>-----<br>24.04, Генштаб - "...намагання заволодіти Миколаївкою також виявилися не вдалими":<br>https://www.facebook.com/PvKPivden/posts/7225498880858844<br><br>element_type: blue_dot<br>lat: 47.4940767<br>lon: 33.3972031]]></description>
         <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[26.05 - російський штурм - "На Криворізькому напрямку російські окупанти безуспішно намагалися вести штурмові дії в районі населеного пункту Миколаївка":
+            <value><![CDATA[30.05 - російський відступ - "В ході вдалого наступу підрозділів Сил оборони ворог зазнав втрат та відійшов з населеного пункту Миколаївка Херсонської області...":
+https://www.facebook.com/GeneralStaff.ua/posts/328769439436141
+-----
+26.05 - російський штурм - "На Криворізькому напрямку російські окупанти безуспішно намагалися вести штурмові дії в районі населеного пункту Миколаївка":
 https://www.facebook.com/GeneralStaff.ua/posts/325370633109355
 -----
 станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:
 https://texty.org.ua/fragments/106582/
 -----
 24.04, Генштаб - "...намагання заволодіти Миколаївкою також виявилися не вдалими":
-https://www.facebook.com/PvKPivden/posts/7225498880858844]]></value>
+https://www.facebook.com/PvKPivden/posts/7225498880858844
+]]></value>
           </Data>
           <Data name="element_type">
             <value>blue_dot</value>
@@ -27138,12 +27142,15 @@ https://www.facebook.com/GeneralStaff.ua/posts/328041022842316
       </Placemark>
       <Placemark>
         <name>Первомайське</name>
-        <description><![CDATA[description: 29.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/328041022842316<br><br>element_type: dark_red_dot<br>lat: 47.0484823<br>lon: 32.4272437]]></description>
+        <description><![CDATA[description: 29.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/328041022842316<br>-----<br>В березні селище було під окупацією, голова селради і один із депутатів затримані за підозрою у співпраці з окупантами:<br>https://censor.net/ua/photo_news/3344859/na_mykolayivschyni_zatrymani_selyschnyyi_golova_ta_deputat_selyschnoyi_rady_yaki_spivpratsyuvaly_z_okupantamy<br><br>element_type: dark_red_dot<br>lat: 47.0484823<br>lon: 32.4272437]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value>29.05 - російські обстріли:
 https://www.facebook.com/GeneralStaff.ua/posts/328041022842316
+-----
+В березні селище було під окупацією, голова селради і один із депутатів затримані за підозрою у співпраці з окупантами:
+https://censor.net/ua/photo_news/3344859/na_mykolayivschyni_zatrymani_selyschnyyi_golova_ta_deputat_selyschnoyi_rady_yaki_spivpratsyuvaly_z_okupantamy
 </value>
           </Data>
           <Data name="element_type">
@@ -27185,6 +27192,32 @@ https://www.facebook.com/GeneralStaff.ua/posts/328041022842316
         <Point>
           <coordinates>
             33.156189,47.2388098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Білозірка</name>
+        <description><![CDATA[description: село було під окупацією в березні 2022 року:<br>https://censor.net/ua/photo_news/3344859/na_mykolayivschyni_zatrymani_selyschnyyi_golova_ta_deputat_selyschnoyi_rady_yaki_spivpratsyuvaly_z_okupantamy<br><br>element_type: yellow_dot<br>lat: 47.0948757<br>lon: 32.4551156]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>село було під окупацією в березні 2022 року:
+https://censor.net/ua/photo_news/3344859/na_mykolayivschyni_zatrymani_selyschnyyi_golova_ta_deputat_selyschnoyi_rady_yaki_spivpratsyuvaly_z_okupantamy
+</value>
+          </Data>
+          <Data name="element_type">
+            <value>yellow_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>47.0948757</value>
+          </Data>
+          <Data name="lon">
+            <value>32.4551156</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            32.4551156,47.0948757,0
           </coordinates>
         </Point>
       </Placemark>
