@@ -9582,8 +9582,8 @@ https://texty.org.ua/fragments/106639/yak-zminyuyetsya-liniya-frontu-karti/</val
       </Placemark>
       <Placemark>
         <name>Пасіка (24-28.05 - бойові дії)</name>
-        <description><![CDATA[description: 28.05 - російський наступ - "За підтримки артилерії намагався розвинути наступальні дії в районі населеного пункту Пасіка, успіху не мав, відійшов":<br>https://www.facebook.com/GeneralStaff.ua/posts/326823172964101<br>-----<br>25.05 - російський наступ - "За підтримки артилерії та армійської авіації ворог безуспішно спробував взяти під контроль населений пункт Пасіка":<br>https://www.facebook.com/GeneralStaff.ua/posts/324613886518363<br>-----<br>24.05 - бойові дії - "...противник провів розвідку боєм в районі населеного пункту Пасіка, зазнав втрат і відійшов":<br>https://www.facebook.com/GeneralStaff.ua/posts/324283196551432<br><br>element_type: blue_dot<br>lat: 49.070268<br>lon: 37.467828]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <description><![CDATA[description: 28.05 - російський наступ - "За підтримки артилерії намагався розвинути наступальні дії в районі населеного пункту Пасіка, успіху не мав, відійшов":<br>https://www.facebook.com/GeneralStaff.ua/posts/326823172964101<br>-----<br>25.05 - російський наступ - "За підтримки артилерії та армійської авіації ворог безуспішно спробував взяти під контроль населений пункт Пасіка":<br>https://www.facebook.com/GeneralStaff.ua/posts/324613886518363<br>-----<br>24.05 - бойові дії - "...противник провів розвідку боєм в районі населеного пункту Пасіка, зазнав втрат і відійшов":<br>https://www.facebook.com/GeneralStaff.ua/posts/324283196551432<br><br>element_type: grey_dot<br>lat: 49.070268<br>lon: 37.467828]]></description>
+        <styleUrl>#icon-ci-5</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value><![CDATA[28.05 - російський наступ - "За підтримки артилерії намагався розвинути наступальні дії в районі населеного пункту Пасіка, успіху не мав, відійшов":
@@ -9597,7 +9597,7 @@ https://www.facebook.com/GeneralStaff.ua/posts/324283196551432
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>blue_dot</value>
+            <value>grey_dot</value>
           </Data>
           <Data name="lat">
             <value>49.070268</value>
@@ -17645,8 +17645,8 @@ https://www.facebook.com/GeneralStaff.ua/posts/319806796999072
       </Placemark>
       <Placemark>
         <name><![CDATA[Соснове (вузлова залізнична станція "СВЯТОГІРСЬК")]]></name>
-        <description><![CDATA[description: 2.06 - російський штурм, російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>-----<br>13.05, Нацполіція - російські обстріли: https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://texty.org.ua/fragments/106582/<br>-----<br>Тут знаходиться вузлова залізнична станція "Святогірськ" (напрямки з Лиману на Зміїв-Харків та Куп'янськ-РФ)<br><br>element_type: blue_dot<br>lat: 49.0725804<br>lon: 37.5557517]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <description><![CDATA[description: 2.06 - російський штурм, російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>-----<br>13.05, Нацполіція - російські обстріли: https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://texty.org.ua/fragments/106582/<br>-----<br>Тут знаходиться вузлова залізнична станція "Святогірськ" (напрямки з Лиману на Зміїв-Харків та Куп'янськ-РФ)<br><br>element_type: dark_red_dot<br>lat: 49.0725804<br>lon: 37.5557517]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value><![CDATA[2.06 - російський штурм, російські обстріли:
@@ -17661,7 +17661,7 @@ https://texty.org.ua/fragments/106582/
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>blue_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>49.0725804</value>
@@ -28995,6 +28995,56 @@ https://texty.org.ua/fragments/106813/
         <Point>
           <coordinates>
             35.6198096,50.4145431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5.06 - російський ракетний удар по цехам ДВРЗ (Київ) із ремонту вагонів-зерновозів</name>
+        <description><![CDATA[description: https://nv.ua/ukr/ukraine/events/naslidki-raketnogo-udaru-po-dvrz-foto-novini-kiyeva-50247738.html<br>element_type: red_fire<br>lat: 50.4484543<br>lon: 30.6851673]]></description>
+        <styleUrl>#icon-ci-7</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>https://nv.ua/ukr/ukraine/events/naslidki-raketnogo-udaru-po-dvrz-foto-novini-kiyeva-50247738.html</value>
+          </Data>
+          <Data name="element_type">
+            <value>red_fire</value>
+          </Data>
+          <Data name="lat">
+            <value>50.4484543</value>
+          </Data>
+          <Data name="lon">
+            <value>30.6851673</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.6851673,50.4484543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>27.02 - бій з російським спецназом у СШ №134 (ХАРКІВ)</name>
+        <description><![CDATA[description: Напевно, найближча до центру міста точка, куди вдалося дістатися ворожим колонам. В результаті багатогодинного бою знищено загін спецназу 2-ї бригади спецназу армії окупантів, будівля школи згоріла:<br>https://censor.net/ru/news/3322835/<br><br>element_type: yellow_dot<br>lat: 50.0104984<br>lon: 36.2859341]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Напевно, найближча до центру міста точка, куди вдалося дістатися ворожим колонам. В результаті багатогодинного бою знищено загін спецназу 2-ї бригади спецназу армії окупантів, будівля школи згоріла:
+https://censor.net/ru/news/3322835/
+</value>
+          </Data>
+          <Data name="element_type">
+            <value>yellow_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>50.0104984</value>
+          </Data>
+          <Data name="lon">
+            <value>36.2859341</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.2859341,50.0104984,0
           </coordinates>
         </Point>
       </Placemark>
