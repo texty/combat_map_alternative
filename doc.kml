@@ -5836,26 +5836,30 @@ https://texty.org.ua/fragments/106582/zsu-uvijshly-do-staroho-saltova-armiya-rf-
       </Placemark>
       <Placemark>
         <name>Бугаївка</name>
-        <description><![CDATA[description: станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем російських окупантів:<br>https://texty.org.ua/fragments/106582/zsu-uvijshly-do-staroho-saltova-armiya-rf-perebuvaye-na-pidstupah-do-lymana-karty-potochnoyi-voyennoyi-sytuaciyi/<br>element_type: red_dot<br>lat: 50.149224<br>lon: 36.851796]]></description>
+        <description><![CDATA[description: станом на 7.06 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт російських окупантів:<br>https://twitter.com/Nrg8000/status/1534199398443667456<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем російських окупантів:<br>https://texty.org.ua/fragments/106582/zsu-uvijshly-do-staroho-saltova-armiya-rf-perebuvaye-na-pidstupah-do-lymana-karty-potochnoyi-voyennoyi-sytuaciyi/<br><br>element_type: red_dot<br>lat: 50.1452089<br>lon: 36.8638982]]></description>
         <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем російських окупантів:
-https://texty.org.ua/fragments/106582/zsu-uvijshly-do-staroho-saltova-armiya-rf-perebuvaye-na-pidstupah-do-lymana-karty-potochnoyi-voyennoyi-sytuaciyi/</value>
+            <value>станом на 7.06 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт російських окупантів:
+https://twitter.com/Nrg8000/status/1534199398443667456
+-----
+станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем російських окупантів:
+https://texty.org.ua/fragments/106582/zsu-uvijshly-do-staroho-saltova-armiya-rf-perebuvaye-na-pidstupah-do-lymana-karty-potochnoyi-voyennoyi-sytuaciyi/
+</value>
           </Data>
           <Data name="element_type">
             <value>red_dot</value>
           </Data>
           <Data name="lat">
-            <value>50.149224</value>
+            <value>50.1452089</value>
           </Data>
           <Data name="lon">
-            <value>36.851796</value>
+            <value>36.8638982</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            36.851796,50.149224,0
+            36.8638982,50.1452089,0
           </coordinates>
         </Point>
       </Placemark>
@@ -5968,52 +5972,60 @@ https://texty.org.ua/fragments/106582/zsu-uvijshly-do-staroho-saltova-armiya-rf-
         </Point>
       </Placemark>
       <Placemark>
-        <name>Зарічне</name>
-        <description><![CDATA[description: станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем російських окупантів:<br>https://texty.org.ua/fragments/106582/zsu-uvijshly-do-staroho-saltova-armiya-rf-perebuvaye-na-pidstupah-do-lymana-karty-potochnoyi-voyennoyi-sytuaciyi/<br>element_type: red_dot<br>lat: 50.1003475<br>lon: 36.8273067]]></description>
-        <styleUrl>#icon-ci-1</styleUrl>
+        <name>Зарічне (захоплений наприкінці травня плацдарм ЗСУ на лівому березі Печенізького водосховища)</name>
+        <description><![CDATA[description: 27-29.05, Том Купер - село звільнене "... українцям також вдалося тримати плацдарм на східному березі [Печенізького водосховища] Сіверського Донця: схоже, він простягається від Металівки на півночі до Хотімлі на півдні":<br>https://texty.org.ua/fragments/106808<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем російських окупантів:<br>https://texty.org.ua/fragments/106582/zsu-uvijshly-do-staroho-saltova-armiya-rf-perebuvaye-na-pidstupah-do-lymana-karty-potochnoyi-voyennoyi-sytuaciyi/<br><br>element_type: blue_dot<br>lat: 50.098916<br>lon: 36.8603085]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем російських окупантів:
-https://texty.org.ua/fragments/106582/zsu-uvijshly-do-staroho-saltova-armiya-rf-perebuvaye-na-pidstupah-do-lymana-karty-potochnoyi-voyennoyi-sytuaciyi/</value>
+            <value><![CDATA[27-29.05, Том Купер - село звільнене "... українцям також вдалося тримати плацдарм на східному березі [Печенізького водосховища] Сіверського Донця: схоже, він простягається від Металівки на півночі до Хотімлі на півдні":
+https://texty.org.ua/fragments/106808
+-----
+станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем російських окупантів:
+https://texty.org.ua/fragments/106582/zsu-uvijshly-do-staroho-saltova-armiya-rf-perebuvaye-na-pidstupah-do-lymana-karty-potochnoyi-voyennoyi-sytuaciyi/
+]]></value>
           </Data>
           <Data name="element_type">
-            <value>red_dot</value>
+            <value>blue_dot</value>
           </Data>
           <Data name="lat">
-            <value>50.1003475</value>
+            <value>50.098916</value>
           </Data>
           <Data name="lon">
-            <value>36.8273067</value>
+            <value>36.8603085</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            36.8273067,50.1003475,0
+            36.8603085,50.098916,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>Хотімля</name>
-        <description><![CDATA[description: станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем російських окупантів:<br>https://texty.org.ua/fragments/106582/zsu-uvijshly-do-staroho-saltova-armiya-rf-perebuvaye-na-pidstupah-do-lymana-karty-potochnoyi-voyennoyi-sytuaciyi/<br>element_type: red_dot<br>lat: 50.0265985<br>lon: 36.8662875]]></description>
-        <styleUrl>#icon-ci-1</styleUrl>
+        <description><![CDATA[description: 27-29.05, Том Купер - "... українцям також вдалося тримати плацдарм на східному березі [Печенізького водосховища] Сіверського Донця: схоже, він простягається від Металівки на півночі до Хотімлі на півдні":<br>https://texty.org.ua/fragments/106808<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем російських окупантів:<br>https://texty.org.ua/fragments/106582/zsu-uvijshly-do-staroho-saltova-armiya-rf-perebuvaye-na-pidstupah-do-lymana-karty-potochnoyi-voyennoyi-sytuaciyi/<br><br>element_type: blue_dot<br>lat: 50.0273705<br>lon: 36.8795054]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем російських окупантів:
-https://texty.org.ua/fragments/106582/zsu-uvijshly-do-staroho-saltova-armiya-rf-perebuvaye-na-pidstupah-do-lymana-karty-potochnoyi-voyennoyi-sytuaciyi/</value>
+            <value><![CDATA[27-29.05, Том Купер - "... українцям також вдалося тримати плацдарм на східному березі [Печенізького водосховища] Сіверського Донця: схоже, він простягається від Металівки на півночі до Хотімлі на півдні":
+https://texty.org.ua/fragments/106808
+-----
+станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем російських окупантів:
+https://texty.org.ua/fragments/106582/zsu-uvijshly-do-staroho-saltova-armiya-rf-perebuvaye-na-pidstupah-do-lymana-karty-potochnoyi-voyennoyi-sytuaciyi/
+]]></value>
           </Data>
           <Data name="element_type">
-            <value>red_dot</value>
+            <value>blue_dot</value>
           </Data>
           <Data name="lat">
-            <value>50.0265985</value>
+            <value>50.0273705</value>
           </Data>
           <Data name="lon">
-            <value>36.8662875</value>
+            <value>36.8795054</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            36.8662875,50.0265985,0
+            36.8795054,50.0273705,0
           </coordinates>
         </Point>
       </Placemark>
@@ -9541,8 +9553,8 @@ https://censor.net/ua/n3336386
         </Point>
       </Placemark>
       <Placemark>
-        <name>Рубіжне (звільнене 10.05)</name>
-        <description><![CDATA[description: 25.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/324613886518363<br>-----<br>10.05, Генштаб - "...на Харківщині звільнено населені пункти Черкаські Тишки, Руські Тишки, Рубіжне та Байрак":<br>https://www.facebook.com/GeneralStaff.ua/posts/314011584245260<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем російських окупантів:<br>https://texty.org.ua/fragments/106582/zsu-uvijshly-do-staroho-saltova-armiya-rf-perebuvaye-na-pidstupah-do-lymana-karty-potochnoyi-voyennoyi-sytuaciyi/<br>element_type: blue_dot<br>lat: 50.1648052<br>lon: 36.8126486]]></description>
+        <name>Рубіжне (звільнене 10 травня)</name>
+        <description><![CDATA[description: 25.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/324613886518363<br>-----<br>10.05, Генштаб - "...на Харківщині звільнено населені пункти Черкаські Тишки, Руські Тишки, Рубіжне та Байрак":<br>https://www.facebook.com/GeneralStaff.ua/posts/314011584245260<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем російських окупантів:<br>https://texty.org.ua/fragments/106582/zsu-uvijshly-do-staroho-saltova-armiya-rf-perebuvaye-na-pidstupah-do-lymana-karty-potochnoyi-voyennoyi-sytuaciyi/<br>element_type: blue_dot<br>lat: 50.1670044<br>lon: 36.8183134]]></description>
         <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
@@ -9559,15 +9571,15 @@ https://texty.org.ua/fragments/106582/zsu-uvijshly-do-staroho-saltova-armiya-rf-
             <value>blue_dot</value>
           </Data>
           <Data name="lat">
-            <value>50.1648052</value>
+            <value>50.1670044</value>
           </Data>
           <Data name="lon">
-            <value>36.8126486</value>
+            <value>36.8183134</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            36.8126486,50.1648052,0
+            36.8183134,50.1670044,0
           </coordinates>
         </Point>
       </Placemark>
@@ -15326,8 +15338,8 @@ https://texty.org.ua/fragments/106582/zsu-uvijshly-do-staroho-saltova-armiya-rf-
       </Placemark>
       <Placemark>
         <name>Верхній Салтів (4-5 травня росіяни розстріляли тут цивільну автоколону)</name>
-        <description><![CDATA[description: 2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330568765922875<br>-----<br>станом на 10.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, СЕЛО ЗВІЛЬНЕНЕ, під контролем Збройних сил України:<br>https://texty.org.ua/fragments/106648/<br>-----<br>6.05 - "...на узбіччі автошляху між населеними пунктами смт Старий Салтів та с. Верхній Салтів знайдено шість пошкоджених автівок та чотири згорілих трупа":<br>https://www.facebook.com/prokuraturakharkiv/posts/358149783013078<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем російських окупантів:<br>https://texty.org.ua/fragments/106582/<br><br>element_type: dark_red_dot<br>lat: 50.1298063<br>lon: 36.7986169]]></description>
-        <styleUrl>#icon-ci-3</styleUrl>
+        <description><![CDATA[description: 2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330568765922875<br>-----<br>станом на 10.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, СЕЛО ЗВІЛЬНЕНЕ, під контролем Збройних сил України:<br>https://texty.org.ua/fragments/106648/<br>-----<br>6.05 - "...на узбіччі автошляху між населеними пунктами смт Старий Салтів та с. Верхній Салтів знайдено шість пошкоджених автівок та чотири згорілих трупа":<br>https://www.facebook.com/prokuraturakharkiv/posts/358149783013078<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем російських окупантів:<br>https://texty.org.ua/fragments/106582/<br><br>element_type: blue_dot<br>lat: 50.1298063<br>lon: 36.7986169]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value><![CDATA[2.06 - російські обстріли:
@@ -15344,7 +15356,7 @@ https://texty.org.ua/fragments/106582/
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>dark_red_dot</value>
+            <value>blue_dot</value>
           </Data>
           <Data name="lat">
             <value>50.1298063</value>
@@ -16030,9 +16042,9 @@ https://www.facebook.com/GeneralStaff.ua/posts/315147577464994]]></value>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Петрівка</name>
-        <description><![CDATA[description: 29.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/327663802880038<br>-----<br>28.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/326823172964101<br>===<br>15.05 - російські обстріли:<br>https://censor.net/ua/news/3341501/<br>-----<br>13.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/316199807359771<br>-----<br>станом на 10.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://texty.org.ua/fragments/106648/kontrnastup-na-harkivshyni-po-harkovu-nareshti-ne-letyat-snaryady-zsu-vytisnyayut-rosiyan-karta/<br><br>element_type: blue_dot<br>lat: 50.1152881<br>lon: 36.5253872]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <name>Петрівка (звільнена на початку травня)</name>
+        <description><![CDATA[description: 29.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/327663802880038<br>-----<br>28.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/326823172964101<br>===<br>15.05 - російські обстріли:<br>https://censor.net/ua/news/3341501/<br>-----<br>13.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/316199807359771<br>-----<br>станом на 10.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://texty.org.ua/fragments/106648/kontrnastup-na-harkivshyni-po-harkovu-nareshti-ne-letyat-snaryady-zsu-vytisnyayut-rosiyan-karta/<br><br>element_type: yellow_dot<br>lat: 50.1152881<br>lon: 36.5253872]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value>29.05 - російські обстріли:
@@ -16052,7 +16064,7 @@ https://texty.org.ua/fragments/106648/kontrnastup-na-harkivshyni-po-harkovu-nare
 </value>
           </Data>
           <Data name="element_type">
-            <value>blue_dot</value>
+            <value>yellow_dot</value>
           </Data>
           <Data name="lat">
             <value>50.1152881</value>
@@ -20811,8 +20823,8 @@ https://www.facebook.com/GeneralStaff.ua/posts/306191908360561]]></value>
       </Placemark>
       <Placemark>
         <name>ПЕЧЕНІГИ (звільнені наприкінці квітня)</name>
-        <description><![CDATA[description: 3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем ЗСУ:<br>https://texty.org.ua/fragments/106582/zsu-uvijshly-do-staroho-saltova-armiya-rf-perebuvaye-na-pidstupah-do-lymana-karty-potochnoyi-voyennoyi-sytuaciyi/<br>-----<br>21.04, Харківська ОВА про підконтрольність селища: "...Печеніги – там 50 на 50, російської присутності немає, але блокпости стоять і їхня техніка проїжджає". <br>https://www.pravda.com.ua/articles/2022/04/21/7341146/<br><br>element_type: dark_red_dot<br>lat: 49.8810408<br>lon: 36.9465447]]></description>
-        <styleUrl>#icon-ci-3</styleUrl>
+        <description><![CDATA[description: 3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем ЗСУ:<br>https://texty.org.ua/fragments/106582/zsu-uvijshly-do-staroho-saltova-armiya-rf-perebuvaye-na-pidstupah-do-lymana-karty-potochnoyi-voyennoyi-sytuaciyi/<br>-----<br>21.04, Харківська ОВА про підконтрольність селища: "...Печеніги – там 50 на 50, російської присутності немає, але блокпости стоять і їхня техніка проїжджає". <br>https://www.pravda.com.ua/articles/2022/04/21/7341146/<br><br>element_type: blue_dot<br>lat: 49.8810408<br>lon: 36.9465447]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value><![CDATA[3.06 - російські обстріли:
@@ -20826,7 +20838,7 @@ https://www.pravda.com.ua/articles/2022/04/21/7341146/
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>dark_red_dot</value>
+            <value>blue_dot</value>
           </Data>
           <Data name="lat">
             <value>49.8810408</value>
@@ -21357,15 +21369,15 @@ https://dpsu.gov.ua/ua/news/%20VIDEO%20-Rosiyskiy-vertolit-obstrilyav-ukrainsku-
       </Placemark>
       <Placemark>
         <name>Байрак (звільнений 10.05)</name>
-        <description><![CDATA[description: 10.05, Генштаб - "...на Харківщині звільнено населені пункти Черкаські Тишки, Руські Тишки, Рубіжне та Байрак":<br>https://www.facebook.com/GeneralStaff.ua/posts/314011584245260<br>element_type: blue_dot<br>lat: 50.1521342<br>lon: 36.7275583]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <description><![CDATA[description: 10.05, Генштаб - "...на Харківщині звільнено населені пункти Черкаські Тишки, Руські Тишки, Рубіжне та Байрак":<br>https://www.facebook.com/GeneralStaff.ua/posts/314011584245260<br>element_type: yellow_dot<br>lat: 50.1521342<br>lon: 36.7275583]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value><![CDATA[10.05, Генштаб - "...на Харківщині звільнено населені пункти Черкаські Тишки, Руські Тишки, Рубіжне та Байрак":
 https://www.facebook.com/GeneralStaff.ua/posts/314011584245260]]></value>
           </Data>
           <Data name="element_type">
-            <value>blue_dot</value>
+            <value>yellow_dot</value>
           </Data>
           <Data name="lat">
             <value>50.1521342</value>
@@ -29392,6 +29404,218 @@ https://twitter.com/Nrg8000/status/1534199398443667456
         <Point>
           <coordinates>
             36.4238258,50.1647393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Знищений на початку березня міст на дамбі через Печенізьке водосховище (Сіверський Донець)</name>
+        <description><![CDATA[description: 5.03, Андрій Цаплієнко - міст підірваний ЗСУ, щоб зупинити просування окупантів:<br>https://kh.vgorode.ua/news/sobytyia/a1200016-na-starom-saltove-v-kharkovskoj-oblasti-vzorvali-dambu<br><br>element_type: blue_bridge<br>lat: 50.077126<br>lon: 36.8116974]]></description>
+        <styleUrl>#icon-ci-6</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>5.03, Андрій Цаплієнко - міст підірваний ЗСУ, щоб зупинити просування окупантів:
+https://kh.vgorode.ua/news/sobytyia/a1200016-na-starom-saltove-v-kharkovskoj-oblasti-vzorvali-dambu
+</value>
+          </Data>
+          <Data name="element_type">
+            <value>blue_bridge</value>
+          </Data>
+          <Data name="lat">
+            <value>50.077126</value>
+          </Data>
+          <Data name="lon">
+            <value>36.8116974</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.8116974,50.077126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Металівка</name>
+        <description><![CDATA[description: 27-29.05, Том Купер - "... українцям також вдалося тримати плацдарм на східному березі [Печенізького водосховища] Сіверського Донця: схоже, він простягається від Металівки на півночі до Хотімлі на півдні":<br>https://texty.org.ua/fragments/106808<br><br>element_type: blue_dot<br>lat: 50.117644<br>lon: 36.8288547]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[27-29.05, Том Купер - "... українцям також вдалося тримати плацдарм на східному березі [Печенізького водосховища] Сіверського Донця: схоже, він простягається від Металівки на півночі до Хотімлі на півдні":
+https://texty.org.ua/fragments/106808
+]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>blue_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>50.117644</value>
+          </Data>
+          <Data name="lon">
+            <value>36.8288547</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.8288547,50.117644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Першотравневе</name>
+        <description><![CDATA[description: станом на 7.06 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт російських окупантів:<br>https://twitter.com/Nrg8000/status/1534199398443667456<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем російських окупантів:<br>https://texty.org.ua/fragments/106582/<br><br>element_type: red_dot<br>lat: 49.9981377<br>lon: 36.9300436]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>станом на 7.06 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт російських окупантів:
+https://twitter.com/Nrg8000/status/1534199398443667456
+-----
+станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем російських окупантів:
+https://texty.org.ua/fragments/106582/
+</value>
+          </Data>
+          <Data name="element_type">
+            <value>red_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>49.9981377</value>
+          </Data>
+          <Data name="lon">
+            <value>36.9300436</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.9300436,49.9981377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Розв'язка на трасі "Харків-Вовчанськ" (захоплений наприкінці травня плацдарм ЗСУ на лівому березі Печенізького водосховища)]]></name>
+        <description><![CDATA[description: -----<br>27-29.05, Том Купер - "... українцям також вдалося тримати плацдарм на східному березі Сіверського Донця: схоже, він простягається від Металівки на півночі до Хотімлі на півдні":<br>https://texty.org.ua/fragments/106808<br><br>element_type: blue_dot<br>lat: 50.0774846<br>lon: 36.8343911]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[-----
+27-29.05, Том Купер - "... українцям також вдалося тримати плацдарм на східному березі Сіверського Донця: схоже, він простягається від Металівки на півночі до Хотімлі на півдні":
+https://texty.org.ua/fragments/106808
+]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>blue_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>50.0774846</value>
+          </Data>
+          <Data name="lon">
+            <value>36.8343911</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.8343911,50.0774846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Березівка</name>
+        <description><![CDATA[description: станом на 7.06 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, село перебуває в "сірій зоні" між позиціями Збройних сил України та російських окупантів:<br>https://twitter.com/Nrg8000/status/1534199398443667456<br><br>element_type: yellow_dot<br>lat: 50.1298809<br>lon: 36.8597863]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[станом на 7.06 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, село перебуває в "сірій зоні" між позиціями Збройних сил України та російських окупантів:
+https://twitter.com/Nrg8000/status/1534199398443667456
+]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>yellow_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>50.1298809</value>
+          </Data>
+          <Data name="lon">
+            <value>36.8597863</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.8597863,50.1298809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Шевченкове Перше</name>
+        <description><![CDATA[description: станом на 7.06 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт російських окупантів:<br>https://twitter.com/Nrg8000/status/1534199398443667456<br><br>element_type: red_dot<br>lat: 50.1104422<br>lon: 36.9087728]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>станом на 7.06 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт російських окупантів:
+https://twitter.com/Nrg8000/status/1534199398443667456
+</value>
+          </Data>
+          <Data name="element_type">
+            <value>red_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>50.1104422</value>
+          </Data>
+          <Data name="lon">
+            <value>36.9087728</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.9087728,50.1104422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Широке</name>
+        <description><![CDATA[description: станом на 7.06 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт російських окупантів:<br>https://twitter.com/Nrg8000/status/1534199398443667456<br>-----<br>element_type: red_dot<br>lat: 50.0801037<br>lon: 36.9377254]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>станом на 7.06 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт російських окупантів:
+https://twitter.com/Nrg8000/status/1534199398443667456
+-----</value>
+          </Data>
+          <Data name="element_type">
+            <value>red_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>50.0801037</value>
+          </Data>
+          <Data name="lon">
+            <value>36.9377254</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.9377254,50.0801037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Гонтарівка</name>
+        <description><![CDATA[description: станом на 7.06 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт російських окупантів:<br>https://twitter.com/Nrg8000/status/1534199398443667456<br><br>element_type: red_dot<br>lat: 50.0580466<br>lon: 36.9593636]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>станом на 7.06 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт російських окупантів:
+https://twitter.com/Nrg8000/status/1534199398443667456
+</value>
+          </Data>
+          <Data name="element_type">
+            <value>red_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>50.0580466</value>
+          </Data>
+          <Data name="lon">
+            <value>36.9593636</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.9593636,50.0580466,0
           </coordinates>
         </Point>
       </Placemark>
