@@ -8335,11 +8335,14 @@ https://censor.net/ua/photo_news/3341266/
       </Placemark>
       <Placemark>
         <name>Таврійське (звільнене у травні)</name>
-        <description><![CDATA[description: 29.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/328041022842316<br>-----<br>28.05 - російські обстріли: https://www.facebook.com/GeneralStaff.ua/posts/326823172964101<br>-----<br>26.05 - невдалий російський штурм - "На Миколаївському напрямку ворог намагається ... забезпечити вихід на адмінкордони Херсонської області. Вів штурмові дії в районі населеного пункту Таврійське, успіху не мав":<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>станом на 13.05 - схоже, СЕЛО ЗВІЛЬНЕНЕ або в "сірій зоні", тому що - російські обстріли - "окупанти ... обстрілювали підрозділи наших військ зі ствольної артилерії та мінометів у районах населених пунктів Олександрівка, Таврійське...":<br>https://www.facebook.com/100069092624537/posts/315837394062679/<br><br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт російських окупантів:<br>https://texty.org.ua/fragments/106582/<br>-------<br>28.04 - СЕЛО ОКУПОВАНЕ:<br>"Ворог у результаті штурмових дій закріпився в районі населеного пункту Таврійське..."<br>https://censor.net/ua/n3337339<br>-------<br>24.04, ГШ ЗСУ: "Ворог ... намагався вести наступ у напрямку населеного пункту Таврійське, успіху не мав"<br>https://www.facebook.com/GeneralStaff.ua/posts/301968408782911<br><br>element_type: blue_dot<br>lat: 46.7291032<br>lon: 32.1016282]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <description><![CDATA[description: 8.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335130078800077<br>-----<br>29.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/328041022842316<br>-----<br>28.05 - російські обстріли: https://www.facebook.com/GeneralStaff.ua/posts/326823172964101<br>-----<br>26.05 - невдалий російський штурм - "На Миколаївському напрямку ворог намагається ... забезпечити вихід на адмінкордони Херсонської області. Вів штурмові дії в районі населеного пункту Таврійське, успіху не мав":<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>станом на 13.05 - схоже, СЕЛО ЗВІЛЬНЕНЕ або в "сірій зоні", тому що - російські обстріли - "окупанти ... обстрілювали підрозділи наших військ зі ствольної артилерії та мінометів у районах населених пунктів Олександрівка, Таврійське...":<br>https://www.facebook.com/100069092624537/posts/315837394062679/<br><br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт російських окупантів:<br>https://texty.org.ua/fragments/106582/<br>-------<br>28.04 - СЕЛО ОКУПОВАНЕ:<br>"Ворог у результаті штурмових дій закріпився в районі населеного пункту Таврійське..."<br>https://censor.net/ua/n3337339<br>-------<br>24.04, ГШ ЗСУ: "Ворог ... намагався вести наступ у напрямку населеного пункту Таврійське, успіху не мав"<br>https://www.facebook.com/GeneralStaff.ua/posts/301968408782911<br><br>element_type: dark_red_dot<br>lat: 46.7291032<br>lon: 32.1016282]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[29.05 - російські обстріли:
+            <value><![CDATA[8.06 - російські обстріли:
+https://www.facebook.com/GeneralStaff.ua/posts/335130078800077
+-----
+29.05 - російські обстріли:
 https://www.facebook.com/GeneralStaff.ua/posts/328041022842316
 -----
 28.05 - російські обстріли: https://www.facebook.com/GeneralStaff.ua/posts/326823172964101
@@ -8362,7 +8365,7 @@ https://www.facebook.com/GeneralStaff.ua/posts/301968408782911
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>blue_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>46.7291032</value>
@@ -9285,12 +9288,15 @@ https://www.facebook.com/GeneralStaff.ua/posts/325370633109355
         </Point>
       </Placemark>
       <Placemark>
-        <name>Трудолюбівка (звільнена 5.04)</name>
-        <description><![CDATA[description: 2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330568765922875<br>-----<br>31.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/329130549400030<br>-----<br>29.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/327663802880038<br>-----<br>26.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>25.05 - російські обстріли":<br>https://www.facebook.com/GeneralStaff.ua/posts/325028756476876<br>===<br>1.05 - "Основні зусилля окупанти зосередили на Криворізькому напрямку. Вели артилерійський вогонь по позиціях наших підрозділів у районах Таврійського, Осокорівки, Трудолюбівки та Князівки":<br>https://www.facebook.com/GeneralStaff.ua/posts/306878508291901<br>-----<br>21.04 - російський наступ - "противник ... намагався провести розвідку боєм у районі Трудолюбівки, зазнав втрат, відійшов на раніше зайняті позиції"<br>https://censor.net/ua/n3335955<br>-----<br>5.04 - село ЗВІЛЬНЕНЕ від окупантів:<br>https://censor.net/ua/news/3331755/operatyvna_informatsiya_stanom_na_600_6_kvitnya_schodo_rosiyiskogo_vtorgnennya_genshtab_zsu<br><br>element_type: dark_red_dot<br>lat: 47.4436558<br>lon: 33.7009501]]></description>
+        <name>Трудолюбівка (звільнена 5 квітня)</name>
+        <description><![CDATA[description: 8.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335130078800077<br>-----<br>2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330568765922875<br>-----<br>31.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/329130549400030<br>-----<br>29.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/327663802880038<br>-----<br>26.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>25.05 - російські обстріли":<br>https://www.facebook.com/GeneralStaff.ua/posts/325028756476876<br>===<br>1.05 - "Основні зусилля окупанти зосередили на Криворізькому напрямку. Вели артилерійський вогонь по позиціях наших підрозділів у районах Таврійського, Осокорівки, Трудолюбівки та Князівки":<br>https://www.facebook.com/GeneralStaff.ua/posts/306878508291901<br>-----<br>21.04 - російський наступ - "противник ... намагався провести розвідку боєм у районі Трудолюбівки, зазнав втрат, відійшов на раніше зайняті позиції"<br>https://censor.net/ua/n3335955<br>-----<br>5.04 - село ЗВІЛЬНЕНЕ від окупантів:<br>https://censor.net/ua/news/3331755/operatyvna_informatsiya_stanom_na_600_6_kvitnya_schodo_rosiyiskogo_vtorgnennya_genshtab_zsu<br><br>element_type: dark_red_dot<br>lat: 47.4436558<br>lon: 33.7009501]]></description>
         <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[2.06 - російські обстріли:
+            <value><![CDATA[8.06 - російські обстріли:
+https://www.facebook.com/GeneralStaff.ua/posts/335130078800077
+-----
+2.06 - російські обстріли:
 https://www.facebook.com/GeneralStaff.ua/posts/330568765922875
 -----
 31.05 - російські обстріли:
@@ -9499,11 +9505,14 @@ https://texty.org.ua/fragments/106582/]]></value>
       </Placemark>
       <Placemark>
         <name>Благодатне</name>
-        <description><![CDATA[description: 28.05 - російські обстріли: https://www.facebook.com/GeneralStaff.ua/posts/326823172964101<br>-----<br>25.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/325028756476876<br>===<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://texty.org.ua/fragments/106582/<br><br>element_type: blue_dot<br>lat: 46.7903959<br>lon: 32.3450687]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <description><![CDATA[description: 8.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335130078800077<br>-----<br>28.05 - російські обстріли: https://www.facebook.com/GeneralStaff.ua/posts/326823172964101<br>-----<br>25.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/325028756476876<br>===<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://texty.org.ua/fragments/106582/<br><br>element_type: dark_red_dot<br>lat: 46.7903959<br>lon: 32.3450687]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>28.05 - російські обстріли: https://www.facebook.com/GeneralStaff.ua/posts/326823172964101
+            <value>8.06 - російські обстріли:
+https://www.facebook.com/GeneralStaff.ua/posts/335130078800077
+-----
+28.05 - російські обстріли: https://www.facebook.com/GeneralStaff.ua/posts/326823172964101
 -----
 25.05 - російські обстріли:
 https://www.facebook.com/GeneralStaff.ua/posts/325028756476876
@@ -9513,7 +9522,7 @@ https://texty.org.ua/fragments/106582/
 </value>
           </Data>
           <Data name="element_type">
-            <value>blue_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>46.7903959</value>
@@ -9642,11 +9651,14 @@ https://texty.org.ua/fragments/106639/yak-zminyuyetsya-liniya-frontu-karti/</val
       </Placemark>
       <Placemark>
         <name>Пасіка (24-28.05 - бойові дії)</name>
-        <description><![CDATA[description: 28.05 - російський наступ - "За підтримки артилерії намагався розвинути наступальні дії в районі населеного пункту Пасіка, успіху не мав, відійшов":<br>https://www.facebook.com/GeneralStaff.ua/posts/326823172964101<br>-----<br>25.05 - російський наступ - "За підтримки артилерії та армійської авіації ворог безуспішно спробував взяти під контроль населений пункт Пасіка":<br>https://www.facebook.com/GeneralStaff.ua/posts/324613886518363<br>-----<br>24.05 - бойові дії - "...противник провів розвідку боєм в районі населеного пункту Пасіка, зазнав втрат і відійшов":<br>https://www.facebook.com/GeneralStaff.ua/posts/324283196551432<br><br>element_type: grey_dot<br>lat: 49.070268<br>lon: 37.467828]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <description><![CDATA[description: 2.06, Том Купер - село ОКУПОВАНЕ - "...станом на 2 червня росіяни захопили Студенок, Яремівку і Пасіку, що на північний захід від Святогірська, тож українцям довелося відійти з Соснового":<br>https://texty.org.ua/fragments/106875/<br>-----<br>28.05 - російський наступ - "За підтримки артилерії намагався розвинути наступальні дії в районі населеного пункту Пасіка, успіху не мав, відійшов":<br>https://www.facebook.com/GeneralStaff.ua/posts/326823172964101<br>-----<br>25.05 - російський наступ - "За підтримки артилерії та армійської авіації ворог безуспішно спробував взяти під контроль населений пункт Пасіка":<br>https://www.facebook.com/GeneralStaff.ua/posts/324613886518363<br>-----<br>24.05 - бойові дії - "...противник провів розвідку боєм в районі населеного пункту Пасіка, зазнав втрат і відійшов":<br>https://www.facebook.com/GeneralStaff.ua/posts/324283196551432<br><br>element_type: red_dot<br>lat: 49.070268<br>lon: 37.467828]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[28.05 - російський наступ - "За підтримки артилерії намагався розвинути наступальні дії в районі населеного пункту Пасіка, успіху не мав, відійшов":
+            <value><![CDATA[2.06, Том Купер - село ОКУПОВАНЕ - "...станом на 2 червня росіяни захопили Студенок, Яремівку і Пасіку, що на північний захід від Святогірська, тож українцям довелося відійти з Соснового":
+https://texty.org.ua/fragments/106875/
+-----
+28.05 - російський наступ - "За підтримки артилерії намагався розвинути наступальні дії в районі населеного пункту Пасіка, успіху не мав, відійшов":
 https://www.facebook.com/GeneralStaff.ua/posts/326823172964101
 -----
 25.05 - російський наступ - "За підтримки артилерії та армійської авіації ворог безуспішно спробував взяти під контроль населений пункт Пасіка":
@@ -9657,7 +9669,7 @@ https://www.facebook.com/GeneralStaff.ua/posts/324283196551432
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>grey_dot</value>
+            <value>red_dot</value>
           </Data>
           <Data name="lat">
             <value>49.070268</value>
@@ -13597,8 +13609,8 @@ https://www.pravda.com.ua/news/2022/04/5/7337229/]]></value>
       </Placemark>
       <Placemark>
         <name>Партизанське (звільнене в середині березня?)</name>
-        <description><![CDATA[description: 2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>-----<br>29.05 - російські обстріли (у зведенні, вочевидь помилково, "Партизани"):<br>https://www.facebook.com/GeneralStaff.ua/posts/327663802880038<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем Збройних сил України:<br>https://texty.org.ua/fragments/106582/<br>-----<br>станом на 19.03 було ОКУПОВАНЕ:<br>https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/<br><br>element_type: dark_red_dot<br>lat: 47.0641567<br>lon: 32.5399153]]></description>
-        <styleUrl>#icon-ci-3</styleUrl>
+        <description><![CDATA[description: 2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>-----<br>29.05 - російські обстріли (у зведенні, вочевидь помилково, "Партизани"):<br>https://www.facebook.com/GeneralStaff.ua/posts/327663802880038<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем Збройних сил України:<br>https://texty.org.ua/fragments/106582/<br>-----<br>станом на 19.03 було ОКУПОВАНЕ:<br>https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/<br><br>element_type: yellow_dot<br>lat: 47.0641567<br>lon: 32.5399153]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value><![CDATA[2.06 - російські обстріли:
@@ -13615,7 +13627,7 @@ https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>dark_red_dot</value>
+            <value>yellow_dot</value>
           </Data>
           <Data name="lat">
             <value>47.0641567</value>
@@ -13949,15 +13961,20 @@ https://suspilne.media/212929-na-mikolaivsini-v-napramku-voznesenska-ruhaetsa-ro
         </Point>
       </Placemark>
       <Placemark>
-        <name><![CDATA[Аеродром "Кульбакине" (звільнений 4.03)]]></name>
-        <description><![CDATA[description: https://t.me/suspilnemykolaiv/4402<br>element_type: yellow_dot<br>lat: 46.933424<br>lon: 32.1128919]]></description>
-        <styleUrl>#icon-ci-2</styleUrl>
+        <name><![CDATA[Аеродром "Кульбакине" (звільнений 4 березня)]]></name>
+        <description><![CDATA[description: 8.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335130078800077<br>-----<br>4.03 - ЗВІЛЬНЕНИЙ:<br>https://t.me/suspilnemykolaiv/4402<br><br>element_type: dark_red_dot<br>lat: 46.933424<br>lon: 32.1128919]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>https://t.me/suspilnemykolaiv/4402</value>
+            <value>8.06 - російські обстріли:
+https://www.facebook.com/GeneralStaff.ua/posts/335130078800077
+-----
+4.03 - ЗВІЛЬНЕНИЙ:
+https://t.me/suspilnemykolaiv/4402
+</value>
           </Data>
           <Data name="element_type">
-            <value>yellow_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>46.933424</value>
@@ -17766,11 +17783,13 @@ https://texty.org.ua/fragments/106875/
       </Placemark>
       <Placemark>
         <name><![CDATA[Соснове (вузлова залізнична станція "СВЯТОГІРСЬК")]]></name>
-        <description><![CDATA[description: 2.06 - російський штурм, російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>-----<br>13.05, Нацполіція - російські обстріли: https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://texty.org.ua/fragments/106582/<br>-----<br>Тут знаходиться вузлова залізнична станція "Святогірськ" (напрямки з Лиману на Зміїв-Харків та Куп'янськ-РФ)<br><br>element_type: dark_red_dot<br>lat: 49.0725804<br>lon: 37.5557517]]></description>
-        <styleUrl>#icon-ci-3</styleUrl>
+        <description><![CDATA[description: 2.06, Том Купер - село ОКУПОВАНЕ - "...станом на 2 червня росіяни захопили Студенок, Яремівку і Пасіку, що на північний захід від Святогірська, тож українцям довелося відійти з Соснового":<br>https://texty.org.ua/fragments/106875/<br>2.06 - російський штурм, російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>-----<br>13.05, Нацполіція - російські обстріли: https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://texty.org.ua/fragments/106582/<br>-----<br>Тут знаходиться вузлова залізнична станція "Святогірськ" (напрямки з Лиману на Зміїв-Харків та Куп'янськ-РФ)<br><br>element_type: red_dot<br>lat: 49.0725804<br>lon: 37.5557517]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[2.06 - російський штурм, російські обстріли:
+            <value><![CDATA[2.06, Том Купер - село ОКУПОВАНЕ - "...станом на 2 червня росіяни захопили Студенок, Яремівку і Пасіку, що на північний захід від Святогірська, тож українцям довелося відійти з Соснового":
+https://texty.org.ua/fragments/106875/
+2.06 - російський штурм, російські обстріли:
 https://www.facebook.com/GeneralStaff.ua/posts/330999902546428
 -----
 13.05, Нацполіція - російські обстріли: https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/
@@ -17782,7 +17801,7 @@ https://texty.org.ua/fragments/106582/
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>dark_red_dot</value>
+            <value>red_dot</value>
           </Data>
           <Data name="lat">
             <value>49.0725804</value>
@@ -18649,15 +18668,20 @@ https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/
         </Point>
       </Placemark>
       <Placemark>
-        <name>Тополине (звільнено 31.03)</name>
-        <description><![CDATA[description: https://www.facebook.com/okPivden/posts/2022535391251037<br>element_type: blue_dot<br>lat: 47.5311449<br>lon: 33.5627616]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <name>Тополине (звільнене 31 березня)</name>
+        <description><![CDATA[description: 8.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335130078800077<br>-----<br>31.03 - село ЗВІЛЬНЕНЕ:<br>https://www.facebook.com/okPivden/posts/2022535391251037<br><br>element_type: dark_red_dot<br>lat: 47.5311449<br>lon: 33.5627616]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>https://www.facebook.com/okPivden/posts/2022535391251037</value>
+            <value>8.06 - російські обстріли:
+https://www.facebook.com/GeneralStaff.ua/posts/335130078800077
+-----
+31.03 - село ЗВІЛЬНЕНЕ:
+https://www.facebook.com/okPivden/posts/2022535391251037
+</value>
           </Data>
           <Data name="element_type">
-            <value>blue_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>47.5311449</value>
@@ -18935,8 +18959,8 @@ https://censor.net/ua/video_news/3332025/okupanty_obstrilyuyut_sela_lymany_ta_lu
       </Placemark>
       <Placemark>
         <name>Осокорівка (звільнена 6.04)</name>
-        <description><![CDATA[description: 3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>-----<br>31.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/329130549400030<br>-----<br>28.05 - російські обстріли: https://www.facebook.com/GeneralStaff.ua/posts/326823172964101<br>-----<br>26.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>18.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/319806796999072<br>-----<br>13.05 - російські обстріли - "На Південнобузькому напрямку ... обстрілювали підрозділи наших військ зі ствольної артилерії та мінометів у районах населених пунктів ... Ганнівка і Осокорівка":<br>https://www.facebook.com/100069092624537/posts/315837394062679/<br>-----<br>3.05 - російські обстріли:<br>https://www.ukrinform.ua/rubric-regions/3473835-na-hersonsini-vijskovi-rf-nisat-obstrilami-selo-osokorivka.html<br>-----<br>1.05 - "Основні зусилля окупанти зосередили на Криворізькому напрямку. Вели артилерійський вогонь по позиціях наших підрозділів у районах Таврійського, Осокорівки, Трудолюбівки та Князівки":<br>https://www.facebook.com/GeneralStaff.ua/posts/306878508291901<br>-----<br>6.04 - СЕЛО ЗВІЛЬНЕНО:<br>https://suspilne.media/225971-zsu-zvilnili-se-odne-hersonske-selo-nepodalik-vid-dnipropetrovsini-golova-oblradi/<br><br>element_type: dark_red_dot<br>lat: 47.4330523<br>lon: 33.8816024]]></description>
-        <styleUrl>#icon-ci-3</styleUrl>
+        <description><![CDATA[description: 3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>-----<br>31.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/329130549400030<br>-----<br>28.05 - російські обстріли: https://www.facebook.com/GeneralStaff.ua/posts/326823172964101<br>-----<br>26.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>18.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/319806796999072<br>-----<br>13.05 - російські обстріли - "На Південнобузькому напрямку ... обстрілювали підрозділи наших військ зі ствольної артилерії та мінометів у районах населених пунктів ... Ганнівка і Осокорівка":<br>https://www.facebook.com/100069092624537/posts/315837394062679/<br>-----<br>3.05 - російські обстріли:<br>https://www.ukrinform.ua/rubric-regions/3473835-na-hersonsini-vijskovi-rf-nisat-obstrilami-selo-osokorivka.html<br>-----<br>1.05 - "Основні зусилля окупанти зосередили на Криворізькому напрямку. Вели артилерійський вогонь по позиціях наших підрозділів у районах Таврійського, Осокорівки, Трудолюбівки та Князівки":<br>https://www.facebook.com/GeneralStaff.ua/posts/306878508291901<br>-----<br>6.04 - СЕЛО ЗВІЛЬНЕНО:<br>https://suspilne.media/225971-zsu-zvilnili-se-odne-hersonske-selo-nepodalik-vid-dnipropetrovsini-golova-oblradi/<br><br>element_type: blue_dot<br>lat: 47.4330523<br>lon: 33.8816024]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value><![CDATA[3.06 - російські обстріли:
@@ -18970,7 +18994,7 @@ https://suspilne.media/225971-zsu-zvilnili-se-odne-hersonske-selo-nepodalik-vid-
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>dark_red_dot</value>
+            <value>blue_dot</value>
           </Data>
           <Data name="lat">
             <value>47.4330523</value>
@@ -19579,8 +19603,8 @@ https://texty.org.ua/fragments/106582/</value>
       </Placemark>
       <Placemark>
         <name>Благодатне</name>
-        <description><![CDATA[description: 3.06 - російські обстріли (? - у зведенні ГШ "Благодійне"):<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://texty.org.ua/fragments/106582/<br><br>element_type: dark_red_dot<br>lat: 47.0269392<br>lon: 32.5517673]]></description>
-        <styleUrl>#icon-ci-3</styleUrl>
+        <description><![CDATA[description: 3.06 - російські обстріли (? - у зведенні ГШ "Благодійне"):<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://texty.org.ua/fragments/106582/<br><br>element_type: blue_dot<br>lat: 47.0269392<br>lon: 32.5517673]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value><![CDATA[3.06 - російські обстріли (? - у зведенні ГШ "Благодійне"):
@@ -19591,7 +19615,7 @@ https://texty.org.ua/fragments/106582/
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>dark_red_dot</value>
+            <value>blue_dot</value>
           </Data>
           <Data name="lat">
             <value>47.0269392</value>
@@ -19712,8 +19736,8 @@ https://texty.org.ua/fragments/106582/</value>
       </Placemark>
       <Placemark>
         <name>Степова Долина</name>
-        <description><![CDATA[description: 3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330568765922875<br>-----<br>29.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/327663802880038<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://texty.org.ua/fragments/106582/<br><br>element_type: dark_red_dot<br>lat: 46.7755405<br>lon: 32.1877648]]></description>
-        <styleUrl>#icon-ci-3</styleUrl>
+        <description><![CDATA[description: 3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330568765922875<br>-----<br>29.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/327663802880038<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://texty.org.ua/fragments/106582/<br><br>element_type: blue_dot<br>lat: 46.7755405<br>lon: 32.1877648]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value>3.06 - російські обстріли:
@@ -19730,7 +19754,7 @@ https://texty.org.ua/fragments/106582/
 </value>
           </Data>
           <Data name="element_type">
-            <value>dark_red_dot</value>
+            <value>blue_dot</value>
           </Data>
           <Data name="lat">
             <value>46.7755405</value>
@@ -24165,8 +24189,8 @@ https://tsn.ua/ukrayina/okupanti-grabuyut-naselennya-mobilizuyut-cholovikiv-ta-v
       </Placemark>
       <Placemark>
         <name>Шевченкове</name>
-        <description><![CDATA[description: 2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330568765922875<br>-----<br>28.04 - російські обстріли:<br>https://censor.net/ua/news/3337351/<br>-----<br>5.03 - через село тікали в бік Херсону розбиті під Миколаєвом російські окупанти (голова ОВА):<br>https://t.me/mykolaivskaODA/460<br><br>element_type: dark_red_dot<br>lat: 46.8596823<br>lon: 32.2195197]]></description>
-        <styleUrl>#icon-ci-3</styleUrl>
+        <description><![CDATA[description: 2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330568765922875<br>-----<br>28.04 - російські обстріли:<br>https://censor.net/ua/news/3337351/<br>-----<br>5.03 - через село тікали в бік Херсону розбиті під Миколаєвом російські окупанти (голова ОВА):<br>https://t.me/mykolaivskaODA/460<br><br>element_type: yellow_dot<br>lat: 46.8596823<br>lon: 32.2195197]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value>2.06 - російські обстріли:
@@ -24180,7 +24204,7 @@ https://t.me/mykolaivskaODA/460
 </value>
           </Data>
           <Data name="element_type">
-            <value>dark_red_dot</value>
+            <value>yellow_dot</value>
           </Data>
           <Data name="lat">
             <value>46.8596823</value>
@@ -27268,12 +27292,15 @@ https://novayagazeta.eu/articles/2022/05/26/otodvigaiu-shtoru-a-tam-zarevo-so-st
       </Placemark>
       <Placemark>
         <name>Студенок</name>
-        <description><![CDATA[description: 3.06 - російський штурм, "бойові дії тривають":<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06 - російський штурм - "На Лиманському напрямку противник ... вів штурмові дії в районах населених пунктів Студенок, Соснове і Ярова, бойові дії тривають. На цьому напрямку ворог активізував роботу засобів радіоелектронної боротьби":<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>-----<br>28.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/326823172964101<br>-----<br>26.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br><br>element_type: dark_red_dot<br>lat: 49.0875455<br>lon: 37.479889]]></description>
-        <styleUrl>#icon-ci-3</styleUrl>
+        <description><![CDATA[description: 3.06 - російський штурм, "бойові дії тривають":<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06, Том Купер - село ОКУПОВАНЕ - "...станом на 2 червня росіяни захопили Студенок, Яремівку і Пасіку, що на північний захід від Святогірська, тож українцям довелося відійти з Соснового":<br>https://texty.org.ua/fragments/106875/<br>-----<br>2.06 - російський штурм - "На Лиманському напрямку противник ... вів штурмові дії в районах населених пунктів Студенок, Соснове і Ярова, бойові дії тривають. На цьому напрямку ворог активізував роботу засобів радіоелектронної боротьби":<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>-----<br>28.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/326823172964101<br>-----<br>26.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br><br>element_type: red_dot<br>lat: 49.0875455<br>lon: 37.479889]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value><![CDATA[3.06 - російський штурм, "бойові дії тривають":
 https://www.facebook.com/GeneralStaff.ua/posts/331331722513246
+-----
+2.06, Том Купер - село ОКУПОВАНЕ - "...станом на 2 червня росіяни захопили Студенок, Яремівку і Пасіку, що на північний захід від Святогірська, тож українцям довелося відійти з Соснового":
+https://texty.org.ua/fragments/106875/
 -----
 2.06 - російський штурм - "На Лиманському напрямку противник ... вів штурмові дії в районах населених пунктів Студенок, Соснове і Ярова, бойові дії тривають. На цьому напрямку ворог активізував роботу засобів радіоелектронної боротьби":
 https://www.facebook.com/GeneralStaff.ua/posts/330999902546428
@@ -27286,7 +27313,7 @@ https://www.facebook.com/GeneralStaff.ua/posts/325370633109355
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>dark_red_dot</value>
+            <value>red_dot</value>
           </Data>
           <Data name="lat">
             <value>49.0875455</value>
@@ -27689,11 +27716,14 @@ https://www.facebook.com/GeneralStaff.ua/posts/327247112921707
       </Placemark>
       <Placemark>
         <name>Луч</name>
-        <description><![CDATA[description: 2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330568765922875<br>-----<br>29.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/327663802880038<br><br>element_type: dark_red_dot<br>lat: 46.8251603<br>lon: 32.2199609]]></description>
+        <description><![CDATA[description: 8.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335130078800077<br>-----<br>2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330568765922875<br>-----<br>29.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/327663802880038<br><br>element_type: dark_red_dot<br>lat: 46.8251603<br>lon: 32.2199609]]></description>
         <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>2.06 - російські обстріли:
+            <value>8.06 - російські обстріли:
+https://www.facebook.com/GeneralStaff.ua/posts/335130078800077
+-----
+2.06 - російські обстріли:
 https://www.facebook.com/GeneralStaff.ua/posts/330568765922875
 -----
 29.05 - російські обстріли:
@@ -28234,15 +28264,19 @@ https://defence-ua.com/news/jak_zsu_zvilnjali_davidiv_brid_na_hersonschini_nisch
       </Placemark>
       <Placemark>
         <name>Біла Криниця</name>
-        <description><![CDATA[description: 29.05 - схоже, село ЗВІЛЬНЕНЕ - "На Миколаївському напрямку загарбники здійснюють переміщення резерівів для відновлення втрачених позиції у районах населених пунктів Андріївка, Білогірка і Біла Криниця":<br>https://www.facebook.com/GeneralStaff.ua/posts/328041022842316<br>element_type: yellow_dot<br>lat: 47.2202301<br>lon: 33.1177283]]></description>
-        <styleUrl>#icon-ci-2</styleUrl>
+        <description><![CDATA[description: 8.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335130078800077<br>-----<br>29.05 - схоже, село ЗВІЛЬНЕНЕ - "На Миколаївському напрямку загарбники здійснюють переміщення резерівів для відновлення втрачених позиції у районах населених пунктів Андріївка, Білогірка і Біла Криниця":<br>https://www.facebook.com/GeneralStaff.ua/posts/328041022842316<br><br>element_type: dark_red_dot<br>lat: 47.2202301<br>lon: 33.1177283]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[29.05 - схоже, село ЗВІЛЬНЕНЕ - "На Миколаївському напрямку загарбники здійснюють переміщення резерівів для відновлення втрачених позиції у районах населених пунктів Андріївка, Білогірка і Біла Криниця":
-https://www.facebook.com/GeneralStaff.ua/posts/328041022842316]]></value>
+            <value><![CDATA[8.06 - російські обстріли:
+https://www.facebook.com/GeneralStaff.ua/posts/335130078800077
+-----
+29.05 - схоже, село ЗВІЛЬНЕНЕ - "На Миколаївському напрямку загарбники здійснюють переміщення резерівів для відновлення втрачених позиції у районах населених пунктів Андріївка, Білогірка і Біла Криниця":
+https://www.facebook.com/GeneralStaff.ua/posts/328041022842316
+]]></value>
           </Data>
           <Data name="element_type">
-            <value>yellow_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>47.2202301</value>
@@ -28497,8 +28531,8 @@ https://www.facebook.com/GeneralStaff.ua/posts/330226645957087
       </Placemark>
       <Placemark>
         <name>Лепетиха</name>
-        <description><![CDATA[description: 3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>-----<br>1.06 - "На Південнобузькому напрямку ворог ... вів повітряну розвідку в районах населених пунктів Іванівка, Лепетиха та Зеленодольськ":<br>https://www.facebook.com/GeneralStaff.ua/posts/330226645957087<br><br>element_type: dark_red_dot<br>lat: 47.3331585<br>lon: 33.0471093]]></description>
-        <styleUrl>#icon-ci-3</styleUrl>
+        <description><![CDATA[description: 3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>-----<br>1.06 - "На Південнобузькому напрямку ворог ... вів повітряну розвідку в районах населених пунктів Іванівка, Лепетиха та Зеленодольськ":<br>https://www.facebook.com/GeneralStaff.ua/posts/330226645957087<br><br>element_type: grey_dot<br>lat: 47.3331585<br>lon: 33.0471093]]></description>
+        <styleUrl>#icon-ci-5</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value><![CDATA[3.06 - російські обстріли:
@@ -28512,7 +28546,7 @@ https://www.facebook.com/GeneralStaff.ua/posts/330226645957087
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>dark_red_dot</value>
+            <value>grey_dot</value>
           </Data>
           <Data name="lat">
             <value>47.3331585</value>
@@ -28992,8 +29026,8 @@ https://www.facebook.com/GeneralStaff.ua/posts/331331722513246
       </Placemark>
       <Placemark>
         <name>Кавказ</name>
-        <description><![CDATA[description: 3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br><br>element_type: dark_red_dot<br>lat: 47.2894132<br>lon: 33.0757061]]></description>
-        <styleUrl>#icon-ci-3</styleUrl>
+        <description><![CDATA[description: 3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br><br>element_type: grey_dot<br>lat: 47.2894132<br>lon: 33.0757061]]></description>
+        <styleUrl>#icon-ci-5</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value>3.06 - російські обстріли:
@@ -29001,7 +29035,7 @@ https://www.facebook.com/GeneralStaff.ua/posts/331331722513246
 </value>
           </Data>
           <Data name="element_type">
-            <value>dark_red_dot</value>
+            <value>grey_dot</value>
           </Data>
           <Data name="lat">
             <value>47.2894132</value>
@@ -29335,11 +29369,13 @@ https://novynarnia.com/2022/03/19/gsh-na-bagatoh-napryamkah-vorog-ne-provodyv-na
       </Placemark>
       <Placemark>
         <name>Ртищівка</name>
-        <description><![CDATA[description: станом на 5.06, за НЕОФІЦІЙНИМИ даними - село або ЗВІЛЬНЕНЕ, або в "сірій зоні" між позиціями Збройних сил України та російських окупантів:<br>https://www.scribblemaps.com/maps/view/2022051301800/nBT8ffpeGH<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт російських окупантів:<br>https://texty.org.ua/fragments/106582/<br><br>element_type: yellow_dot<br>lat: 49.723511<br>lon: 36.7789262]]></description>
-        <styleUrl>#icon-ci-2</styleUrl>
+        <description><![CDATA[description: 8.06 - російські обстріли: https://www.facebook.com/GeneralStaff.ua/posts/335494108763674<br>-----<br>станом на 5.06, за НЕОФІЦІЙНИМИ даними - село або ЗВІЛЬНЕНЕ, або в "сірій зоні" між позиціями Збройних сил України та російських окупантів:<br>https://www.scribblemaps.com/maps/view/2022051301800/nBT8ffpeGH<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт російських окупантів:<br>https://texty.org.ua/fragments/106582/<br><br>element_type: dark_red_dot<br>lat: 49.723511<br>lon: 36.7789262]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[станом на 5.06, за НЕОФІЦІЙНИМИ даними - село або ЗВІЛЬНЕНЕ, або в "сірій зоні" між позиціями Збройних сил України та російських окупантів:
+            <value><![CDATA[8.06 - російські обстріли: https://www.facebook.com/GeneralStaff.ua/posts/335494108763674
+-----
+станом на 5.06, за НЕОФІЦІЙНИМИ даними - село або ЗВІЛЬНЕНЕ, або в "сірій зоні" між позиціями Збройних сил України та російських окупантів:
 https://www.scribblemaps.com/maps/view/2022051301800/nBT8ffpeGH
 -----
 станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт російських окупантів:
@@ -29347,7 +29383,7 @@ https://texty.org.ua/fragments/106582/
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>yellow_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>49.723511</value>
