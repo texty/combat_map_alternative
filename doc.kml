@@ -3,40 +3,6 @@
   <Document>
     <name>ВІЙНА-2022: лінія фронту (ОНОВЛЮЄТЬСЯ)</name>
     <description><![CDATA[ПІДТРИМАТИ ПРОЄКТ - https://texty.org.ua/p/support/<br>ДЕТАЛЬНІШЕ ПРО КАРТУ...<br>https://texty.org.ua/projects/106137/karta-bojovyh-dij-onovlyuyetsya/<br>Кольорова цятка означає контроль над населеним пунктом або його околицями.<br>Території під контролем ЗСУ - блакитний колір, РФ - червоний (колишні позиції РФ - жовтий). Бордовий колір - місця бойових дій або обстрілів, сірий - колишні бої/обстріли.<br>Також на карту нанесено окремі повітряні удари та знищені комунікації.<br>Джерела даних: переважно офіційні зведення ГШ та ОВА (якщо не вказано інше). <br>Клікнувши на конкретний пункт, можна отримати більш детальну інформацію (зазвичай із посиланням на джерело).<br>Там же (після назви населеного пункту) можна дізнатися ДАТУ його звільнення/окупації. Якщо дата не вказана, йдеться зазвичай про ситуацію станом на 19.03.2022.<br>UPD: Додано ОКУПОВАНІ ТЕРИТОРІЇ. Темніше забарвлення - окуповані у 2014-15 роках, світліше - у 2022 р. Джерело: https://militaryland.net/ukraine/deployment-map/<br>Карта оновлюється з розвитком подій.<br>Карта не претендує на вичерпність чи оперативність. <br>Позиції вказані ОРІЄНТОВНО!<br>Автори: Олександра ТИМОШЕНКО, Павло СОЛОДЬКО, Надя КЕЛЬМ (ТЕКСТИ.org.ua)]]></description>
-    <Style id="icon-1899-BDBDBD-normal">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>images/icon-10.png</href>
-        </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-1899-BDBDBD-highlight">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>images/icon-10.png</href>
-        </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-1899-BDBDBD">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1899-BDBDBD-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1899-BDBDBD-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
     <Style id="icon-ci-1-normal">
       <IconStyle>
         <scale>0.9</scale>
@@ -5635,11 +5601,14 @@ https://www.pravda.com.ua/articles/2022/04/21/7341146/]]></value>
       </Placemark>
       <Placemark>
         <name>Дібровне</name>
-        <description><![CDATA[description: 3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>1.06 - російський наступ відбито - "На Слов’янському напрямку ворог ... вів наступ у напрямку Довгенького та Дібрівного, зазнав втрат та відійшов":<br>https://www.facebook.com/GeneralStaff.ua/posts/330226645957087<br>-----<br>схоже, село ЗВІЛЬНЕНЕ.<br>===<br>25.04 - село ОКУПОВАНЕ:<br>"...ворог намагався покращити тактичне положення на напрямках Андріївка - Заводи та Дібровне - Курулька"<br> https://censor.net/ua/n3336738<br>-----<br>22.04: "...для покращення тактичного положення підрозділів противник намагався здійснювати наступальні дії у напрямках населених пунктів Заводи та Дібровне, успіху не має"<br> https://censor.net/ua/n3336097<br>-----<br>21.04 - СЕЛО ЧАСТКОВО ОКУПОВАНЕ:<br>"Ворог ... вийшов на північні околиці Дібровного, намагається закріпитись на досягнутому рубежі". <br>https://censor.net/ua/n3335955<br>-----<br>20.04: "Противник здійснив перегрупування військ на Ізюмському напрямку. В районі населеного пункту Дібровне противник проводив наступальні дії, має частковий успіх"<br>https://www.facebook.com/GeneralStaff.ua/posts/299092695737149<br>-----<br>19.04: "На напрямку Ізюм-Барвінкове ворог ... веде наступальні дії на напрямках Андріївка - Заводи, Бражківка - Дмитрівка, Сулигівка - Дібровне"<br>https://censor.net/ua/n3335271<br>-----<br>17.04: "...ворог провів розвідку боєм у районах населених пунктів Заводи, Дмитрівка та Дібровне. Успіху не мав, зазнав втрат і відійшов" - https://censor.net/ua/n3334837<br><br>element_type: dark_red_dot<br>lat: 48.9893171<br>lon: 37.2466138]]></description>
+        <description><![CDATA[description: 9.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335842948728790<br>-----<br>3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>1.06 - російський наступ відбито - "На Слов’янському напрямку ворог ... вів наступ у напрямку Довгенького та Дібрівного, зазнав втрат та відійшов":<br>https://www.facebook.com/GeneralStaff.ua/posts/330226645957087<br>-----<br>схоже, село ЗВІЛЬНЕНЕ.<br>===<br>25.04 - село ОКУПОВАНЕ:<br>"...ворог намагався покращити тактичне положення на напрямках Андріївка - Заводи та Дібровне - Курулька"<br> https://censor.net/ua/n3336738<br>-----<br>22.04: "...для покращення тактичного положення підрозділів противник намагався здійснювати наступальні дії у напрямках населених пунктів Заводи та Дібровне, успіху не має"<br> https://censor.net/ua/n3336097<br>-----<br>21.04 - СЕЛО ЧАСТКОВО ОКУПОВАНЕ:<br>"Ворог ... вийшов на північні околиці Дібровного, намагається закріпитись на досягнутому рубежі". <br>https://censor.net/ua/n3335955<br>-----<br>20.04: "Противник здійснив перегрупування військ на Ізюмському напрямку. В районі населеного пункту Дібровне противник проводив наступальні дії, має частковий успіх"<br>https://www.facebook.com/GeneralStaff.ua/posts/299092695737149<br>-----<br>19.04: "На напрямку Ізюм-Барвінкове ворог ... веде наступальні дії на напрямках Андріївка - Заводи, Бражківка - Дмитрівка, Сулигівка - Дібровне"<br>https://censor.net/ua/n3335271<br>-----<br>17.04: "...ворог провів розвідку боєм у районах населених пунктів Заводи, Дмитрівка та Дібровне. Успіху не мав, зазнав втрат і відійшов" - https://censor.net/ua/n3334837<br><br>element_type: dark_red_dot<br>lat: 48.9893171<br>lon: 37.2466138]]></description>
         <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[3.06 - російські обстріли:
+            <value><![CDATA[9.06 - російські обстріли:
+https://www.facebook.com/GeneralStaff.ua/posts/335842948728790
+-----
+3.06 - російські обстріли:
 https://www.facebook.com/GeneralStaff.ua/posts/331331722513246
 -----
 1.06 - російський наступ відбито - "На Слов’янському напрямку ворог ... вів наступ у напрямку Довгенького та Дібрівного, зазнав втрат та відійшов":
@@ -7510,11 +7479,14 @@ https://www.facebook.com/GeneralStaff.ua/posts/323137383332680
       </Placemark>
       <Placemark>
         <name>Микільське (21-25.05 - російські авіаудари)</name>
-        <description><![CDATA[description: 2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>-----<br>28.05 - російські обстріли (у зведенні вказано як "Мисливське"): https://www.facebook.com/GeneralStaff.ua/posts/326823172964101<br>-----<br>25.05 - російські обстріли та авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/325028756476876<br>-----<br>23.05 - російський авіаудар:<br>https://www.facebook.com/GeneralStaff.ua/posts/323137383332680<br>-----<br>21.05 - російський авіаудар - "ворог .... завдав авіаційного удару по населеному пункту Микільське Волноваського району...":<br>https://censor.net/ua/news/3342907/<br>-----<br>станом на 19.03 - рубіжний пункт російських окупантів<br><br>element_type: blue_dot<br>lat: 47.7554548<br>lon: 37.3018595]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <description><![CDATA[description: 8.06 - російські авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/335494108763674<br>-----<br>2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>-----<br>28.05 - російські обстріли (у зведенні вказано як "Мисливське"): https://www.facebook.com/GeneralStaff.ua/posts/326823172964101<br>-----<br>25.05 - російські обстріли та авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/325028756476876<br>-----<br>23.05 - російський авіаудар:<br>https://www.facebook.com/GeneralStaff.ua/posts/323137383332680<br>-----<br>21.05 - російський авіаудар - "ворог .... завдав авіаційного удару по населеному пункту Микільське Волноваського району...":<br>https://censor.net/ua/news/3342907/<br>-----<br>станом на 19.03 - рубіжний пункт російських окупантів<br><br>element_type: dark_red_dot<br>lat: 47.7554548<br>lon: 37.3018595]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[2.06 - російські обстріли:
+            <value><![CDATA[8.06 - російські авіаудари:
+https://www.facebook.com/GeneralStaff.ua/posts/335494108763674
+-----
+2.06 - російські обстріли:
 https://www.facebook.com/GeneralStaff.ua/posts/330999902546428
 -----
 28.05 - російські обстріли (у зведенні вказано як "Мисливське"): https://www.facebook.com/GeneralStaff.ua/posts/326823172964101
@@ -7532,7 +7504,7 @@ https://censor.net/ua/news/3342907/
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>blue_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>47.7554548</value>
@@ -7699,7 +7671,7 @@ https://www.pravda.com.ua/articles/2022/04/21/7341146/
       </Placemark>
       <Placemark>
         <name>АВДІЇВКА</name>
-        <description><![CDATA[description: 8.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335130078800077<br>-----<br>3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330568765922875<br>-----<br>1.06 - російські авіаудари "силами оперативно-тактичної авіації":<br>https://www.facebook.com/GeneralStaff.ua/posts/330226645957087<br>-----<br>28.05 - російські авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/329873672659051<br>-----<br>27.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/326425353003883<br>-----<br>26.05 - російський наступ відбито - "На Авдіївському напрямку ворог намагався поновити наступ, успіху не має":<br>https://censor.net/ua/n3344079<br>-----<br>26.05, ранок - російський штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>25.05 - російський штурм "безуспішний":<br>https://www.facebook.com/GeneralStaff.ua/posts/325028756476876<br>-----<br>24.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/324283196551432<br>-----<br>23.05 - російський авіаудар:<br>https://www.facebook.com/GeneralStaff.ua/posts/323137383332680<br>===<br>18.05 - російські обстріли ФОСФОРНИМИ БОЄПРИПАСАМИ, згоріла школа №1:<br>https://t.me/pavlokyrylenko_donoda/3422<br>18.05 - російські авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/319806796999072<br>-----<br>14.05 - успішний російський наступ - "Ворог ... має частковий успіх в районі Авдіївки":<br>https://censor.net/ua/n3341365<br>-----<br>13.05, Нацполіція - російські обстріли, ЗАГИНУЛА людина:<br>https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br>-----<br>10.05 - російські обстріли:<br>https://www.npu.gov.ua/news/stoprussia/na-donechchini-za-dobu-rosiyani-obstrilyali-13-naselenix-punktiv-policziya-rozpochala-kriminalni-provadzhennya/<br>-----<br>3.05 - російський обстріл, 12 УБИТИХ, 15 поранених:<br>https://tsn.ua/video/video-novini/avdiyivku-obstrilyali-raketa-zabrala-zhittya-12-lyudey.html<br>-----<br>2.05 - російські обстріли:<br>https://www.ukrinform.ua/rubric-regions/3472713-na-doneccini-rosiani-za-dobu-obstrilali-11-naselenih-punktiv.html<br>-----<br>28.04 - "...Авдіївка, Мар'їнка, Красногорівка, Новомихайлівка, Лиман, Вугледар — під постійними обстрілами": https://censor.net/ua/n3337351<br>-----<br>25.04 - російські обстріли:<br>https://censor.net/ua/p3336594<br>-----<br>21.04 - спроби російського наступу:<br>"...на Авдіївському напрямку росіяни спробували прорвати нашу оборону, але зазнали невдачі..." https://censor.net/ua/p3335698<br>-----<br>20.04 - російські обстріли:<br>https://novynarnia.com/2022/04/20/okupanty-obstrilyaly-12-mist/<br>-----<br>18.04 - "Противник ...здійснював штурмові дії в районах населених пунктів Новотошківське, Попасна, Авдіївка та Мар’їнка. Успіху також не мав":<br>https://censor.net/ua/n3334837<br><br>element_type: dark_red_dot<br>lat: 48.1280398<br>lon: 37.7618765]]></description>
+        <description><![CDATA[description: 8.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335130078800077<br>-----<br>3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330568765922875<br>-----<br>1.06 - російські авіаудари "силами оперативно-тактичної авіації":<br>https://www.facebook.com/GeneralStaff.ua/posts/330226645957087<br>-----<br>28.05 - російські авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/329873672659051<br>-----<br>27.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/326425353003883<br>-----<br>26.05 - російський наступ відбито - "На Авдіївському напрямку ворог намагався поновити наступ, успіху не має":<br>https://censor.net/ua/n3344079<br>-----<br>26.05, ранок - російський штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>25.05 - російський штурм "безуспішний":<br>https://www.facebook.com/GeneralStaff.ua/posts/325028756476876<br>-----<br>24.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/324283196551432<br>-----<br>23.05 - російський авіаудар:<br>https://www.facebook.com/GeneralStaff.ua/posts/323137383332680<br>===<br>18.05 - російські обстріли ФОСФОРНИМИ БОЄПРИПАСАМИ, згоріла школа №1:<br>https://t.me/pavlokyrylenko_donoda/3422<br>18.05 - російські авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/319806796999072<br>-----<br>14.05 - успішний російський наступ - "Ворог ... має частковий успіх в районі Авдіївки":<br>https://censor.net/ua/n3341365<br>-----<br>13.05, Нацполіція - російські обстріли, ЗАГИНУЛА людина:<br>https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br>-----<br>10.05 - російські обстріли:<br>https://www.npu.gov.ua/news/stoprussia/na-donechchini-za-dobu-rosiyani-obstrilyali-13-naselenix-punktiv-policziya-rozpochala-kriminalni-provadzhennya/<br>-----<br>3.05 - російський обстріл, 12 УБИТИХ, 15 поранених:<br>https://tsn.ua/video/video-novini/avdiyivku-obstrilyali-raketa-zabrala-zhittya-12-lyudey.html<br>-----<br>2.05 - російські обстріли:<br>https://www.ukrinform.ua/rubric-regions/3472713-na-doneccini-rosiani-za-dobu-obstrilali-11-naselenih-punktiv.html<br>-----<br>28.04 - постійні російські обстріли: https://censor.net/ua/n3337351<br>-----<br>25.04 - російські обстріли:<br>https://censor.net/ua/p3336594<br>-----<br>21.04 - спроби російського наступу:<br>https://censor.net/ua/p3335698<br>-----<br>20.04 - російські обстріли:<br>https://novynarnia.com/2022/04/20/okupanty-obstrilyaly-12-mist/<br>-----<br>18.04 - "Противник ...здійснював штурмові дії в районах населених пунктів Новотошківське, Попасна, Авдіївка та Мар’їнка. Успіху також не мав":<br>https://censor.net/ua/n3334837<br><br>element_type: dark_red_dot<br>lat: 48.1280398<br>lon: 37.7618765]]></description>
         <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
@@ -7756,13 +7728,13 @@ https://tsn.ua/video/video-novini/avdiyivku-obstrilyali-raketa-zabrala-zhittya-1
 2.05 - російські обстріли:
 https://www.ukrinform.ua/rubric-regions/3472713-na-doneccini-rosiani-za-dobu-obstrilali-11-naselenih-punktiv.html
 -----
-28.04 - "...Авдіївка, Мар'їнка, Красногорівка, Новомихайлівка, Лиман, Вугледар — під постійними обстрілами": https://censor.net/ua/n3337351
+28.04 - постійні російські обстріли: https://censor.net/ua/n3337351
 -----
 25.04 - російські обстріли:
 https://censor.net/ua/p3336594
 -----
 21.04 - спроби російського наступу:
-"...на Авдіївському напрямку росіяни спробували прорвати нашу оборону, але зазнали невдачі..." https://censor.net/ua/p3335698
+https://censor.net/ua/p3335698
 -----
 20.04 - російські обстріли:
 https://novynarnia.com/2022/04/20/okupanty-obstrilyaly-12-mist/
@@ -7838,11 +7810,13 @@ https://censor.net/ua/n3341501
       </Placemark>
       <Placemark>
         <name><![CDATA[Мар'їнка (один із напрямків російського наступу)]]></name>
-        <description><![CDATA[description: 8.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335130078800077<br>-----<br>3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06 - російські авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>-----<br>28.05 - російські обстріли: https://www.facebook.com/GeneralStaff.ua/posts/326823172964101<br>-----<br>27.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/326425353003883<br>-----<br>25.05 - російські обстріли та авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/325028756476876<br>-----<br>24.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/324283196551432<br>===<br>15.05 - "На Курахівському напрямку ворог , використовуючи підтримку артилерії, вів штурмові та наступальні дії. Успіху не мав": https://censor.net/ua/n3341501<br>-----<br>14.05 - російські обстріли:<br>https://censor.net/ua/p3341281<br>-----<br>13.05, вечір - бойові дії:<br>https://www.facebook.com/GeneralStaff.ua/posts/316199807359771<br>13.05, ранок - російський наступ:<br>https://www.facebook.com/100069092624537/posts/315837394062679/<br>-----<br>12.05 - російський наступ - "На Курахівському напрямку ворог наступає у напрямках Степне – Новомихайлівка, Славне – Новомихайлівка та Олександрівка – Мар’їнка. Продовжуються бойові дії":<br>https://www.facebook.com/GeneralStaff.ua/posts/315147577464994<br>-----<br>10.05 - російський штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/314011584245260<br>-----<br>4.05 - російський обстріл ФОСФОРНИМИ боєприпасами:<br>https://censor.net/ua/news/3339052/rosiyany_obstrilyuvaly_maryinku_fosfornymy_boyeprypasamy_ova<br>-----<br>1.05 - російський штурм - "Російські окупанти безуспішно здійснювали штурмові дії в районі населених пунктів Озерне та Мар’їнка":<br>https://www.facebook.com/GeneralStaff.ua/posts/306878508291901<br>-----<br>28.04 - російські обстріли:<br>"...Авдіївка, Мар'їнка, Красногорівка, Новомихайлівка, Лиман, Вугледар — під постійними обстрілами" <br>https://censor.net/ua/n3337351<br>-----<br>25.04, ОВА - російські обстріли:<br>"...росіяни вбили ще 4 мирних мешканців Донеччини: 2 у Лимані, 1 у Мар’їнці та 1 в Ямполі..."<br>https://censor.net/ua/n3336764<br>-----<br>24.04 - російський наступ:<br>"...противник здійснив спробу наступу у напрямку населених пунктів Новомихайлівка та Мар’їнка. Успіху не мав"<br>https://www.facebook.com/GeneralStaff.ua/posts/301968408782911<br>-----<br>22.04 - російський штурм:<br>"Ворог продовжує намагатися за підтримки артилерії здійснювати штурмові дії в районі населеного пункту Мар’їнка"<br> https://censor.net/ua/n3335955<br>-----<br>21.04 - російські обстріли:<br>https://censor.net/ua/photo_news/3335698/<br>-----<br>20.04 - російський штурм:<br>"На Донецькому напрямку ворог вів штурмові дії у районі населеного пункту Мар’їнка"<br>https://www.facebook.com/GeneralStaff.ua/posts/298791202433965<br>20.04 - російські обстріли:<br>https://novynarnia.com/2022/04/20/okupanty-obstrilyaly-12-mist/<br>-----<br>19.04 - контрнаступ ЗСУ звільняє місто: <br>"...в районі міста Мар’їнка в результаті контрнаступу наших військ ворог зазнав втрат та відступив. Підрозділи Сил оборони відновили контроль над цим населеним пунктом"<br>https://censor.net/ua/n3335308<br>-----<br>18.04 - ЗСУ втрачає контроль над містом?<br>-----<br>17.04 - "Противник ... здійснював штурмові дії в районах населених пунктів Новотошківське, Попасна, Авдіївка та Мар’їнка. Успіху також не мав" - https://censor.net/ua/n3334837<br>-----<br>16.04 - російські обстріли<br><br>element_type: dark_red_dot<br>lat: 47.9458816<br>lon: 37.4978614]]></description>
+        <description><![CDATA[description: 8.06, вечір - російські авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/335494108763674<br>8.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335130078800077<br>-----<br>3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06 - російські авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>-----<br>28.05 - російські обстріли: https://www.facebook.com/GeneralStaff.ua/posts/326823172964101<br>-----<br>27.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/326425353003883<br>-----<br>25.05 - російські обстріли та авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/325028756476876<br>-----<br>24.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/324283196551432<br>===<br>15.05 - "На Курахівському напрямку ворог , використовуючи підтримку артилерії, вів штурмові та наступальні дії. Успіху не мав": https://censor.net/ua/n3341501<br>-----<br>14.05 - російські обстріли:<br>https://censor.net/ua/p3341281<br>-----<br>13.05, вечір - бойові дії:<br>https://www.facebook.com/GeneralStaff.ua/posts/316199807359771<br>13.05, ранок - російський наступ:<br>https://www.facebook.com/100069092624537/posts/315837394062679/<br>-----<br>12.05 - російський наступ - "...у напрямку Олександрівка – Мар’їнка...":<br>https://www.facebook.com/GeneralStaff.ua/posts/315147577464994<br>-----<br>10.05 - російський штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/314011584245260<br>-----<br>4.05 - російський обстріл ФОСФОРНИМИ боєприпасами:<br>https://censor.net/ua/news/3339052/<br>-----<br>1.05 - невдалий російський штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/306878508291901<br>-----<br>28.04 - постійні російські обстріли:<br>https://censor.net/ua/n3337351<br>-----<br>25.04, ОВА - російські обстріли ВБИЛИ людину:<br>https://censor.net/ua/n3336764<br>-----<br>24.04 - невдалий російський наступ:<br>https://www.facebook.com/GeneralStaff.ua/posts/301968408782911<br>-----<br>22.04 - російський штурм:<br> https://censor.net/ua/n3335955<br>-----<br>21.04 - російські обстріли:<br>https://censor.net/ua/photo_news/3335698/<br>-----<br>20.04 - російський штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/298791202433965<br>20.04 - російські обстріли:<br>https://novynarnia.com/2022/04/20/okupanty-obstrilyaly-12-mist/<br>-----<br>19.04 - контрнаступ ЗСУ ЗВІЛЬНЯЄ місто: <br>"...в районі міста Мар’їнка в результаті контрнаступу наших військ ворог зазнав втрат та відступив. Підрозділи Сил оборони відновили контроль над цим населеним пунктом"<br>https://censor.net/ua/n3335308<br>-----<br>18.04 - ЗСУ втрачає контроль над містом?<br>-----<br>17.04 - "Противник ... здійснював штурмові дії в районах населених пунктів Новотошківське, Попасна, Авдіївка та Мар’їнка. Успіху також не мав" - https://censor.net/ua/n3334837<br>-----<br>16.04 - російські обстріли<br><br>element_type: dark_red_dot<br>lat: 47.9458816<br>lon: 37.4978614]]></description>
         <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[8.06 - російські обстріли:
+            <value><![CDATA[8.06, вечір - російські авіаудари:
+https://www.facebook.com/GeneralStaff.ua/posts/335494108763674
+8.06 - російські обстріли:
 https://www.facebook.com/GeneralStaff.ua/posts/335130078800077
 -----
 3.06 - російські обстріли:
@@ -7872,44 +7846,39 @@ https://www.facebook.com/GeneralStaff.ua/posts/316199807359771
 13.05, ранок - російський наступ:
 https://www.facebook.com/100069092624537/posts/315837394062679/
 -----
-12.05 - російський наступ - "На Курахівському напрямку ворог наступає у напрямках Степне – Новомихайлівка, Славне – Новомихайлівка та Олександрівка – Мар’їнка. Продовжуються бойові дії":
+12.05 - російський наступ - "...у напрямку Олександрівка – Мар’їнка...":
 https://www.facebook.com/GeneralStaff.ua/posts/315147577464994
 -----
 10.05 - російський штурм:
 https://www.facebook.com/GeneralStaff.ua/posts/314011584245260
 -----
 4.05 - російський обстріл ФОСФОРНИМИ боєприпасами:
-https://censor.net/ua/news/3339052/rosiyany_obstrilyuvaly_maryinku_fosfornymy_boyeprypasamy_ova
+https://censor.net/ua/news/3339052/
 -----
-1.05 - російський штурм - "Російські окупанти безуспішно здійснювали штурмові дії в районі населених пунктів Озерне та Мар’їнка":
+1.05 - невдалий російський штурм:
 https://www.facebook.com/GeneralStaff.ua/posts/306878508291901
 -----
-28.04 - російські обстріли:
-"...Авдіївка, Мар'їнка, Красногорівка, Новомихайлівка, Лиман, Вугледар — під постійними обстрілами" 
+28.04 - постійні російські обстріли:
 https://censor.net/ua/n3337351
 -----
-25.04, ОВА - російські обстріли:
-"...росіяни вбили ще 4 мирних мешканців Донеччини: 2 у Лимані, 1 у Мар’їнці та 1 в Ямполі..."
+25.04, ОВА - російські обстріли ВБИЛИ людину:
 https://censor.net/ua/n3336764
 -----
-24.04 - російський наступ:
-"...противник здійснив спробу наступу у напрямку населених пунктів Новомихайлівка та Мар’їнка. Успіху не мав"
+24.04 - невдалий російський наступ:
 https://www.facebook.com/GeneralStaff.ua/posts/301968408782911
 -----
 22.04 - російський штурм:
-"Ворог продовжує намагатися за підтримки артилерії здійснювати штурмові дії в районі населеного пункту Мар’їнка"
  https://censor.net/ua/n3335955
 -----
 21.04 - російські обстріли:
 https://censor.net/ua/photo_news/3335698/
 -----
 20.04 - російський штурм:
-"На Донецькому напрямку ворог вів штурмові дії у районі населеного пункту Мар’їнка"
 https://www.facebook.com/GeneralStaff.ua/posts/298791202433965
 20.04 - російські обстріли:
 https://novynarnia.com/2022/04/20/okupanty-obstrilyaly-12-mist/
 -----
-19.04 - контрнаступ ЗСУ звільняє місто: 
+19.04 - контрнаступ ЗСУ ЗВІЛЬНЯЄ місто: 
 "...в районі міста Мар’їнка в результаті контрнаступу наших військ ворог зазнав втрат та відступив. Підрозділи Сил оборони відновили контроль над цим населеним пунктом"
 https://censor.net/ua/n3335308
 -----
@@ -8152,11 +8121,14 @@ https://www.pravda.com.ua/news/2022/04/5/7337229/
       </Placemark>
       <Placemark>
         <name>Богородичне</name>
-        <description><![CDATA[description: 3.06 - російський штурм - "На Слов’янському напрямку ворог ... проводив штурмові дії в районах Богородичне та Долина, успіху не мав, після завданих підрозділами Сил оборони втрат відійшов":<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>29.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/327663802880038<br>-----<br>28.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/326823172964101<br>-----<br>27.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/326425353003883<br>-----<br>26.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>25.05 - російський наступ - "ворог ... здійснив спроби штурмових та наступальних дій в районах Довгенького Харківської області та Богородичне Донецької області, успіху не мав, з втратами відійшов":<br>https://www.facebook.com/GeneralStaff.ua/posts/325028756476876<br>===<br>15.05 - російський наступ - "російські окупанти ... безуспішно намагаються вести наступальні та штурмові дії в районах населених пунктів Довгеньке та Богородичне":<br>https://censor.net/ua/n3341501<br>-----<br>14.05 - російські обстріли:<br>https://censor.net/ua/p3341281<br>-----<br>13.05 - російський наступ - "На Слов’янському напрямку противник основні зусилля зосереджував на наступі в районі населеного пункту Богородичне, успіху не мав":<br>https://www.facebook.com/GeneralStaff.ua/posts/316199807359771<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://texty.org.ua/fragments/106582/<br><br>element_type: dark_red_dot<br>lat: 49.0187098<br>lon: 37.4978673]]></description>
+        <description><![CDATA[description: 9.06 - російські обстріли, потім штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/335842948728790<br>-----<br>3.06 - російський штурм - "На Слов’янському напрямку ворог ... проводив штурмові дії в районах Богородичне та Долина, успіху не мав, після завданих підрозділами Сил оборони втрат відійшов":<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>29.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/327663802880038<br>-----<br>28.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/326823172964101<br>-----<br>27.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/326425353003883<br>-----<br>26.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>25.05 - російський наступ - "ворог ... здійснив спроби штурмових та наступальних дій в районах Довгенького Харківської області та Богородичне Донецької області, успіху не мав, з втратами відійшов":<br>https://www.facebook.com/GeneralStaff.ua/posts/325028756476876<br>===<br>15.05 - російський наступ - "російські окупанти ... безуспішно намагаються вести наступальні та штурмові дії в районах населених пунктів Довгеньке та Богородичне":<br>https://censor.net/ua/n3341501<br>-----<br>14.05 - російські обстріли:<br>https://censor.net/ua/p3341281<br>-----<br>13.05 - російський наступ - "На Слов’янському напрямку противник основні зусилля зосереджував на наступі в районі населеного пункту Богородичне, успіху не мав":<br>https://www.facebook.com/GeneralStaff.ua/posts/316199807359771<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://texty.org.ua/fragments/106582/<br><br>element_type: dark_red_dot<br>lat: 49.0187098<br>lon: 37.4978673]]></description>
         <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[3.06 - російський штурм - "На Слов’янському напрямку ворог ... проводив штурмові дії в районах Богородичне та Долина, успіху не мав, після завданих підрозділами Сил оборони втрат відійшов":
+            <value><![CDATA[9.06 - російські обстріли, потім штурм:
+https://www.facebook.com/GeneralStaff.ua/posts/335842948728790
+-----
+3.06 - російський штурм - "На Слов’янському напрямку ворог ... проводив штурмові дії в районах Богородичне та Долина, успіху не мав, після завданих підрозділами Сил оборони втрат відійшов":
 https://www.facebook.com/GeneralStaff.ua/posts/331331722513246
 -----
 29.05 - російські обстріли:
@@ -8529,11 +8501,14 @@ https://news.liga.net/ua/politics/news/vsu-otbili-dve-ataki-rossiyskih-voysk-v-p
       </Placemark>
       <Placemark>
         <name>Довгеньке (окупанти вже понад місяць доповідають Москві, що захопили село)</name>
-        <description><![CDATA[description: 8.06 - "": https://www.facebook.com/GeneralStaff.ua/posts/335494108763674<br>-----<br>3.06 - російські авіаудари "армійською авіацією":<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>-----<br>1.06, вечір - російський наступ відбито:<br>https://www.facebook.com/GeneralStaff.ua/posts/330226645957087<br>1.06, ранок - "Внаслідок втрат, у районі Довгенького ворог відвів окремі підрозділи на відновлення до міста Ізюм":<br>https://www.facebook.com/GeneralStaff.ua/posts/329873672659051<br>-----<br>31.05 - російський штурм - "...ворог успіху не мав, відійшов на раніше зайняті позиції":<br>https://www.facebook.com/GeneralStaff.ua/posts/329130549400030<br>-----<br>29.05 - російські авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/327663802880038<br>-----<br>28.05 - російські обстріли та авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/327247112921707<br>-----<br>27.05 - російські авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/326425353003883<br>-----<br>26.05 - російські командири вже третій тиждень брешуть Москві, що взяли "Долгєнькоє":<br>https://novynarnia.com/2022/05/26/rosijski-komandyry-breshut/<br>-----<br>26.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>25.05, вечір - російський наступ "успіху не мав, з втратами відійшов":<br>https://www.facebook.com/GeneralStaff.ua/posts/325028756476876<br>25.05, ранок - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/325028756476876<br>-----<br>23.05 - російський наступ відбито":<br>https://www.facebook.com/GeneralStaff.ua/posts/323137383332680<br>===<br>18.05 - російський наступ:<br>https://www.facebook.com/GeneralStaff.ua/posts/319447660368319<br>-----<br>15.05 - російський наступ - "російські окупанти ... безуспішно намагаються вести наступальні та штурмові дії в районах населених пунктів Довгеньке та Богородичне": <br>https://censor.net/ua/n3341501<br>-----<br>14.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/316553500657735/<br>-----<br>4.05 - російський наступ "успіху не мав":<br>https://censor.net/ua/n3338799<br>-----<br>24.04 - російський наступ відбито::<br>https://www.facebook.com/GeneralStaff.ua/posts/301968408782911<br>-----<br>20.04 - ...не мала успіху спроба взяття під контроль населеного пункту Довгеньке. Противник з втратами відступив.<br>Як особливість, відзначено дії ворога на зазначеному напрямку у військовій формі українського зразка".<br>https://www.facebook.com/GeneralStaff.ua/posts/299092695737149<br>-----<br>16.04 - бої всередині села:<br>"...ворог намагається покращити тактичне положення, протягом доби здійснив спробу проведення наступально-штурмових дій та намагався просунутись вглиб населеного пункту Довгеньке. Успіху не має, зазнав значних втрат. Для посилення угруповання на зазначеному напрямку з території російської федерації переміщено підрозділи зі складу 106-ї повітряно-десантної дивізії" -  https://censor.net/ua/n3334566<br>-----<br>10.04 - невдалі спроби наступу російських окупантів - https://www.ukrinform.ua/rubric-ato/3454355-rasisti-mozut-vdatis-do-provokacij-na-teritorii-pridnistrova.html<br><br>element_type: dark_red_dot<br>lat: 49.021468<br>lon: 37.3224746]]></description>
+        <description><![CDATA[description: 9.06 - російські обстріли, потім штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/335842948728790<br>-----<br>8.06 - російський наступ: https://www.facebook.com/GeneralStaff.ua/posts/335494108763674<br>-----<br>3.06 - російські авіаудари "армійською авіацією":<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>-----<br>1.06, вечір - російський наступ відбито:<br>https://www.facebook.com/GeneralStaff.ua/posts/330226645957087<br>1.06, ранок - "Внаслідок втрат, у районі Довгенького ворог відвів окремі підрозділи на відновлення до міста Ізюм":<br>https://www.facebook.com/GeneralStaff.ua/posts/329873672659051<br>-----<br>31.05 - російський штурм - "...ворог успіху не мав, відійшов на раніше зайняті позиції":<br>https://www.facebook.com/GeneralStaff.ua/posts/329130549400030<br>-----<br>29.05 - російські авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/327663802880038<br>-----<br>28.05 - російські обстріли та авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/327247112921707<br>-----<br>27.05 - російські авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/326425353003883<br>-----<br>26.05 - російські командири вже третій тиждень брешуть Москві, що взяли "Долгєнькоє":<br>https://novynarnia.com/2022/05/26/rosijski-komandyry-breshut/<br>-----<br>26.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>25.05, вечір - російський наступ "успіху не мав, з втратами відійшов":<br>https://www.facebook.com/GeneralStaff.ua/posts/325028756476876<br>25.05, ранок - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/325028756476876<br>-----<br>23.05 - російський наступ відбито":<br>https://www.facebook.com/GeneralStaff.ua/posts/323137383332680<br>===<br>18.05 - російський наступ:<br>https://www.facebook.com/GeneralStaff.ua/posts/319447660368319<br>-----<br>15.05 - російський наступ - "російські окупанти ... безуспішно намагаються вести наступальні та штурмові дії в районах населених пунктів Довгеньке та Богородичне": <br>https://censor.net/ua/n3341501<br>-----<br>14.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/316553500657735/<br>-----<br>4.05 - російський наступ "успіху не мав":<br>https://censor.net/ua/n3338799<br>-----<br>24.04 - російський наступ відбито::<br>https://www.facebook.com/GeneralStaff.ua/posts/301968408782911<br>-----<br>20.04 - ...не мала успіху спроба взяття під контроль Довгенького. Противник з втратами відступив ... Відзначено дії ворога на зазначеному напрямку у військовій формі українського зразка".<br>https://www.facebook.com/GeneralStaff.ua/posts/299092695737149<br>-----<br>16.04 - бої всередині села - "Ворог ... намагався просунутись углиб Довгенького. Успіху не має, зазнав значних втрат. Для посилення угруповання на зазначеному напрямку з території рф переміщено підрозділи 106-ї повітряно-десантної дивізії" -  https://censor.net/ua/n3334566<br>-----<br>10.04 - невдалі спроби наступу російських окупантів - https://www.ukrinform.ua/rubric-ato/3454355-rasisti-mozut-vdatis-do-provokacij-na-teritorii-pridnistrova.html<br><br>element_type: dark_red_dot<br>lat: 49.021468<br>lon: 37.3224746]]></description>
         <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[8.06 - "": https://www.facebook.com/GeneralStaff.ua/posts/335494108763674
+            <value><![CDATA[9.06 - російські обстріли, потім штурм:
+https://www.facebook.com/GeneralStaff.ua/posts/335842948728790
+-----
+8.06 - російський наступ: https://www.facebook.com/GeneralStaff.ua/posts/335494108763674
 -----
 3.06 - російські авіаудари "армійською авіацією":
 https://www.facebook.com/GeneralStaff.ua/posts/331331722513246
@@ -8587,12 +8562,10 @@ https://censor.net/ua/n3338799
 24.04 - російський наступ відбито::
 https://www.facebook.com/GeneralStaff.ua/posts/301968408782911
 -----
-20.04 - ...не мала успіху спроба взяття під контроль населеного пункту Довгеньке. Противник з втратами відступив.
-Як особливість, відзначено дії ворога на зазначеному напрямку у військовій формі українського зразка".
+20.04 - ...не мала успіху спроба взяття під контроль Довгенького. Противник з втратами відступив ... Відзначено дії ворога на зазначеному напрямку у військовій формі українського зразка".
 https://www.facebook.com/GeneralStaff.ua/posts/299092695737149
 -----
-16.04 - бої всередині села:
-"...ворог намагається покращити тактичне положення, протягом доби здійснив спробу проведення наступально-штурмових дій та намагався просунутись вглиб населеного пункту Довгеньке. Успіху не має, зазнав значних втрат. Для посилення угруповання на зазначеному напрямку з території російської федерації переміщено підрозділи зі складу 106-ї повітряно-десантної дивізії" -  https://censor.net/ua/n3334566
+16.04 - бої всередині села - "Ворог ... намагався просунутись углиб Довгенького. Успіху не має, зазнав значних втрат. Для посилення угруповання на зазначеному напрямку з території рф переміщено підрозділи 106-ї повітряно-десантної дивізії" -  https://censor.net/ua/n3334566
 -----
 10.04 - невдалі спроби наступу російських окупантів - https://www.ukrinform.ua/rubric-ato/3454355-rasisti-mozut-vdatis-do-provokacij-na-teritorii-pridnistrova.html
 ]]></value>
@@ -8615,11 +8588,14 @@ https://www.facebook.com/GeneralStaff.ua/posts/299092695737149
       </Placemark>
       <Placemark>
         <name>Курулька (напрямок російського наступу)</name>
-        <description><![CDATA[description: 7.06 - російські обстріли:<br>https://censor.net/ua/n3346534<br>-----<br>3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330568765922875<br>-----<br>26.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>9.05 - "На Ізюмському напрямку ворог підрозділами зі складу 1-ї танкової армії, 20-ї загальновійськової армії ... 29-ї, 35-ї, 36-ї армій, 68-го армійського корпусу та повітряно-десантних військ основні зусилля зосереджує на підготовці до продовження наступу на напрямках Сулигівка – Нова Дмитрівка та Сулигівка – Курулька":<br>https://www.facebook.com/100069092624537/posts/312758441037241/<br>-------<br>4.05 - "...ворог здійснює артилерійські обстріли позицій наших військ у районах населених пунктів Грушуваха, Нова Дмитрівка та Курулька":<br>https://www.facebook.com/GeneralStaff.ua/posts/309269478052804<br>-------<br>25.04 - локальні бої<br>"...ворог намагався покращити тактичне положення на напрямках Андріївка - Заводи та Дібровне - Курулька"<br>https://censor.net/ua/n3336738<br>-------<br>24.04 - російські обстріли:<br>"...окупанти обстрілюють позицій наших військ у районах населених пунктів Курулька та Нова Дмитрівка, проводять повітряну розвідку позицій підрозділів Збройних Сил України за допомогою БПЛА "Орлан-10" в районах населених пунктів Барвінкове, Курулька та Гусарівка"<br>https://censor.net/ua/n3336386<br><br>element_type: dark_red_dot<br>lat: 48.9545912<br>lon: 37.2560805]]></description>
+        <description><![CDATA[description: 9.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335842948728790<br>-----<br>7.06 - російські обстріли:<br>https://censor.net/ua/n3346534<br>-----<br>3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330568765922875<br>-----<br>26.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>9.05 - "На Ізюмському напрямку ворог підрозділами зі складу 1-ї танкової армії, 20-ї загальновійськової армії ... 29-ї, 35-ї, 36-ї армій, 68-го армійського корпусу та повітряно-десантних військ основні зусилля зосереджує на підготовці до продовження наступу на напрямках Сулигівка – Нова Дмитрівка та Сулигівка – Курулька":<br>https://www.facebook.com/100069092624537/posts/312758441037241/<br>-------<br>4.05 - "...ворог здійснює артилерійські обстріли позицій наших військ у районах населених пунктів Грушуваха, Нова Дмитрівка та Курулька":<br>https://www.facebook.com/GeneralStaff.ua/posts/309269478052804<br>-------<br>25.04 - локальні бої<br>"...ворог намагався покращити тактичне положення на напрямках Андріївка - Заводи та Дібровне - Курулька"<br>https://censor.net/ua/n3336738<br>-------<br>24.04 - російські обстріли:<br>"...окупанти обстрілюють позицій наших військ у районах населених пунктів Курулька та Нова Дмитрівка, проводять повітряну розвідку позицій підрозділів Збройних Сил України за допомогою БПЛА "Орлан-10" в районах населених пунктів Барвінкове, Курулька та Гусарівка"<br>https://censor.net/ua/n3336386<br><br>element_type: dark_red_dot<br>lat: 48.9545912<br>lon: 37.2560805]]></description>
         <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[7.06 - російські обстріли:
+            <value><![CDATA[9.06 - російські обстріли:
+https://www.facebook.com/GeneralStaff.ua/posts/335842948728790
+-----
+7.06 - російські обстріли:
 https://censor.net/ua/n3346534
 -----
 3.06 - російські обстріли:
@@ -8800,11 +8776,14 @@ https://censor.net/ua/p3334872
       </Placemark>
       <Placemark>
         <name>КРАМАТОРСЬК</name>
-        <description><![CDATA[description: 24.05 - російські авіауадари:<br>https://www.facebook.com/GeneralStaff.ua/posts/324283196551432<br>-----<br>10.05 - російські обстріли:<br>https://www.npu.gov.ua/news/stoprussia/na-donechchini-za-dobu-rosiyani-obstrilyali-13-naselenix-punktiv-policziya-rozpochala-kriminalni-provadzhennya/<br>-----<br>5.05 - обстріли - нічний удар по центру міста, 25 поранених:<br>https://novynarnia.com/2022/05/05/rosiyany-zavdaly-raketnogo/<br>-----<br>20.04, поліція:<br>"Упродовж минулої доби російські військові вдарили по таких населених пунктах Донеччини: Маріуполь, Авдіївка, Вугледар, Мар’їнка, Краматорськ, Новогродівка, Торецьк, Миколаївка, Благодатне, Орлівка, Рубці, Привілля"<br>https://novynarnia.com/2022/04/20/okupanty-obstrilyaly-12-mist/<br>element_type: grey_dot<br>lat: 48.7212343<br>lon: 37.6237485]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <description><![CDATA[description: 9.06 - російський ракетний удар - "На Донецькому напрямку ворог, окрім застосування артилерії вздовж лінії зіткнення, завдав ракетного удару в районі міста Краматорськ":<br>https://www.facebook.com/GeneralStaff.ua/posts/335842948728790<br>-----<br>24.05 - російські авіауадари:<br>https://www.facebook.com/GeneralStaff.ua/posts/324283196551432<br>-----<br>10.05 - російські обстріли:<br>https://www.npu.gov.ua/news/stoprussia/na-donechchini-za-dobu-rosiyani-obstrilyali-13-naselenix-punktiv-policziya-rozpochala-kriminalni-provadzhennya/<br>-----<br>5.05 - обстріли - нічний удар по центру міста, 25 поранених:<br>https://novynarnia.com/2022/05/05/rosiyany-zavdaly-raketnogo/<br>-----<br>20.04, поліція:<br>"Упродовж минулої доби російські військові вдарили по таких населених пунктах Донеччини: Маріуполь, Авдіївка, Вугледар, Мар’їнка, Краматорськ, Новогродівка, Торецьк, Миколаївка, Благодатне, Орлівка, Рубці, Привілля"<br>https://novynarnia.com/2022/04/20/okupanty-obstrilyaly-12-mist/<br><br>element_type: dark_red_dot<br>lat: 48.7212343<br>lon: 37.6237485]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[24.05 - російські авіауадари:
+            <value><![CDATA[9.06 - російський ракетний удар - "На Донецькому напрямку ворог, окрім застосування артилерії вздовж лінії зіткнення, завдав ракетного удару в районі міста Краматорськ":
+https://www.facebook.com/GeneralStaff.ua/posts/335842948728790
+-----
+24.05 - російські авіауадари:
 https://www.facebook.com/GeneralStaff.ua/posts/324283196551432
 -----
 10.05 - російські обстріли:
@@ -8815,10 +8794,11 @@ https://novynarnia.com/2022/05/05/rosiyany-zavdaly-raketnogo/
 -----
 20.04, поліція:
 "Упродовж минулої доби російські військові вдарили по таких населених пунктах Донеччини: Маріуполь, Авдіївка, Вугледар, Мар’їнка, Краматорськ, Новогродівка, Торецьк, Миколаївка, Благодатне, Орлівка, Рубці, Привілля"
-https://novynarnia.com/2022/04/20/okupanty-obstrilyaly-12-mist/]]></value>
+https://novynarnia.com/2022/04/20/okupanty-obstrilyaly-12-mist/
+]]></value>
           </Data>
           <Data name="element_type">
-            <value>grey_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>48.7212343</value>
@@ -8899,12 +8879,15 @@ https://censor.net/ua/news/3332295/16richnu_vagitnu_divchynu_ta_78richnu_babusyu
         </Point>
       </Placemark>
       <Placemark>
-        <name>Велика Костромка (25.05 - російські обстріли)</name>
-        <description><![CDATA[description: 25.05 - російські обстріли:<br>https://t.me/dnipropetrovskaODA/1013<br>-----<br>12.05 - російські обстріли:<br>https://t.me/dnipropetrovskaODA/897<br>-----<br>9.05 - російські обстріли:<br>https://censor.net/ua/news/3340041/vnochi_rosiyany_vluchyly_v_okolytsi_sela_na_dnipropetrovschyni_reznichenko<br>-----<br>27.04 - російські обстріли:<br>https://censor.net/ua/video_news/3337105/<br>-----<br>25.04 - російські обстріли<br>https://censor.net/ua/p3336742<br>-----<br>20.04 - російські обстріли<br>https://censor.net/ua/news/3335638/<br>-----<br>19.04 - російські обстріли <br>https://censor.net/ua/news/3335135/<br>element_type: grey_dot<br>lat: 47.538673<br>lon: 33.7178731]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <name>Велика Костромка</name>
+        <description><![CDATA[description: 8.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335494108763674<br>-----<br>25.05 - російські обстріли:<br>https://t.me/dnipropetrovskaODA/1013<br>-----<br>12.05 - російські обстріли:<br>https://t.me/dnipropetrovskaODA/897<br>-----<br>9.05 - російські обстріли:<br>https://censor.net/ua/news/3340041/vnochi_rosiyany_vluchyly_v_okolytsi_sela_na_dnipropetrovschyni_reznichenko<br>-----<br>27.04 - російські обстріли:<br>https://censor.net/ua/video_news/3337105/<br>-----<br>25.04 - російські обстріли<br>https://censor.net/ua/p3336742<br>-----<br>20.04 - російські обстріли<br>https://censor.net/ua/news/3335638/<br>-----<br>19.04 - російські обстріли <br>https://censor.net/ua/news/3335135/<br><br>element_type: dark_red_dot<br>lat: 47.538673<br>lon: 33.7178731]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>25.05 - російські обстріли:
+            <value>8.06 - російські обстріли:
+https://www.facebook.com/GeneralStaff.ua/posts/335494108763674
+-----
+25.05 - російські обстріли:
 https://t.me/dnipropetrovskaODA/1013
 -----
 12.05 - російські обстріли:
@@ -8923,10 +8906,11 @@ https://censor.net/ua/p3336742
 https://censor.net/ua/news/3335638/
 -----
 19.04 - російські обстріли 
-https://censor.net/ua/news/3335135/</value>
+https://censor.net/ua/news/3335135/
+</value>
           </Data>
           <Data name="element_type">
-            <value>grey_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>47.538673</value>
@@ -9146,11 +9130,16 @@ https://www.ukrinform.ua/rubric-regions/3461282-na-doneccini-trivaut-boi-v-rajon
       </Placemark>
       <Placemark>
         <name>СВЯТОГІРСЬК (тут розташована одна з трьох лавр МП в Україні, росіяни 1 червня вбили її благочинного)</name>
-        <description><![CDATA[description: 4.06 - російські обстріли СПАЛИЛИ Всіхсвятський СКИТ Святогірської лаври:<br>https://censor.net/ua/photo_news/3345921/<br>-----<br>2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>-----<br>1.06 - російські обстріли УБИЛИ ТРЬОХ ЧЕНЦІВ Святогірської лаври, ще трьох поранено:<br>https://tsn.ua/ato/u-svyatogirskiy-lavri-vnaslidok-vorozhogo-obstrilu-zaginuli-troye-chenciv-2076601.html<br>https://www.facebook.com/GeneralStaff.ua/posts/330226645957087<br>-----<br>29.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/327663802880038<br>-----<br>28.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/326823172964101<br>-----<br>27.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/326425353003883<br>-----<br>25.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/324613886518363<br>===<br>14.05 - російські обстріли:<br>https://censor.net/ua/p3341281<br>-----<br>13.05, Нацполіція - російські обстріли:<br>https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br>-----<br>4.05 - російські обстріли, удруге влучило по Святогірській лаврі, семеро поранених:<br>https://www.ukrinform.ua/rubric-regions/3475476-zagarbniki-znovu-obstrilali-svatogirsku-lavru-poraneni-semero-ludej.html<br>-------<br>2.05 - російські обстріли:<br>https://censor.net/ua/photo_news/3338593/<br>-------<br>13.03 - російські обстріли:<br>https://www.ukrinform.ua/rubric-ato/3428842-pid-cas-rosijskogo-obstrilu-svatogirskoi-lavri-poranili-dvoh-civilnih.html<br><br>element_type: dark_red_dot<br>lat: 49.0338795<br>lon: 37.5579612]]></description>
-        <styleUrl>#icon-ci-3</styleUrl>
+        <description><![CDATA[description: 8.06 - проти місцевого мера відкрито кримінальне провадження за державну зраду:<br>https://tsn.ua/ato/mer-zradnik-svyatogirska-propaguvav-russkiy-mir-dbr-vidkrilo-kriminalne-provadzhennya-2081509.html<br>-----<br>6-7.06 - МІСТО ОКУПОВАНЕ<br>-----<br>4.06 - російські обстріли СПАЛИЛИ Всіхсвятський СКИТ Святогірської лаври:<br>https://censor.net/ua/photo_news/3345921/<br>-----<br>2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>-----<br>1.06 - російські обстріли УБИЛИ ТРЬОХ ЧЕНЦІВ Святогірської лаври, ще трьох поранено:<br>https://tsn.ua/ato/u-svyatogirskiy-lavri-vnaslidok-vorozhogo-obstrilu-zaginuli-troye-chenciv-2076601.html<br>https://www.facebook.com/GeneralStaff.ua/posts/330226645957087<br>-----<br>29.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/327663802880038<br>-----<br>28.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/326823172964101<br>-----<br>27.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/326425353003883<br>-----<br>25.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/324613886518363<br>===<br>14.05 - російські обстріли:<br>https://censor.net/ua/p3341281<br>-----<br>13.05, Нацполіція - російські обстріли:<br>https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br>-----<br>4.05 - російські обстріли, удруге влучило по Святогірській лаврі, семеро поранених:<br>https://www.ukrinform.ua/rubric-regions/3475476-zagarbniki-znovu-obstrilali-svatogirsku-lavru-poraneni-semero-ludej.html<br>-------<br>2.05 - російські обстріли:<br>https://censor.net/ua/photo_news/3338593/<br>-------<br>13.03 - російські обстріли:<br>https://www.ukrinform.ua/rubric-ato/3428842-pid-cas-rosijskogo-obstrilu-svatogirskoi-lavri-poranili-dvoh-civilnih.html<br><br>element_type: red_dot<br>lat: 49.0395626<br>lon: 37.5537555]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>4.06 - російські обстріли СПАЛИЛИ Всіхсвятський СКИТ Святогірської лаври:
+            <value>8.06 - проти місцевого мера відкрито кримінальне провадження за державну зраду:
+https://tsn.ua/ato/mer-zradnik-svyatogirska-propaguvav-russkiy-mir-dbr-vidkrilo-kriminalne-provadzhennya-2081509.html
+-----
+6-7.06 - МІСТО ОКУПОВАНЕ
+-----
+4.06 - російські обстріли СПАЛИЛИ Всіхсвятський СКИТ Святогірської лаври:
 https://censor.net/ua/photo_news/3345921/
 -----
 2.06 - російські обстріли:
@@ -9189,28 +9178,31 @@ https://www.ukrinform.ua/rubric-ato/3428842-pid-cas-rosijskogo-obstrilu-svatogir
 </value>
           </Data>
           <Data name="element_type">
-            <value>dark_red_dot</value>
+            <value>red_dot</value>
           </Data>
           <Data name="lat">
-            <value>49.0338795</value>
+            <value>49.0395626</value>
           </Data>
           <Data name="lon">
-            <value>37.5579612</value>
+            <value>37.5537555</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            37.5579612,49.0338795,0
+            37.5537555,49.0395626,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name><![CDATA[Кам'янка]]></name>
-        <description><![CDATA[description: 3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>29.05 - "На Авдіївському напрямку, за підтримки артилерії, противник намагався наступати в районах населених пунктів Кам’янка та Веселе, успіху не мав":<br>https://www.facebook.com/GeneralStaff.ua/posts/327663802880038<br>-----<br>28.05 - російські авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/329873672659051<br>-----<br>27.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/326425353003883<br>-----<br>26.05, ранок - російський штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>25.05 - російський штурм - "На Авдіївському напрямку російські окупанти вели безуспішні штурмові дії в районах населених пунктів Красногорівка, Кам’янка, Авдіївка та Піски":<br>https://www.facebook.com/GeneralStaff.ua/posts/325028756476876<br>===<br>13.05 - бойові дії - "Окупанти намагалися встановити контроль над населеними пунктами Новоселівка Друга, Кам’янка, Мар’їнка і Новомихайлівка":<br>https://www.facebook.com/GeneralStaff.ua/posts/316199807359771<br>-----<br>10.05, вечір - "На Донецькому напрямку окупанти здійснювали спробу штурмових дій у напрямках міста Марʼїнка, населених пунктів Камʼянка Ясинуватського району та Новомихайлівка Покровського району Донецької області. Успіху не мали":<br>https://www.facebook.com/GeneralStaff.ua/posts/314011584245260<br>-----<br>10.05, ранок - "Тривають бої за населений пункт Камʼянка Ясинуватського району Донецької області":<br>https://www.facebook.com/GeneralStaff.ua/posts/313588154287603<br><br>element_type: blue_dot<br>lat: 48.1733218<br>lon: 37.7878355]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <description><![CDATA[description: 8.06 - російські обстріли та авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/335494108763674<br>-----<br>3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>29.05 - "На Авдіївському напрямку, за підтримки артилерії, противник намагався наступати в районах населених пунктів Кам’янка та Веселе, успіху не мав":<br>https://www.facebook.com/GeneralStaff.ua/posts/327663802880038<br>-----<br>28.05 - російські авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/329873672659051<br>-----<br>27.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/326425353003883<br>-----<br>26.05, ранок - російський штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>25.05 - російський штурм - "На Авдіївському напрямку російські окупанти вели безуспішні штурмові дії в районах населених пунктів Красногорівка, Кам’янка, Авдіївка та Піски":<br>https://www.facebook.com/GeneralStaff.ua/posts/325028756476876<br>===<br>13.05 - бойові дії - "Окупанти намагалися встановити контроль над населеними пунктами Новоселівка Друга, Кам’янка, Мар’їнка і Новомихайлівка":<br>https://www.facebook.com/GeneralStaff.ua/posts/316199807359771<br>-----<br>10.05, вечір - "На Донецькому напрямку окупанти здійснювали спробу штурмових дій у напрямках міста Марʼїнка, населених пунктів Камʼянка Ясинуватського району та Новомихайлівка Покровського району Донецької області. Успіху не мали":<br>https://www.facebook.com/GeneralStaff.ua/posts/314011584245260<br>-----<br>10.05, ранок - "Тривають бої за населений пункт Камʼянка Ясинуватського району Донецької області":<br>https://www.facebook.com/GeneralStaff.ua/posts/313588154287603<br><br>element_type: dark_red_dot<br>lat: 48.1733218<br>lon: 37.7878355]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[3.06 - російські обстріли:
+            <value><![CDATA[8.06 - російські обстріли та авіаудари:
+https://www.facebook.com/GeneralStaff.ua/posts/335494108763674
+-----
+3.06 - російські обстріли:
 https://www.facebook.com/GeneralStaff.ua/posts/331331722513246
 -----
 29.05 - "На Авдіївському напрямку, за підтримки артилерії, противник намагався наступати в районах населених пунктів Кам’янка та Веселе, успіху не мав":
@@ -9239,7 +9231,7 @@ https://www.facebook.com/GeneralStaff.ua/posts/313588154287603
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>blue_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>48.1733218</value>
@@ -9727,7 +9719,7 @@ https://www.facebook.com/GeneralStaff.ua/posts/324283196551432
       </Placemark>
       <Placemark>
         <name><![CDATA[Білогорівка (село на трасі "Бахмут-Сєвєродонецьк")]]></name>
-        <description><![CDATA[description: 3.06 - російський штурм - "...в районі Метьолкіного та Білогорівки противник намагався вести штурмові дії, зазнав втрат, відійшов на попередні позиції":<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06, вечір - російський штурм - "На Бахмутському напрямку ворог вів наступальні та штурмові дії в районах населених пунктів Комишуваха, Миколаївка, Врубівка, Берестове та Білогорівка, бойові дії тривають":<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>2.06, ранок - російський штурм відбито - "Ворог ... вів штурм у напрямках Нагірне та Білогорівка, у результаті завданого вогневого нашими підрозділами ураження відійшов":<br>https://www.facebook.com/GeneralStaff.ua/posts/330568765922875<br>-----<br>1.06 - російський наступ - "На Бахмутському напрямку противник намагається витіснити підрозділи наших військ із займаних позицій у районах Білогорівки та Врубівки":<br>https://www.facebook.com/GeneralStaff.ua/posts/329873672659051<br>-----<br>27.05 - російський штурм - "Ворог намагається ... порушити шляхи логістичного забезпечення наших військ. Проводив штурми в районах населених пунктів Комишуваха, Берестове, Білогорівка, успіху не мав":<br>https://www.facebook.com/GeneralStaff.ua/posts/326425353003883<br>-----<br>26.05 - російський наступ - "На Бахмутському напрямку російські окупанти ведуть наступ у напрямках населених пунктів Комишуваха, Ниркове, Берестове та Білогорівка, успіху не мають, зазнали втрат та відійшли":<br>https://censor.net/ua/n3344079<br>-----<br>25.05, Луганська ОВА - "Дорога прострілюється, але ми сьогодні вже змогли завезти гумвантажі. Станом на 13 годину пересування дорогою можливе":<br>https://censor.net/ua/n3343727<br>-----<br>24.05, Юрій Бутусов - бойові дії - "Російські війська ... вийшли на трасу Бахмут - Лисичанськ у районі сіл Нагірне та Білогорівка":<br>https://censor.net/ua/n3343700<br>24.05, Генштаб  - російський наступ - "На Бахмутському напрямку противник наступає в районах населених пунктів Липове та Білогорівка":<br>https://www.facebook.com/GeneralStaff.ua/posts/324283196551432<br><br>element_type: blue_dot<br>lat: 48.7302018<br>lon: 38.2193749]]></description>
+        <description><![CDATA[description: 3.06 - російський штурм - "...в районі Метьолкіного та Білогорівки противник намагався вести штурмові дії, зазнав втрат, відійшов на попередні позиції":<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06, вечір - російський штурм - "На Бахмутському напрямку ворог вів наступальні та штурмові дії в районах населених пунктів Комишуваха, Миколаївка, Врубівка, Берестове та Білогорівка, бойові дії тривають":<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>2.06, ранок - російський штурм відбито - "Ворог ... вів штурм у напрямках Нагірне та Білогорівка, у результаті завданого вогневого нашими підрозділами ураження відійшов":<br>https://www.facebook.com/GeneralStaff.ua/posts/330568765922875<br>-----<br>1.06 - російський наступ - "На Бахмутському напрямку противник намагається витіснити підрозділи наших військ із займаних позицій у районах Білогорівки та Врубівки":<br>https://www.facebook.com/GeneralStaff.ua/posts/329873672659051<br>-----<br>27.05 - російський штурм - "Ворог намагається ... порушити шляхи логістичного забезпечення наших військ. Проводив штурми в районах населених пунктів Комишуваха, Берестове, Білогорівка, успіху не мав":<br>https://www.facebook.com/GeneralStaff.ua/posts/326425353003883<br>-----<br>26.05 - російський наступ - "На Бахмутському напрямку російські окупанти ведуть наступ у напрямках населених пунктів Комишуваха, Ниркове, Берестове та Білогорівка, успіху не мають, зазнали втрат та відійшли":<br>https://censor.net/ua/n3344079<br>-----<br>25.05, Луганська ОВА - "Дорога прострілюється, але ми сьогодні вже змогли завезти гумвантажі. Станом на 13 годину пересування дорогою можливе":<br>https://censor.net/ua/n3343727<br>-----<br>24.05, Юрій Бутусов - бойові дії - "Російські війська ... вийшли на трасу Бахмут - Лисичанськ у районі сіл Нагірне та Білогорівка":<br>https://censor.net/ua/n3343700<br>24.05, Генштаб  - російський наступ - "На Бахмутському напрямку противник наступає в районах населених пунктів Липове та Білогорівка":<br>https://www.facebook.com/GeneralStaff.ua/posts/324283196551432<br><br>element_type: blue_dot<br>lat: 48.7324097<br>lon: 38.2160275]]></description>
         <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
@@ -9761,15 +9753,15 @@ https://www.facebook.com/GeneralStaff.ua/posts/324283196551432
             <value>blue_dot</value>
           </Data>
           <Data name="lat">
-            <value>48.7302018</value>
+            <value>48.7324097</value>
           </Data>
           <Data name="lon">
-            <value>38.2193749</value>
+            <value>38.2160275</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            38.2193749,48.7302018,0
+            38.2160275,48.7324097,0
           </coordinates>
         </Point>
       </Placemark>
@@ -15916,11 +15908,14 @@ https://texty.org.ua/fragments/106582/
       </Placemark>
       <Placemark>
         <name>Красногорівка</name>
-        <description><![CDATA[description: 3.06 - бойові дії - "Ворог ... силами окремих підрозділів і ДРГ намагався вступати у бойові зіткнення й вести штурмові дії поблизу Красногорівки та Полтавки. Успіху не мав, відійшов на попередні позиції":<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>26.05, ранок - російський штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>25.05 - російський штурм - "...російські окупанти вели безуспішні штурмові дії в районах населених пунктів Красногорівка, Кам’янка, Авдіївка та Піски":<br>https://www.facebook.com/GeneralStaff.ua/posts/325028756476876<br>===<br>14.05 - російський наступ - "...противник намагається покращити тактичне положення у районах населених пунктів Комишуваха, Красногорівка, Новомихайлівка, Костянтинівка і Побєда. Успіху не має":<br>https://www.facebook.com/GeneralStaff.ua/posts/316553500657735/<br>-----<br>13.05, Нацполіція - російські обстріли:<br>https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br>-----<br>1.05 - "...обстрілами перебито електромережу, через це знеструмлене місто Красногорівка": https://censor.net/ua/n3338087<br>-----<br>28.04 - російські обстріли:<br>"...Авдіївка, Мар'їнка, Красногорівка, Новомихайлівка, Лиман, Вугледар — під постійними обстрілами" <br>https://censor.net/ua/n3337351<br>-----<br>Орієнтовно 20.04 ЗСУ відбили під містечком танковий наступ росіян (ВІДЕО):<br>https://censor.net/ua/video_news/3336789/znyschuvaly_usim_scho_bulo_pid_rukoyu_ukrayinski_zahysnyky_vidbyly_tankovyyi_proryv_okupantiv_pid_donetskom<br>-----<br>21.04 - російські обстріли:<br>https://censor.net/ua/photo_news/3335698/viyiska_rf_sprobuvaly_prorvaty_nashu_oboronu_na_avdiyivskomu_napryamku_ale_zaznaly_nevdachi_ova_foto<br>-----<br>16.04 - російські обстріли<br>https://censor.net/ua/photo_news/3334682/za_dobu_viyiska_rf_obstrilyaly_13_naselenyh_punktiv_donechchyny_dvoye_myrnyh_jyteliv_zagynuly_natspolitsiya<br><br>element_type: blue_dot<br>lat: 48.014351<br>lon: 37.522498]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <description><![CDATA[description: 8.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335494108763674<br>-----<br>3.06 - бойові дії - "Ворог ... силами окремих підрозділів і ДРГ намагався вступати у бойові зіткнення й вести штурмові дії поблизу Красногорівки та Полтавки. Успіху не мав, відійшов на попередні позиції":<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>26.05, ранок - російський штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>25.05 - російський штурм - "...російські окупанти вели безуспішні штурмові дії в районах населених пунктів Красногорівка, Кам’янка, Авдіївка та Піски":<br>https://www.facebook.com/GeneralStaff.ua/posts/325028756476876<br>===<br>14.05 - російський наступ - "...противник намагається покращити тактичне положення у районах населених пунктів Комишуваха, Красногорівка, Новомихайлівка, Костянтинівка і Побєда. Успіху не має":<br>https://www.facebook.com/GeneralStaff.ua/posts/316553500657735/<br>-----<br>13.05, Нацполіція - російські обстріли:<br>https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br>-----<br>1.05 - "...обстрілами перебито електромережу, через це знеструмлене місто Красногорівка": https://censor.net/ua/n3338087<br>-----<br>28.04 - російські обстріли:<br>"...Авдіївка, Мар'їнка, Красногорівка, Новомихайлівка, Лиман, Вугледар — під постійними обстрілами" <br>https://censor.net/ua/n3337351<br>-----<br>Орієнтовно 20.04 ЗСУ відбили під містечком танковий наступ росіян (ВІДЕО):<br>https://censor.net/ua/video_news/3336789/znyschuvaly_usim_scho_bulo_pid_rukoyu_ukrayinski_zahysnyky_vidbyly_tankovyyi_proryv_okupantiv_pid_donetskom<br>-----<br>21.04 - російські обстріли:<br>https://censor.net/ua/photo_news/3335698/viyiska_rf_sprobuvaly_prorvaty_nashu_oboronu_na_avdiyivskomu_napryamku_ale_zaznaly_nevdachi_ova_foto<br>-----<br>16.04 - російські обстріли<br>https://censor.net/ua/photo_news/3334682/za_dobu_viyiska_rf_obstrilyaly_13_naselenyh_punktiv_donechchyny_dvoye_myrnyh_jyteliv_zagynuly_natspolitsiya<br><br>element_type: dark_red_dot<br>lat: 48.014351<br>lon: 37.522498]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[3.06 - бойові дії - "Ворог ... силами окремих підрозділів і ДРГ намагався вступати у бойові зіткнення й вести штурмові дії поблизу Красногорівки та Полтавки. Успіху не мав, відійшов на попередні позиції":
+            <value><![CDATA[8.06 - російські обстріли:
+https://www.facebook.com/GeneralStaff.ua/posts/335494108763674
+-----
+3.06 - бойові дії - "Ворог ... силами окремих підрозділів і ДРГ намагався вступати у бойові зіткнення й вести штурмові дії поблизу Красногорівки та Полтавки. Успіху не мав, відійшов на попередні позиції":
 https://www.facebook.com/GeneralStaff.ua/posts/331331722513246
 -----
 26.05, ранок - російський штурм:
@@ -15952,7 +15947,7 @@ https://censor.net/ua/photo_news/3334682/za_dobu_viyiska_rf_obstrilyaly_13_nasel
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>blue_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>48.014351</value>
@@ -15969,11 +15964,16 @@ https://censor.net/ua/photo_news/3334682/za_dobu_viyiska_rf_obstrilyaly_13_nasel
       </Placemark>
       <Placemark>
         <name>Комишуваха (Луганська обл.)</name>
-        <description><![CDATA[description: 7.06 - російський штурм - "...українські воїни успішно стримують штурмові дії в районі населеного пункту Комишуваха": https://censor.net/ua/n3346534<br>-----<br>3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06, вечір - російський штурм, "бойові дії тривають":<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>2.06, ранок - схоже, СЕЛИЩЕ (частково) ОКУПОВАНО - "...ворог веде штурмові дії в населеному пункті Комишуваха з метою взяття під контроль міста, має частковий успіх, бої тривають.<br>https://www.facebook.com/GeneralStaff.ua/posts/330568765922875<br>-----<br>1.06, вечір - російський штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/330226645957087<br>1.06, ранок - російські авіаудари "штурмовою та армійською авіацією":<br>https://www.facebook.com/GeneralStaff.ua/posts/329873672659051<br>-----<br>31.05 - "...ворог вів бойові та штурмові дії в районах населених пунктів Золоте, Комишуваха... Успіху не має, бойові дії тривають":<br>https://www.facebook.com/GeneralStaff.ua/posts/329130549400030<br>-----<br>29.05 - російський наступ відбито:<br>https://www.facebook.com/GeneralStaff.ua/posts/327663802880038<br>-----<br>28.05 - бойові дії:<br>https://www.facebook.com/GeneralStaff.ua/posts/327247112921707<br>-----<br>27.05 - російський штурм - "Ворог ... проводив штурми в районах населених пунктів Комишуваха, Берестове, Білогорівка, успіху не мав":<br>https://www.facebook.com/GeneralStaff.ua/posts/326425353003883<br>-----<br>26.05, вечір - російський наступ відбито - "...окупанти ведуть наступ у напрямках населених пунктів Комишуваха, Ниркове, Берестове та Білогорівка, успіху не мають, зазнали втрат та відійшли":<br>https://censor.net/ua/n3344079<br>26.05, ранок - російський наступ відбито -  "...противник безуспішно здійснив спроби наступу в районах Комишувахи, Липового і Нагірного":<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>25.05, Луганська ОВА - російський наступ відбито - "...вночі орки пішли в наступ в районі Комишувахи і Троїцького, успіху не мали, зазнали втрат":<br>https://censor.net/ua/n3343655<br>===<br>15.05 - російський наступ - "На Бахмутському напрямку тривають бойові дії в районі Комишувахи": <br>https://censor.net/ua/n3341501<br>-----<br>14.05 - російський наступ - "...противник намагається покращити тактичне положення у районах населених пунктів Комишуваха, Красногорівка, Новомихайлівка, Костянтинівка і Побєда. Успіху не має":<br>https://www.facebook.com/GeneralStaff.ua/posts/316553500657735/<br>-----<br>13.05, Луганська ОВА - російські обстріли зруйнували 11 будинків:<br>https://censor.net/ua/photo_news/3341266/<br>13.05 - російський штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/316199807359771<br>-----<br>12.05, Луганська ОВА - російські обстріли, зруйновано 11 будинків:<br>https://censor.net/ua/p3340998<br>-----<br>12.05 - російський штурм - "...ворог веде штурмові дії у напрямку Первомайськ, Комишуваха, бойові дії тривають":<br>https://www.facebook.com/GeneralStaff.ua/posts/315147577464994<br>-----<br>1.05 - російські обстріли - "У Комишувасі (поблизу Попасної) зруйновано будівлю сільради, школу та багатоквартирний будинок": <br>https://censor.net/ua/n3338087<br><br>element_type: dark_red_dot<br>lat: 48.6965416<br>lon: 38.3963769]]></description>
+        <description><![CDATA[description: 9.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335842948728790<br>-----<br>8.06 - російські обстріли: https://www.facebook.com/GeneralStaff.ua/posts/335494108763674<br>-----<br>7.06 - російський штурм - "...українські воїни успішно стримують штурмові дії в районі населеного пункту Комишуваха": https://censor.net/ua/n3346534<br>-----<br>3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06, вечір - російський штурм, "бойові дії тривають":<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>2.06, ранок - схоже, СЕЛИЩЕ (частково) ОКУПОВАНО - "...ворог веде штурмові дії в населеному пункті Комишуваха з метою взяття під контроль міста, має частковий успіх, бої тривають.<br>https://www.facebook.com/GeneralStaff.ua/posts/330568765922875<br>-----<br>1.06, вечір - російський штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/330226645957087<br>1.06, ранок - російські авіаудари "штурмовою та армійською авіацією":<br>https://www.facebook.com/GeneralStaff.ua/posts/329873672659051<br>-----<br>31.05 - "...ворог вів бойові та штурмові дії в районах населених пунктів Золоте, Комишуваха... Успіху не має, бойові дії тривають":<br>https://www.facebook.com/GeneralStaff.ua/posts/329130549400030<br>-----<br>29.05 - російський наступ відбито:<br>https://www.facebook.com/GeneralStaff.ua/posts/327663802880038<br>-----<br>28.05 - бойові дії:<br>https://www.facebook.com/GeneralStaff.ua/posts/327247112921707<br>-----<br>27.05 - російський штурм - "Ворог ... проводив штурми в районах населених пунктів Комишуваха, Берестове, Білогорівка, успіху не мав":<br>https://www.facebook.com/GeneralStaff.ua/posts/326425353003883<br>-----<br>26.05, вечір - російський наступ відбито - "...окупанти ведуть наступ у напрямках населених пунктів Комишуваха, Ниркове, Берестове та Білогорівка, успіху не мають, зазнали втрат та відійшли":<br>https://censor.net/ua/n3344079<br>26.05, ранок - російський наступ відбито -  "...противник безуспішно здійснив спроби наступу в районах Комишувахи, Липового і Нагірного":<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>25.05, Луганська ОВА - російський наступ відбито - "...вночі орки пішли в наступ в районі Комишувахи і Троїцького, успіху не мали, зазнали втрат":<br>https://censor.net/ua/n3343655<br>===<br>15.05 - російський наступ - "На Бахмутському напрямку тривають бойові дії в районі Комишувахи": <br>https://censor.net/ua/n3341501<br>-----<br>14.05 - російський наступ - "...противник намагається покращити тактичне положення у районах населених пунктів Комишуваха, Красногорівка, Новомихайлівка, Костянтинівка і Побєда. Успіху не має":<br>https://www.facebook.com/GeneralStaff.ua/posts/316553500657735/<br>-----<br>13.05, Луганська ОВА - російські обстріли зруйнували 11 будинків:<br>https://censor.net/ua/photo_news/3341266/<br>13.05 - російський штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/316199807359771<br>-----<br>12.05, Луганська ОВА - російські обстріли, зруйновано 11 будинків:<br>https://censor.net/ua/p3340998<br>-----<br>12.05 - російський штурм - "...ворог веде штурмові дії у напрямку Первомайськ, Комишуваха, бойові дії тривають":<br>https://www.facebook.com/GeneralStaff.ua/posts/315147577464994<br>-----<br>1.05 - російські обстріли - "У Комишувасі (поблизу Попасної) зруйновано будівлю сільради, школу та багатоквартирний будинок": <br>https://censor.net/ua/n3338087<br><br>element_type: dark_red_dot<br>lat: 48.6965416<br>lon: 38.3963769]]></description>
         <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[7.06 - російський штурм - "...українські воїни успішно стримують штурмові дії в районі населеного пункту Комишуваха": https://censor.net/ua/n3346534
+            <value><![CDATA[9.06 - російські обстріли:
+https://www.facebook.com/GeneralStaff.ua/posts/335842948728790
+-----
+8.06 - російські обстріли: https://www.facebook.com/GeneralStaff.ua/posts/335494108763674
+-----
+7.06 - російський штурм - "...українські воїни успішно стримують штурмові дії в районі населеного пункту Комишуваха": https://censor.net/ua/n3346534
 -----
 3.06 - російські обстріли:
 https://www.facebook.com/GeneralStaff.ua/posts/331331722513246
@@ -16047,11 +16047,13 @@ https://censor.net/ua/n3338087
       </Placemark>
       <Placemark>
         <name><![CDATA[Долина (цікавий історичний факт - під цим селом захлинувся аналогічний за планом наступ Червоної армії в липні 1943 року - див. "Ізюм-Барвенківська наступальна операція")]]></name>
-        <description><![CDATA[description: 7.06 - російські обстріли - "На Слов’янському напрямку ... обстріляв райони населених пунктів Велика Комишуваха, Долина, Курулька, Грушуваха, Червона Поляна та Шнурки":<br>https://censor.net/ua/n3346534<br>-----<br>3.06 - російський штурм - "На Слов’янському напрямку ворог ... проводив штурмові дії в районах Богородичне та Долина, успіху не мав, після завданих підрозділами Сил оборони втрат відійшов":<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330568765922875<br>===<br>14.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/316553500657735/<br>-----<br>13.05 - російські авіаудари - "На Слов’янському напрямку противник ... здійснив авіаудари по районах населених пунктів Долина та Адамівка":<br>https://www.facebook.com/GeneralStaff.ua/posts/316199807359771<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://texty.org.ua/fragments/106582/<br><br>element_type: dark_red_dot<br>lat: 49.0059565<br>lon: 37.4363911]]></description>
+        <description><![CDATA[description: 8.06 - російські обстріли: https://www.facebook.com/GeneralStaff.ua/posts/335494108763674<br>-----<br>7.06 - російські обстріли - "На Слов’янському напрямку ... обстріляв райони населених пунктів Велика Комишуваха, Долина, Курулька, Грушуваха, Червона Поляна та Шнурки":<br>https://censor.net/ua/n3346534<br>-----<br>3.06 - російський штурм - "На Слов’янському напрямку ворог ... проводив штурмові дії в районах Богородичне та Долина, успіху не мав, після завданих підрозділами Сил оборони втрат відійшов":<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330568765922875<br>===<br>14.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/316553500657735/<br>-----<br>13.05 - російські авіаудари - "На Слов’янському напрямку противник ... здійснив авіаудари по районах населених пунктів Долина та Адамівка":<br>https://www.facebook.com/GeneralStaff.ua/posts/316199807359771<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://texty.org.ua/fragments/106582/<br><br>element_type: dark_red_dot<br>lat: 49.0059565<br>lon: 37.4363911]]></description>
         <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[7.06 - російські обстріли - "На Слов’янському напрямку ... обстріляв райони населених пунктів Велика Комишуваха, Долина, Курулька, Грушуваха, Червона Поляна та Шнурки":
+            <value><![CDATA[8.06 - російські обстріли: https://www.facebook.com/GeneralStaff.ua/posts/335494108763674
+-----
+7.06 - російські обстріли - "На Слов’янському напрямку ... обстріляв райони населених пунктів Велика Комишуваха, Долина, Курулька, Грушуваха, Червона Поляна та Шнурки":
 https://censor.net/ua/n3346534
 -----
 3.06 - російський штурм - "На Слов’янському напрямку ворог ... проводив штурмові дії в районах Богородичне та Долина, успіху не мав, після завданих підрозділами Сил оборони втрат відійшов":
@@ -17892,12 +17894,15 @@ https://texty.org.ua/fragments/106582/</value>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Ярова</name>
-        <description><![CDATA[description: 3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06 - російський штурм - "На Лиманському напрямку противник ... вів штурмові дії в районах населених пунктів Студенок, Соснове і Ярова, бойові дії тривають. На цьому напрямку ворог активізував роботу засобів радіоелектронної боротьби":<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>===<br>14.05, Нацполіція - російські обстріли:<br>https://censor.net/ua/p3341281<br>-----<br>13.05, Нацполіція - "Упродовж минулої доби російські війська вдарили по таких населених пунктах - Маріуполь, Авдіївка, Світлодарськ, Святогірськ, Красногорівка, Торецьк, Соледар, Лиман, Білозерське, Ярове, Черкаське, Нью-Йорк, Новоселівка-3, Зайцеве, Цукурине, Восход, Дробишеве, Желанне, Званівка, Переїзне, Соснове, Федорівка": https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br>-----<br>2.05, Нацполіція - "Упродовж минулої доби російські війська вдарили по таких населених пунктах: Маріуполь, Лиман, Авдіївка, Вугледар, Бахмут, Очеретине, Маяки, Ярова, Переїзне, Володимирівка, Райгородок. Окупанти вбили та поранили мирних жителів":<br>https://www.ukrinform.ua/rubric-regions/3472713-na-doneccini-rosiani-za-dobu-obstrilali-11-naselenih-punktiv.html<br><br>element_type: dark_red_dot<br>lat: 49.0584444<br>lon: 37.6381867]]></description>
-        <styleUrl>#icon-ci-3</styleUrl>
+        <name>Ярова (окупована в перші дні червня)</name>
+        <description><![CDATA[description: станом на 7.06 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт російських окупантів:<br>https://twitter.com/Nrg8000/status/1534199398443667456<br>-----<br>3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06 - російський штурм - "На Лиманському напрямку противник ... вів штурмові дії в районах населених пунктів Студенок, Соснове і Ярова, бойові дії тривають. На цьому напрямку ворог активізував роботу засобів радіоелектронної боротьби":<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>===<br>14.05, Нацполіція - російські обстріли:<br>https://censor.net/ua/p3341281<br>-----<br>13.05, Нацполіція - "Упродовж минулої доби російські війська вдарили по таких населених пунктах - Маріуполь, Авдіївка, Світлодарськ, Святогірськ, Красногорівка, Торецьк, Соледар, Лиман, Білозерське, Ярове, Черкаське, Нью-Йорк, Новоселівка-3, Зайцеве, Цукурине, Восход, Дробишеве, Желанне, Званівка, Переїзне, Соснове, Федорівка": https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br>-----<br>2.05, Нацполіція - "Упродовж минулої доби російські війська вдарили по таких населених пунктах: Маріуполь, Лиман, Авдіївка, Вугледар, Бахмут, Очеретине, Маяки, Ярова, Переїзне, Володимирівка, Райгородок. Окупанти вбили та поранили мирних жителів":<br>https://www.ukrinform.ua/rubric-regions/3472713-na-doneccini-rosiani-za-dobu-obstrilali-11-naselenih-punktiv.html<br><br>element_type: red_dot<br>lat: 49.0584444<br>lon: 37.6381867]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[3.06 - російські обстріли:
+            <value><![CDATA[станом на 7.06 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт російських окупантів:
+https://twitter.com/Nrg8000/status/1534199398443667456
+-----
+3.06 - російські обстріли:
 https://www.facebook.com/GeneralStaff.ua/posts/331331722513246
 -----
 2.06 - російський штурм - "На Лиманському напрямку противник ... вів штурмові дії в районах населених пунктів Студенок, Соснове і Ярова, бойові дії тривають. На цьому напрямку ворог активізував роботу засобів радіоелектронної боротьби":
@@ -17913,7 +17918,7 @@ https://www.ukrinform.ua/rubric-regions/3472713-na-doneccini-rosiani-za-dobu-obs
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>dark_red_dot</value>
+            <value>red_dot</value>
           </Data>
           <Data name="lat">
             <value>49.0584444</value>
@@ -18316,18 +18321,22 @@ https://texty.org.ua/fragments/106582/
       </Placemark>
       <Placemark>
         <name>Серебрянка (5-13.05 - потужні бої за переправу через Сіверський Донець на захопленому росіянами плацдармі)</name>
-        <description><![CDATA[description: 13.05 - російський відступ на лівий берег річки - "Російський наступ під селами Білогорівка, Серебрянка та Дронівка Луганської області повністю розгромлений. 8 діб поспіль (5-13.05) російські війська намагались прорватись через річку Сіверський Донець і створили три плацдарми, але ... просто не витримали бою й були вибиті поступово з кожного плацдарму":<br>https://censor.net/ua/p3341132<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://texty.org.ua/fragments/106582/<br>element_type: blue_dot<br>lat: 48.918523<br>lon: 38.1332845]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <description><![CDATA[description: 9.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335842948728790<br>-----<br>13.05 - російський відступ на лівий берег річки - "Російський наступ під селами Білогорівка, Серебрянка та Дронівка Луганської області повністю розгромлений. 8 діб поспіль (5-13.05) російські війська намагались прорватись через річку Сіверський Донець і створили три плацдарми, але ... просто не витримали бою й були вибиті поступово з кожного плацдарму":<br>https://censor.net/ua/p3341132<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://texty.org.ua/fragments/106582/<br><br>element_type: dark_red_dot<br>lat: 48.918523<br>lon: 38.1332845]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[13.05 - російський відступ на лівий берег річки - "Російський наступ під селами Білогорівка, Серебрянка та Дронівка Луганської області повністю розгромлений. 8 діб поспіль (5-13.05) російські війська намагались прорватись через річку Сіверський Донець і створили три плацдарми, але ... просто не витримали бою й були вибиті поступово з кожного плацдарму":
+            <value><![CDATA[9.06 - російські обстріли:
+https://www.facebook.com/GeneralStaff.ua/posts/335842948728790
+-----
+13.05 - російський відступ на лівий берег річки - "Російський наступ під селами Білогорівка, Серебрянка та Дронівка Луганської області повністю розгромлений. 8 діб поспіль (5-13.05) російські війська намагались прорватись через річку Сіверський Донець і створили три плацдарми, але ... просто не витримали бою й були вибиті поступово з кожного плацдарму":
 https://censor.net/ua/p3341132
 -----
 станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:
-https://texty.org.ua/fragments/106582/]]></value>
+https://texty.org.ua/fragments/106582/
+]]></value>
           </Data>
           <Data name="element_type">
-            <value>blue_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>48.918523</value>
@@ -18749,12 +18758,15 @@ https://www.facebook.com/okPivden/posts/2022535391251037
         </Point>
       </Placemark>
       <Placemark>
-        <name>Князівка (звільнена 31.03)</name>
-        <description><![CDATA[description: 31.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/329130549400030<br>-----<br>29.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/328041022842316<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://texty.org.ua/fragments/106582/<br>-----<br>1.05 - "Основні зусилля окупанти зосередили на Криворізькому напрямку. Вели артилерійський вогонь по позиціях наших підрозділів у районах Таврійського, Осокорівки, Трудолюбівки та Князівки":<br>https://www.facebook.com/GeneralStaff.ua/posts/306878508291901<br>-----<br>31.03 - село ЗВІЛЬНЕНЕ:<br>https://www.facebook.com/okPivden/posts/2022535391251037<br>-----<br>станом на 19.03 село окуповане:<br>https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/<br><br>element_type: blue_dot<br>lat: 47.5226252<br>lon: 33.5218204]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <name>Князівка (звільнена 31 березня)</name>
+        <description><![CDATA[description: 8.06 - російські авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/335494108763674<br>-----<br>31.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/329130549400030<br>-----<br>29.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/328041022842316<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://texty.org.ua/fragments/106582/<br>-----<br>1.05 - "Основні зусилля окупанти зосередили на Криворізькому напрямку. Вели артилерійський вогонь по позиціях наших підрозділів у районах Таврійського, Осокорівки, Трудолюбівки та Князівки":<br>https://www.facebook.com/GeneralStaff.ua/posts/306878508291901<br>-----<br>31.03 - село ЗВІЛЬНЕНЕ:<br>https://www.facebook.com/okPivden/posts/2022535391251037<br>-----<br>станом на 19.03 село окуповане:<br>https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/<br><br>element_type: dark_red_dot<br>lat: 47.5226252<br>lon: 33.5218204]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[31.05 - російські обстріли:
+            <value><![CDATA[8.06 - російські авіаудари:
+https://www.facebook.com/GeneralStaff.ua/posts/335494108763674
+-----
+31.05 - російські обстріли:
 https://www.facebook.com/GeneralStaff.ua/posts/329130549400030
 -----
 29.05 - російські обстріли:
@@ -18774,7 +18786,7 @@ https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>blue_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>47.5226252</value>
@@ -18819,12 +18831,15 @@ https://www.facebook.com/okPivden/posts/2022535391251037
         </Point>
       </Placemark>
       <Placemark>
-        <name>Олександрівка</name>
-        <description><![CDATA[description: 2.06 - російські авіаудари (Мі-24):<br>https://www.facebook.com/GeneralStaff.ua/posts/330568765922875<br>-----<br>31.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/329130549400030<br>===<br>13.05 - російські обстріли - "На Південнобузькому напрямку ... обстрілювали підрозділи наших військ зі ствольної артилерії та мінометів у районах населених пунктів Олександрівка, Таврійське...":<br>https://www.facebook.com/100069092624537/posts/315837394062679/<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://texty.org.ua/fragments/106582/<br>-----<br>22.04 - росіяни на підступах:<br>"...в районі населеного пункту Олександрівка ворог здійснює оборону зайнятих позицій. Проводить повітряну розвідку. Не виключається ведення штурмових дій з метою виходу на адміністративні межі Херсонської області" <br>https://censor.net/ua/n3336097<br>-----<br>20.04 - бойові дії:<br>"На Південнобузькому напрямку противник ... веде бойові дії в районі населеного пункту Олександрівка" - <br>https://www.facebook.com/GeneralStaff.ua/posts/298791202433965<br>-----<br>19.04 - російський наступ:<br>https://censor.net/ua/news/3335271/<br>-----<br>17.04 - російські обстріли: "На Південнобузькому напрямку ворог ... продовжує здійснювати вогневий вплив на позиції наших військ у напрямках на Миколаїв та Олександрівку" -  https://censor.net/ua/n3334837<br>-----<br>6.04 - бойові дії: "...тривають бої в районі населеного пункту Олександрівка" - https://censor.net/ua/news/3331755/<br>-----<br>3.04 - бойові дії - "...на Південнобузькому напрямку триває бій за населений пункт Олександрівка": - https://t.me/ministry_of_defense_ua/1020 <br><br>element_type: dark_red_dot<br>lat: 46.617497<br>lon: 32.1125967]]></description>
+        <name>Олександрівка (місце постійних боїв) </name>
+        <description><![CDATA[description: 8.06 - російські авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/335494108763674<br>-----<br>2.06 - російські авіаудари (Мі-24):<br>https://www.facebook.com/GeneralStaff.ua/posts/330568765922875<br>-----<br>31.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/329130549400030<br>===<br>13.05 - російські обстріли - "На Південнобузькому напрямку ... обстрілювали підрозділи наших військ зі ствольної артилерії та мінометів у районах населених пунктів Олександрівка, Таврійське...":<br>https://www.facebook.com/100069092624537/posts/315837394062679/<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://texty.org.ua/fragments/106582/<br>-----<br>22.04 - росіяни на підступах:<br>"...в районі населеного пункту Олександрівка ворог здійснює оборону зайнятих позицій. Проводить повітряну розвідку. Не виключається ведення штурмових дій з метою виходу на адміністративні межі Херсонської області" <br>https://censor.net/ua/n3336097<br>-----<br>20.04 - бойові дії:<br>"На Південнобузькому напрямку противник ... веде бойові дії в районі населеного пункту Олександрівка" - <br>https://www.facebook.com/GeneralStaff.ua/posts/298791202433965<br>-----<br>19.04 - російський наступ:<br>https://censor.net/ua/news/3335271/<br>-----<br>17.04 - російські обстріли: "На Південнобузькому напрямку ворог ... продовжує здійснювати вогневий вплив на позиції наших військ у напрямках на Миколаїв та Олександрівку" -  https://censor.net/ua/n3334837<br>-----<br>6.04 - бойові дії: "...тривають бої в районі населеного пункту Олександрівка" - https://censor.net/ua/news/3331755/<br>-----<br>3.04 - бойові дії - "...на Південнобузькому напрямку триває бій за населений пункт Олександрівка": - https://t.me/ministry_of_defense_ua/1020 <br><br>element_type: dark_red_dot<br>lat: 46.617497<br>lon: 32.1125967]]></description>
         <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[2.06 - російські авіаудари (Мі-24):
+            <value><![CDATA[8.06 - російські авіаудари:
+https://www.facebook.com/GeneralStaff.ua/posts/335494108763674
+-----
+2.06 - російські авіаудари (Мі-24):
 https://www.facebook.com/GeneralStaff.ua/posts/330568765922875
 -----
 31.05 - російські обстріли:
@@ -19709,11 +19724,14 @@ https://texty.org.ua/fragments/106582/</value>
       </Placemark>
       <Placemark>
         <name>Любомирівка</name>
-        <description><![CDATA[description: 27.05 - "На Південнобузькому напрямку агресор ... здійснив невдалу спробу штурмових дій в районі населеного пункту Любомирівка":<br>https://www.facebook.com/GeneralStaff.ua/posts/326425353003883<br>===<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем Збройних сил України:<br>https://texty.org.ua/fragments/106582/<br><br>element_type: blue_dot<br>lat: 46.8820388<br>lon: 32.3975751]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <description><![CDATA[description: 8.06, вечір - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335494108763674<br>-----<br>27.05 - "На Південнобузькому напрямку агресор ... здійснив невдалу спробу штурмових дій в районі населеного пункту Любомирівка":<br>https://www.facebook.com/GeneralStaff.ua/posts/326425353003883<br>===<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем Збройних сил України:<br>https://texty.org.ua/fragments/106582/<br><br>element_type: dark_red_dot<br>lat: 46.8820388<br>lon: 32.3975751]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[27.05 - "На Південнобузькому напрямку агресор ... здійснив невдалу спробу штурмових дій в районі населеного пункту Любомирівка":
+            <value><![CDATA[8.06, вечір - російські обстріли:
+https://www.facebook.com/GeneralStaff.ua/posts/335494108763674
+-----
+27.05 - "На Південнобузькому напрямку агресор ... здійснив невдалу спробу штурмових дій в районі населеного пункту Любомирівка":
 https://www.facebook.com/GeneralStaff.ua/posts/326425353003883
 ===
 станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем Збройних сил України:
@@ -19721,7 +19739,7 @@ https://texty.org.ua/fragments/106582/
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>blue_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>46.8820388</value>
@@ -21912,11 +21930,13 @@ https://www.facebook.com/GeneralStaff.ua/posts/325028756476876
       </Placemark>
       <Placemark>
         <name>Берестове</name>
-        <description><![CDATA[description: 8.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335130078800077<br>-----<br>3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06 - російський штурм - "На Бахмутському напрямку ворог вів наступальні та штурмові дії в районах населених пунктів Комишуваха, Миколаївка, Врубівка, Берестове та Білогорівка, бойові дії тривають":<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>-----<br>1.06 - російські авіаудари - "ворог ... застосував штурмову та армійську авіацію у районах населених пунктів Комишуваха, Берестове і Ниркове":<br>https://www.facebook.com/GeneralStaff.ua/posts/329873672659051<br>-----<br>31.05 - російський штурм - "...ворог вів бойові та штурмові дії в районах населених пунктів Золоте, Комишуваха, Ниркове, Берестове, Покровське, Доломітне. Успіху не має, бойові дії тривають":<br>https://www.facebook.com/GeneralStaff.ua/posts/329130549400030<br><br>29.05 - російські авіаудари - "На Бахмутському напрямку ворог ... завдав авіаційного удару літаками оперативно-тактичної авіації у районах населених пунктів Берестове та Покровське":<br>https://www.facebook.com/GeneralStaff.ua/posts/328041022842316<br>-----<br>27.05 - російський штурм - "Ворог намагається ... порушити шляхи логістичного забезпечення наших військ. Проводив штурми в районах населених пунктів Комишуваха, Берестове, Білогорівка, успіху не мав":<br>https://www.facebook.com/GeneralStaff.ua/posts/326425353003883<br>-----<br>26.05 - російський наступ відбито - "На Бахмутському напрямку російські окупанти ведуть наступ у напрямках населених пунктів Комишуваха, Ниркове, Берестове та Білогорівка, успіху не мають, зазнали втрат та відійшли":<br>https://censor.net/ua/n3344079<br>-----<br>25.05 - російський наступ відбито - "Противник здійснив спроби наступальних та штурмових дій ... в районах населених пунктів Берестове, Липове і Ниркове, успіху не мав, відійшов на раніше зайняті рубежі":<br>https://www.facebook.com/GeneralStaff.ua/posts/325028756476876<br><br>element_type: dark_red_dot<br>lat: 48.7564434<br>lon: 38.2509732]]></description>
+        <description><![CDATA[description: 8.06, вечір - невдалий російський штурм - ЗСУ "завдали окупантам значних втрат у живій силі й техніці...":<br>https://www.facebook.com/GeneralStaff.ua/posts/335494108763674<br>8.06, ранок - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335130078800077<br>-----<br>3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06 - російський штурм - "На Бахмутському напрямку ворог вів наступальні та штурмові дії в районах населених пунктів Комишуваха, Миколаївка, Врубівка, Берестове та Білогорівка, бойові дії тривають":<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>-----<br>1.06 - російські авіаудари - "ворог ... застосував штурмову та армійську авіацію у районах населених пунктів Комишуваха, Берестове і Ниркове":<br>https://www.facebook.com/GeneralStaff.ua/posts/329873672659051<br>-----<br>31.05 - російський штурм - "...ворог вів бойові та штурмові дії в районах населених пунктів Золоте, Комишуваха, Ниркове, Берестове, Покровське, Доломітне. Успіху не має, бойові дії тривають":<br>https://www.facebook.com/GeneralStaff.ua/posts/329130549400030<br><br>29.05 - російські авіаудари - "На Бахмутському напрямку ворог ... завдав авіаційного удару літаками оперативно-тактичної авіації у районах населених пунктів Берестове та Покровське":<br>https://www.facebook.com/GeneralStaff.ua/posts/328041022842316<br>-----<br>27.05 - російський штурм - "Ворог намагається ... порушити шляхи логістичного забезпечення наших військ. Проводив штурми в районах населених пунктів Комишуваха, Берестове, Білогорівка, успіху не мав":<br>https://www.facebook.com/GeneralStaff.ua/posts/326425353003883<br>-----<br>26.05 - російський наступ відбито - "На Бахмутському напрямку російські окупанти ведуть наступ у напрямках населених пунктів Комишуваха, Ниркове, Берестове та Білогорівка, успіху не мають, зазнали втрат та відійшли":<br>https://censor.net/ua/n3344079<br>-----<br>25.05 - російський наступ відбито - "Противник здійснив спроби наступальних та штурмових дій ... в районах населених пунктів Берестове, Липове і Ниркове, успіху не мав, відійшов на раніше зайняті рубежі":<br>https://www.facebook.com/GeneralStaff.ua/posts/325028756476876<br><br>element_type: dark_red_dot<br>lat: 48.7573487<br>lon: 38.2557797]]></description>
         <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[8.06 - російські обстріли:
+            <value><![CDATA[8.06, вечір - невдалий російський штурм - ЗСУ "завдали окупантам значних втрат у живій силі й техніці...":
+https://www.facebook.com/GeneralStaff.ua/posts/335494108763674
+8.06, ранок - російські обстріли:
 https://www.facebook.com/GeneralStaff.ua/posts/335130078800077
 -----
 3.06 - російські обстріли:
@@ -21948,15 +21968,15 @@ https://www.facebook.com/GeneralStaff.ua/posts/325028756476876
             <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
-            <value>48.7564434</value>
+            <value>48.7573487</value>
           </Data>
           <Data name="lon">
-            <value>38.2509732</value>
+            <value>38.2557797</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            38.2509732,48.7564434,0
+            38.2557797,48.7573487,0
           </coordinates>
         </Point>
       </Placemark>
@@ -23149,8 +23169,8 @@ https://censor.net/ua/n3335984]]></value>
       </Placemark>
       <Placemark>
         <name>Шнурки</name>
-        <description><![CDATA[description: 7.06 - російські обстріли - "На Слов’янському напрямку ... обстріляв райони населених пунктів Велика Комишуваха, Долина, Курулька, Грушуваха, Червона Поляна та Шнурки":<br>https://censor.net/ua/n3346534<br>-----<br>22.04, Нацполіція: "Упродовж минулої доби окупанти вдарили по таких населених пунктах - Маріуполь, Авдіївка, Лиман, Слов’янськ, Мар’їнка, Вугледар, Сіверськ, Світлодарськ, Велика Новосілка, Олександрівка, Зарічне, Очеретине, Дмитро-Дар’ївка, Східне, Новомихайлівка, Новобахмутівка, Новоселівка-3, Шнурки, Ямпіль, траса Київ-Харків-Довжанське"<br>https://censor.net/ua/n3335984<br><br>element_type: dark_red_dot<br>lat: 48.9069609<br>lon: 37.3114252]]></description>
-        <styleUrl>#icon-ci-3</styleUrl>
+        <description><![CDATA[description: 7.06 - російські обстріли - "На Слов’янському напрямку ... обстріляв райони населених пунктів Велика Комишуваха, Долина, Курулька, Грушуваха, Червона Поляна та Шнурки":<br>https://censor.net/ua/n3346534<br>-----<br>22.04, Нацполіція: "Упродовж минулої доби окупанти вдарили по таких населених пунктах - Маріуполь, Авдіївка, Лиман, Слов’янськ, Мар’їнка, Вугледар, Сіверськ, Світлодарськ, Велика Новосілка, Олександрівка, Зарічне, Очеретине, Дмитро-Дар’ївка, Східне, Новомихайлівка, Новобахмутівка, Новоселівка-3, Шнурки, Ямпіль, траса Київ-Харків-Довжанське"<br>https://censor.net/ua/n3335984<br><br>element_type: grey_dot<br>lat: 48.9069609<br>lon: 37.3114252]]></description>
+        <styleUrl>#icon-ci-5</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value><![CDATA[7.06 - російські обстріли - "На Слов’янському напрямку ... обстріляв райони населених пунктів Велика Комишуваха, Долина, Курулька, Грушуваха, Червона Поляна та Шнурки":
@@ -23161,7 +23181,7 @@ https://censor.net/ua/n3335984
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>dark_red_dot</value>
+            <value>grey_dot</value>
           </Data>
           <Data name="lat">
             <value>48.9069609</value>
@@ -23281,12 +23301,16 @@ https://www.ukrinform.ua/rubric-regions/3472713-na-doneccini-rosiani-za-dobu-obs
       </Placemark>
       <Placemark>
         <name>Маяки</name>
-        <description><![CDATA[description: 2.05 - "Упродовж минулої доби російські війська вдарили по таких населених пунктах: Маріуполь, Лиман, Авдіївка, Вугледар, Бахмут, Очеретине, Маяки, Ярова, Переїзне, Володимирівка, Райгородок. Окупанти вбили та поранили мирних жителів":<br>https://www.ukrinform.ua/rubric-regions/3472713-na-doneccini-rosiani-za-dobu-obstrilali-11-naselenih-punktiv.html<br>element_type: blue_dot<br>lat: 48.9462875<br>lon: 37.6241145]]></description>
+        <description><![CDATA[description: станом на 7.06 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://twitter.com/Nrg8000/status/1534199398443667456<br>-----<br>2.05 - "Упродовж минулої доби російські війська вдарили по таких населених пунктах: Маріуполь, Лиман, Авдіївка, Вугледар, Бахмут, Очеретине, Маяки, Ярова, Переїзне, Володимирівка, Райгородок. Окупанти вбили та поранили мирних жителів":<br>https://www.ukrinform.ua/rubric-regions/3472713-na-doneccini-rosiani-za-dobu-obstrilali-11-naselenih-punktiv.html<br><br>element_type: blue_dot<br>lat: 48.9462875<br>lon: 37.6241145]]></description>
         <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[2.05 - "Упродовж минулої доби російські війська вдарили по таких населених пунктах: Маріуполь, Лиман, Авдіївка, Вугледар, Бахмут, Очеретине, Маяки, Ярова, Переїзне, Володимирівка, Райгородок. Окупанти вбили та поранили мирних жителів":
-https://www.ukrinform.ua/rubric-regions/3472713-na-doneccini-rosiani-za-dobu-obstrilali-11-naselenih-punktiv.html]]></value>
+            <value><![CDATA[станом на 7.06 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:
+https://twitter.com/Nrg8000/status/1534199398443667456
+-----
+2.05 - "Упродовж минулої доби російські війська вдарили по таких населених пунктах: Маріуполь, Лиман, Авдіївка, Вугледар, Бахмут, Очеретине, Маяки, Ярова, Переїзне, Володимирівка, Райгородок. Окупанти вбили та поранили мирних жителів":
+https://www.ukrinform.ua/rubric-regions/3472713-na-doneccini-rosiani-za-dobu-obstrilali-11-naselenih-punktiv.html
+]]></value>
           </Data>
           <Data name="element_type">
             <value>blue_dot</value>
@@ -23741,8 +23765,8 @@ https://censor.net/ua/p3341281</value>
       </Placemark>
       <Placemark>
         <name>Щербаки</name>
-        <description><![CDATA[description: 1.06 - російські авіаудари - "...противник завдавав авіаційних ударів силами оперативно-тактичної авіації у районах Авдіївки, Нью-Йорка, Новоселівки, Щербаків":<br>https://www.facebook.com/GeneralStaff.ua/posts/330226645957087<br>-----<br>6.04 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/289180696728349<br><br>element_type: dark_red_dot<br>lat: 47.5516229<br>lon: 35.5798959]]></description>
-        <styleUrl>#icon-ci-3</styleUrl>
+        <description><![CDATA[description: 1.06 - російські авіаудари - "...противник завдавав авіаційних ударів силами оперативно-тактичної авіації у районах Авдіївки, Нью-Йорка, Новоселівки, Щербаків":<br>https://www.facebook.com/GeneralStaff.ua/posts/330226645957087<br>-----<br>6.04 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/289180696728349<br><br>element_type: blue_dot<br>lat: 47.5516229<br>lon: 35.5798959]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value><![CDATA[1.06 - російські авіаудари - "...противник завдавав авіаційних ударів силами оперативно-тактичної авіації у районах Авдіївки, Нью-Йорка, Новоселівки, Щербаків":
@@ -23753,7 +23777,7 @@ https://www.facebook.com/GeneralStaff.ua/posts/289180696728349
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>dark_red_dot</value>
+            <value>blue_dot</value>
           </Data>
           <Data name="lat">
             <value>47.5516229</value>
@@ -23853,21 +23877,25 @@ https://censor.net/ua/video_news/3332025/okupanty_obstrilyuyut_sela_lymany_ta_lu
         </Point>
       </Placemark>
       <Placemark>
-        <name>Новоданилівка (24.04 - російський обстріл)</name>
-        <description><![CDATA[description: 24.04 - російські обстріли:<br>https://tsn.ua/ukrayina/okupanti-grabuyut-naselennya-mobilizuyut-cholovikiv-ta-vedut-obstrili-operativna-situaciya-u-zaporizkiy-oblasti-2044981.html<br>-----<br>13.04 - російський ОБСТРІЛ ФОСФОРНИМИ БОЄПРИПАСАМИ: <br>https://suspilne.media/228103-u-pologivskomu-rajoni-na-zaporizzi-rosijski-vijska-obstrilali-selo-fosfornimi-boepripasami/<br>-----<br>6.04 - російський обстріл - https://www.facebook.com/GeneralStaff.ua/posts/289180696728349<br>element_type: grey_dot<br>lat: 47.5251905<br>lon: 35.8210989]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <name>Новоданилівка</name>
+        <description><![CDATA[description: 8.06 - російські авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/335494108763674<br>-----<br>24.04 - російські обстріли:<br>https://tsn.ua/ukrayina/okupanti-grabuyut-naselennya-mobilizuyut-cholovikiv-ta-vedut-obstrili-operativna-situaciya-u-zaporizkiy-oblasti-2044981.html<br>-----<br>13.04 - російський ОБСТРІЛ ФОСФОРНИМИ БОЄПРИПАСАМИ: <br>https://suspilne.media/228103-u-pologivskomu-rajoni-na-zaporizzi-rosijski-vijska-obstrilali-selo-fosfornimi-boepripasami/<br>-----<br>6.04 - російський обстріл - https://www.facebook.com/GeneralStaff.ua/posts/289180696728349<br><br>element_type: dark_red_dot<br>lat: 47.5251905<br>lon: 35.8210989]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>24.04 - російські обстріли:
+            <value>8.06 - російські авіаудари:
+https://www.facebook.com/GeneralStaff.ua/posts/335494108763674
+-----
+24.04 - російські обстріли:
 https://tsn.ua/ukrayina/okupanti-grabuyut-naselennya-mobilizuyut-cholovikiv-ta-vedut-obstrili-operativna-situaciya-u-zaporizkiy-oblasti-2044981.html
 -----
 13.04 - російський ОБСТРІЛ ФОСФОРНИМИ БОЄПРИПАСАМИ: 
 https://suspilne.media/228103-u-pologivskomu-rajoni-na-zaporizzi-rosijski-vijska-obstrilali-selo-fosfornimi-boepripasami/
 -----
-6.04 - російський обстріл - https://www.facebook.com/GeneralStaff.ua/posts/289180696728349</value>
+6.04 - російський обстріл - https://www.facebook.com/GeneralStaff.ua/posts/289180696728349
+</value>
           </Data>
           <Data name="element_type">
-            <value>grey_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>47.5251905</value>
@@ -25611,8 +25639,8 @@ https://texty.org.ua/fragments/106547/]]></value>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Підірваний в останні дні квітня автомобільний міст через Сіверський Донець</name>
-        <description><![CDATA[description: 1.05, за НЕОФІЦІЙНИМИ даними (Том Купер):<br>"...за минулі 3-4 дні українці підірвали чимало мостів через Донець: спершу два біля села Студенок, потім один у Богородичному, далі ще один поруч з Озерним"<br>https://texty.org.ua/fragments/106547/<br>element_type: blue_bridge<br>lat: 49.0226311<br>lon: 37.5132872]]></description>
+        <name>Підірваний в останні дні квітня автомобільний міст через Сіверський Донець у Богородичному</name>
+        <description><![CDATA[description: 1.05, за НЕОФІЦІЙНИМИ даними (Том Купер):<br>"...за минулі 3-4 дні українці підірвали чимало мостів через Донець: спершу два біля села Студенок, потім один у Богородичному, далі ще один поруч з Озерним"<br>https://texty.org.ua/fragments/106547/<br>element_type: blue_bridge<br>lat: 49.0227015<br>lon: 37.5133301]]></description>
         <styleUrl>#icon-ci-6</styleUrl>
         <ExtendedData>
           <Data name="description">
@@ -25624,15 +25652,15 @@ https://texty.org.ua/fragments/106547/]]></value>
             <value>blue_bridge</value>
           </Data>
           <Data name="lat">
-            <value>49.0226311</value>
+            <value>49.0227015</value>
           </Data>
           <Data name="lon">
-            <value>37.5132872</value>
+            <value>37.5133301</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            37.5132872,49.0226311,0
+            37.5133301,49.0227015,0
           </coordinates>
         </Point>
       </Placemark>
@@ -27833,12 +27861,13 @@ https://www.facebook.com/GeneralStaff.ua/posts/327663802880038</value>
       </Placemark>
       <Placemark>
         <name>Покровське (зруйноване російською артилерією)</name>
-        <description><![CDATA[description: 8.06 - російські обстріли та авіаудари (вертольотами Ка-52):<br>https://www.facebook.com/GeneralStaff.ua/posts/335130078800077<br>-----<br>станом на 4.06 в результаті російських обстрілів у селі не залишилось цілого будинку:<br>https://censor.net/ua/video_news/3345947/<br>-----<br>3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>1.06 - російські авіаудари - "...противник завдавав авіаційних ударів силами армійської авіації неподалік населених пунктів Роти, Покровське та Новоселівка.":<br>https://www.facebook.com/GeneralStaff.ua/posts/330226645957087<br>-----<br>31.05 - російський штурм - "...ворог вів бойові та штурмові дії в районах населених пунктів Золоте, Комишуваха, Ниркове, Берестове, Покровське, Доломітне. Успіху не має, бойові дії тривають":<br>https://www.facebook.com/GeneralStaff.ua/posts/329130549400030<br>-----<br>29.05 - російські авіаудари - "На Бахмутському напрямку ворог ... завдав авіаційного удару літаками оперативно-тактичної авіації у районах населених пунктів Берестове та Покровське":<br>https://www.facebook.com/GeneralStaff.ua/posts/328041022842316<br><br>element_type: dark_red_dot<br>lat: 48.6146016<br>lon: 38.1514765]]></description>
+        <description><![CDATA[description: 8.06 - російські обстріли та авіаудари (вранці - вертольотами Ка-52, увечері - авіацією):<br>https://www.facebook.com/GeneralStaff.ua/posts/335130078800077<br>https://www.facebook.com/GeneralStaff.ua/posts/335494108763674<br>-----<br>станом на 4.06 в результаті російських обстрілів у селі не залишилось цілого будинку:<br>https://censor.net/ua/video_news/3345947/<br>-----<br>3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>1.06 - російські авіаудари - "...противник завдавав авіаційних ударів силами армійської авіації неподалік населених пунктів Роти, Покровське та Новоселівка.":<br>https://www.facebook.com/GeneralStaff.ua/posts/330226645957087<br>-----<br>31.05 - російський штурм - "...ворог вів бойові та штурмові дії в районах населених пунктів Золоте, Комишуваха, Ниркове, Берестове, Покровське, Доломітне. Успіху не має, бойові дії тривають":<br>https://www.facebook.com/GeneralStaff.ua/posts/329130549400030<br>-----<br>29.05 - російські авіаудари - "На Бахмутському напрямку ворог ... завдав авіаційного удару літаками оперативно-тактичної авіації у районах населених пунктів Берестове та Покровське":<br>https://www.facebook.com/GeneralStaff.ua/posts/328041022842316<br><br>element_type: dark_red_dot<br>lat: 48.6198786<br>lon: 38.14358]]></description>
         <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[8.06 - російські обстріли та авіаудари (вертольотами Ка-52):
+            <value><![CDATA[8.06 - російські обстріли та авіаудари (вранці - вертольотами Ка-52, увечері - авіацією):
 https://www.facebook.com/GeneralStaff.ua/posts/335130078800077
+https://www.facebook.com/GeneralStaff.ua/posts/335494108763674
 -----
 станом на 4.06 в результаті російських обстрілів у селі не залишилось цілого будинку:
 https://censor.net/ua/video_news/3345947/
@@ -27860,15 +27889,15 @@ https://www.facebook.com/GeneralStaff.ua/posts/328041022842316
             <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
-            <value>48.6146016</value>
+            <value>48.6198786</value>
           </Data>
           <Data name="lon">
-            <value>38.1514765</value>
+            <value>38.14358</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            38.1514765,48.6146016,0
+            38.14358,48.6198786,0
           </coordinates>
         </Point>
       </Placemark>
@@ -28788,11 +28817,13 @@ https://www.facebook.com/GeneralStaff.ua/posts/330568765922875
       </Placemark>
       <Placemark>
         <name>Миколаївка</name>
-        <description><![CDATA[description: 5.06 - в боях за село загинув російський окупант, генерал-майор (він же "командир армії днр") Кутузов:<br>https://www.facebook.com/RomanTsymbaliuk/posts/5466216930078200<br>https://www.unian.ua/war/v-ukrajini-likviduvali-shche-odnogo-rosiyskogo-generala-romana-kutuzova-novini-vtorgnennya-rosiji-v-ukrajinu-11855256.html<br>----- <br>3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06 - російський штурм - "На Бахмутському напрямку ворог вів наступальні та штурмові дії в районах населених пунктів Комишуваха, Миколаївка, Врубівка, Берестове та Білогорівка, бойові дії тривають":<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br><br>element_type: blue_dot<br>lat: 48.7679904<br>lon: 38.3270535]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <description><![CDATA[description: 8.06 - російські обстріли: https://www.facebook.com/GeneralStaff.ua/posts/335494108763674<br>-----<br>5.06 - в боях за село загинув російський окупант, генерал-майор (він же "командир армії днр") Кутузов:<br>https://www.facebook.com/RomanTsymbaliuk/posts/5466216930078200<br>https://www.unian.ua/war/v-ukrajini-likviduvali-shche-odnogo-rosiyskogo-generala-romana-kutuzova-novini-vtorgnennya-rosiji-v-ukrajinu-11855256.html<br>----- <br>3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06 - російський штурм - "На Бахмутському напрямку ворог вів наступальні та штурмові дії в районах населених пунктів Комишуваха, Миколаївка, Врубівка, Берестове та Білогорівка, бойові дії тривають":<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br><br>element_type: dark_red_dot<br>lat: 48.7679904<br>lon: 38.3270535]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[5.06 - в боях за село загинув російський окупант, генерал-майор (він же "командир армії днр") Кутузов:
+            <value><![CDATA[8.06 - російські обстріли: https://www.facebook.com/GeneralStaff.ua/posts/335494108763674
+-----
+5.06 - в боях за село загинув російський окупант, генерал-майор (він же "командир армії днр") Кутузов:
 https://www.facebook.com/RomanTsymbaliuk/posts/5466216930078200
 https://www.unian.ua/war/v-ukrajini-likviduvali-shche-odnogo-rosiyskogo-generala-romana-kutuzova-novini-vtorgnennya-rosiji-v-ukrajinu-11855256.html
 ----- 
@@ -28804,7 +28835,7 @@ https://www.facebook.com/GeneralStaff.ua/posts/330999902546428
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>blue_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>48.7679904</value>
@@ -28984,17 +29015,20 @@ https://www.facebook.com/GeneralStaff.ua/posts/331331722513246
         </Point>
       </Placemark>
       <Placemark>
-        <name>Щурове</name>
-        <description><![CDATA[description: 3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331730485806703<br><br>element_type: dark_red_dot<br>lat: 48.9597733<br>lon: 37.7191571]]></description>
-        <styleUrl>#icon-ci-3</styleUrl>
+        <name>Щурове (окуповане на початку червня)</name>
+        <description><![CDATA[description: станом на 7.06 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://twitter.com/Nrg8000/status/1534199398443667456<br>-----<br>3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331730485806703<br><br>element_type: red_dot<br>lat: 48.9597733<br>lon: 37.7191571]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>3.06 - російські обстріли:
+            <value>станом на 7.06 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:
+https://twitter.com/Nrg8000/status/1534199398443667456
+-----
+3.06 - російські обстріли:
 https://www.facebook.com/GeneralStaff.ua/posts/331730485806703
 </value>
           </Data>
           <Data name="element_type">
-            <value>dark_red_dot</value>
+            <value>red_dot</value>
           </Data>
           <Data name="lat">
             <value>48.9597733</value>
@@ -29066,14 +29100,15 @@ https://www.facebook.com/GeneralStaff.ua/posts/331331722513246
       </Placemark>
       <Placemark>
         <name><![CDATA[Семигір'я]]></name>
-        <description><![CDATA[description: <br>element_type: blue_dot<br>lat: 48.4625023<br>lon: 38.163285]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <description><![CDATA[description: 8.06 - російські обстріли: https://www.facebook.com/GeneralStaff.ua/posts/335494108763674<br><br>element_type: dark_red_dot<br>lat: 48.4625023<br>lon: 38.163285]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value/>
+            <value>8.06 - російські обстріли: https://www.facebook.com/GeneralStaff.ua/posts/335494108763674
+</value>
           </Data>
           <Data name="element_type">
-            <value>blue_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>48.4625023</value>
@@ -29968,11 +30003,11 @@ https://www.facebook.com/GeneralStaff.ua/posts/335130078800077
       </Placemark>
       <Placemark>
         <name>Любомирівка</name>
-        <description><![CDATA[description: 8.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335130078800077<br><br>element_type: dark_red_dot<br>lat: 47.1841516<br>lon: 32.8804612]]></description>
+        <description><![CDATA[description: 8.06, ранок - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335130078800077<br><br>element_type: dark_red_dot<br>lat: 47.1841516<br>lon: 32.8804612]]></description>
         <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>8.06 - російські обстріли:
+            <value>8.06, ранок - російські обстріли:
 https://www.facebook.com/GeneralStaff.ua/posts/335130078800077
 </value>
           </Data>
@@ -30019,15 +30054,16 @@ https://www.facebook.com/GeneralStaff.ua/posts/335494108763674
         </Point>
       </Placemark>
       <Placemark>
-        <name>Точка 1044</name>
-        <description><![CDATA[description: <br>element_type: <br>lat: 49.256388<br>lon: 36.7065839]]></description>
-        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <name>Вільне</name>
+        <description><![CDATA[description: 8.06 - російські обстріли: https://www.facebook.com/GeneralStaff.ua/posts/335494108763674<br><br>element_type: dark_red_dot<br>lat: 49.256388<br>lon: 36.7065839]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value/>
+            <value>8.06 - російські обстріли: https://www.facebook.com/GeneralStaff.ua/posts/335494108763674
+</value>
           </Data>
           <Data name="element_type">
-            <value/>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>49.256388</value>
@@ -30039,6 +30075,240 @@ https://www.facebook.com/GeneralStaff.ua/posts/335494108763674
         <Point>
           <coordinates>
             36.7065839,49.256388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Тетянівка</name>
+        <description><![CDATA[description: 9.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335842948728790<br>-----<br>8.06 - російські обстріли: https://www.facebook.com/GeneralStaff.ua/posts/335494108763674<br><br>element_type: dark_red_dot<br>lat: 49.0336151<br>lon: 37.5966466]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>9.06 - російські обстріли:
+https://www.facebook.com/GeneralStaff.ua/posts/335842948728790
+-----
+8.06 - російські обстріли: https://www.facebook.com/GeneralStaff.ua/posts/335494108763674
+</value>
+          </Data>
+          <Data name="element_type">
+            <value>dark_red_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>49.0336151</value>
+          </Data>
+          <Data name="lon">
+            <value>37.5966466</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.5966466,49.0336151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Підірваний 6.06 лаврський автомобільний міст через Сіверський Донець у Святогірську</name>
+        <description><![CDATA[description: Найближчий до правого берега проліт знищено вибухом<br>element_type: blue_bridge<br>lat: 49.0307764<br>lon: 37.5694274]]></description>
+        <styleUrl>#icon-ci-6</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Найближчий до правого берега проліт знищено вибухом</value>
+          </Data>
+          <Data name="element_type">
+            <value>blue_bridge</value>
+          </Data>
+          <Data name="lat">
+            <value>49.0307764</value>
+          </Data>
+          <Data name="lon">
+            <value>37.5694274</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.5694274,49.0307764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[1.06 - російський ракетний удар по інфраструктурі залізничного вузла "Стрий"]]></name>
+        <description><![CDATA[description: Поранено п'ятеро людей:<br>https://www.pravda.com.ua/news/2022/06/2/7349997/<br><br>element_type: red_fire<br>lat: 49.2579102<br>lon: 23.835666]]></description>
+        <styleUrl>#icon-ci-7</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[Поранено п'ятеро людей:
+https://www.pravda.com.ua/news/2022/06/2/7349997/
+]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>red_fire</value>
+          </Data>
+          <Data name="lat">
+            <value>49.2579102</value>
+          </Data>
+          <Data name="lon">
+            <value>23.835666</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            23.835666,49.2579102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Клинове</name>
+        <description><![CDATA[description: 8.06 - російські авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/335494108763674<br><br>element_type: dark_red_dot<br>lat: 48.5688065<br>lon: 38.1608621]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>8.06 - російські авіаудари:
+https://www.facebook.com/GeneralStaff.ua/posts/335494108763674
+</value>
+          </Data>
+          <Data name="element_type">
+            <value>dark_red_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>48.5688065</value>
+          </Data>
+          <Data name="lon">
+            <value>38.1608621</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.1608621,48.5688065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Нова Кам'янка]]></name>
+        <description><![CDATA[description: 8.06 - російські авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/335494108763674<br><br>element_type: dark_red_dot<br>lat: 48.6665304<br>lon: 38.136204]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>8.06 - російські авіаудари:
+https://www.facebook.com/GeneralStaff.ua/posts/335494108763674
+</value>
+          </Data>
+          <Data name="element_type">
+            <value>dark_red_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>48.6665304</value>
+          </Data>
+          <Data name="lon">
+            <value>38.136204</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.136204,48.6665304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Пришиб</name>
+        <description><![CDATA[description: 9.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335842948728790<br>-----<br>станом на 7.06 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://twitter.com/Nrg8000/status/1534199398443667456<br><br>element_type: dark_red_dot<br>lat: 49.0207357<br>lon: 37.641074]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>9.06 - російські обстріли:
+https://www.facebook.com/GeneralStaff.ua/posts/335842948728790
+-----
+станом на 7.06 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:
+https://twitter.com/Nrg8000/status/1534199398443667456
+</value>
+          </Data>
+          <Data name="element_type">
+            <value>dark_red_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>49.0207357</value>
+          </Data>
+          <Data name="lon">
+            <value>37.641074</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.641074,49.0207357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Донецьке</name>
+        <description><![CDATA[description: станом на 7.06 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://twitter.com/Nrg8000/status/1534199398443667456<br>element_type: blue_dot<br>lat: 48.9351602<br>lon: 37.6913862]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>станом на 7.06 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:
+https://twitter.com/Nrg8000/status/1534199398443667456</value>
+          </Data>
+          <Data name="element_type">
+            <value>blue_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>48.9351602</value>
+          </Data>
+          <Data name="lon">
+            <value>37.6913862</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.6913862,48.9351602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Сидорове</name>
+        <description><![CDATA[description: станом на 7.06 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://twitter.com/Nrg8000/status/1534199398443667456<br>element_type: blue_dot<br>lat: 48.9859232<br>lon: 37.6043954]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>станом на 7.06 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:
+https://twitter.com/Nrg8000/status/1534199398443667456</value>
+          </Data>
+          <Data name="element_type">
+            <value>blue_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>48.9859232</value>
+          </Data>
+          <Data name="lon">
+            <value>37.6043954</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.6043954,48.9859232,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Пискунівка</name>
+        <description><![CDATA[description: станом на 7.06 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://twitter.com/Nrg8000/status/1534199398443667456<br>element_type: blue_dot<br>lat: 48.8859039<br>lon: 37.8281604]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>станом на 7.06 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:
+https://twitter.com/Nrg8000/status/1534199398443667456</value>
+          </Data>
+          <Data name="element_type">
+            <value>blue_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>48.8859039</value>
+          </Data>
+          <Data name="lon">
+            <value>37.8281604</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.8281604,48.8859039,0
           </coordinates>
         </Point>
       </Placemark>
