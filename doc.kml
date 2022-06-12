@@ -483,36 +483,36 @@
         <styleUrl>#poly-A52714-1-143-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="poly-A52714-1-54-normal">
+    <Style id="poly-A52714-1-64-normal">
       <LineStyle>
         <color>ff1427a5</color>
         <width>0.001</width>
       </LineStyle>
       <PolyStyle>
-        <color>361427a5</color>
+        <color>401427a5</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
     </Style>
-    <Style id="poly-A52714-1-54-highlight">
+    <Style id="poly-A52714-1-64-highlight">
       <LineStyle>
         <color>ff1427a5</color>
         <width>0.0015</width>
       </LineStyle>
       <PolyStyle>
-        <color>361427a5</color>
+        <color>401427a5</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
     </Style>
-    <StyleMap id="poly-A52714-1-54">
+    <StyleMap id="poly-A52714-1-64">
       <Pair>
         <key>normal</key>
-        <styleUrl>#poly-A52714-1-54-normal</styleUrl>
+        <styleUrl>#poly-A52714-1-64-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#poly-A52714-1-54-highlight</styleUrl>
+        <styleUrl>#poly-A52714-1-64-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Folder>
@@ -9039,7 +9039,7 @@ https://www.facebook.com/GeneralStaff.ua/posts/313588154287603
       </Placemark>
       <Placemark>
         <name>СЄВЕРОДОНЕЦЬК (з квітня за місто йдуть жорстокі бої)</name>
-        <description><![CDATA[description: 11.06 - російський штурм, ЗСУ "успішно протистоїть":<br>https://www.facebook.com/GeneralStaff.ua/posts/337671438545941<br>-----<br>10.06 - "противник безуспішно намагається встановити повний контроль над містом...":<br>https://www.facebook.com/GeneralStaff.ua/posts/336580788655006<br>-----<br>9.06 - російський штурм триває:<br>https://www.facebook.com/GeneralStaff.ua/posts/336221098690975<br>9.06, ранок - "Противник продовжує безуспішні пошуки слабких місць в обороні Сєверодонецька":<br>https://www.facebook.com/GeneralStaff.ua/posts/335842948728790<br>-----<br>8.06 - "...наші воїни успішно стримують російський штурм у місті Сєверодонецьк...":<br>https://www.facebook.com/GeneralStaff.ua/posts/335130078800077<br>-----<br>7.06, Луганська ОВА - бої в місті - "...ворог продовжує штурм Сєверодонецька, бойові дії тривають": <br>https://censor.net/ua/n3346378<br>-----<br>4.06 - "...тривають бойові дії за встановлення повного контролю на містом...":<br>https://censor.net/ua/n3345958<br>-----<br>3.06, вечір - російський штурм "у житлових районах східної частини міста ... має частковий успіх...":<br>https://www.facebook.com/GeneralStaff.ua/posts/331730485806703<br>3.06, ранок - "В центральній частині Сєверодонецька тривають бої":<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06 - російський штурм у середмісті:<br>https://www.facebook.com/GeneralStaff.ua/posts/330568765922875<br>-----<br>1.06, вечір - місто частково ОКУПОВАНЕ - "...ворог веде штурмові дії в населеному пункті Сєвєродонецьк, має частковий успіх, встановив контроль над східною частиною міста":<br>https://www.facebook.com/GeneralStaff.ua/posts/330226645957087<br>1.06, ранок - бої в місті - "...агресор вів штурмові дії у північних, південних та східних районах Сєверодонецька, окремими підрозділами досяг успіху, закріплюється у центрі міста":<br>https://www.facebook.com/GeneralStaff.ua/posts/329873672659051<br>-----<br>29.05 - російський штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/327663802880038<br>-----<br>28.05 - невдалий російський штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/326823172964101<br>-----<br>26.05, вечір - російський наступ:<br>https://censor.net/ua/n3344079<br>26.05, ранок - бої в передмісті - "Ворог намагається закріпитись в районі Сєверодонецька":<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>25.05, Луганська ОВА - ідуть бої на околицях міста:<br>https://censor.net/ua/news/3343655/<br>-----<br>24.05 - російські обстріли УБИЛИ ШІСТЬОХ людей, вісім поранено:<br>https://censor.net/ua/news/3343645/<br>-----<br>23.05 - російський штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/323137383332680<br>===<br>13.05 - російський штурм - “Ситуація в нас ускладнюється ... Штурмують Рубіжне, Гірську громаду з боку Золотого та Нижнього, околиці Сєвєродонецька...”:<br>https://novynarnia.com/2022/05/13/hronika-oborony-ukrayiny-den-79-13-05-2022/<br>-----<br>9.05 - російські обстріли - "...зруйновано житлові будинки ... ворожий снаряд поцілив у будівлю місцевого осередку Національної поліціїі":<br>https://censor.net/ua/p3340324<br>-----<br>4.05 - російські авіаудари:<br>https://censor.net/ua/n3338979<br>-----<br>30.04 - "...по шість масованих артилерійських обстрілів витримали Сєверодонецьк та Лисичанськ": <br>https://censor.net/ua/p3338065<br><br>element_type: dark_red_dot<br>lat: 48.9398153<br>lon: 38.4861391]]></description>
+        <description><![CDATA[description: 11.06 - російський штурм, ЗСУ "успішно протистоїть":<br>https://www.facebook.com/GeneralStaff.ua/posts/337671438545941<br>-----<br>10.06 - "противник безуспішно намагається встановити повний контроль над містом...":<br>https://www.facebook.com/GeneralStaff.ua/posts/336580788655006<br>-----<br>9.06 - російський штурм триває:<br>https://www.facebook.com/GeneralStaff.ua/posts/336221098690975<br>9.06, ранок - "Противник продовжує безуспішні пошуки слабких місць в обороні Сєверодонецька":<br>https://www.facebook.com/GeneralStaff.ua/posts/335842948728790<br>-----<br>8.06 - "...наші воїни успішно стримують російський штурм у місті Сєверодонецьк...":<br>https://www.facebook.com/GeneralStaff.ua/posts/335130078800077<br>-----<br>7.06, Луганська ОВА - бої в місті - "...ворог продовжує штурм Сєверодонецька, бойові дії тривають": <br>https://censor.net/ua/n3346378<br>-----<br>4.06 - "...тривають бойові дії за встановлення повного контролю на містом...":<br>https://censor.net/ua/n3345958<br>-----<br>3.06, вечір - російський штурм "у житлових районах східної частини міста ... має частковий успіх...":<br>https://www.facebook.com/GeneralStaff.ua/posts/331730485806703<br>3.06, ранок - "В центральній частині Сєверодонецька тривають бої":<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06 - російський штурм у середмісті:<br>https://www.facebook.com/GeneralStaff.ua/posts/330568765922875<br>-----<br>1.06, вечір - місто частково ОКУПОВАНЕ - "...ворог веде штурмові дії в населеному пункті Сєвєродонецьк, має частковий успіх, встановив контроль над східною частиною міста":<br>https://www.facebook.com/GeneralStaff.ua/posts/330226645957087<br>1.06, ранок - бої в місті - "...агресор вів штурмові дії у північних, південних та східних районах Сєверодонецька, окремими підрозділами досяг успіху, закріплюється у центрі міста":<br>https://www.facebook.com/GeneralStaff.ua/posts/329873672659051<br>-----<br>29.05 - російський штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/327663802880038<br>-----<br>28.05 - невдалий російський штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/326823172964101<br>-----<br>26.05, вечір - російський наступ:<br>https://censor.net/ua/n3344079<br>26.05, ранок - бої в передмісті - "Ворог намагається закріпитись в районі Сєверодонецька":<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>25.05, Луганська ОВА - ідуть бої на околицях міста:<br>https://censor.net/ua/news/3343655/<br>-----<br>24.05 - російські обстріли УБИЛИ ШІСТЬОХ людей, вісім поранено:<br>https://censor.net/ua/news/3343645/<br>-----<br>23.05 - російський штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/323137383332680<br>===<br>13.05 - російський штурм - “Ситуація в нас ускладнюється ... Штурмують Рубіжне, Гірську громаду з боку Золотого та Нижнього, околиці Сєвєродонецька...”:<br>https://novynarnia.com/2022/05/13/hronika-oborony-ukrayiny-den-79-13-05-2022/<br>-----<br>9.05 - російські обстріли - "...зруйновано житлові будинки ... ворожий снаряд поцілив у будівлю місцевого осередку Національної поліціїі":<br>https://censor.net/ua/p3340324<br>-----<br>4.05 - російські авіаудари:<br>https://censor.net/ua/n3338979<br>-----<br>30.04 - "...по шість масованих артилерійських обстрілів витримали Сєверодонецьк та Лисичанськ": <br>https://censor.net/ua/p3338065<br><br>element_type: dark_red_dot<br>lat: 48.9442127<br>lon: 38.462965]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
@@ -9113,15 +9113,15 @@ https://censor.net/ua/p3338065
             <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
-            <value>48.9398153</value>
+            <value>48.9442127</value>
           </Data>
           <Data name="lon">
-            <value>38.4861391</value>
+            <value>38.462965</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            38.4861391,48.9398153,0
+            38.462965,48.9442127,0
           </coordinates>
         </Point>
       </Placemark>
@@ -17450,11 +17450,14 @@ https://hromadske.ua/posts/okupanti-vnochi-obstrilyali-novodruzhesk-ta-girske-na
       </Placemark>
       <Placemark>
         <name>Сіверськ</name>
-        <description><![CDATA[description: 27.05 - російські авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/326425353003883<br>===<br>14.05 - російські обстріли:<br>https://censor.net/ua/p3341281<br>-----<br>10.05 - російські обстріли:<br>https://www.npu.gov.ua/news/stoprussia/na-donechchini-za-dobu-rosiyani-obstrilyali-13-naselenix-punktiv-policziya-rozpochala-kriminalni-provadzhennya/<br>-----<br>2.05 - російські обстріли:<br>https://censor.net/ua/photo_news/3338593/<br>-----<br>22.04, поліція - російські обстріли:<br>"Упродовж минулої доби окупанти вдарили по таких населених пунктах - Маріуполь, Авдіївка, Лиман, Слов’янськ, Мар’їнка, Вугледар, Сіверськ, Світлодарськ, Велика Новосілка..."<br>https://censor.net/ua/n3335984<br>-----<br>17.04 - "...російські окупанти продовжують обстріли населених пунктів Сіверськ і Покровське": <br>https://censor.net/ua/n3334837<br><br>element_type: blue_dot<br>lat: 48.8685848<br>lon: 38.095199]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <description><![CDATA[description: 12.06, Нацполіція - російські обстріли (РСЗВ):<br>https://censor.net/ua/p3347452<br>-----<br>27.05 - російські авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/326425353003883<br>===<br>14.05 - російські обстріли:<br>https://censor.net/ua/p3341281<br>-----<br>10.05 - російські обстріли:<br>https://www.npu.gov.ua/news/stoprussia/na-donechchini-za-dobu-rosiyani-obstrilyali-13-naselenix-punktiv-policziya-rozpochala-kriminalni-provadzhennya/<br>-----<br>2.05 - російські обстріли:<br>https://censor.net/ua/photo_news/3338593/<br>-----<br>22.04, поліція - російські обстріли:<br>"Упродовж минулої доби окупанти вдарили по таких населених пунктах - Маріуполь, Авдіївка, Лиман, Слов’янськ, Мар’їнка, Вугледар, Сіверськ, Світлодарськ, Велика Новосілка..."<br>https://censor.net/ua/n3335984<br>-----<br>17.04 - "...російські окупанти продовжують обстріли населених пунктів Сіверськ і Покровське": <br>https://censor.net/ua/n3334837<br><br>element_type: dark_red_dot<br>lat: 48.8685848<br>lon: 38.095199]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[27.05 - російські авіаудари:
+            <value><![CDATA[12.06, Нацполіція - російські обстріли (РСЗВ):
+https://censor.net/ua/p3347452
+-----
+27.05 - російські авіаудари:
 https://www.facebook.com/GeneralStaff.ua/posts/326425353003883
 ===
 14.05 - російські обстріли:
@@ -17475,7 +17478,7 @@ https://censor.net/ua/n3334837
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>blue_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>48.8685848</value>
@@ -17601,11 +17604,13 @@ https://www.radiosvoboda.org/a/news-rosiiski-viiska-nastup-na-iziumskyi-napriamo
       </Placemark>
       <Placemark>
         <name>ТОРЕЦЬК</name>
-        <description><![CDATA[description: 2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>===<br>13.05, Нацполіція - російські обстріли:<br>https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br>-----<br>У квітні місто обстрілювали регулярно.<br>-----<br>20.04, Нацполіція - російські обстріли:<br>"Упродовж минулої доби російські військові вдарили по таких населених пунктах Донеччини: Маріуполь, Авдіївка, Вугледар, Мар’їнка, Краматорськ, Новогродівка, Торецьк, Миколаївка, Благодатне, Орлівка, Рубці, Привілля"<br>https://novynarnia.com/2022/04/20/okupanty-obstrilyaly-12-mist/<br><br>element_type: grey_dot<br>lat: 48.3899662<br>lon: 37.8514302]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <description><![CDATA[description: 12.06, Нацполіція - "Російські війська вдарили по населених пунктах – Торецьк, Сіверськ, Авдіївка, Птиче, Богоявленка, Орлівка, Нью-Йорк. Били з артилерії та реактивних систем залпового вогню "Ураган":<br>https://censor.net/ua/p3347452<br>2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>===<br>13.05, Нацполіція - російські обстріли:<br>https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br>-----<br>У квітні місто обстрілювали регулярно.<br>-----<br>20.04, Нацполіція - російські обстріли:<br>"Упродовж минулої доби російські військові вдарили по таких населених пунктах Донеччини: Маріуполь, Авдіївка, Вугледар, Мар’їнка, Краматорськ, Новогродівка, Торецьк, Миколаївка, Благодатне, Орлівка, Рубці, Привілля"<br>https://novynarnia.com/2022/04/20/okupanty-obstrilyaly-12-mist/<br><br>element_type: dark_red_dot<br>lat: 48.3899662<br>lon: 37.8514302]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[2.06 - російські обстріли:
+            <value><![CDATA[12.06, Нацполіція - "Російські війська вдарили по населених пунктах – Торецьк, Сіверськ, Авдіївка, Птиче, Богоявленка, Орлівка, Нью-Йорк. Били з артилерії та реактивних систем залпового вогню "Ураган":
+https://censor.net/ua/p3347452
+2.06 - російські обстріли:
 https://www.facebook.com/GeneralStaff.ua/posts/330999902546428
 ===
 13.05, Нацполіція - російські обстріли:
@@ -17619,7 +17624,7 @@ https://novynarnia.com/2022/04/20/okupanty-obstrilyaly-12-mist/
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>grey_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>48.3899662</value>
@@ -18441,15 +18446,19 @@ https://texty.org.ua/fragments/106582/</value>
       </Placemark>
       <Placemark>
         <name>Новоукраїнка</name>
-        <description><![CDATA[description: станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://texty.org.ua/fragments/106582/<br>element_type: blue_dot<br>lat: 47.8328801<br>lon: 37.1169329]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <description><![CDATA[description: 12.06, Нацполіція - російські обстріли (РСЗВ), касетні боєприпаси знищили сім будинків:<br>https://censor.net/ua/p3347452<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://texty.org.ua/fragments/106582/<br><br>element_type: dark_red_dot<br>lat: 47.8328801<br>lon: 37.1169329]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:
-https://texty.org.ua/fragments/106582/</value>
+            <value>12.06, Нацполіція - російські обстріли (РСЗВ), касетні боєприпаси знищили сім будинків:
+https://censor.net/ua/p3347452
+-----
+станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:
+https://texty.org.ua/fragments/106582/
+</value>
           </Data>
           <Data name="element_type">
-            <value>blue_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>47.8328801</value>
@@ -23790,7 +23799,7 @@ https://www.facebook.com/donbass.pravoslavniy/posts/414342797367494
       </Placemark>
       <Placemark>
         <name>Калинове (10.05 - російські обстріли)</name>
-        <description><![CDATA[description: 10.05 - російські обстріли:<br>https://www.npu.gov.ua/news/stoprussia/na-donechchini-za-dobu-rosiyani-obstrilyali-13-naselenix-punktiv-policziya-rozpochala-kriminalni-provadzhennya/<br>element_type: grey_dot<br>lat: 48.1408651<br>lon: 37.4450594]]></description>
+        <description><![CDATA[description: 10.05 - російські обстріли:<br>https://www.npu.gov.ua/news/stoprussia/na-donechchini-za-dobu-rosiyani-obstrilyali-13-naselenix-punktiv-policziya-rozpochala-kriminalni-provadzhennya/<br>element_type: grey_dot<br>lat: 48.1388032<br>lon: 37.4426561]]></description>
         <styleUrl>#icon-ci-5</styleUrl>
         <ExtendedData>
           <Data name="description">
@@ -23801,15 +23810,15 @@ https://www.npu.gov.ua/news/stoprussia/na-donechchini-za-dobu-rosiyani-obstrilya
             <value>grey_dot</value>
           </Data>
           <Data name="lat">
-            <value>48.1408651</value>
+            <value>48.1388032</value>
           </Data>
           <Data name="lon">
-            <value>37.4450594</value>
+            <value>37.4426561</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            37.4450594,48.1408651,0
+            37.4426561,48.1388032,0
           </coordinates>
         </Point>
       </Placemark>
@@ -30756,8 +30765,8 @@ https://www.facebook.com/GeneralStaff.ua/posts/335842948728790
       </Placemark>
       <Placemark>
         <name><![CDATA[Верхньокам'янка]]></name>
-        <description><![CDATA[description: 9.06 - російські "ракетно-авіаційні удари":<br>https://www.facebook.com/GeneralStaff.ua/posts/335842948728790<br><br>element_type: dark_red_dot<br>lat: 48.8481994<br>lon: 38.2877112]]></description>
-        <styleUrl>#icon-ci-2</styleUrl>
+        <description><![CDATA[description: 9.06 - російські "ракетно-авіаційні удари":<br>https://www.facebook.com/GeneralStaff.ua/posts/335842948728790<br><br>element_type: grey_dot<br>lat: 48.8481994<br>lon: 38.2877112]]></description>
+        <styleUrl>#icon-ci-5</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value><![CDATA[9.06 - російські "ракетно-авіаційні удари":
@@ -30765,7 +30774,7 @@ https://www.facebook.com/GeneralStaff.ua/posts/335842948728790
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>dark_red_dot</value>
+            <value>grey_dot</value>
           </Data>
           <Data name="lat">
             <value>48.8481994</value>
@@ -31167,6 +31176,136 @@ https://censor.net/ua/news/3347445/
         <Point>
           <coordinates>
             31.9012014,46.703706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>18.03 - російський ракетний удар по казармах 79-ї ОДШБр (Миколаїв)</name>
+        <description><![CDATA[description: Не менше 50 загиблих:<br>https://censor.net/ua/news/3326870/zpid_zavaliv_viyiskovoyi_kazarmy_v_mykolayevi_obstrilyanoyi_okupantamy_distaly_50_til_zmi<br><br>element_type: red_fire<br>lat: 46.9958458<br>lon: 31.9789452]]></description>
+        <styleUrl>#icon-ci-7</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Не менше 50 загиблих:
+https://censor.net/ua/news/3326870/zpid_zavaliv_viyiskovoyi_kazarmy_v_mykolayevi_obstrilyanoyi_okupantamy_distaly_50_til_zmi
+</value>
+          </Data>
+          <Data name="element_type">
+            <value>red_fire</value>
+          </Data>
+          <Data name="lat">
+            <value>46.9958458</value>
+          </Data>
+          <Data name="lon">
+            <value>31.9789452</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            31.9789452,46.9958458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13.03 - російський ракетний удар по Яворівському полігону</name>
+        <description><![CDATA[description: 35 загиблих, 134 поранених:<br>https://novynarnia.com/2022/03/13/onovleni-dani-vnaslidok-raketnogo-udaru-rf-po-yavorivskomu-poligonu-35-zagyblyh-134-poranenyh/<br><br>element_type: red_fire<br>lat: 50.0036885<br>lon: 23.5038789]]></description>
+        <styleUrl>#icon-ci-7</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>35 загиблих, 134 поранених:
+https://novynarnia.com/2022/03/13/onovleni-dani-vnaslidok-raketnogo-udaru-rf-po-yavorivskomu-poligonu-35-zagyblyh-134-poranenyh/
+</value>
+          </Data>
+          <Data name="element_type">
+            <value>red_fire</value>
+          </Data>
+          <Data name="lat">
+            <value>50.0036885</value>
+          </Data>
+          <Data name="lon">
+            <value>23.5038789</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            23.5038789,50.0036885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Птиче</name>
+        <description><![CDATA[description: 12.06, Нацполіція: "Російські війська вдарили по населених пунктах – Торецьк, Сіверськ, Авдіївка, Птиче, Богоявленка, Орлівка, Нью-Йорк. Били з артилерії та реактивних систем залпового вогню "Ураган":<br>https://censor.net/ua/p3347452<br><br>element_type: dark_red_dot<br>lat: 48.1623008<br>lon: 37.4542822]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[12.06, Нацполіція: "Російські війська вдарили по населених пунктах – Торецьк, Сіверськ, Авдіївка, Птиче, Богоявленка, Орлівка, Нью-Йорк. Били з артилерії та реактивних систем залпового вогню "Ураган":
+https://censor.net/ua/p3347452
+]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>dark_red_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>48.1623008</value>
+          </Data>
+          <Data name="lon">
+            <value>37.4542822</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.4542822,48.1623008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Богоявленка</name>
+        <description><![CDATA[description: 12.06, Нацполіція - російські обстріли (РСЗВ):<br>https://censor.net/ua/p3347452<br><br>element_type: dark_red_dot<br>lat: 47.8604284<br>lon: 37.2203874]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>12.06, Нацполіція - російські обстріли (РСЗВ):
+https://censor.net/ua/p3347452
+</value>
+          </Data>
+          <Data name="element_type">
+            <value>dark_red_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>47.8604284</value>
+          </Data>
+          <Data name="lon">
+            <value>37.2203874</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.2203874,47.8604284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Орлівка</name>
+        <description><![CDATA[description: 12.06, Нацполіція - російські обстріли (РСЗВ):<br>https://censor.net/ua/p3347452<br><br>element_type: dark_red_dot<br>lat: 48.2083026<br>lon: 37.3866208]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>12.06, Нацполіція - російські обстріли (РСЗВ):
+https://censor.net/ua/p3347452
+</value>
+          </Data>
+          <Data name="element_type">
+            <value>dark_red_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>48.2083026</value>
+          </Data>
+          <Data name="lon">
+            <value>37.3866208</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.3866208,48.2083026,0
           </coordinates>
         </Point>
       </Placemark>
@@ -32262,7 +32401,7 @@ https://censor.net/ua/news/3347445/
       <Placemark>
         <name/>
         <description><![CDATA[опис: <br>fid: 3<br>Type: 1]]></description>
-        <styleUrl>#poly-A52714-1-54</styleUrl>
+        <styleUrl>#poly-A52714-1-64</styleUrl>
         <ExtendedData>
           <Data name="опис">
             <value/>
@@ -32311,9 +32450,10 @@ https://censor.net/ua/news/3347445/
                 36.520663,50.170621,0
                 36.53529,50.179805,0
                 36.600107,50.178336,0
-                36.61966,50.188013,0
-                36.634368,50.210081,0
-                36.665625,50.223353,0
+                36.634089,50.187673,0
+                36.64721,50.196624,0
+                36.670011,50.201581,0
+                36.703271,50.209908,0
                 36.691825,50.228278,0
                 36.683421,50.241859,0
                 36.703287,50.209893,0
@@ -32367,10 +32507,8 @@ https://censor.net/ua/news/3347445/
                 36.735002,49.465992,0
                 36.774409,49.456126,0
                 36.818487,49.44493,0
-                36.820366,49.418031,0
-                36.808106,49.384979,0
-                36.859981,49.378841,0
-                36.863276,49.404927,0
+                36.82811,49.424036,0
+                36.850911,49.425994,0
                 36.877359,49.413656,0
                 36.898988,49.412986,0
                 36.921991,49.414773,0
@@ -32402,9 +32540,7 @@ https://censor.net/ua/news/3347445/
                 37.041979,49.108118,0
                 37.074115,49.110317,0
                 37.110112,49.109246,0
-                37.174125,49.097659,0
-                37.196228,49.094587,0
-                37.203436,49.073447,0
+                37.133984,49.093573,0
                 37.144355,49.062764,0
                 37.151249,49.045308,0
                 37.154085,49.025965,0
@@ -32436,11 +32572,8 @@ https://censor.net/ua/news/3347445/
                 37.469792,49.078067,0
                 37.458893,49.089026,0
                 37.446571,49.092551,0
-                37.433031,49.096483,0
-                37.413376,49.096483,0
-                37.421286,49.116709,0
-                37.470802,49.125849,0
-                37.525951,49.12655,0
+                37.448784,49.10315,0
+                37.462766,49.113992,0
                 37.546265,49.130081,0
                 37.484503,49.178828,0
                 37.502541,49.187826,0
@@ -32557,7 +32690,7 @@ https://censor.net/ua/news/3347445/
       <Placemark>
         <name/>
         <description><![CDATA[опис: <br>fid: 4<br>Type: ]]></description>
-        <styleUrl>#poly-A52714-1-54</styleUrl>
+        <styleUrl>#poly-A52714-1-64</styleUrl>
         <ExtendedData>
           <Data name="опис">
             <value/>
@@ -32673,10 +32806,9 @@ https://censor.net/ua/news/3347445/
                 36.784614,47.739808,0
                 36.775913,47.801303,0
                 36.745644,47.802299,0
-                36.71159,47.829493,0
-                36.707295,47.836907,0
-                36.693797,47.845144,0
-                36.672628,47.843497,0
+                36.719665,47.828281,0
+                36.699016,47.825971,0
+                36.675785,47.822216,0
                 36.66794,47.811982,0
                 36.66864,47.782641,0
                 36.670509,47.761449,0
@@ -32691,10 +32823,10 @@ https://censor.net/ua/news/3347445/
                 36.239793,47.610869,0
                 36.231096,47.592974,0
                 36.236118,47.555713,0
-                36.20131,47.526319,0
-                36.130207,47.510198,0
-                36.063645,47.511211,0
-                35.986209,47.520509,0
+                36.191719,47.528452,0
+                36.126264,47.517467,0
+                36.048802,47.524529,0
+                35.993223,47.51132,0
                 35.958102,47.511599,0
                 35.917377,47.508887,0
                 35.85607,47.501638,0
@@ -32816,30 +32948,18 @@ https://censor.net/ua/news/3347445/
                 33.207534,47.280622,0
                 33.195212,47.256629,0
                 33.21624,47.244537,0
-                33.22508,47.223983,0
-                33.226419,47.193047,0
-                33.209811,47.170288,0
-                33.19347,47.165553,0
-                33.172308,47.153532,0
-                33.131859,47.161911,0
-                33.136413,47.180485,0
-                33.160789,47.190317,0
-                33.161057,47.213249,0
-                33.148042,47.229185,0
-                33.13312,47.231233,0
-                33.129152,47.226274,0
-                33.13439,47.215277,0
-                33.142645,47.212905,0
-                33.144391,47.208807,0
-                33.131374,47.201905,0
-                33.115341,47.202768,0
-                33.102959,47.215709,0
-                33.090101,47.220776,0
-                33.069465,47.214415,0
-                33.071052,47.205788,0
-                33.057559,47.191982,0
-                33.047745,47.182306,0
-                33.040098,47.177849,0
+                33.21653,47.229757,0
+                33.206635,47.220116,0
+                33.207065,47.203459,0
+                33.189063,47.187476,0
+                33.185124,47.173196,0
+                33.157549,47.158615,0
+                33.128241,47.153796,0
+                33.097235,47.155665,0
+                33.09066,47.163992,0
+                33.067415,47.172037,0
+                33.04417,47.173761,0
+                33.036352,47.175341,0
                 33.029938,47.174936,0
                 33.012953,47.180654,0
                 33.00946,47.190688,0
@@ -32938,7 +33058,7 @@ https://censor.net/ua/news/3347445/
       <Placemark>
         <name/>
         <description><![CDATA[опис: <br>fid: 11<br>Type: ]]></description>
-        <styleUrl>#poly-A52714-1-54</styleUrl>
+        <styleUrl>#poly-A52714-1-64</styleUrl>
         <ExtendedData>
           <Data name="опис">
             <value/>
@@ -33202,15 +33322,18 @@ https://censor.net/ua/news/3347445/
                 37.502659,49.187892,0
                 37.484516,49.178825,0
                 37.546263,49.130076,0
-                37.568743,49.114737,0
-                37.592661,49.099327,0
-                37.665765,49.069416,0
-                37.662471,49.048032,0
-                37.678339,49.03508,0
+                37.462789,49.113992,0
+                37.563786,49.073895,0
+                37.572294,49.051447,0
+                37.582718,49.038704,0
+                37.606667,49.045537,0
+                37.620192,49.045168,0
+                37.656118,49.035792,0
                 37.692767,49.019522,0
                 37.726412,49.002658,0
-                37.74387,48.991621,0
-                37.770847,48.963791,0
+                37.738169,48.992103,0
+                37.726984,48.98561,0
+                37.764411,48.952285,0
                 37.752619,48.930273,0
                 37.772408,48.921605,0
                 37.812273,48.924997,0
@@ -33258,17 +33381,25 @@ https://censor.net/ua/news/3347445/
                 38.466765,48.959071,0
                 38.474211,48.955986,0
                 38.484823,48.937621,0
-                38.498302,48.937715,0
+                38.496162,48.93072,0
                 38.507337,48.928577,0
                 38.517805,48.925279,0
                 38.525979,48.928012,0
-                38.533436,48.938845,0
+                38.538284,48.934515,0
                 38.574018,48.932345,0
-                38.593664,48.914254,0
-                38.595385,48.889746,0
-                38.594237,48.873148,0
-                38.594408,48.851135,0
-                38.579943,48.843026,0
+                38.585055,48.912484,0
+                38.591535,48.891556,0
+                38.580935,48.879911,0
+                38.59717,48.865985,0
+                38.625909,48.869321,0
+                38.652133,48.865621,0
+                38.671707,48.850196,0
+                38.664535,48.825937,0
+                38.662384,48.805258,0
+                38.644316,48.796473,0
+                38.621085,48.791939,0
+                38.603016,48.798457,0
+                38.595703,48.810641,0
                 38.575073,48.824306,0
                 38.566501,48.819525,0
                 38.558048,48.806432,0
@@ -33484,7 +33615,7 @@ https://censor.net/ua/news/3347445/
       <Placemark>
         <name/>
         <description><![CDATA[опис: <br>fid: 12<br>Type: ]]></description>
-        <styleUrl>#poly-A52714-1-54</styleUrl>
+        <styleUrl>#poly-A52714-1-64</styleUrl>
         <ExtendedData>
           <Data name="опис">
             <value/>
@@ -33677,7 +33808,7 @@ https://censor.net/ua/news/3347445/
       <Placemark>
         <name/>
         <description><![CDATA[опис: <br>fid: 13<br>Type: ]]></description>
-        <styleUrl>#poly-A52714-1-54</styleUrl>
+        <styleUrl>#poly-A52714-1-64</styleUrl>
         <ExtendedData>
           <Data name="опис">
             <value/>
@@ -33733,7 +33864,7 @@ https://censor.net/ua/news/3347445/
       <Placemark>
         <name/>
         <description><![CDATA[опис: <br>fid: 16<br>Type: ]]></description>
-        <styleUrl>#poly-A52714-1-54</styleUrl>
+        <styleUrl>#poly-A52714-1-64</styleUrl>
         <ExtendedData>
           <Data name="опис">
             <value/>
@@ -33785,7 +33916,7 @@ https://censor.net/ua/news/3347445/
       <Placemark>
         <name/>
         <description><![CDATA[опис: <br>fid: 19<br>Type: ]]></description>
-        <styleUrl>#poly-A52714-1-54</styleUrl>
+        <styleUrl>#poly-A52714-1-64</styleUrl>
         <ExtendedData>
           <Data name="опис">
             <value/>
@@ -33852,7 +33983,7 @@ https://censor.net/ua/news/3347445/
       <Placemark>
         <name/>
         <description><![CDATA[опис: <br>fid: 28<br>Type: ]]></description>
-        <styleUrl>#poly-A52714-1-54</styleUrl>
+        <styleUrl>#poly-A52714-1-64</styleUrl>
         <ExtendedData>
           <Data name="опис">
             <value/>
@@ -33876,12 +34007,10 @@ https://censor.net/ua/news/3347445/
                 38.446833,48.667404,0
                 38.433502,48.677675,0
                 38.421123,48.683333,0
-                38.400968,48.682757,0
-                38.385026,48.686019,0
-                38.359205,48.682609,0
-                38.35232,48.696272,0
-                38.359491,48.706115,0
-                38.36494,48.717091,0
+                38.403853,48.688719,0
+                38.396835,48.701018,0
+                38.390543,48.708843,0
+                38.37554,48.723851,0
                 38.357196,48.731281,0
                 38.339128,48.732984,0
                 38.308153,48.734119,0
@@ -33900,12 +34029,9 @@ https://censor.net/ua/news/3347445/
                 38.195128,48.669815,0
                 38.207592,48.669125,0
                 38.221833,48.651567,0
-                38.231357,48.632372,0
-                38.245882,48.618994,0
-                38.259692,48.614114,0
-                38.259454,48.601518,0
-                38.245168,48.596007,0
-                38.220166,48.594275,0
+                38.19849,48.634886,0
+                38.163318,48.613289,0
+                38.15873,48.601721,0
                 38.1754,48.585612,0
                 38.17921,48.567338,0
                 38.189211,48.55347,0
@@ -33962,7 +34088,7 @@ https://censor.net/ua/news/3347445/
       <Placemark>
         <name/>
         <description><![CDATA[опис: <br>fid: 31<br>Type: ]]></description>
-        <styleUrl>#poly-A52714-1-54</styleUrl>
+        <styleUrl>#poly-A52714-1-64</styleUrl>
         <ExtendedData>
           <Data name="опис">
             <value/>
