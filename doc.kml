@@ -2769,11 +2769,14 @@ https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/
       </Placemark>
       <Placemark>
         <name>ХЕРСОН</name>
-        <description><![CDATA[description: 18.06 - партизани підірвали авто колаборанта, начальника виправної колонії:<br>https://novynarnia.com/2022/06/18/u-hersoni-partyzany-pidirvaly-avto-kolaboranta-nachalnyka-vypravnoyi-koloniyi/<br>-----<br>14.05 - місцеві партизани розклеїли містом звернення до окупантів - "ВСУ идут! Орки, крепко держите свои штанишки, бежать далеко придется":<br>https://censor.net/ua/p3341316<br><br>element_type: red_dot<br>lat: 46.6608823<br>lon: 32.5965069]]></description>
+        <description><![CDATA[description: 19.06 - партизани розстріляли окупантів, які замовляли шашлик у міському кафе:<br>https://www.facebook.com/okPivden/posts/2084755201695722<br>-----<br>18.06 - партизани підірвали авто колаборанта, начальника виправної колонії:<br>https://novynarnia.com/2022/06/18/u-hersoni-partyzany-pidirvaly-avto-kolaboranta-nachalnyka-vypravnoyi-koloniyi/<br>-----<br>14.05 - місцеві партизани розклеїли містом звернення до окупантів - "ВСУ идут! Орки, крепко держите свои штанишки, бежать далеко придется":<br>https://censor.net/ua/p3341316<br><br>element_type: red_dot<br>lat: 46.6608823<br>lon: 32.5965069]]></description>
         <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[18.06 - партизани підірвали авто колаборанта, начальника виправної колонії:
+            <value><![CDATA[19.06 - партизани розстріляли окупантів, які замовляли шашлик у міському кафе:
+https://www.facebook.com/okPivden/posts/2084755201695722
+-----
+18.06 - партизани підірвали авто колаборанта, начальника виправної колонії:
 https://novynarnia.com/2022/06/18/u-hersoni-partyzany-pidirvaly-avto-kolaboranta-nachalnyka-vypravnoyi-koloniyi/
 -----
 14.05 - місцеві партизани розклеїли містом звернення до окупантів - "ВСУ идут! Орки, крепко держите свои штанишки, бежать далеко придется":
@@ -21596,11 +21599,14 @@ https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D1%97_%D0%B7%D0%B0_%D0%93%D0%BB%D1%83
       </Placemark>
       <Placemark>
         <name>Дмитрівка</name>
-        <description><![CDATA[description: 17.04 - село ЗВІЛЬНЕНЕ - "підрозділи Сил оборони України змусили противника залишити населений пункт Дмитрівка Ізюмського району...":<br>https://www.facebook.com/GeneralStaff.ua/posts/342084208104664<br>-----<br>19.04: "На напрямку Ізюм-Барвінкове ворог ... веде наступальні дії на напрямках Андріївка - Заводи, Бражківка - Дмитрівка, Сулигівка - Дібровне"<br>https://censor.net/ua/n3335271<br>-----<br>17.04: "...ворог провів розвідку боєм у районах населених пунктів Заводи, Дмитрівка та Дібровне. Успіху не мав, зазнав втрат і відійшов" - https://censor.net/ua/n3334837<br>-----<br>10.04: наступ російських окупантів провалився - https://www.ukrinform.ua/rubric-ato/3454355-rasisti-mozut-vdatis-do-provokacij-na-teritorii-pridnistrova.html<br><br>element_type: blue_dot<br>lat: 49.0499053<br>lon: 37.1270589]]></description>
-        <styleUrl>#icon-ci-3</styleUrl>
+        <description><![CDATA[description: 21.04 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/344672697845815<br>-----<br>17.04 - село ЗВІЛЬНЕНЕ - "підрозділи Сил оборони України змусили противника залишити населений пункт Дмитрівка Ізюмського району...":<br>https://www.facebook.com/GeneralStaff.ua/posts/342084208104664<br>-----<br>19.04: "На напрямку Ізюм-Барвінкове ворог ... веде наступальні дії на напрямках Андріївка - Заводи, Бражківка - Дмитрівка, Сулигівка - Дібровне"<br>https://censor.net/ua/n3335271<br>-----<br>17.04: "...ворог провів розвідку боєм у районах населених пунктів Заводи, Дмитрівка та Дібровне. Успіху не мав, зазнав втрат і відійшов" - https://censor.net/ua/n3334837<br>-----<br>10.04: наступ російських окупантів провалився - https://www.ukrinform.ua/rubric-ato/3454355-rasisti-mozut-vdatis-do-provokacij-na-teritorii-pridnistrova.html<br><br>element_type: dark_red_dot<br>lat: 49.0499053<br>lon: 37.1270589]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[17.04 - село ЗВІЛЬНЕНЕ - "підрозділи Сил оборони України змусили противника залишити населений пункт Дмитрівка Ізюмського району...":
+            <value><![CDATA[21.04 - російські обстріли:
+https://www.facebook.com/GeneralStaff.ua/posts/344672697845815
+-----
+17.04 - село ЗВІЛЬНЕНЕ - "підрозділи Сил оборони України змусили противника залишити населений пункт Дмитрівка Ізюмського району...":
 https://www.facebook.com/GeneralStaff.ua/posts/342084208104664
 -----
 19.04: "На напрямку Ізюм-Барвінкове ворог ... веде наступальні дії на напрямках Андріївка - Заводи, Бражківка - Дмитрівка, Сулигівка - Дібровне"
@@ -21612,7 +21618,7 @@ https://censor.net/ua/n3335271
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>blue_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>49.0499053</value>
@@ -21682,11 +21688,14 @@ https://censor.net/ua/n3334784
       </Placemark>
       <Placemark>
         <name>Базаліївка (звільнена 17 квітня)</name>
-        <description><![CDATA[description: 16.06 - "інтенсивні" російські обстріли:<br>https://censor.net/ua/news/3348247/<br>-----<br>14.06 - російські обстріли - (у зведенні, напевно, хибодрук) "...російські окупанти обстріляли цивільну інфраструктуру в районах населених пунктів Дементіївка, Руська Лозова, Мосьпанове та Базалівка":<br>https://censor.net/ua/n3347933<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://texty.org.ua/fragments/106582/<br>-----<br>17.04, Харківська ОВА - СЕЛО ЗВІЛЬНЕНЕ - "...в результаті контрнаступу ЗСУ звільнили Базаліївку, Леб‘яже, частину Кутузівки":<br>https://censor.net/ua/n3334784<br><br>element_type: dark_red_dot<br>lat: 49.8266763<br>lon: 36.9870816]]></description>
+        <description><![CDATA[description: 21.04 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/344672697845815<br>-----<br>16.06 - "інтенсивні" російські обстріли:<br>https://censor.net/ua/news/3348247/<br>-----<br>14.06 - російські обстріли - (у зведенні, напевно, хибодрук) "...російські окупанти обстріляли цивільну інфраструктуру в районах населених пунктів Дементіївка, Руська Лозова, Мосьпанове та Базалівка":<br>https://censor.net/ua/n3347933<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, рубіжний пункт Збройних сил України:<br>https://texty.org.ua/fragments/106582/<br>-----<br>17.04, Харківська ОВА - СЕЛО ЗВІЛЬНЕНЕ - "...в результаті контрнаступу ЗСУ звільнили Базаліївку, Леб‘яже, частину Кутузівки":<br>https://censor.net/ua/n3334784<br><br>element_type: dark_red_dot<br>lat: 49.8257903<br>lon: 36.9898283]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[16.06 - "інтенсивні" російські обстріли:
+            <value><![CDATA[21.04 - російські обстріли:
+https://www.facebook.com/GeneralStaff.ua/posts/344672697845815
+-----
+16.06 - "інтенсивні" російські обстріли:
 https://censor.net/ua/news/3348247/
 -----
 14.06 - російські обстріли - (у зведенні, напевно, хибодрук) "...російські окупанти обстріляли цивільну інфраструктуру в районах населених пунктів Дементіївка, Руська Лозова, Мосьпанове та Базалівка":
@@ -21703,15 +21712,15 @@ https://censor.net/ua/n3334784
             <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
-            <value>49.8266763</value>
+            <value>49.8257903</value>
           </Data>
           <Data name="lon">
-            <value>36.9870816</value>
+            <value>36.9898283</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            36.9870816,49.8266763,0
+            36.9898283,49.8257903,0
           </coordinates>
         </Point>
       </Placemark>
