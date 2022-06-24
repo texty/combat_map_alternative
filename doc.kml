@@ -2650,12 +2650,15 @@ https://www.facebook.com/GeneralStaff.ua/posts/315147577464994]]></value>
         </Point>
       </Placemark>
       <Placemark>
-        <name>БЕРДЯНСЬК (окупований 28.02)</name>
-        <description><![CDATA[description: 10.06 - "Жінку одну роздягнули до пояса на морозі і змушували читати газету", – як живе Бердянськ в окупації:<br>https://censor.net/ua/r3347070<br>-----<br>4.06 - "...російські халамидники продовжують займатися мародерством" автомобільної техніки:<br>https://www.facebook.com/zoda.gov.ua/posts/325936776382847<br><br>element_type: red_dot<br>lat: 46.7821891<br>lon: 36.8435759]]></description>
+        <name>БЕРДЯНСЬК (окупований 28 лютого)</name>
+        <description><![CDATA[description: 24.06 - "В рамках логістичного забезпечення окупанти намагаються розмінувати акваторію морського порту Бердянськ":<br>https://www.pravda.com.ua/news/2022/06/24/7354348/<br>-----<br>10.06 - "Жінку одну роздягнули до пояса на морозі і змушували читати газету", – як живе Бердянськ в окупації:<br>https://censor.net/ua/r3347070<br>-----<br>4.06 - "...російські халамидники продовжують займатися мародерством" автомобільної техніки:<br>https://www.facebook.com/zoda.gov.ua/posts/325936776382847<br><br>element_type: red_dot<br>lat: 46.7821891<br>lon: 36.8435759]]></description>
         <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[10.06 - "Жінку одну роздягнули до пояса на морозі і змушували читати газету", – як живе Бердянськ в окупації:
+            <value><![CDATA[24.06 - "В рамках логістичного забезпечення окупанти намагаються розмінувати акваторію морського порту Бердянськ":
+https://www.pravda.com.ua/news/2022/06/24/7354348/
+-----
+10.06 - "Жінку одну роздягнули до пояса на морозі і змушували читати газету", – як живе Бердянськ в окупації:
 https://censor.net/ua/r3347070
 -----
 4.06 - "...російські халамидники продовжують займатися мародерством" автомобільної техніки:
@@ -2782,11 +2785,14 @@ https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/
       </Placemark>
       <Placemark>
         <name>ХЕРСОН</name>
-        <description><![CDATA[description: 19.06 - партизани розстріляли окупантів, які замовляли шашлик у міському кафе:<br>https://www.facebook.com/okPivden/posts/2084755201695722<br>-----<br>18.06 - партизани підірвали авто колаборанта, начальника виправної колонії:<br>https://novynarnia.com/2022/06/18/u-hersoni-partyzany-pidirvaly-avto-kolaboranta-nachalnyka-vypravnoyi-koloniyi/<br>-----<br>14.05 - місцеві партизани розклеїли містом звернення до окупантів - "ВСУ идут! Орки, крепко держите свои штанишки, бежать далеко придется":<br>https://censor.net/ua/p3341316<br><br>element_type: red_dot<br>lat: 46.6608823<br>lon: 32.5965069]]></description>
+        <description><![CDATA[description: 24.06 - в місті підірвали ще одного колаборанта:<br>https://www.pravda.com.ua/news/2022/06/24/7354377/<br>-----<br>19.06 - партизани розстріляли окупантів, які замовляли шашлик у міському кафе:<br>https://www.facebook.com/okPivden/posts/2084755201695722<br>-----<br>18.06 - партизани підірвали авто колаборанта, начальника виправної колонії:<br>https://novynarnia.com/2022/06/18/u-hersoni-partyzany-pidirvaly-avto-kolaboranta-nachalnyka-vypravnoyi-koloniyi/<br>-----<br>14.05 - місцеві партизани розклеїли містом звернення до окупантів - "ВСУ идут! Орки, крепко держите свои штанишки, бежать далеко придется":<br>https://censor.net/ua/p3341316<br><br>element_type: red_dot<br>lat: 46.6608823<br>lon: 32.5965069]]></description>
         <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[19.06 - партизани розстріляли окупантів, які замовляли шашлик у міському кафе:
+            <value><![CDATA[24.06 - в місті підірвали ще одного колаборанта:
+https://www.pravda.com.ua/news/2022/06/24/7354377/
+-----
+19.06 - партизани розстріляли окупантів, які замовляли шашлик у міському кафе:
 https://www.facebook.com/okPivden/posts/2084755201695722
 -----
 18.06 - партизани підірвали авто колаборанта, начальника виправної колонії:
@@ -8354,11 +8360,13 @@ https://t.me/luhanskaVTSA/2404
       </Placemark>
       <Placemark>
         <name>Борівське</name>
-        <description><![CDATA[description: 23.06 - російський наступ "...поблизу Борівського українські захисники також зупинили":<br>https://censor.net/ua/n3349820<br>-----<br>22.06, Луганська ОВА - "Росіяни намагаються блокувати підрозділи Сил оборони поблизу Борівського та Воронового":<br>https://censor.net/ua/n3349428<br>-----<br>20.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/343975544582197<br>-----<br>7.06 - російські обстріли - "...ворог обстрілював підрозділи наших військ та цивільну інфраструктуру із ствольної та реактивної артилерії в районах Лисичанськ, Борівське та Метьолкіно":<br>https://censor.net/ua/n3346534<br>-----<br>3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06 - російський штурм - "...поблизу Борівського противник вів штурмові дії, успіху не мав":<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>-----<br>28.05 - російський наступ відбито - "На Сєвєродонецькому напрямку ворог, за підтримки артилерії, вів наступ у напрямку Борівського, зазнав втрат, відійшов на раніше зайняті позиції":<br>https://www.facebook.com/GeneralStaff.ua/posts/327247112921707<br>-----<br>27.05 - російський штурм - "На Сєвєродонецькому напрямку російські окупанти за підтримки артилерії здійснювали штурмові дії у районах населених пунктів Щедрищеве, Борівське і Тошківка, бойові дії тривають":<br>https://www.facebook.com/GeneralStaff.ua/posts/326425353003883<br>-----<br>26.05 - російський наступ - "...противник веде наступ у напрямках населених пунктів Сєвєродонецьк та Борівське. Успіху не має":<br>https://censor.net/ua/n3344079<br>===<br>15.05 - бойові дії - "...в районі Борівського окупанти зазнали втрат та відступили":<br>https://censor.net/ua/n3341501<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем Збройних сил України:<br>https://texty.org.ua/fragments/106582/zsu-uvijshly-do-staroho-saltova-armiya-rf-perebuvaye-na-pidstupah-do-lymana-karty-potochnoyi-voyennoyi-sytuaciyi/<br>-----<br>5.04 - бойові дії:<br>https://www.pravda.com.ua/news/2022/04/5/7337229/<br>-----<br>28.03 - російські обстріли:<br>https://censor.net/ua/news/3329200/nich_u_regionah_na_hersonschyni_yidut_boyi_na_meji_z_mykolayivschynoyu_ta_dnipropetrovschynoyu_raketni<br><br>element_type: dark_red_dot<br>lat: 48.8658789<br>lon: 38.5685663]]></description>
+        <description><![CDATA[description: 24.06 - "Наступальні дії ворога в районі Борівського українські воїни успішно зупинили":<br>https://www.pravda.com.ua/news/2022/06/24/7354348/<br>-----23.06 - російський наступ "...поблизу Борівського українські захисники також зупинили":<br>https://censor.net/ua/n3349820<br>-----<br>22.06, Луганська ОВА - "Росіяни намагаються блокувати підрозділи Сил оборони поблизу Борівського та Воронового":<br>https://censor.net/ua/n3349428<br>-----<br>20.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/343975544582197<br>-----<br>7.06 - російські обстріли - "...ворог обстрілював підрозділи наших військ та цивільну інфраструктуру із ствольної та реактивної артилерії в районах Лисичанськ, Борівське та Метьолкіно":<br>https://censor.net/ua/n3346534<br>-----<br>3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06 - російський штурм - "...поблизу Борівського противник вів штурмові дії, успіху не мав":<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>-----<br>28.05 - російський наступ відбито - "На Сєвєродонецькому напрямку ворог, за підтримки артилерії, вів наступ у напрямку Борівського, зазнав втрат, відійшов на раніше зайняті позиції":<br>https://www.facebook.com/GeneralStaff.ua/posts/327247112921707<br>-----<br>27.05 - російський штурм - "На Сєвєродонецькому напрямку російські окупанти за підтримки артилерії здійснювали штурмові дії у районах населених пунктів Щедрищеве, Борівське і Тошківка, бойові дії тривають":<br>https://www.facebook.com/GeneralStaff.ua/posts/326425353003883<br>-----<br>26.05 - російський наступ - "...противник веде наступ у напрямках населених пунктів Сєвєродонецьк та Борівське. Успіху не має":<br>https://censor.net/ua/n3344079<br>===<br>15.05 - бойові дії - "...в районі Борівського окупанти зазнали втрат та відступили":<br>https://censor.net/ua/n3341501<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем Збройних сил України:<br>https://texty.org.ua/fragments/106582/zsu-uvijshly-do-staroho-saltova-armiya-rf-perebuvaye-na-pidstupah-do-lymana-karty-potochnoyi-voyennoyi-sytuaciyi/<br>-----<br>5.04 - бойові дії:<br>https://www.pravda.com.ua/news/2022/04/5/7337229/<br>-----<br>28.03 - російські обстріли:<br>https://censor.net/ua/news/3329200/nich_u_regionah_na_hersonschyni_yidut_boyi_na_meji_z_mykolayivschynoyu_ta_dnipropetrovschynoyu_raketni<br><br>element_type: dark_red_dot<br>lat: 48.8658789<br>lon: 38.5685663]]></description>
         <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[23.06 - російський наступ "...поблизу Борівського українські захисники також зупинили":
+            <value><![CDATA[24.06 - "Наступальні дії ворога в районі Борівського українські воїни успішно зупинили":
+https://www.pravda.com.ua/news/2022/06/24/7354348/
+-----23.06 - російський наступ "...поблизу Борівського українські захисники також зупинили":
 https://censor.net/ua/n3349820
 -----
 22.06, Луганська ОВА - "Росіяни намагаються блокувати підрозділи Сил оборони поблизу Борівського та Воронового":
@@ -16774,8 +16782,8 @@ https://censor.net/ua/photo_news/3334682/za_dobu_viyiska_rf_obstrilyaly_13_nasel
       </Placemark>
       <Placemark>
         <name>Комишуваха (окупована 9-11 червня)</name>
-        <description><![CDATA[description: 21.06 - "Ворог вів наступ у напрямку Олександропілля – Комишуваха. Успіху не мав, відійшов":<br>https://censor.net/ua/n3349358<br>-----<br>13.06 - "...наші воїни успішно відбили штурмові дії у напрямках Вікторівка – Врубівка та Комишуваха – Врубівка":<br>https://www.facebook.com/GeneralStaff.ua/posts/338799278433157<br>-----<br>12.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/338062698506815<br>-----<br>11.06, Том Купер - схоже, СЕЛИЩЕ ОКУПОВАНЕ - окупантам "...здається, вдалося витіснити українців із Комишувахи (це досягнення так відзначається в російських соціальних мережах, ніби вони завоювали Харків)":<br>https://nv.ua/ukr/opinion/rosiji-ne-vistachaye-boyepripasiv-shcho-vidbuvayetsya-na-fronti-oglyad-boyovih-diy-novini-ukrajini-50249599.html<br>-----<br>11.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/337671438545941<br>-----<br>9.06, вечір -  схоже, селище (частково) ОКУПОВАНЕ: <br>"Ворог має частковий успіх у напрямках на населені пункти Комишуваха та Роти":<br>https://www.facebook.com/GeneralStaff.ua/posts/336221098690975<br>9.06, ранок - російський штурм та обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335842948728790<br>-----<br>8.06 - російські обстріли: https://www.facebook.com/GeneralStaff.ua/posts/335494108763674<br>-----<br>7.06 - російський штурм - "...українські воїни успішно стримують штурмові дії в районі населеного пункту Комишуваха": https://censor.net/ua/n3346534<br>-----<br>5.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/333318498981235<br>-----<br>3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06, вечір - російський штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>2.06, ранок - бої всередині селища - "...ворог веде штурмові дії в н.п. Комишуваха з метою взяття під контроль міста, має частковий успіх...":<br>https://www.facebook.com/GeneralStaff.ua/posts/330568765922875<br>-----<br>1.06, вечір - російський штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/330226645957087<br>1.06, ранок - російські авіаудари "штурмовою та армійською авіацією":<br>https://www.facebook.com/GeneralStaff.ua/posts/329873672659051<br>-----<br>31.05 - "...ворог вів бойові та штурмові дії в районах населених пунктів Золоте, Комишуваха...":<br>https://www.facebook.com/GeneralStaff.ua/posts/329130549400030<br>-----<br>29.05 - російський наступ відбито:<br>https://www.facebook.com/GeneralStaff.ua/posts/327663802880038<br>-----<br>28.05 - бойові дії:<br>https://www.facebook.com/GeneralStaff.ua/posts/327247112921707<br>-----<br>27.05 - російський штурм "успіху не мав":<br>https://www.facebook.com/GeneralStaff.ua/posts/326425353003883<br>-----<br>26.05, вечір - російський наступ відбито - "...окупанти ведуть наступ у напрямках населених пунктів Комишуваха, Ниркове, Берестове та Білогорівка, успіху не мають, зазнали втрат та відійшли":<br>https://censor.net/ua/n3344079<br>26.05, ранок - російський наступ відбито -  "...противник безуспішно здійснив спроби наступу в районах Комишувахи, Липового і Нагірного":<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>25.05, Луганська ОВА - російський наступ відбито:<br>https://censor.net/ua/n3343655<br>===<br>15.05 - бойові дії: <br>https://censor.net/ua/n3341501<br>-----<br>14.05 - російський наступ "успіху не має":<br>https://www.facebook.com/GeneralStaff.ua/posts/316553500657735/<br>-----<br>13.05, Луганська ОВА - російські обстріли зруйнували 11 будинків:<br>https://censor.net/ua/photo_news/3341266/<br>13.05 - російський штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/316199807359771<br>-----<br>12.05, Луганська ОВА - російські обстріли, зруйновано 11 будинків:<br>https://censor.net/ua/p3340998<br>-----<br>12.05 - російський штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/315147577464994<br>-----<br>1.05 - російські обстріли зруйнували сільраду, школу та багатоквартирний будинок: <br>https://censor.net/ua/n3338087<br><br>element_type: dark_red_dot<br>lat: 48.6965416<br>lon: 38.3970635]]></description>
-        <styleUrl>#icon-ci-3</styleUrl>
+        <description><![CDATA[description: 21.06 - "Ворог вів наступ у напрямку Олександропілля – Комишуваха. Успіху не мав, відійшов":<br>https://censor.net/ua/n3349358<br>-----<br>13.06 - "...наші воїни успішно відбили штурмові дії у напрямках Вікторівка – Врубівка та Комишуваха – Врубівка":<br>https://www.facebook.com/GeneralStaff.ua/posts/338799278433157<br>-----<br>12.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/338062698506815<br>-----<br>11.06, Том Купер - схоже, СЕЛИЩЕ ОКУПОВАНЕ - окупантам "...здається, вдалося витіснити українців із Комишувахи (це досягнення так відзначається в російських соціальних мережах, ніби вони завоювали Харків)":<br>https://nv.ua/ukr/opinion/rosiji-ne-vistachaye-boyepripasiv-shcho-vidbuvayetsya-na-fronti-oglyad-boyovih-diy-novini-ukrajini-50249599.html<br>-----<br>11.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/337671438545941<br>-----<br>9.06, вечір -  схоже, селище (частково) ОКУПОВАНЕ: <br>"Ворог має частковий успіх у напрямках на населені пункти Комишуваха та Роти":<br>https://www.facebook.com/GeneralStaff.ua/posts/336221098690975<br>9.06, ранок - російський штурм та обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335842948728790<br>-----<br>8.06 - російські обстріли: https://www.facebook.com/GeneralStaff.ua/posts/335494108763674<br>-----<br>7.06 - російський штурм - "...українські воїни успішно стримують штурмові дії в районі населеного пункту Комишуваха": https://censor.net/ua/n3346534<br>-----<br>5.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/333318498981235<br>-----<br>3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>2.06, вечір - російський штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>2.06, ранок - бої всередині селища - "...ворог веде штурмові дії в н.п. Комишуваха з метою взяття під контроль міста, має частковий успіх...":<br>https://www.facebook.com/GeneralStaff.ua/posts/330568765922875<br>-----<br>1.06, вечір - російський штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/330226645957087<br>1.06, ранок - російські авіаудари "штурмовою та армійською авіацією":<br>https://www.facebook.com/GeneralStaff.ua/posts/329873672659051<br>-----<br>31.05 - "...ворог вів бойові та штурмові дії в районах населених пунктів Золоте, Комишуваха...":<br>https://www.facebook.com/GeneralStaff.ua/posts/329130549400030<br>-----<br>29.05 - російський наступ відбито:<br>https://www.facebook.com/GeneralStaff.ua/posts/327663802880038<br>-----<br>28.05 - бойові дії:<br>https://www.facebook.com/GeneralStaff.ua/posts/327247112921707<br>-----<br>27.05 - російський штурм "успіху не мав":<br>https://www.facebook.com/GeneralStaff.ua/posts/326425353003883<br>-----<br>26.05, вечір - російський наступ відбито - "...окупанти ведуть наступ у напрямках населених пунктів Комишуваха, Ниркове, Берестове та Білогорівка, успіху не мають, зазнали втрат та відійшли":<br>https://censor.net/ua/n3344079<br>26.05, ранок - російський наступ відбито -  "...противник безуспішно здійснив спроби наступу в районах Комишувахи, Липового і Нагірного":<br>https://www.facebook.com/GeneralStaff.ua/posts/325370633109355<br>-----<br>25.05, Луганська ОВА - російський наступ відбито:<br>https://censor.net/ua/n3343655<br>===<br>15.05 - бойові дії: <br>https://censor.net/ua/n3341501<br>-----<br>14.05 - російський наступ "успіху не має":<br>https://www.facebook.com/GeneralStaff.ua/posts/316553500657735/<br>-----<br>13.05, Луганська ОВА - російські обстріли зруйнували 11 будинків:<br>https://censor.net/ua/photo_news/3341266/<br>13.05 - російський штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/316199807359771<br>-----<br>12.05, Луганська ОВА - російські обстріли, зруйновано 11 будинків:<br>https://censor.net/ua/p3340998<br>-----<br>12.05 - російський штурм:<br>https://www.facebook.com/GeneralStaff.ua/posts/315147577464994<br>-----<br>1.05 - російські обстріли зруйнували сільраду, школу та багатоквартирний будинок: <br>https://censor.net/ua/n3338087<br><br>element_type: red_dot<br>lat: 48.6965416<br>lon: 38.3970635]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value><![CDATA[21.06 - "Ворог вів наступ у напрямку Олександропілля – Комишуваха. Успіху не мав, відійшов":
@@ -16861,7 +16869,7 @@ https://censor.net/ua/n3338087
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>dark_red_dot</value>
+            <value>red_dot</value>
           </Data>
           <Data name="lat">
             <value>48.6965416</value>
@@ -30914,11 +30922,14 @@ https://www.facebook.com/GeneralStaff.ua/posts/331730485806703
       </Placemark>
       <Placemark>
         <name>Мирна Долина (окупована 21 червня)</name>
-        <description><![CDATA[description: 21.06 - "На напрямку Тошківка – Підлісне ворог оволодів населеними пунктами Підлісне та Мирна Долина, закріплюється на зайнятих рубежах": https://censor.net/ua/n3349358<br>-----<br>20.06 - російські обстріли та авіаудари (парою Су-25):<br>https://www.facebook.com/GeneralStaff.ua/posts/343975544582197<br>-----<br>4.06 - російські авіаудари (вертольоти Ка-52):<br>https://censor.net/ua/n3345958<br>-----<br>3.06 - російські авіаудари - "Ворожа штурмова авіація завдала авіаударів неподалік Мирної Долини":<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br><br>element_type: red_dot<br>lat: 48.8111237<br>lon: 38.482663]]></description>
-        <styleUrl>#icon-ci-1</styleUrl>
+        <description><![CDATA[description: 24.06 - "Окупанти вели наступ у районі населеного пункту Мирна Долина, бойові дії тривають":<br>https://www.pravda.com.ua/news/2022/06/24/7354348/<br>-----<br>21.06 - "На напрямку Тошківка – Підлісне ворог оволодів населеними пунктами Підлісне та Мирна Долина, закріплюється на зайнятих рубежах": https://censor.net/ua/n3349358<br>-----<br>20.06 - російські обстріли та авіаудари (парою Су-25):<br>https://www.facebook.com/GeneralStaff.ua/posts/343975544582197<br>-----<br>4.06 - російські авіаудари (вертольоти Ка-52):<br>https://censor.net/ua/n3345958<br>-----<br>3.06 - російські авіаудари - "Ворожа штурмова авіація завдала авіаударів неподалік Мирної Долини":<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br><br>element_type: dark_red_dot<br>lat: 48.8111237<br>lon: 38.482663]]></description>
+        <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[21.06 - "На напрямку Тошківка – Підлісне ворог оволодів населеними пунктами Підлісне та Мирна Долина, закріплюється на зайнятих рубежах": https://censor.net/ua/n3349358
+            <value><![CDATA[24.06 - "Окупанти вели наступ у районі населеного пункту Мирна Долина, бойові дії тривають":
+https://www.pravda.com.ua/news/2022/06/24/7354348/
+-----
+21.06 - "На напрямку Тошківка – Підлісне ворог оволодів населеними пунктами Підлісне та Мирна Долина, закріплюється на зайнятих рубежах": https://censor.net/ua/n3349358
 -----
 20.06 - російські обстріли та авіаудари (парою Су-25):
 https://www.facebook.com/GeneralStaff.ua/posts/343975544582197
@@ -30931,7 +30942,7 @@ https://www.facebook.com/GeneralStaff.ua/posts/331331722513246
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>red_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>48.8111237</value>
@@ -35073,12 +35084,13 @@ https://telegraf.com.ua/ukr/statti/2022-06-20/5708307-pamyatnik-koruptsii-zakhop
         </Point>
       </Placemark>
       <Placemark>
-        <name><![CDATA[СЄВЄРОДОНЕЦЬК (завод "АЗОТ")]]></name>
-        <description><![CDATA[description: Промзона на заході Сєвєродонецька стала основним пунктом українського опору в місті.<br>-----<br>23.06, вечір - "Підрозділами зі складу 2-го армійського корпусу, за підтримки загонів росгвардії, противник веде штурмові дії з метою встановлення повного контролю над Сєвєродонецьком. Бойові дії тривають":<br>https://censor.net/ua/n3349820<br>23.06, ранок - "...противник зосереджує основні зусилля на встановленні повного контролю над містом Сєверодонецьк, веденні наступальних дій з метою оточення наших військ у районі міста Лисичанськ та блокуванні основних логістичних шляхів":<br>https://censor.net/ua/n3349654<br>-----<br>21.06 - "...тривають бойові дії у місті Сєвєродонецьк":<br>https://censor.net/ua/n3349358 <br>-----<br>20.06 - "ворог не припиняє штурмові дії з метою встановлення повного контролю над містом Сєвєродонецьк":<br>https://www.facebook.com/GeneralStaff.ua/posts/344672697845815<br><br>element_type: dark_red_dot<br>lat: 48.9425215<br>lon: 38.4588652]]></description>
-        <styleUrl>#icon-ci-3</styleUrl>
+        <name>СЄВЄРОДОНЕЦЬК (промзона)</name>
+        <description><![CDATA[description: 24.06 - Українські підрозділи організовано вийшли з промзони Сєвєродонецька:<br>https://www.pravda.com.ua/news/2022/06/24/7354401/<br>-----<br>23.06, вечір - "Підрозділами зі складу 2-го армійського корпусу, за підтримки загонів росгвардії, противник веде штурмові дії з метою встановлення повного контролю над Сєвєродонецьком. Бойові дії тривають":<br>https://censor.net/ua/n3349820<br>23.06, ранок - "...противник зосереджує основні зусилля на встановленні повного контролю над містом Сєверодонецьк, веденні наступальних дій з метою оточення наших військ у районі міста Лисичанськ та блокуванні основних логістичних шляхів":<br>https://censor.net/ua/n3349654<br>-----<br>21.06 - "...тривають бойові дії у місті Сєвєродонецьк":<br>https://censor.net/ua/n3349358 <br>-----<br>20.06, Луганська ОВА - "У Сєвєродонецьку бої тривають вже у промзоні, українські війська контролюють лише територію заводу "Азот"":<br>https://www.pravda.com.ua/news/2022/06/20/7353675/<br>20.06 - "ворог не припиняє штурмові дії з метою встановлення повного контролю над містом Сєвєродонецьк":<br>https://www.facebook.com/GeneralStaff.ua/posts/344672697845815<br>-----<br>15.06, Сєвєродонецька МВЦА - “Росіяни намагаються штурмувати місто з кількох напрямків. Українські військові контролюють промислову зону і час від часу здійснюються заходи для витискання ворога із центра міста“:<br>https://mil.in.ua/uk/news/ukrayinske-vijsko-kontrolyuye-promzonu-syevyerodonetska-misto-ne-zablokovane/<br><br>element_type: red_dot<br>lat: 48.9425215<br>lon: 38.4588652]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[Промзона на заході Сєвєродонецька стала основним пунктом українського опору в місті.
+            <value><![CDATA[24.06 - Українські підрозділи організовано вийшли з промзони Сєвєродонецька:
+https://www.pravda.com.ua/news/2022/06/24/7354401/
 -----
 23.06, вечір - "Підрозділами зі складу 2-го армійського корпусу, за підтримки загонів росгвардії, противник веде штурмові дії з метою встановлення повного контролю над Сєвєродонецьком. Бойові дії тривають":
 https://censor.net/ua/n3349820
@@ -35088,12 +35100,17 @@ https://censor.net/ua/n3349654
 21.06 - "...тривають бойові дії у місті Сєвєродонецьк":
 https://censor.net/ua/n3349358 
 -----
+20.06, Луганська ОВА - "У Сєвєродонецьку бої тривають вже у промзоні, українські війська контролюють лише територію заводу "Азот"":
+https://www.pravda.com.ua/news/2022/06/20/7353675/
 20.06 - "ворог не припиняє штурмові дії з метою встановлення повного контролю над містом Сєвєродонецьк":
 https://www.facebook.com/GeneralStaff.ua/posts/344672697845815
+-----
+15.06, Сєвєродонецька МВЦА - “Росіяни намагаються штурмувати місто з кількох напрямків. Українські військові контролюють промислову зону і час від часу здійснюються заходи для витискання ворога із центра міста“:
+https://mil.in.ua/uk/news/ukrayinske-vijsko-kontrolyuye-promzonu-syevyerodonetska-misto-ne-zablokovane/
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>dark_red_dot</value>
+            <value>red_dot</value>
           </Data>
           <Data name="lat">
             <value>48.9425215</value>
