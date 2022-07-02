@@ -27506,15 +27506,22 @@ https://censor.net/ua/video_news/3325335/rozbyta_kolona_rosiyiskyh_okupantiv_v_r
         </Point>
       </Placemark>
       <Placemark>
-        <name>Низи (13.03 - російські обстріли)</name>
-        <description><![CDATA[description: https://suspilne.media/217413-artobstrili-v-sumskomu-rajoni-rosijski-vijskovi-strilali-po-selisu-nizi-j-verhnij-sirovatci/<br>element_type: grey_dot<br>lat: 50.7820919<br>lon: 34.7823087]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <name>Низи</name>
+        <description><![CDATA[description: 13.03 - російські обстріли:<br>https://suspilne.media/217413-artobstrili-v-sumskomu-rajoni-rosijski-vijskovi-strilali-po-selisu-nizi-j-verhnij-sirovatci/<br>-----<br>1.03, 12:00 - "...під Низами Сумського району рухається російська колона з білими прапорами. В колоні є українські полонені, повідомили у військовій адміністрації. Територіальну оборону просять не стріляти по колоні":<br>https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/<br>1.03, 19:00 - "...в бою під Низами загинув заслужений тренер України Олександр Кулик...":<br>https://suspilne.media/212761-u-bou-pid-nizami-na-sumsini-zaginuv-zasluzenij-trener-ukraini-oleksandr-kulik/<br><br>element_type: yellow_dot<br>lat: 50.7820919<br>lon: 34.7823087]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>https://suspilne.media/217413-artobstrili-v-sumskomu-rajoni-rosijski-vijskovi-strilali-po-selisu-nizi-j-verhnij-sirovatci/</value>
+            <value><![CDATA[13.03 - російські обстріли:
+https://suspilne.media/217413-artobstrili-v-sumskomu-rajoni-rosijski-vijskovi-strilali-po-selisu-nizi-j-verhnij-sirovatci/
+-----
+1.03, 12:00 - "...під Низами Сумського району рухається російська колона з білими прапорами. В колоні є українські полонені, повідомили у військовій адміністрації. Територіальну оборону просять не стріляти по колоні":
+https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/
+1.03, 19:00 - "...в бою під Низами загинув заслужений тренер України Олександр Кулик...":
+https://suspilne.media/212761-u-bou-pid-nizami-na-sumsini-zaginuv-zasluzenij-trener-ukraini-oleksandr-kulik/
+]]></value>
           </Data>
           <Data name="element_type">
-            <value>grey_dot</value>
+            <value>yellow_dot</value>
           </Data>
           <Data name="lat">
             <value>50.7820919</value>
@@ -39642,6 +39649,162 @@ https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/
         <Point>
           <coordinates>
             33.5751768,50.7713518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Бобрик</name>
+        <description><![CDATA[description: 1.03, Роменська РДА - "...окупанти встановили в селі блокпост, пограбували магазин і два фермерські господарства":<br>https://suspilne.media/212785-vijskovi-rf-zahopili-elevator-pograbuvali-magazin-ta-fermi-situacia-v-romenskomu-rajoni/<br><br>element_type: yellow_dot<br>lat: 50.6762527<br>lon: 33.506781]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[1.03, Роменська РДА - "...окупанти встановили в селі блокпост, пограбували магазин і два фермерські господарства":
+https://suspilne.media/212785-vijskovi-rf-zahopili-elevator-pograbuvali-magazin-ta-fermi-situacia-v-romenskomu-rajoni/
+]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>yellow_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>50.6762527</value>
+          </Data>
+          <Data name="lon">
+            <value>33.506781</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            33.506781,50.6762527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Коровинці</name>
+        <description><![CDATA[description: 1.03 - окупанти встановили тут блокпост:<br>https://suspilne.media/212785-vijskovi-rf-zahopili-elevator-pograbuvali-magazin-ta-fermi-situacia-v-romenskomu-rajoni/<br><br>element_type: yellow_dot<br>lat: 50.804657<br>lon: 33.7419568]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>1.03 - окупанти встановили тут блокпост:
+https://suspilne.media/212785-vijskovi-rf-zahopili-elevator-pograbuvali-magazin-ta-fermi-situacia-v-romenskomu-rajoni/
+</value>
+          </Data>
+          <Data name="element_type">
+            <value>yellow_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>50.804657</value>
+          </Data>
+          <Data name="lon">
+            <value>33.7419568</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            33.7419568,50.804657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Біловод</name>
+        <description><![CDATA[description: 1.03, Роменська РДА - "...російські військові зайняли приміщення трьох елеваторів, один з яких - повністю. Це елеватор "Дружба-Нова" компанії "Кернел", біля нього - велике скупчення російської техніки. Охоронці об'єкту - в полоні, про них поки нічого не відомо. Елеватор по периметру укріплений кулеметними точками окупантів, на дахах - снайпери":<br>https://suspilne.media/212785-vijskovi-rf-zahopili-elevator-pograbuvali-magazin-ta-fermi-situacia-v-romenskomu-rajoni/<br><br>element_type: yellow_dot<br>lat: 50.6601554<br>lon: 33.4588799]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[1.03, Роменська РДА - "...російські військові зайняли приміщення трьох елеваторів, один з яких - повністю. Це елеватор "Дружба-Нова" компанії "Кернел", біля нього - велике скупчення російської техніки. Охоронці об'єкту - в полоні, про них поки нічого не відомо. Елеватор по периметру укріплений кулеметними точками окупантів, на дахах - снайпери":
+https://suspilne.media/212785-vijskovi-rf-zahopili-elevator-pograbuvali-magazin-ta-fermi-situacia-v-romenskomu-rajoni/
+]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>yellow_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>50.6601554</value>
+          </Data>
+          <Data name="lon">
+            <value>33.4588799</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            33.4588799,50.6601554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Погожа Криниця (тут російський танк розчавив цивільне авто із водієм)</name>
+        <description><![CDATA[description: 28.02 - місцевий житель намагався завадити руху російської техніки, перегородивши дорогу власним авто. Танк окупантів розчавив цивільну автівку, УБИВШИ її 47-річного водія:<br>https://suspilne.media/212524-na-sumsini-rosijskij-tank-pereihav-civilne-avto-ake-zavazalo-ruhu-koloni-vodij-zaginuv/<br><br>element_type: yellow_dot<br>lat: 50.7020463<br>lon: 33.6682892]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>28.02 - місцевий житель намагався завадити руху російської техніки, перегородивши дорогу власним авто. Танк окупантів розчавив цивільну автівку, УБИВШИ її 47-річного водія:
+https://suspilne.media/212524-na-sumsini-rosijskij-tank-pereihav-civilne-avto-ake-zavazalo-ruhu-koloni-vodij-zaginuv/
+</value>
+          </Data>
+          <Data name="element_type">
+            <value>yellow_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>50.7020463</value>
+          </Data>
+          <Data name="lon">
+            <value>33.6682892</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            33.6682892,50.7020463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Миронівка</name>
+        <description><![CDATA[description: 1.03, мер Шостки - "...вночі у Миронівці був напад на український блокпост. В бою ліквідована група ДРГ окупантів, поліг один український воїн - Олександр Петрущенко...":<br>https://suspilne.media/212730-u-bou-z-rosijskou-drg-pid-sostkou-na-sumsini-zaginuv-vijskovosluzbovec-zi-svesi/<br><br>element_type: yellow_dot<br>lat: 51.8952992<br>lon: 33.5615088]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[1.03, мер Шостки - "...вночі у Миронівці був напад на український блокпост. В бою ліквідована група ДРГ окупантів, поліг один український воїн - Олександр Петрущенко...":
+https://suspilne.media/212730-u-bou-z-rosijskou-drg-pid-sostkou-na-sumsini-zaginuv-vijskovosluzbovec-zi-svesi/
+]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>yellow_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>51.8952992</value>
+          </Data>
+          <Data name="lon">
+            <value>33.5615088</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            33.5615088,51.8952992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Грунь</name>
+        <description><![CDATA[description: 1.03 - в районі села затримано 11 російських військових. Один з них – старший лейтенант, решта – солдати контрактної служби. Дехто зізнався, що вони — розвідники з військової частини 91701 (Наро-Фомінск):<br>https://suspilne.media/212707-so-ti-skazes-ukrainskomu-narodu-u-seli-grun-na-sumsini-zatrimali-rosijskih-vijskovih/<br><br>element_type: yellow_dot<br>lat: 50.2386323<br>lon: 34.6145922]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>1.03 - в районі села затримано 11 російських військових. Один з них – старший лейтенант, решта – солдати контрактної служби. Дехто зізнався, що вони — розвідники з військової частини 91701 (Наро-Фомінск):
+https://suspilne.media/212707-so-ti-skazes-ukrainskomu-narodu-u-seli-grun-na-sumsini-zatrimali-rosijskih-vijskovih/
+</value>
+          </Data>
+          <Data name="element_type">
+            <value>yellow_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>50.2386323</value>
+          </Data>
+          <Data name="lon">
+            <value>34.6145922</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.6145922,50.2386323,0
           </coordinates>
         </Point>
       </Placemark>
