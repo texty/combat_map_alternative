@@ -13140,25 +13140,29 @@ https://www.youtube.com/watch?v=qrAW_fpx-oI&ab_channel=NEBYTOV
       </Placemark>
       <Placemark>
         <name>НЕДРИГАЙЛІВ (станом на 19.03 у зведенні ГШ ЗСУ місто вказане як рубіжний пункт окупаційних військ РФ)</name>
-        <description><![CDATA[description: На початку великої війни місцеві підпалили російський бензовоз "бандерівським смузі" - https://lb.ua/society/2022/02/26/507051_sumshchini_mistsevi_vluchno_potsilili.html<br>element_type: yellow_dot<br>lat: 50.8215683<br>lon: 33.9279073]]></description>
+        <description><![CDATA[description: На початку великої війни місцеві підпалили російський бензовоз "бандерівським смузі" - https://lb.ua/society/2022/02/26/507051_sumshchini_mistsevi_vluchno_potsilili.html<br>-----<br>25.02, 7:55 - "...окупанти не пропускають автівки з Сум у напрямку Ромнів (траса Суми-Київ). Туди рухається техніка окупантів. Близько 15 танків, гради, КАМАЗи та інша техніка з військовими пройшли через Недригайлів в бік Києва":<br>https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/<br><br>element_type: yellow_dot<br>lat: 50.8300261<br>lon: 33.894948]]></description>
         <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[На початку великої війни місцеві підпалили російський бензовоз "бандерівським смузі" - https://lb.ua/society/2022/02/26/507051_sumshchini_mistsevi_vluchno_potsilili.html]]></value>
+            <value><![CDATA[На початку великої війни місцеві підпалили російський бензовоз "бандерівським смузі" - https://lb.ua/society/2022/02/26/507051_sumshchini_mistsevi_vluchno_potsilili.html
+-----
+25.02, 7:55 - "...окупанти не пропускають автівки з Сум у напрямку Ромнів (траса Суми-Київ). Туди рухається техніка окупантів. Близько 15 танків, гради, КАМАЗи та інша техніка з військовими пройшли через Недригайлів в бік Києва":
+https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/
+]]></value>
           </Data>
           <Data name="element_type">
             <value>yellow_dot</value>
           </Data>
           <Data name="lat">
-            <value>50.8215683</value>
+            <value>50.8300261</value>
           </Data>
           <Data name="lon">
-            <value>33.9279073</value>
+            <value>33.894948</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            33.9279073,50.8215683,0
+            33.894948,50.8300261,0
           </coordinates>
         </Point>
       </Placemark>
@@ -15487,7 +15491,7 @@ https://novynarnia.com/2022/03/09/hronika-oborony-ukrayiny-den-14-09-03-2022/
       </Placemark>
       <Placemark>
         <name>Велика Писарівка (звільнена 26-27 травня)</name>
-        <description><![CDATA[description: 13.06 - російський безпілотник УБИВ цивільного, ще двох поранив:<br>https://censor.net/ua/photo_news/3347751/<br>-----<br>8.06 - мінометні обстріли з території рф:<br>https://www.facebook.com/GeneralStaff.ua/posts/335494108763674<br>-----<br>7.06 - обстріли з території рф:<br>https://censor.net/ua/news/3346534/<br>-----<br>10.05 - обстріли з РСЗВ з території рф - "...противник обстріляв із застосуванням реактивних систем залпового вогню райони прикордонних населених пунктів Велика Писарівка, Білопілля, Краснопілля та Юнаківка Сумської області":<br>https://www.facebook.com/GeneralStaff.ua/posts/313588154287603<br>-------<br>14.04 - російський обстріл:<br>https://www.ukrinform.ua/rubric-ato/3457586-rosiani-obstrilali-na-sumsini-veliku-pisarivku-de-rozmisenij-prikordonnij-punkt.html<br>-------<br>26-27.03 - селище ЗВІЛЬНЕНЕ (за неофіційними даними):<br>https://texty.org.ua/fragments/106140/tom-kuper-ukrayinci-zastosovuyut-vysokotochnu-povitryanu-zbroyu-ce-pohani-novyny-dlya-rosiyan/<br><br>element_type: yellow_dot<br>lat: 50.4185094<br>lon: 35.4810732]]></description>
+        <description><![CDATA[description: 13.06 - російський безпілотник УБИВ цивільного, ще двох поранив:<br>https://censor.net/ua/photo_news/3347751/<br>-----<br>8.06 - мінометні обстріли з території рф:<br>https://www.facebook.com/GeneralStaff.ua/posts/335494108763674<br>-----<br>7.06 - обстріли з території рф:<br>https://censor.net/ua/news/3346534/<br>-----<br>10.05 - обстріли з РСЗВ з території рф - "...противник обстріляв із застосуванням реактивних систем залпового вогню райони прикордонних населених пунктів Велика Писарівка, Білопілля, Краснопілля та Юнаківка Сумської області":<br>https://www.facebook.com/GeneralStaff.ua/posts/313588154287603<br>-----<br>14.04 - російський обстріл:<br>https://www.ukrinform.ua/rubric-ato/3457586-rosiani-obstrilali-na-sumsini-veliku-pisarivku-de-rozmisenij-prikordonnij-punkt.html<br>-----<br>26-27.03 - селище ЗВІЛЬНЕНЕ (за неофіційними даними):<br>https://texty.org.ua/fragments/106140/tom-kuper-ukrayinci-zastosovuyut-vysokotochnu-povitryanu-zbroyu-ce-pohani-novyny-dlya-rosiyan/<br>-----<br>24.02 - селище ОКУПОВАНЕ - "...дві колони російських танків були в Писарівці о 8-й ранку. Одна зайшла з прикордонного пункту "Гайворон" (ЗІ СХОДУ), друга - з боку села Попівка (З ПІВНОЧІ), з'єдналися і рушили в бік Харкова (на південь)":<br>https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/<br><br>element_type: yellow_dot<br>lat: 50.4185094<br>lon: 35.4810732]]></description>
         <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
@@ -15502,12 +15506,15 @@ https://censor.net/ua/news/3346534/
 -----
 10.05 - обстріли з РСЗВ з території рф - "...противник обстріляв із застосуванням реактивних систем залпового вогню райони прикордонних населених пунктів Велика Писарівка, Білопілля, Краснопілля та Юнаківка Сумської області":
 https://www.facebook.com/GeneralStaff.ua/posts/313588154287603
--------
+-----
 14.04 - російський обстріл:
 https://www.ukrinform.ua/rubric-ato/3457586-rosiani-obstrilali-na-sumsini-veliku-pisarivku-de-rozmisenij-prikordonnij-punkt.html
--------
+-----
 26-27.03 - селище ЗВІЛЬНЕНЕ (за неофіційними даними):
 https://texty.org.ua/fragments/106140/tom-kuper-ukrayinci-zastosovuyut-vysokotochnu-povitryanu-zbroyu-ce-pohani-novyny-dlya-rosiyan/
+-----
+24.02 - селище ОКУПОВАНЕ - "...дві колони російських танків були в Писарівці о 8-й ранку. Одна зайшла з прикордонного пункту "Гайворон" (ЗІ СХОДУ), друга - з боку села Попівка (З ПІВНОЧІ), з'єдналися і рушили в бік Харкова (на південь)":
+https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/
 ]]></value>
           </Data>
           <Data name="element_type">
@@ -15608,12 +15615,19 @@ https://texty.org.ua/fragments/106582/zsu-uvijshly-do-staroho-saltova-armiya-rf-
         </Point>
       </Placemark>
       <Placemark>
-        <name>Тарасівка (звільнена на початку квітня, станом на 19.03 як рубіжний пункт окупантів)</name>
-        <description><![CDATA[description: https://censor.net/ua/news/3332320/sumsku_oblast_povnistyu_zvilneno_vid_rosiyiskyh_okupantiv_jyvytskyyi<br>element_type: yellow_dot<br>lat: 50.4761727<br>lon: 35.3012777]]></description>
+        <name>Тарасівка (звільнена на початку квітня)</name>
+        <description><![CDATA[description: 8.04 - СУМЩИНУ повністю ЗВІЛЬНЕНО:<br>https://censor.net/ua/news/3332320/sumsku_oblast_povnistyu_zvilneno_vid_rosiyiskyh_okupantiv_jyvytskyyi<br>-----<br>станом на 19.03 - рубіжний пункт російських окупантів.<br>-----<br>24.02, 22:00 - "Колони окупантів рухаються через Славгород на Тарасівку, Солдатське, перетинають річку Ніцаха [в напрямку Тростянця] Так багато ворожої техніки доїхало повз Тростянець до Боромлі...":<br>https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/<br><br>element_type: yellow_dot<br>lat: 50.4761727<br>lon: 35.3012777]]></description>
         <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>https://censor.net/ua/news/3332320/sumsku_oblast_povnistyu_zvilneno_vid_rosiyiskyh_okupantiv_jyvytskyyi</value>
+            <value><![CDATA[8.04 - СУМЩИНУ повністю ЗВІЛЬНЕНО:
+https://censor.net/ua/news/3332320/sumsku_oblast_povnistyu_zvilneno_vid_rosiyiskyh_okupantiv_jyvytskyyi
+-----
+станом на 19.03 - рубіжний пункт російських окупантів.
+-----
+24.02, 22:00 - "Колони окупантів рухаються через Славгород на Тарасівку, Солдатське, перетинають річку Ніцаха [в напрямку Тростянця] Так багато ворожої техніки доїхало повз Тростянець до Боромлі...":
+https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/
+]]></value>
           </Data>
           <Data name="element_type">
             <value>yellow_dot</value>
@@ -15784,12 +15798,17 @@ https://www.youtube.com/watch?v=S-e4dck8fJg]]></value>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Боромля (звільнена 26-27.03)</name>
-        <description><![CDATA[description: Джерело: https://texty.org.ua/fragments/106124/tom-kuper-v-moskvi-shosyly-perebilshuyut-vtraty-zsu/<br>element_type: yellow_dot<br>lat: 50.622847<br>lon: 34.9728611]]></description>
+        <name>Боромля (звільнена наприкінці березня)</name>
+        <description><![CDATA[description: 26-27.03 - СЕЛО ЗВІЛЬНЕНЕ: <br>https://texty.org.ua/fragments/106124/tom-kuper-v-moskvi-shosyly-perebilshuyut-vtraty-zsu/<br>-----<br>24.02, 22:00 - колони російської техніки заходять у Боромлю зі сходу (від Жигайлівки) і рухаються через село на південь, у бік Тростянця:<br>https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/<br><br>element_type: yellow_dot<br>lat: 50.622847<br>lon: 34.9728611]]></description>
         <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>Джерело: https://texty.org.ua/fragments/106124/tom-kuper-v-moskvi-shosyly-perebilshuyut-vtraty-zsu/</value>
+            <value>26-27.03 - СЕЛО ЗВІЛЬНЕНЕ: 
+https://texty.org.ua/fragments/106124/tom-kuper-v-moskvi-shosyly-perebilshuyut-vtraty-zsu/
+-----
+24.02, 22:00 - колони російської техніки заходять у Боромлю зі сходу (від Жигайлівки) і рухаються через село на південь, у бік Тростянця:
+https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/
+</value>
           </Data>
           <Data name="element_type">
             <value>yellow_dot</value>
@@ -15809,7 +15828,7 @@ https://www.youtube.com/watch?v=S-e4dck8fJg]]></value>
       </Placemark>
       <Placemark>
         <name>ТРОСТЯНЕЦЬ (1-26 березня був окупований)</name>
-        <description><![CDATA[description: 26.03 - МІСТО ЗВІЛЬНЕНЕ. "Еліта" російських сухопутних військ – Кантемирівська танкова дивізія – втекла:<br>https://www.radiosvoboda.org/a/news-trostyanetz-zvilneno/31772154.html<br>-----<br>1.03 - місто ОКУПОВАНЕ:<br>https://suspilne.media/214475-rosijski-vijska-okupuvali-trostanec-na-sumsini-so-vidbuvaetsa-v-misti/<br><br>element_type: yellow_dot<br>lat: 50.4795529<br>lon: 34.9648461]]></description>
+        <description><![CDATA[description: 26.03 - МІСТО ЗВІЛЬНЕНЕ. "Еліта" російських сухопутних військ – Кантемирівська танкова дивізія – втекла:<br>https://www.radiosvoboda.org/a/news-trostyanetz-zvilneno/31772154.html<br>-----<br>1.03 - місто ОКУПОВАНЕ:<br>https://suspilne.media/214475-rosijski-vijska-okupuvali-trostanec-na-sumsini-so-vidbuvaetsa-v-misti/<br>-----<br>24.02, 22:00 - на східній околиці міста, на в'їзді з боку російського кордону стоїть колона техніки окупантів:<br>https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/:<br><br><br>element_type: yellow_dot<br>lat: 50.4795529<br>lon: 34.9648461]]></description>
         <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
@@ -15818,6 +15837,10 @@ https://www.radiosvoboda.org/a/news-trostyanetz-zvilneno/31772154.html
 -----
 1.03 - місто ОКУПОВАНЕ:
 https://suspilne.media/214475-rosijski-vijska-okupuvali-trostanec-na-sumsini-so-vidbuvaetsa-v-misti/
+-----
+24.02, 22:00 - на східній околиці міста, на в'їзді з боку російського кордону стоїть колона техніки окупантів:
+https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/:
+
 ]]></value>
           </Data>
           <Data name="element_type">
@@ -15885,18 +15908,21 @@ https://censor.net/ua/photo_news/3332297/
       </Placemark>
       <Placemark>
         <name>Славгород (звільнений 27 березня)</name>
-        <description><![CDATA[description: 27.06 - російський авіаудар:<br>https://censor.net/ua/news/3350385/<br>-----<br>3.06 - обстріли з території рф:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>27.03 - СЕЛО, за даними Олексія Гончаренка, ЗВІІЛЬНЕНЕ<br><br>element_type: yellow_dot<br>lat: 50.5928053<br>lon: 35.3534876]]></description>
+        <description><![CDATA[description: 27.06 - російський авіаудар:<br>https://censor.net/ua/news/3350385/<br>-----<br>3.06 - обстріли з території рф:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>27.03 - СЕЛО, за даними Олексія Гончаренка, ЗВІІЛЬНЕНЕ<br>-----<br>24.02, 22:00 - "Колони окупантів рухаються через Славгород на Тарасівку, Солдатське, перетинають річку Ніцаха [в напрямку Тростянця]...":<br>https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/<br><br>element_type: yellow_dot<br>lat: 50.5928053<br>lon: 35.3534876]]></description>
         <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>27.06 - російський авіаудар:
+            <value><![CDATA[27.06 - російський авіаудар:
 https://censor.net/ua/news/3350385/
 -----
 3.06 - обстріли з території рф:
 https://www.facebook.com/GeneralStaff.ua/posts/331331722513246
 -----
 27.03 - СЕЛО, за даними Олексія Гончаренка, ЗВІІЛЬНЕНЕ
-</value>
+-----
+24.02, 22:00 - "Колони окупантів рухаються через Славгород на Тарасівку, Солдатське, перетинають річку Ніцаха [в напрямку Тростянця]...":
+https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/
+]]></value>
           </Data>
           <Data name="element_type">
             <value>yellow_dot</value>
@@ -15915,14 +15941,18 @@ https://www.facebook.com/GeneralStaff.ua/posts/331331722513246
         </Point>
       </Placemark>
       <Placemark>
-        <name>Буринь (звільнене до 7.04)</name>
-        <description><![CDATA[description: 8.04: https://censor.net/ua/news/3332320/sumsku_oblast_povnistyu_zvilneno_vid_rosiyiskyh_okupantiv_jyvytskyyi<br>-----<br>2.04: В містечку й довкола накопичується велика кількість ворожої техніки - https://censor.net/ua/news/3330845/operatyvna_informatsiya_stanom_na_1800_2_kvitnya_schodo_rosiyiskogo_vtorgnennya_genshtab_zsu<br>element_type: yellow_dot<br>lat: 51.1974875<br>lon: 33.8305162]]></description>
+        <name>БУРИНЬ (звільнена до 7 квітня)</name>
+        <description><![CDATA[description: 8.04: https://censor.net/ua/news/3332320/sumsku_oblast_povnistyu_zvilneno_vid_rosiyiskyh_okupantiv_jyvytskyyi<br>-----<br>2.04: В містечку й довкола накопичується велика кількість ворожої техніки - https://censor.net/ua/news/3330845/operatyvna_informatsiya_stanom_na_1800_2_kvitnya_schodo_rosiyiskogo_vtorgnennya_genshtab_zsu<br>-----<br>25.02, 4:00, Сумська ОВА - "...йде пересування військової техніки окупантів із Бурині на Конотоп. Всі великі міста області - в оточенні":<br>https://suspilne.media/210666-na-sumsini-vsi-veliki-mista-v-otocenni-golova-vijskovo-civilnoi-administracii-dmitro-zivickij/<br><br>element_type: yellow_dot<br>lat: 51.1974875<br>lon: 33.8305162]]></description>
         <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>8.04: https://censor.net/ua/news/3332320/sumsku_oblast_povnistyu_zvilneno_vid_rosiyiskyh_okupantiv_jyvytskyyi
+            <value><![CDATA[8.04: https://censor.net/ua/news/3332320/sumsku_oblast_povnistyu_zvilneno_vid_rosiyiskyh_okupantiv_jyvytskyyi
 -----
-2.04: В містечку й довкола накопичується велика кількість ворожої техніки - https://censor.net/ua/news/3330845/operatyvna_informatsiya_stanom_na_1800_2_kvitnya_schodo_rosiyiskogo_vtorgnennya_genshtab_zsu</value>
+2.04: В містечку й довкола накопичується велика кількість ворожої техніки - https://censor.net/ua/news/3330845/operatyvna_informatsiya_stanom_na_1800_2_kvitnya_schodo_rosiyiskogo_vtorgnennya_genshtab_zsu
+-----
+25.02, 4:00, Сумська ОВА - "...йде пересування військової техніки окупантів із Бурині на Конотоп. Всі великі міста області - в оточенні":
+https://suspilne.media/210666-na-sumsini-vsi-veliki-mista-v-otocenni-golova-vijskovo-civilnoi-administracii-dmitro-zivickij/
+]]></value>
           </Data>
           <Data name="element_type">
             <value>yellow_dot</value>
@@ -22608,11 +22638,22 @@ https://novynarnia.com/2022/05/07/hronika-oborony-ukrayiny-den-73-07-05-2022/
       </Placemark>
       <Placemark>
         <name>КОНОТОП</name>
-        <description><![CDATA[description: https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D1%97_%D0%B7%D0%B0_%D0%9A%D0%BE%D0%BD%D0%BE%D1%82%D0%BE%D0%BF_(2022)<br>element_type: blue_dot<br>lat: 51.2415821<br>lon: 33.1888677]]></description>
+        <description><![CDATA[description: БОЇ ЗА КОНОТОП:<br>https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D1%97_%D0%B7%D0%B0_%D0%9A%D0%BE%D0%BD%D0%BE%D1%82%D0%BE%D0%BF_(2022)<br>-----<br>25.02, 4:00, Сумська ОВА - "...йде пересування військової техніки окупантів із Бурині на Конотоп. Всі великі міста області - в оточенні":<br>https://suspilne.media/210666-na-sumsini-vsi-veliki-mista-v-otocenni-golova-vijskovo-civilnoi-administracii-dmitro-zivickij/<br>-----<br>25.02, 1:30, Сумська ОВА - "Конотоп опинився в російському оточенні":<br>https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/<br>-----<br>24.02, 18:10 - "Змішана колона техніки до 300 одиниць наблизилась до Конотопа. Підрозділи Збройних Сил України вступили в бій...":<br>https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/<br><br>element_type: blue_dot<br>lat: 51.2415821<br>lon: 33.1888677]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D1%97_%D0%B7%D0%B0_%D0%9A%D0%BE%D0%BD%D0%BE%D1%82%D0%BE%D0%BF_(2022)</value>
+            <value><![CDATA[БОЇ ЗА КОНОТОП:
+https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D1%97_%D0%B7%D0%B0_%D0%9A%D0%BE%D0%BD%D0%BE%D1%82%D0%BE%D0%BF_(2022)
+-----
+25.02, 4:00, Сумська ОВА - "...йде пересування військової техніки окупантів із Бурині на Конотоп. Всі великі міста області - в оточенні":
+https://suspilne.media/210666-na-sumsini-vsi-veliki-mista-v-otocenni-golova-vijskovo-civilnoi-administracii-dmitro-zivickij/
+-----
+25.02, 1:30, Сумська ОВА - "Конотоп опинився в російському оточенні":
+https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/
+-----
+24.02, 18:10 - "Змішана колона техніки до 300 одиниць наблизилась до Конотопа. Підрозділи Збройних Сил України вступили в бій...":
+https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/
+]]></value>
           </Data>
           <Data name="element_type">
             <value>blue_dot</value>
@@ -22632,7 +22673,7 @@ https://novynarnia.com/2022/05/07/hronika-oborony-ukrayiny-den-73-07-05-2022/
       </Placemark>
       <Placemark>
         <name>ОХТИРКА</name>
-        <description><![CDATA[description: 27.06, Сумська ОВА - "...вночі ворог випустив дві ракети в напрямку Охтирки. Жертв та руйнувань немає":<br>https://censor.net/ua/n3350419<br>-----<br>ХРОНОЛОГІЯ ОБОРОНИ міста:<br>https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D1%97_%D0%B7%D0%B0_%D0%9E%D1%85%D1%82%D0%B8%D1%80%D0%BA%D1%83<br>-----<br>8.03 - російські авіаудари по центру та міській інфраструктурі, зруйновано в тому числі міськраду, центральний універмаг, ТЕЦ, є загиблі:<br>https://suspilne.media/215028-rosijski-litaki-skinuli-bombi-na-sumi-e-zertvi/<br>-----<br>26.02 - авіаудар вакуумними бомбами по казармах ЗСУ:<br>https://armyinform.com.ua/2022/03/05/oborona-ohtyrky-rozpovid-ukrayinskogo-oficzera-uchasnyka-boyiv/<br>-----<br>24-25.02 - бої на околицях міста, російські колони розбиті<br><br>element_type: blue_dot<br>lat: 50.3221714<br>lon: 34.9061727]]></description>
+        <description><![CDATA[description: 27.06, Сумська ОВА - "...вночі ворог випустив дві ракети в напрямку Охтирки. Жертв та руйнувань немає":<br>https://censor.net/ua/n3350419<br>-----<br>ХРОНОЛОГІЯ ОБОРОНИ міста:<br>https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D1%97_%D0%B7%D0%B0_%D0%9E%D1%85%D1%82%D0%B8%D1%80%D0%BA%D1%83<br>-----<br>8.03 - російські авіаудари по центру та міській інфраструктурі, зруйновано в тому числі міськраду, центральний універмаг, ТЕЦ, є загиблі:<br>https://suspilne.media/215028-rosijski-litaki-skinuli-bombi-na-sumi-e-zertvi/<br>-----<br>28.02 - неподалік міста росіяни на БТР розстріляли пасажирів "Лади", легковик забрали собі, поїхали на захід - "в бік Чупахівки":<br>https://suspilne.media/212176-pid-ohtirkou-na-sumsini-vijska-rf-rozstrilali-civilnih-odnu-ludinu-vzali-v-polon/<br>-----<br>26.02 - авіаудар вакуумними бомбами по казармах ЗСУ:<br>https://armyinform.com.ua/2022/03/05/oborona-ohtyrky-rozpovid-ukrayinskogo-oficzera-uchasnyka-boyiv/<br>-----<br>24-25.02 - бої на околицях міста, російські колони розбиті<br><br>element_type: blue_dot<br>lat: 50.3221714<br>lon: 34.9061727]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
@@ -22644,6 +22685,9 @@ https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D1%97_%D0%B7%D0%B0_%D0%9E%D1%85%D1%82
 -----
 8.03 - російські авіаудари по центру та міській інфраструктурі, зруйновано в тому числі міськраду, центральний універмаг, ТЕЦ, є загиблі:
 https://suspilne.media/215028-rosijski-litaki-skinuli-bombi-na-sumi-e-zertvi/
+-----
+28.02 - неподалік міста росіяни на БТР розстріляли пасажирів "Лади", легковик забрали собі, поїхали на захід - "в бік Чупахівки":
+https://suspilne.media/212176-pid-ohtirkou-na-sumsini-vijska-rf-rozstrilali-civilnih-odnu-ludinu-vzali-v-polon/
 -----
 26.02 - авіаудар вакуумними бомбами по казармах ЗСУ:
 https://armyinform.com.ua/2022/03/05/oborona-ohtyrky-rozpovid-ukrayinskogo-oficzera-uchasnyka-boyiv/
@@ -22669,7 +22713,7 @@ https://armyinform.com.ua/2022/03/05/oborona-ohtyrky-rozpovid-ukrayinskogo-oficz
       </Placemark>
       <Placemark>
         <name>ГЛУХІВ</name>
-        <description><![CDATA[description: 24.06 - обстріли з території рф:<br>https://www.pravda.com.ua/news/2022/06/24/7354348/<br>-----<br>15.06, Сумська ОВА - російський ракетно-авіаційний удар (з вертольотів):<br>https://censor.net/ua/news/3348231/<br>-----<br>https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D1%97_%D0%B7%D0%B0_%D0%93%D0%BB%D1%83%D1%85%D1%96%D0%B2<br><br>element_type: blue_dot<br>lat: 51.6690371<br>lon: 33.9204157]]></description>
+        <description><![CDATA[description: 24.06 - обстріли з території рф:<br>https://www.pravda.com.ua/news/2022/06/24/7354348/<br>-----<br>15.06, Сумська ОВА - російський ракетно-авіаційний удар (з вертольотів):<br>https://censor.net/ua/news/3348231/<br>-----<br>БОЇ за ГЛУХІВ:<br>https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D1%97_%D0%B7%D0%B0_%D0%93%D0%BB%D1%83%D1%85%D1%96%D0%B2<br>-----<br>24.02, 16:25 - ЗСУ знищили під містом танкову колону окупантів:<br>https://suspilne.media/210452-u-rajoni-gluhova-na-sumsini-zsu-zneskodili-kolonu-tehniki-rf-z-15-tankiv/<br><br>element_type: blue_dot<br>lat: 51.6690371<br>lon: 33.9204157]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
@@ -22679,7 +22723,11 @@ https://www.pravda.com.ua/news/2022/06/24/7354348/
 15.06, Сумська ОВА - російський ракетно-авіаційний удар (з вертольотів):
 https://censor.net/ua/news/3348231/
 -----
+БОЇ за ГЛУХІВ:
 https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D1%97_%D0%B7%D0%B0_%D0%93%D0%BB%D1%83%D1%85%D1%96%D0%B2
+-----
+24.02, 16:25 - ЗСУ знищили під містом танкову колону окупантів:
+https://suspilne.media/210452-u-rajoni-gluhova-na-sumsini-zsu-zneskodili-kolonu-tehniki-rf-z-15-tankiv/
 </value>
           </Data>
           <Data name="element_type">
@@ -22700,11 +22748,16 @@ https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D1%97_%D0%B7%D0%B0_%D0%93%D0%BB%D1%83
       </Placemark>
       <Placemark>
         <name>ПУТИВЛЬ (станом на 2.04 був оточений росіянами)</name>
-        <description><![CDATA[description: Зі зведення ГШ: "...триває блокада Путивля, місто оточене блокпостами ворога" - https://censor.net/ua/n3330845<br>element_type: blue_dot<br>lat: 51.3369604<br>lon: 33.8670801]]></description>
+        <description><![CDATA[description: 2.04 - місто в облозі окупантів - "...триває блокада Путивля, місто оточене блокпостами ворога":<br>https://censor.net/ua/n3330845<br>-----<br>24.02, 16:40 - "...зупинено наступ танків противника в районі Путивль, повідомили в ЗСУ":<br>https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/<br><br>element_type: blue_dot<br>lat: 51.3369604<br>lon: 33.8670801]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[Зі зведення ГШ: "...триває блокада Путивля, місто оточене блокпостами ворога" - https://censor.net/ua/n3330845]]></value>
+            <value><![CDATA[2.04 - місто в облозі окупантів - "...триває блокада Путивля, місто оточене блокпостами ворога":
+https://censor.net/ua/n3330845
+-----
+24.02, 16:40 - "...зупинено наступ танків противника в районі Путивль, повідомили в ЗСУ":
+https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/
+]]></value>
           </Data>
           <Data name="element_type">
             <value>blue_dot</value>
@@ -27537,26 +27590,31 @@ https://suspilne.media/212761-u-bou-pid-nizami-na-sumsini-zaginuv-zasluzenij-tre
         </Point>
       </Placemark>
       <Placemark>
-        <name>Верхня Сироватка (13.03 - російські обстріли)</name>
-        <description><![CDATA[description: https://suspilne.media/217413-artobstrili-v-sumskomu-rajoni-rosijski-vijskovi-strilali-po-selisu-nizi-j-verhnij-sirovatci/<br>element_type: grey_dot<br>lat: 50.8330762<br>lon: 34.9402614]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <name>Верхня Сироватка</name>
+        <description><![CDATA[description: 13.03 - російські обстріли:<br>https://suspilne.media/217413-artobstrili-v-sumskomu-rajoni-rosijski-vijskovi-strilali-po-selisu-nizi-j-verhnij-sirovatci/<br>-----<br>24.02, 18:40 - "...близько 300 одиниць техніки окупантів рухається з Верхньої Сироватки до Нижньої Сироватки. Також близько 100 одиниць техніки в Токарях, під Сумами":<br>https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/<br><br>element_type: yellow_dot<br>lat: 50.8336183<br>lon: 34.9388881]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>https://suspilne.media/217413-artobstrili-v-sumskomu-rajoni-rosijski-vijskovi-strilali-po-selisu-nizi-j-verhnij-sirovatci/</value>
+            <value><![CDATA[13.03 - російські обстріли:
+https://suspilne.media/217413-artobstrili-v-sumskomu-rajoni-rosijski-vijskovi-strilali-po-selisu-nizi-j-verhnij-sirovatci/
+-----
+24.02, 18:40 - "...близько 300 одиниць техніки окупантів рухається з Верхньої Сироватки до Нижньої Сироватки. Також близько 100 одиниць техніки в Токарях, під Сумами":
+https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/
+]]></value>
           </Data>
           <Data name="element_type">
-            <value>grey_dot</value>
+            <value>yellow_dot</value>
           </Data>
           <Data name="lat">
-            <value>50.8330762</value>
+            <value>50.8336183</value>
           </Data>
           <Data name="lon">
-            <value>34.9402614</value>
+            <value>34.9388881</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            34.9402614,50.8330762,0
+            34.9388881,50.8336183,0
           </coordinates>
         </Point>
       </Placemark>
@@ -34642,16 +34700,19 @@ https://www.facebook.com/GeneralStaff.ua/posts/338062698506815
       </Placemark>
       <Placemark>
         <name>Попівка</name>
-        <description><![CDATA[description: 12.06 - обстріли з території рф:<br>https://www.facebook.com/GeneralStaff.ua/posts/338062698506815<br><br>element_type: grey_dot<br>lat: 50.4986816<br>lon: 35.4536809]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <description><![CDATA[description: 12.06 - обстріли з території рф:<br>https://www.facebook.com/GeneralStaff.ua/posts/338062698506815<br>-----<br>24.02 - "...одна російська колона зайшла в селище Писарівку з прикордонного пункту "Гайворон", друга - з боку села Попівка...":<br>https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/<br><br>element_type: yellow_dot<br>lat: 50.4986816<br>lon: 35.4536809]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>12.06 - обстріли з території рф:
+            <value><![CDATA[12.06 - обстріли з території рф:
 https://www.facebook.com/GeneralStaff.ua/posts/338062698506815
-</value>
+-----
+24.02 - "...одна російська колона зайшла в селище Писарівку з прикордонного пункту "Гайворон", друга - з боку села Попівка...":
+https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/
+]]></value>
           </Data>
           <Data name="element_type">
-            <value>grey_dot</value>
+            <value>yellow_dot</value>
           </Data>
           <Data name="lat">
             <value>50.4986816</value>
@@ -38036,12 +38097,15 @@ https://www.ukrinform.ua/rubric-ato/3453886-vijskovi-rf-znovu-vdarili-po-aeropor
       </Placemark>
       <Placemark>
         <name>Станова</name>
-        <description><![CDATA[description: 5.03 - "...на вулиці села Станова російські військові загнали техніку з колони, що рухалася на Лебедин. У місцевих мешканців відбирали телефони, вдиралися в будівлі, просили поїсти та помитися. Таким "живим щитом" прикривалися майже весь день. Ввечері колона вирушила в бік Лебедина. Наразі в селі військових не спостерігають":<br>https://suspilne.media/214475-rosijski-vijska-okupuvali-trostanec-na-sumsini-so-vidbuvaetsa-v-misti/<br><br>element_type: yellow_dot<br>lat: 50.4924411<br>lon: 34.8855385]]></description>
+        <description><![CDATA[description: 5.03 - "...на вулиці села Станова російські військові загнали техніку з колони, що рухалася на Лебедин. У місцевих мешканців відбирали телефони, вдиралися в будівлі, просили поїсти та помитися. Таким "живим щитом" прикривалися майже весь день. Ввечері колона вирушила в бік Лебедина. Наразі в селі військових не спостерігають":<br>https://suspilne.media/214475-rosijski-vijska-okupuvali-trostanec-na-sumsini-so-vidbuvaetsa-v-misti/<br>-----<br>24.02, 22:00 - "...на повороті між Тростянцем і селом Станова споруджено блок-пост окупантів":<br>https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/<br><br>element_type: yellow_dot<br>lat: 50.4924411<br>lon: 34.8855385]]></description>
         <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value><![CDATA[5.03 - "...на вулиці села Станова російські військові загнали техніку з колони, що рухалася на Лебедин. У місцевих мешканців відбирали телефони, вдиралися в будівлі, просили поїсти та помитися. Таким "живим щитом" прикривалися майже весь день. Ввечері колона вирушила в бік Лебедина. Наразі в селі військових не спостерігають":
 https://suspilne.media/214475-rosijski-vijska-okupuvali-trostanec-na-sumsini-so-vidbuvaetsa-v-misti/
+-----
+24.02, 22:00 - "...на повороті між Тростянцем і селом Станова споруджено блок-пост окупантів":
+https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/
 ]]></value>
           </Data>
           <Data name="element_type">
@@ -39285,13 +39349,16 @@ https://www.facebook.com/GeneralStaff.ua/posts/352410633738688
       </Placemark>
       <Placemark>
         <name>Штепівка</name>
-        <description><![CDATA[description: 28.02 - при спробі проникнути в покинуту бойову машину російських окупантів підірвався місцевий мешканець:<br>https://suspilne.media/213147-bijci-teroboroni-prignali-do-sum-pokinutu-rosijsku-bronetehniku-tank-zil-ta-kamaz/<br><br>element_type: yellow_dot<br>lat: 50.8017658<br>lon: 34.3317708]]></description>
+        <description><![CDATA[description: 28.02 - при спробі проникнути в покинуту бойову машину російських окупантів підірвався місцевий мешканець:<br>https://suspilne.media/213147-bijci-teroboroni-prignali-do-sum-pokinutu-rosijsku-bronetehniku-tank-zil-ta-kamaz/<br>-----<br>25.02, 7:55 - "Окупанти не пропускають автівки з Сум у напрямку Ромнів. Туди рухається техніка окупантів ...  Близько 15 танків, "гради", КамАЗи та інша техніка з росіянами пройшли через Недригайлів в бік Києва":<br>https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/<br><br>element_type: yellow_dot<br>lat: 50.8017658<br>lon: 34.3317708]]></description>
         <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>28.02 - при спробі проникнути в покинуту бойову машину російських окупантів підірвався місцевий мешканець:
+            <value><![CDATA[28.02 - при спробі проникнути в покинуту бойову машину російських окупантів підірвався місцевий мешканець:
 https://suspilne.media/213147-bijci-teroboroni-prignali-do-sum-pokinutu-rosijsku-bronetehniku-tank-zil-ta-kamaz/
-</value>
+-----
+25.02, 7:55 - "Окупанти не пропускають автівки з Сум у напрямку Ромнів. Туди рухається техніка окупантів ...  Близько 15 танків, "гради", КамАЗи та інша техніка з росіянами пройшли через Недригайлів в бік Києва":
+https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/
+]]></value>
           </Data>
           <Data name="element_type">
             <value>yellow_dot</value>
@@ -39805,6 +39872,346 @@ https://suspilne.media/212707-so-ti-skazes-ukrainskomu-narodu-u-seli-grun-na-sum
         <Point>
           <coordinates>
             34.6145922,50.2386323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Постольне</name>
+        <description><![CDATA[description: 24.02, пополудні - "...повідомляють, що бачили російську військову техніку, котра рухалась зі сторони Постольного через Головашівку на трасу Суми-Конотоп і на трасі звертала у сторону Конотопа":<br>https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/<br>element_type: yellow_dot<br>lat: 51.0147664<br>lon: 34.5826754]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[24.02, пополудні - "...повідомляють, що бачили російську військову техніку, котра рухалась зі сторони Постольного через Головашівку на трасу Суми-Конотоп і на трасі звертала у сторону Конотопа":
+https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>yellow_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>51.0147664</value>
+          </Data>
+          <Data name="lon">
+            <value>34.5826754</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.5826754,51.0147664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Головашівка</name>
+        <description><![CDATA[description: 24.02, пополудні - "...повідомляють, що бачили російську військову техніку, котра рухалась зі сторони Постольного через Головашівку на трасу Суми-Конотоп і на трасі звертала у сторону Конотопа":<br>https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/<br>element_type: yellow_dot<br>lat: 50.9668721<br>lon: 34.555226]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[24.02, пополудні - "...повідомляють, що бачили російську військову техніку, котра рухалась зі сторони Постольного через Головашівку на трасу Суми-Конотоп і на трасі звертала у сторону Конотопа":
+https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>yellow_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>50.9668721</value>
+          </Data>
+          <Data name="lon">
+            <value>34.555226</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.555226,50.9668721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[роздоріжжя на трасі Р-61 "Суми-Конотоп"]]></name>
+        <description><![CDATA[description: 24.02, пополудні - "...повідомляють, що бачили російську військову техніку, котра рухалась зі сторони Постольного через Головашівку на трасу Суми-Конотоп і на трасі звертала у сторону Конотопа...":<br>https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/<br>element_type: yellow_dot<br>lat: 50.9516959<br>lon: 34.5471769]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[24.02, пополудні - "...повідомляють, що бачили російську військову техніку, котра рухалась зі сторони Постольного через Головашівку на трасу Суми-Конотоп і на трасі звертала у сторону Конотопа...":
+https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>yellow_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>50.9516959</value>
+          </Data>
+          <Data name="lon">
+            <value>34.5471769</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.5471769,50.9516959,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Автомобільний міст на </name>
+        <description><![CDATA[description: 24.01, 15:24 - "...підірвано Пирогівський міст у Шосткинському районі":<br>https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/<br><br>element_type: blue_bridge<br>lat: 51.9230552<br>lon: 33.274723]]></description>
+        <styleUrl>#icon-ci-6</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[24.01, 15:24 - "...підірвано Пирогівський міст у Шосткинському районі":
+https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/
+]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>blue_bridge</value>
+          </Data>
+          <Data name="lat">
+            <value>51.9230552</value>
+          </Data>
+          <Data name="lon">
+            <value>33.274723</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            33.274723,51.9230552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Нижня Сироватка</name>
+        <description><![CDATA[description: 24.02, 18:40 - "...близько 300 одиниць техніки окупантів рухається з Верхньої Сироватки до Нижньої Сироватки. Також близько 100 одиниць техніки в Токарях, під Сумами":<br>https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/<br><br>element_type: yellow_dot<br>lat: 50.7935018<br>lon: 34.8537492]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[24.02, 18:40 - "...близько 300 одиниць техніки окупантів рухається з Верхньої Сироватки до Нижньої Сироватки. Також близько 100 одиниць техніки в Токарях, під Сумами":
+https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/
+]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>yellow_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>50.7935018</value>
+          </Data>
+          <Data name="lon">
+            <value>34.8537492</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.8537492,50.7935018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Токарі</name>
+        <description><![CDATA[description: 24.02, 18:40 - "...також близько 100 одиниць російської техніки - в Токарях, під Сумами":<br>https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/<br>element_type: yellow_dot<br>lat: 50.9154692<br>lon: 34.8945053]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[24.02, 18:40 - "...також близько 100 одиниць російської техніки - в Токарях, під Сумами":
+https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>yellow_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>50.9154692</value>
+          </Data>
+          <Data name="lon">
+            <value>34.8945053</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.8945053,50.9154692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Косівщина</name>
+        <description><![CDATA[description: 25.02, 12:55 - "...російська техніка рухається містом і околицями Сум. З Косівщини рушила колона на село Сад":<br>https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/<br>-----<br>24.02, 20:30 - "...місцеві мешканці повідомляють, що окупанти зупинилися в Токарях, в районі Косівщини та в Нижній Сироватці":<br>https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/<br><br>element_type: yellow_dot<br>lat: 50.9107709<br>lon: 34.7180531]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[25.02, 12:55 - "...російська техніка рухається містом і околицями Сум. З Косівщини рушила колона на село Сад":
+https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/
+-----
+24.02, 20:30 - "...місцеві мешканці повідомляють, що окупанти зупинилися в Токарях, в районі Косівщини та в Нижній Сироватці":
+https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/
+]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>yellow_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>50.9107709</value>
+          </Data>
+          <Data name="lon">
+            <value>34.7180531</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.7180531,50.9107709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Жигайлівка</name>
+        <description><![CDATA[description: 24.02, 22:00 - колони російської техніки  рухаються через село на захід, до Боромлі, там повертають на Тростянець:<br>https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/<br><br>element_type: yellow_dot<br>lat: 50.6442038<br>lon: 35.119671]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>24.02, 22:00 - колони російської техніки  рухаються через село на захід, до Боромлі, там повертають на Тростянець:
+https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/
+</value>
+          </Data>
+          <Data name="element_type">
+            <value>yellow_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>50.6442038</value>
+          </Data>
+          <Data name="lon">
+            <value>35.119671</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.119671,50.6442038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Солдатське</name>
+        <description><![CDATA[description: 24.02, 22:00 - "Колони окупантів рухаються через Славгород на Тарасівку, Солдатське, перетинають річку Ніцаха [в напрямку Тростянця] Так багато ворожої техніки доїхало повз Тростянець до Боромлі...":<br>https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/<br>-   -<br>24.02, вечір - в селі розташувалась колона військової техніки російських окупантів:<br>https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/<br><br>element_type: yellow_dot<br>lat: 50.4330924<br>lon: 35.2098994]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[24.02, 22:00 - "Колони окупантів рухаються через Славгород на Тарасівку, Солдатське, перетинають річку Ніцаха [в напрямку Тростянця] Так багато ворожої техніки доїхало повз Тростянець до Боромлі...":
+https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/
+-   -
+24.02, вечір - в селі розташувалась колона військової техніки російських окупантів:
+https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/
+]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>yellow_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>50.4330924</value>
+          </Data>
+          <Data name="lon">
+            <value>35.2098994</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.2098994,50.4330924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Крамчанка</name>
+        <description><![CDATA[description: 24.02, 22:00 - в селі розташувалась колона військової техніки російських окупантів:<br>https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/<br>element_type: yellow_dot<br>lat: 50.4569702<br>lon: 35.2575226]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>24.02, 22:00 - в селі розташувалась колона військової техніки російських окупантів:
+https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/</value>
+          </Data>
+          <Data name="element_type">
+            <value>yellow_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>50.4569702</value>
+          </Data>
+          <Data name="lon">
+            <value>35.2575226</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.2575226,50.4569702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ницаха</name>
+        <description><![CDATA[description: 24.02, 22:00 - "Колони окупантів рухаються через Славгород на Тарасівку, Солдатське, перетинають річку Ніцаха [в напрямку Тростянця] Так багато ворожої техніки доїхало повз Тростянець до Боромлі...":<br>https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/<br>element_type: yellow_dot<br>lat: 50.4596092<br>lon: 35.1836201]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[24.02, 22:00 - "Колони окупантів рухаються через Славгород на Тарасівку, Солдатське, перетинають річку Ніцаха [в напрямку Тростянця] Так багато ворожої техніки доїхало повз Тростянець до Боромлі...":
+https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>yellow_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>50.4596092</value>
+          </Data>
+          <Data name="lon">
+            <value>35.1836201</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.1836201,50.4596092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Сад</name>
+        <description><![CDATA[description: 25.02, 12:55 - "...російська техніка рухається околицями Сум. З Косівщини рушила колона на село Сад"<br>-----<br>25.02, 7:55 - "...окупанти не пропускають автівки з Сум у напрямку Ромнів (траса Суми-Київ). Туди, на Київ, рухається техніка росіян":<br>https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/<br><br>element_type: yellow_dot<br>lat: 50.8713015<br>lon: 34.7182143]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[25.02, 12:55 - "...російська техніка рухається околицями Сум. З Косівщини рушила колона на село Сад"
+-----
+25.02, 7:55 - "...окупанти не пропускають автівки з Сум у напрямку Ромнів (траса Суми-Київ). Туди, на Київ, рухається техніка росіян":
+https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/
+]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>yellow_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>50.8713015</value>
+          </Data>
+          <Data name="lon">
+            <value>34.7182143</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.7182143,50.8713015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Дубовичі</name>
+        <description><![CDATA[description: 25.02, 18:00, Шосткинська РДА - ...колона ворожої техніки рухалася (зі сходу) в бік Кролевця. Дійшла до села Дубовичі. Дорогою розстрілювали все. Відомо про загиблого цивільного чоловіка (його авто розстріляли) та пораненого":<br>https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/<br><br>element_type: yellow_dot<br>lat: 51.6209583<br>lon: 33.5923738]]></description>
+        <styleUrl>#icon-ci-4</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[25.02, 18:00, Шосткинська РДА - ...колона ворожої техніки рухалася (зі сходу) в бік Кролевця. Дійшла до села Дубовичі. Дорогою розстрілювали все. Відомо про загиблого цивільного чоловіка (його авто розстріляли) та пораненого":
+https://suspilne.media/210133-voennij-stan-so-vidbuvaetsa-u-sumah-2/
+]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>yellow_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>51.6209583</value>
+          </Data>
+          <Data name="lon">
+            <value>33.5923738</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            33.5923738,51.6209583,0
           </coordinates>
         </Point>
       </Placemark>
