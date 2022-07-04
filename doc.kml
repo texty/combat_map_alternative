@@ -3225,7 +3225,7 @@ https://censor.net/ua/v3344089
       </Placemark>
       <Placemark>
         <name>МЕЛІТОПОЛЬ</name>
-        <description><![CDATA[description: 15.06 - "З метою протидії технічним засобам розвідки Сил оборони російські окупанти розгорнули комплекс РЕБ у районі міста Мелітополь":<br>https://censor.net/ua/n3348183<br>-----<br>12.06 - "В окупованому Мелітополі прогримів вибух біля офісу так званого "міністерства внутрішніх справ" Запорізької області:<br>https://censor.net/ua/n3347506<br>-----<br>4.06 - " У Мелітополі російські заброди викрали сільськогосподарську техніку, а саме шість ґрунтообробних комбінованих агрегатів Carier...":<br>https://www.facebook.com/zoda.gov.ua/posts/325936776382847<br>===<br>18.05 - партизани підірвали в місті бронепоїзд окупантів та ешелон з пальним:<br>https://umoloda.kyiv.ua/number/0/188/166438/<br>-----<br>14.05 - "До лікарні Мелітополя доправили 40 російських військових із вогнепальними пораненнями кінцівок - можливо, це результати "самострілів":<br>https://censor.net/ua/n3341340<br><br>element_type: red_dot<br>lat: 46.8363541<br>lon: 35.3759225]]></description>
+        <description><![CDATA[description: 15.06 - "З метою протидії технічним засобам розвідки Сил оборони російські окупанти розгорнули комплекс РЕБ у районі міста Мелітополь":<br>https://censor.net/ua/n3348183<br>-----<br>12.06 - "В окупованому Мелітополі прогримів вибух біля офісу так званого "міністерства внутрішніх справ" Запорізької області:<br>https://censor.net/ua/n3347506<br>-----<br>4.06 - " У Мелітополі російські заброди викрали сільськогосподарську техніку, а саме шість ґрунтообробних комбінованих агрегатів Carier...":<br>https://www.facebook.com/zoda.gov.ua/posts/325936776382847<br>===<br>18.05 - партизани підірвали в місті бронепоїзд окупантів та ешелон з пальним:<br>https://umoloda.kyiv.ua/number/0/188/166438/<br>-----<br>14.05 - "До лікарні Мелітополя доправили 40 російських військових із вогнепальними пораненнями кінцівок - можливо, це результати "самострілів":<br>https://censor.net/ua/n3341340<br><br>element_type: red_dot<br>lat: 46.8438694<br>lon: 35.3978958]]></description>
         <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="description">
@@ -3249,15 +3249,15 @@ https://censor.net/ua/n3341340
             <value>red_dot</value>
           </Data>
           <Data name="lat">
-            <value>46.8363541</value>
+            <value>46.8438694</value>
           </Data>
           <Data name="lon">
-            <value>35.3759225</value>
+            <value>35.3978958</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            35.3759225,46.8363541,0
+            35.3978958,46.8438694,0
           </coordinates>
         </Point>
       </Placemark>
@@ -40970,6 +40970,61 @@ https://censor.net/ua/n3351859
         <Point>
           <coordinates>
             35.306158,46.8839388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>25 червня, 4 липня - ракетні удари ЗСУ по складах боєприпасів в окупованому Сніжному (Донецька обл.)</name>
+        <description><![CDATA[description: 4.07, 1:00 - на складах боєприпасів російських окупантів на території заводу "Сніжхіммаш" пролунали вибухи, після чого спалахнула сильна пожежа з подальшою видовищною детонацією:<br>https://novynarnia.com/2022/07/04/v-okupovanomu-snizhnomu-na-donechchyni-sylna-pozhezha-z-vybuhamy-jmovirno-urazheno-vijskovyj-sklad-rf/<br>-----<br>25.06 - горить склад боєприпасів на території заводу "Хіммаш" в окупованому з 2014 року місті Сніжне:<br>https://novynarnia.com/2022/06/25/hronika-oborony-ukrayiny-den-122-25-06-2022/<br><br>element_type: blue_fire<br>lat: 48.0548757<br>lon: 38.756233]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[4.07, 1:00 - на складах боєприпасів російських окупантів на території заводу "Сніжхіммаш" пролунали вибухи, після чого спалахнула сильна пожежа з подальшою видовищною детонацією:
+https://novynarnia.com/2022/07/04/v-okupovanomu-snizhnomu-na-donechchyni-sylna-pozhezha-z-vybuhamy-jmovirno-urazheno-vijskovyj-sklad-rf/
+-----
+25.06 - горить склад боєприпасів на території заводу "Хіммаш" в окупованому з 2014 року місті Сніжне:
+https://novynarnia.com/2022/06/25/hronika-oborony-ukrayiny-den-122-25-06-2022/
+]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>blue_fire</value>
+          </Data>
+          <Data name="lat">
+            <value>48.0548757</value>
+          </Data>
+          <Data name="lon">
+            <value>38.756233</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.756233,48.0548757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Залізничний міст через Молочну на лінії "Мелітополь-Токмак", підірваний партизанами 3 липня]]></name>
+        <description><![CDATA[description: 3.07, Міноборони - “...невідомі герої підірвали залізничний міст між Мелітополем та Токмаком, вибух стався в окупованому селі Любимівка. Не важко здогадатися, що саме цією гілкою окупанти переганяли склади зі зброєю та військовою технікою на фронт...”:<br>https://sprotyv.mod.gov.ua/2022/07/03/poblyzu-melitopolya-pidirvaly-zaliznychnyj-mist/<br><br>element_type: blue_bridge<br>lat: 47.0795303<br>lon: 35.4837374]]></description>
+        <styleUrl>#icon-ci-6</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>3.07, Міноборони - “...невідомі герої підірвали залізничний міст між Мелітополем та Токмаком, вибух стався в окупованому селі Любимівка. Не важко здогадатися, що саме цією гілкою окупанти переганяли склади зі зброєю та військовою технікою на фронт...”:
+https://sprotyv.mod.gov.ua/2022/07/03/poblyzu-melitopolya-pidirvaly-zaliznychnyj-mist/
+</value>
+          </Data>
+          <Data name="element_type">
+            <value>blue_bridge</value>
+          </Data>
+          <Data name="lat">
+            <value>47.0795303</value>
+          </Data>
+          <Data name="lon">
+            <value>35.4837374</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.4837374,47.0795303,0
           </coordinates>
         </Point>
       </Placemark>
