@@ -7,7 +7,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-10.png</href>
+          <href>images/icon-11.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -18,7 +18,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-10.png</href>
+          <href>images/icon-11.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -33,6 +33,40 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#icon-1739-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-BDBDBD-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-10.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-BDBDBD-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-10.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-BDBDBD">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-BDBDBD-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-BDBDBD-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="icon-ci-1-normal">
@@ -1224,7 +1258,7 @@ https://www.5.ua/regiony/na-donechchyni-okupanty-zakhopyly-4-naseleni-punkty-hen
       </Placemark>
       <Placemark>
         <name>Ясинувата (окупована з 2014 року)</name>
-        <description><![CDATA[description: 9.07 - російський штурм - з метою "покращити тактичне положення на напрямках Ясинувата – Авдіївка. Успіху не має, з втратами відійшов":<br>https://censor.net/ua/n3353120<br>-----<br>1.07 - пожежа на залізничній станції "Ясинувата". Це найбільший залізничний вузол Донеччини, саме через нього російські окупанти переганяли свою техніку. Також підірвано склад боєприпасів:<br>https://novynarnia.com/2022/07/01/yasynuvata/<br><br>element_type: dark_red_dot<br>lat: 48.1268458<br>lon: 37.8543892]]></description>
+        <description><![CDATA[description: 9.07 - російський штурм - з метою "покращити тактичне положення на напрямках Ясинувата – Авдіївка. Успіху не має, з втратами відійшов":<br>https://censor.net/ua/n3353120<br>-----<br>1.07 - пожежа на залізничній станції "Ясинувата". Це найбільший залізничний вузол Донеччини, саме через нього російські окупанти переганяли свою техніку. Також підірвано склад боєприпасів:<br>https://novynarnia.com/2022/07/01/yasynuvata/<br><br>element_type: dark_red_dot<br>lat: 48.1157302<br>lon: 37.8567924]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
@@ -1239,15 +1273,15 @@ https://novynarnia.com/2022/07/01/yasynuvata/
             <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
-            <value>48.1268458</value>
+            <value>48.1157302</value>
           </Data>
           <Data name="lon">
-            <value>37.8543892</value>
+            <value>37.8567924</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            37.8543892,48.1268458,0
+            37.8567924,48.1157302,0
           </coordinates>
         </Point>
       </Placemark>
@@ -21399,11 +21433,14 @@ https://www.facebook.com/GeneralStaff.ua/posts/316553500657735/
       </Placemark>
       <Placemark>
         <name>Баштанка</name>
-        <description><![CDATA[description: 14.06 - російські обстріли з РСЗВ:<br>https://censor.net/ua/n3347933<br>-----<br>На початку березня містечко дало жорстку відсіч російським загарбникам:<br>https://novayapolsha.pl/article/bashtanka-istoriya-odnoi-bitvy/<br>Загалом ТЕРОБОРОНА БАШТАНКИ (с) рулить:<br>https://www.google.com/search?q=%D1%82%D0%B5%D1%80%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0+%D0%B1%D0%B0%D1%88%D1%82%D0%B0%D0%BD%D0%BA%D0%B8<br><br>element_type: blue_dot<br>lat: 47.3926731<br>lon: 32.4370087]]></description>
-        <styleUrl>#icon-ci-3</styleUrl>
+        <description><![CDATA[description: 12-13.07 - російський ракетний удар УБИВ ЖІНКУ:<br>https://censor.net/ua/news/3353845/<br>-----<br>14.06 - російські обстріли з РСЗВ:<br>https://censor.net/ua/n3347933<br>-----<br>На початку березня містечко дало жорстку відсіч російським загарбникам:<br>https://novayapolsha.pl/article/bashtanka-istoriya-odnoi-bitvy/<br>Загалом ТЕРОБОРОНА БАШТАНКИ (с) рулить:<br>https://www.google.com/search?q=%D1%82%D0%B5%D1%80%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0+%D0%B1%D0%B0%D1%88%D1%82%D0%B0%D0%BD%D0%BA%D0%B8<br><br>element_type: dark_red_dot<br>lat: 47.3926731<br>lon: 32.4370087]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>14.06 - російські обстріли з РСЗВ:
+            <value>12-13.07 - російський ракетний удар УБИВ ЖІНКУ:
+https://censor.net/ua/news/3353845/
+-----
+14.06 - російські обстріли з РСЗВ:
 https://censor.net/ua/n3347933
 -----
 На початку березня містечко дало жорстку відсіч російським загарбникам:
@@ -21413,7 +21450,7 @@ https://www.google.com/search?q=%D1%82%D0%B5%D1%80%D0%BE%D0%B1%D0%BE%D1%80%D0%BE
 </value>
           </Data>
           <Data name="element_type">
-            <value>blue_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>47.3926731</value>
@@ -32148,7 +32185,7 @@ https://www.facebook.com/GeneralStaff.ua/posts/319806796999072
       </Placemark>
       <Placemark>
         <name>ЛУГАНСЬК (окупований у 2014 році)</name>
-        <description><![CDATA[description: 16-17.05 - "...відбулись стихійні акції протесту членів родин осіб, що були примусово мобілізовані до лав російських окупаційних військ. Протести зафіксовані у Луганську та Ровеньках. Основна вимога - повернення мобілізованих додому":<br>https://www.facebook.com/GeneralStaff.ua/posts/319806796999072<br>element_type: red_dot<br>lat: 48.5570093<br>lon: 39.2961192]]></description>
+        <description><![CDATA[description: 16-17.05 - "...відбулись стихійні акції протесту членів родин осіб, що були примусово мобілізовані до лав російських окупаційних військ. Протести зафіксовані у Луганську та Ровеньках. Основна вимога - повернення мобілізованих додому":<br>https://www.facebook.com/GeneralStaff.ua/posts/319806796999072<br>element_type: red_dot<br>lat: 48.5508756<br>lon: 39.3730222]]></description>
         <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="description">
@@ -32159,15 +32196,15 @@ https://www.facebook.com/GeneralStaff.ua/posts/319806796999072]]></value>
             <value>red_dot</value>
           </Data>
           <Data name="lat">
-            <value>48.5570093</value>
+            <value>48.5508756</value>
           </Data>
           <Data name="lon">
-            <value>39.2961192</value>
+            <value>39.3730222</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            39.2961192,48.5570093,0
+            39.3730222,48.5508756,0
           </coordinates>
         </Point>
       </Placemark>
@@ -41661,11 +41698,14 @@ https://novynarnia.com/2022/02/26/u-rovenkah-na-luganshhyni/
       </Placemark>
       <Placemark>
         <name>МИКОЛАЇВ</name>
-        <description><![CDATA[description: 12.07 - російські обстріли (С-300 й РСЗВ з окупованої Херсонщини) поранили 12 людей, пошкодили дві лікарні і школу:<br>https://censor.net/ua/video_news/3353754/<br>-----<br>11.06 - по місту прилетіло шість російських ракет: https://censor.net/ua/news/3353321<br>-----<br>29.06 - російський обстріл, ракета влучила у 5-поверхівку і ВБИЛА ВІСЬМОХ людей, шістьох поранила:<br>https://censor.net/ua/news/3351366/<br><br>element_type: dark_red_dot<br>lat: 46.9554651<br>lon: 31.9610431]]></description>
+        <description><![CDATA[description: 13.07 - російські обстріли ВБИЛИ П`ЯТЬОХ людей в околицях міста (Вітовський район):<br>https://censor.net/ua/photo_news/3353861/<br>-----<br>12.07 - російські обстріли (С-300 й РСЗВ з окупованої Херсонщини) поранили 12 людей, пошкодили дві лікарні і школу:<br>https://censor.net/ua/video_news/3353754/<br>-----<br>11.06 - по місту прилетіло шість російських ракет: https://censor.net/ua/news/3353321<br>-----<br>29.06 - російський обстріл, ракета влучила у 5-поверхівку і ВБИЛА ВІСЬМОХ людей, шістьох поранила:<br>https://censor.net/ua/news/3351366/<br><br>element_type: dark_red_dot<br>lat: 46.9554651<br>lon: 31.9610431]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>12.07 - російські обстріли (С-300 й РСЗВ з окупованої Херсонщини) поранили 12 людей, пошкодили дві лікарні і школу:
+            <value>13.07 - російські обстріли ВБИЛИ П`ЯТЬОХ людей в околицях міста (Вітовський район):
+https://censor.net/ua/photo_news/3353861/
+-----
+12.07 - російські обстріли (С-300 й РСЗВ з окупованої Херсонщини) поранили 12 людей, пошкодили дві лікарні і школу:
 https://censor.net/ua/video_news/3353754/
 -----
 11.06 - по місту прилетіло шість російських ракет: https://censor.net/ua/news/3353321
@@ -43682,11 +43722,14 @@ https://censor.net/ua/news/3352360/
       </Placemark>
       <Placemark>
         <name>8, 10 липня - удари ЗСУ по російських складах боєприпасів в окупованому Шахтарську</name>
-        <description><![CDATA[description: 10.07 - з ночі в окупованих Шахтарську, Зугресі, Харцизьку, Чистяковому та Донецьку лунають вибухи на складах боєприпасів:<br>https://censor.net/ua/n3353181<br>-----<br>8.07 - "...вибухи снарядів практично зрівняли територію складу із землею. На запису видно, що боєприпаси продовжують детонувати" через багато годин після моменту удару:<br>https://censor.net/ua/v3352937<br><br>element_type: blue_fire<br>lat: 48.0445835<br>lon: 38.4619345]]></description>
+        <description><![CDATA[description: 11.07 - склади в Шахтарську ДО і ПІСЛЯ вибухів (порівняльні ФОТО):<br>https://t.me/bochkala_war/6769<br>- - -<br>10.07 - з ночі в окупованих Шахтарську, Зугресі, Харцизьку, Чистяковому та Донецьку лунають вибухи на складах боєприпасів:<br>https://censor.net/ua/n3353181<br>-----<br>8.07 - "...вибухи снарядів практично зрівняли територію складу із землею. На запису видно, що боєприпаси продовжують детонувати" через багато годин після моменту удару:<br>https://censor.net/ua/v3352937<br><br>element_type: blue_fire<br>lat: 48.0445835<br>lon: 38.4619345]]></description>
         <styleUrl>#icon-ci-9</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[10.07 - з ночі в окупованих Шахтарську, Зугресі, Харцизьку, Чистяковому та Донецьку лунають вибухи на складах боєприпасів:
+            <value><![CDATA[11.07 - склади в Шахтарську ДО і ПІСЛЯ вибухів (порівняльні ФОТО):
+https://t.me/bochkala_war/6769
+- - -
+10.07 - з ночі в окупованих Шахтарську, Зугресі, Харцизьку, Чистяковому та Донецьку лунають вибухи на складах боєприпасів:
 https://censor.net/ua/n3353181
 -----
 8.07 - "...вибухи снарядів практично зрівняли територію складу із землею. На запису видно, що боєприпаси продовжують детонувати" через багато годин після моменту удару:
@@ -45400,6 +45443,108 @@ https://censor.net/ua/photo_news/3353744/
         <Point>
           <coordinates>
             33.5015807,47.6075472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[15 березня - російський удар по заводу КБ "Луч" (розробник РСЗВ "Вільха", ракетних комплексів "Стугна" й "Нептун")]]></name>
+        <description><![CDATA[description: 15.03 - прилетіло по виробничних потужностях передового українського виробника ракетної зброї:<br>https://censor.net/ua/news/3325243<br><br>element_type: red_fire<br>lat: 50.4617458<br>lon: 30.4839725]]></description>
+        <styleUrl>#icon-ci-7</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>15.03 - прилетіло по виробничних потужностях передового українського виробника ракетної зброї:
+https://censor.net/ua/news/3325243
+</value>
+          </Data>
+          <Data name="element_type">
+            <value>red_fire</value>
+          </Data>
+          <Data name="lat">
+            <value>50.4617458</value>
+          </Data>
+          <Data name="lon">
+            <value>30.4839725</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.4839725,50.4617458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5 липня - удар ЗСУ по казармах росіян в окупованій Ясинуватій</name>
+        <description><![CDATA[description: 5.07 - в розташуванні особового складу росіян та їхніх подільників спалахнула пожежа:<br>https://hromadske.radio/news/2022/07/05/zsu-vdaryly-po-kazarmi-rosiian-v-okupovaniy-yasynuvatiy<br><br>element_type: blue_fire<br>lat: 48.1314922<br>lon: 37.8642131]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>5.07 - в розташуванні особового складу росіян та їхніх подільників спалахнула пожежа:
+https://hromadske.radio/news/2022/07/05/zsu-vdaryly-po-kazarmi-rosiian-v-okupovaniy-yasynuvatiy
+</value>
+          </Data>
+          <Data name="element_type">
+            <value>blue_fire</value>
+          </Data>
+          <Data name="lat">
+            <value>48.1314922</value>
+          </Data>
+          <Data name="lon">
+            <value>37.8642131</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.8642131,48.1314922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12 липня - удар ЗСУ по позиціях ППО окупантів під Луганськом</name>
+        <description><![CDATA[description: 12.07, близько 23:00 - українські НIMARS знищили російську базу протиповітряної оборони під окупованим обласним центром. Вибух спричинив детонацію зенітних ракет і їхній видовищний розліт навсебіч:<br>https://censor.net/ua/n3353756<br><br>element_type: blue_fire<br>lat: 48.5412123<br>lon: 39.2281706]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>12.07, близько 23:00 - українські НIMARS знищили російську базу протиповітряної оборони під окупованим обласним центром. Вибух спричинив детонацію зенітних ракет і їхній видовищний розліт навсебіч:
+https://censor.net/ua/n3353756
+</value>
+          </Data>
+          <Data name="element_type">
+            <value>blue_fire</value>
+          </Data>
+          <Data name="lat">
+            <value>48.5412123</value>
+          </Data>
+          <Data name="lon">
+            <value>39.2281706</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.2281706,48.5412123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Точка 1397</name>
+        <description><![CDATA[description: <br>element_type: <br>lat: 48.1507213<br>lon: 37.7395673]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="element_type">
+            <value/>
+          </Data>
+          <Data name="lat">
+            <value>48.1507213</value>
+          </Data>
+          <Data name="lon">
+            <value>37.7395673</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.7395673,48.1507213,0
           </coordinates>
         </Point>
       </Placemark>
