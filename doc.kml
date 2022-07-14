@@ -2017,7 +2017,7 @@ https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/
       </Placemark>
       <Placemark>
         <name>Брянка (окупована з 2014 року)</name>
-        <description><![CDATA[description: <br>element_type: red_dot<br>lat: 48.5039279<br>lon: 38.6480582]]></description>
+        <description><![CDATA[description: <br>element_type: red_dot<br>lat: 48.4971034<br>lon: 38.6878839]]></description>
         <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="description">
@@ -2027,15 +2027,15 @@ https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/
             <value>red_dot</value>
           </Data>
           <Data name="lat">
-            <value>48.5039279</value>
+            <value>48.4971034</value>
           </Data>
           <Data name="lon">
-            <value>38.6480582</value>
+            <value>38.6878839</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            38.6480582,48.5039279,0
+            38.6878839,48.4971034,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2807,11 +2807,14 @@ https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/
       </Placemark>
       <Placemark>
         <name>ХЕРСОН</name>
-        <description><![CDATA[description: 14.07 - окупанти везуть до Херсону з Криму збірні бетонні укріплення:<br>https://censor.net/ua/p3354020<br>-----<br>12.07 - "...велика колона російської техніки з окупованого Криму проїхала через Мелітополь у бік Херсона - близько 40 одиниць техніки, які перевозили паливо, боєприпаси":<br>https://censor.net/ua/n3353813<br>-----<br>6.07 - в районі міського залізничного вокзалу знищено склади російських окупантів. ВIДЕО:<br>https://censor.net/ua/n3352465<br>-----<br>28.06 - окупанти взяли в заручники мера міста Ігоря Колихаєва:<br>https://www.radiosvoboda.org/a/news-zatrymannya-kolykhayeva-kherson/31919645.html<br>-----<br>24.06 - в місті підірвали ще одного колаборанта:<br>https://www.pravda.com.ua/news/2022/06/24/7354377/<br>-----<br>19.06 - партизани розстріляли окупантів, які замовляли шашлик у міському кафе:<br>https://www.facebook.com/okPivden/posts/2084755201695722<br>-----<br>18.06 - партизани підірвали авто колаборанта, начальника виправної колонії:<br>https://novynarnia.com/2022/06/18/u-hersoni-partyzany-pidirvaly-avto-kolaboranta-nachalnyka-vypravnoyi-koloniyi/<br>-----<br>14.05 - місцеві партизани розклеїли містом звернення до окупантів - "ВСУ идут! Орки, крепко держите свои штанишки, бежать далеко придется":<br>https://censor.net/ua/p3341316<br><br>element_type: dark_red_dot<br>lat: 46.6703064<br>lon: 32.6226004]]></description>
+        <description><![CDATA[description: 14.07 - в місті знищено ще одну базу російських окупантів:<br>https://censor.net/ua/news/3354070/<br>-----<br>13.07 - окупанти везуть до Херсону з Криму збірні бетонні укріплення:<br>https://censor.net/ua/p3354020<br>-----<br>12.07 - "...велика колона російської техніки з окупованого Криму проїхала через Мелітополь у бік Херсона - близько 40 одиниць техніки, які перевозили паливо, боєприпаси":<br>https://censor.net/ua/n3353813<br>-----<br>6.07 - в районі міського залізничного вокзалу знищено склади російських окупантів. ВIДЕО:<br>https://censor.net/ua/n3352465<br>-----<br>28.06 - окупанти взяли в заручники мера міста Ігоря Колихаєва:<br>https://www.radiosvoboda.org/a/news-zatrymannya-kolykhayeva-kherson/31919645.html<br>-----<br>24.06 - в місті підірвали ще одного колаборанта:<br>https://www.pravda.com.ua/news/2022/06/24/7354377/<br>-----<br>19.06 - партизани розстріляли окупантів, які замовляли шашлик у міському кафе:<br>https://www.facebook.com/okPivden/posts/2084755201695722<br>-----<br>18.06 - партизани підірвали авто колаборанта, начальника виправної колонії:<br>https://novynarnia.com/2022/06/18/u-hersoni-partyzany-pidirvaly-avto-kolaboranta-nachalnyka-vypravnoyi-koloniyi/<br>-----<br>14.05 - місцеві партизани розклеїли містом звернення до окупантів - "ВСУ идут! Орки, крепко держите свои штанишки, бежать далеко придется":<br>https://censor.net/ua/p3341316<br><br>element_type: dark_red_dot<br>lat: 46.6703064<br>lon: 32.6226004]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[14.07 - окупанти везуть до Херсону з Криму збірні бетонні укріплення:
+            <value><![CDATA[14.07 - в місті знищено ще одну базу російських окупантів:
+https://censor.net/ua/news/3354070/
+-----
+13.07 - окупанти везуть до Херсону з Криму збірні бетонні укріплення:
 https://censor.net/ua/p3354020
 -----
 12.07 - "...велика колона російської техніки з окупованого Криму проїхала через Мелітополь у бік Херсона - близько 40 одиниць техніки, які перевозили паливо, боєприпаси":
@@ -36529,7 +36532,7 @@ https://nv.ua/ukr/ukraine/events/shche-dvoh-rosiyskih-generaliv-ubito-na-hersons
       </Placemark>
       <Placemark>
         <name>Кадіївка (окупована з 2014 року)</name>
-        <description><![CDATA[description: 9.06 - ЗСУ знищили базу ПВК "Вагнер" на місцевому стадіоні (ФОТО, ВІДЕО):<br>https://babel.ua/news/79763-zsu-znishchili-bazu-pvk-vagnera-v-okupovaniy-kadijivci-koli-tam-perebuvav-ochilnik-naymanciv-kuhar-putina-prigozhin<br><br>element_type: red_dot<br>lat: 48.5408335<br>lon: 38.6528919]]></description>
+        <description><![CDATA[description: 9.06 - ЗСУ знищили базу ПВК "Вагнер" на місцевому стадіоні (ФОТО, ВІДЕО):<br>https://babel.ua/news/79763-zsu-znishchili-bazu-pvk-vagnera-v-okupovaniy-kadijivci-koli-tam-perebuvav-ochilnik-naymanciv-kuhar-putina-prigozhin<br><br>element_type: red_dot<br>lat: 48.5685593<br>lon: 38.6659391]]></description>
         <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="description">
@@ -36541,15 +36544,15 @@ https://babel.ua/news/79763-zsu-znishchili-bazu-pvk-vagnera-v-okupovaniy-kadijiv
             <value>red_dot</value>
           </Data>
           <Data name="lat">
-            <value>48.5408335</value>
+            <value>48.5685593</value>
           </Data>
           <Data name="lon">
-            <value>38.6528919</value>
+            <value>38.6659391</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            38.6528919,48.5408335,0
+            38.6659391,48.5685593,0
           </coordinates>
         </Point>
       </Placemark>
@@ -43643,7 +43646,7 @@ https://censor.net/ua/news/3352086/
       </Placemark>
       <Placemark>
         <name>5,9 липня - удари ЗСУ по російським складам боєприпасів в окупованій Кадіївці</name>
-        <description><![CDATA[description: 9.07 - ще один удар - після "прильотів" під ранок почалася детонація боєприпасів:<br>https://fakty.com.ua/ua/ukraine/20220709-u-harczyzku-ta-kadiyivczi-vsyu-nich-vybuhaly-sklady-okupantiv/<br>-----<br>5.07 - станом на 8-му ранку, за повідомленнями місцевих, детонація триває вже чотири години поспіль:<br>https://censor.net/ua/video_news/3352153/<br><br>element_type: blue_fire<br>lat: 48.5779082<br>lon: 38.6308126]]></description>
+        <description><![CDATA[description: 9.07 - ще один удар - після "прильотів" під ранок почалася детонація боєприпасів:<br>https://fakty.com.ua/ua/ukraine/20220709-u-harczyzku-ta-kadiyivczi-vsyu-nich-vybuhaly-sklady-okupantiv/<br>-----<br>5.07 - станом на 8-му ранку, за повідомленнями місцевих, детонація триває вже чотири години поспіль:<br>https://censor.net/ua/video_news/3352153/<br><br>element_type: blue_fire<br>lat: 48.5372341<br>lon: 38.6251464]]></description>
         <styleUrl>#icon-ci-9</styleUrl>
         <ExtendedData>
           <Data name="description">
@@ -43658,15 +43661,15 @@ https://censor.net/ua/video_news/3352153/
             <value>blue_fire</value>
           </Data>
           <Data name="lat">
-            <value>48.5779082</value>
+            <value>48.5372341</value>
           </Data>
           <Data name="lon">
-            <value>38.6308126</value>
+            <value>38.6251464</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            38.6308126,48.5779082,0
+            38.6251464,48.5372341,0
           </coordinates>
         </Point>
       </Placemark>
@@ -46951,6 +46954,63 @@ https://censor.net/ua/news/3353554/
         <Point>
           <coordinates>
             35.4641874,47.5429354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[14 липня - російський ракетний удар по будинку побуту "Ювілейний" (ВІННИЦЯ)]]></name>
+        <description><![CDATA[description: 14.07 - окупанти запустили з підводного човна в Чорному морі три крилаті ракети "Калібр", долетіла (близько 10:50) одна, вдаривши по 9-поверховій офісно-торговій споруді в центрі міста.<br>- - -<br>Станом на 16:35 - 27 УБИТИХ (серед них ТРОЄ ДІТЕЙ), 52 людини ушпиталено, 42 людини зникли БЕЗВІСТИ. Пошкоджено 55 будинків, згоріло 40 автівок:<br>https://censor.net/ua/n3354064<br>https://censor.net/ua/news/3354139/<br>https://censor.net/ua/news/3354095/<br>https://censor.net/ua/news/3354123/<br><br>element_type: red_fire<br>lat: 49.2395261<br>lon: 28.4927959]]></description>
+        <styleUrl>#icon-ci-7</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[14.07 - окупанти запустили з підводного човна в Чорному морі три крилаті ракети "Калібр", долетіла (близько 10:50) одна, вдаривши по 9-поверховій офісно-торговій споруді в центрі міста.
+- - -
+Станом на 16:35 - 27 УБИТИХ (серед них ТРОЄ ДІТЕЙ), 52 людини ушпиталено, 42 людини зникли БЕЗВІСТИ. Пошкоджено 55 будинків, згоріло 40 автівок:
+https://censor.net/ua/n3354064
+https://censor.net/ua/news/3354139/
+https://censor.net/ua/news/3354095/
+https://censor.net/ua/news/3354123/
+]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>red_fire</value>
+          </Data>
+          <Data name="lat">
+            <value>49.2395261</value>
+          </Data>
+          <Data name="lon">
+            <value>28.4927959</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            28.4927959,49.2395261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Гоптівка</name>
+        <description><![CDATA[description: липень - український обстріл знищив під окупованим селом взвод артилерійських установок "Нона-К" російської армії, разом зі складом боєприпасів та вантажівками забезпечення:<br>https://site.ua/kirill.danilchenko/straik-i0p4nk1<br><br>element_type: dark_red_dot<br>lat: 50.2841787<br>lon: 36.2648344]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[липень - український обстріл знищив під окупованим селом взвод артилерійських установок "Нона-К" російської армії, разом зі складом боєприпасів та вантажівками забезпечення:
+https://site.ua/kirill.danilchenko/straik-i0p4nk1
+]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>dark_red_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>50.2841787</value>
+          </Data>
+          <Data name="lon">
+            <value>36.2648344</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.2648344,50.2841787,0
           </coordinates>
         </Point>
       </Placemark>
