@@ -1417,7 +1417,7 @@ https://censor.net/ua/n3335271]]></value>
       </Placemark>
       <Placemark>
         <name>ГОРЛІВКА (окупована з 2014 року)</name>
-        <description><![CDATA[description: 5.07 - українські обстріли, горить російська ремонтна база з танками та купою іншої техніки окупантів (територія Горлівського машинобудівного заводу):<br>https://defence-ua.com/news/zsu_virishili_ne_baritisja_z_remontnoju_bazoju_okupantiv_v_gorlivtsi_de_buli_t_72_ta_insha_tehnika-8048.html<br><br>element_type: red_dot<br>lat: 48.3264579<br>lon: 38.0609036]]></description>
+        <description><![CDATA[description: 5.07 - українські обстріли, горить російська ремонтна база з танками та купою іншої техніки окупантів (територія Горлівського машинобудівного заводу):<br>https://defence-ua.com/news/zsu_virishili_ne_baritisja_z_remontnoju_bazoju_okupantiv_v_gorlivtsi_de_buli_t_72_ta_insha_tehnika-8048.html<br><br>element_type: red_dot<br>lat: 48.361601<br>lon: 38.0032245]]></description>
         <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="description">
@@ -1429,15 +1429,15 @@ https://defence-ua.com/news/zsu_virishili_ne_baritisja_z_remontnoju_bazoju_okupa
             <value>red_dot</value>
           </Data>
           <Data name="lat">
-            <value>48.3264579</value>
+            <value>48.361601</value>
           </Data>
           <Data name="lon">
-            <value>38.0609036</value>
+            <value>38.0032245</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            38.0609036,48.3264579,0
+            38.0032245,48.361601,0
           </coordinates>
         </Point>
       </Placemark>
@@ -10289,11 +10289,14 @@ https://censor.net/ua/photo_news/3338593/
       <Placemark>
         <name><![CDATA[Мар'їнське (тут росіяни розстріляли човен, який евакуйовував цивільних)
 ]]></name>
-        <description><![CDATA[description: 16.07 - російські обстріли спалили кількадесят гектарів урожаю пшениці:<br>https://censor.net/ua/n3354594<br>-----<br>11.07 - російські обстріли (РСЗВ):<br>https://censor.net/ua/news/3353296/<br>-----<br>25.05 - російські обстріли:<br>https://t.me/dnipropetrovskaODA/1013<br>-----<br>27.04 - російські обстріли:<br>https://censor.net/ua/video_news/3337105/<br>-----<br>19.04 - російські обстріли:<br>https://censor.net/ua/news/3335135/<br>-----<br>7.04 - розстріл цивільних: <br>https://censor.net/ua/news/3332295/16richnu_vagitnu_divchynu_ta_78richnu_babusyu_zvaltuvaly_rashysty_na_hersonschyni_vilkul<br>-----<br>4.04 - російські обстріли: https://censor.net/ua/news/3331155/vnochi_okupanty_obstrilyaly_novovorontsovku_ta_maryanske_vilkul<br><br>element_type: grey_dot<br>lat: 47.5450853<br>lon: 33.9239471]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <description><![CDATA[description: 24.07 - російські обстріли:<br>https://censor.net/ua/news/3356100/<br>-----<br>16.07 - російські обстріли спалили кількадесят гектарів урожаю пшениці:<br>https://censor.net/ua/n3354594<br>-----<br>11.07 - російські обстріли (РСЗВ):<br>https://censor.net/ua/news/3353296/<br>-----<br>25.05 - російські обстріли:<br>https://t.me/dnipropetrovskaODA/1013<br>-----<br>27.04 - російські обстріли:<br>https://censor.net/ua/video_news/3337105/<br>-----<br>19.04 - російські обстріли:<br>https://censor.net/ua/news/3335135/<br>-----<br>7.04 - розстріл цивільних: <br>https://censor.net/ua/news/3332295/16richnu_vagitnu_divchynu_ta_78richnu_babusyu_zvaltuvaly_rashysty_na_hersonschyni_vilkul<br>-----<br>4.04 - російські обстріли: https://censor.net/ua/news/3331155/vnochi_okupanty_obstrilyaly_novovorontsovku_ta_maryanske_vilkul<br><br>element_type: dark_red_dot<br>lat: 47.5450853<br>lon: 33.9239471]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>16.07 - російські обстріли спалили кількадесят гектарів урожаю пшениці:
+            <value>24.07 - російські обстріли:
+https://censor.net/ua/news/3356100/
+-----
+16.07 - російські обстріли спалили кількадесят гектарів урожаю пшениці:
 https://censor.net/ua/n3354594
 -----
 11.07 - російські обстріли (РСЗВ):
@@ -10315,7 +10318,7 @@ https://censor.net/ua/news/3332295/16richnu_vagitnu_divchynu_ta_78richnu_babusyu
 </value>
           </Data>
           <Data name="element_type">
-            <value>grey_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>47.5450853</value>
@@ -10332,11 +10335,14 @@ https://censor.net/ua/news/3332295/16richnu_vagitnu_divchynu_ta_78richnu_babusyu
       </Placemark>
       <Placemark>
         <name>Велика Костромка</name>
-        <description><![CDATA[description: 16.07 - російські обстріли:<br>https://censor.net/ua/n3354594<br>-----<br>13.07 - російські обстріли:<br>https://censor.net/ua/news/3354018/<br>-----<br>12.07 - російські обстріли:<br>https://censor.net/ua/news/3353717/<br>-----<br>11.07 - російські обстріли:<br>https://censor.net/ua/news/3353483/<br>-----<br>5.07 - російські обстріли:<br>https://censor.net/ua/news/3352144<br>-----<br>28.06 - російські обстріли:<br>https://censor.net/ua/news/3350842<br>-----<br>22.06 - російські обстріли - "...є руйнування. У селі немає світла":<br>https://censor.net/ua/n3349426<br>-----<br>11.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/337671438545941<br>-----<br>8.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335494108763674<br>-----<br>25.05 - російські обстріли:<br>https://t.me/dnipropetrovskaODA/1013<br>-----<br>12.05 - російські обстріли:<br>https://t.me/dnipropetrovskaODA/897<br>-----<br>9.05 - російські обстріли:<br>https://censor.net/ua/news/3340041/vnochi_rosiyany_vluchyly_v_okolytsi_sela_na_dnipropetrovschyni_reznichenko<br>-----<br>27.04 - російські обстріли:<br>https://censor.net/ua/video_news/3337105/<br>-----<br>25.04 - російські обстріли<br>https://censor.net/ua/p3336742<br>-----<br>20.04 - російські обстріли<br>https://censor.net/ua/news/3335638/<br>-----<br>19.04 - російські обстріли <br>https://censor.net/ua/news/3335135/<br><br>element_type: grey_dot<br>lat: 47.538673<br>lon: 33.7178731]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <description><![CDATA[description: 23.07 - російські обстріли:<br>https://t.me/dnipropetrovskaODA/1375<br>-----<br>16.07 - російські обстріли:<br>https://censor.net/ua/n3354594<br>-----<br>13.07 - російські обстріли:<br>https://censor.net/ua/news/3354018/<br>-----<br>12.07 - російські обстріли:<br>https://censor.net/ua/news/3353717/<br>-----<br>11.07 - російські обстріли:<br>https://censor.net/ua/news/3353483/<br>-----<br>5.07 - російські обстріли:<br>https://censor.net/ua/news/3352144<br>-----<br>28.06 - російські обстріли:<br>https://censor.net/ua/news/3350842<br>-----<br>22.06 - російські обстріли - "...є руйнування. У селі немає світла":<br>https://censor.net/ua/n3349426<br>-----<br>11.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/337671438545941<br>-----<br>8.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335494108763674<br>-----<br>25.05 - російські обстріли:<br>https://t.me/dnipropetrovskaODA/1013<br>-----<br>12.05 - російські обстріли:<br>https://t.me/dnipropetrovskaODA/897<br>-----<br>9.05 - російські обстріли:<br>https://censor.net/ua/news/3340041/vnochi_rosiyany_vluchyly_v_okolytsi_sela_na_dnipropetrovschyni_reznichenko<br>-----<br>27.04 - російські обстріли:<br>https://censor.net/ua/video_news/3337105/<br>-----<br>25.04 - російські обстріли<br>https://censor.net/ua/p3336742<br>-----<br>20.04 - російські обстріли<br>https://censor.net/ua/news/3335638/<br>-----<br>19.04 - російські обстріли <br>https://censor.net/ua/news/3335135/<br><br>element_type: dark_red_dot<br>lat: 47.538673<br>lon: 33.7178731]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[16.07 - російські обстріли:
+            <value><![CDATA[23.07 - російські обстріли:
+https://t.me/dnipropetrovskaODA/1375
+-----
+16.07 - російські обстріли:
 https://censor.net/ua/n3354594
 -----
 13.07 - російські обстріли:
@@ -10386,7 +10392,7 @@ https://censor.net/ua/news/3335135/
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>grey_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>47.538673</value>
@@ -20334,21 +20340,23 @@ https://censor.net/ua/n3334837
         </Point>
       </Placemark>
       <Placemark>
-        <name>ЛИСИЧАНСЬК</name>
-        <description><![CDATA[description: 4.07 - "...після проведення артилерійської підготовки ворог форсував річку Сіверський Донець, закріплюється в районах Лисичанська і Білогорівки":<br>https://novynarnia.com/2022/07/04/okupanty-forsuvaly-siverskyj/<br>-----<br>3.07 - МІСТО ОКУПОВАНЕ - "Після важких боїв за Лисичанськ Сили оборони України були змушені відійти із займаних позицій і рубежів ... Ми продовжуємо боротьбу":<br>https://novynarnia.com/2022/07/03/genshtab-syly-oborony-ukrayiny-buly-zmusheni-vidijty-z-lysychanska/<br>-----<br>2.07, Юрій Бутусов - місто частково окуповане - "Наразі противник глибоко просунувся та захопив частину Лисичанська, росіяни демонструють відео з центру міста, це факт. На відміну від Северодонецька та Рубіжного, у місті не ведеться запеклих боїв - противник продовжує щільні обстріли та отримує у відповідь удари української артилерії ... Наші поступово відходять. Завадити нашому відходу росіянам не вдається":<br>https://censor.net/ua/resonance/3351736/lysychansk<br>-----<br>1.07 - російський наступ - "...противник основні зусилля зосереджує на оточенні наших військ в районі Лисичанська з півдня та заходу, встановленні повного контролю над Луганською областю. Веде штурмові дії з метою блокування логістичного забезпечення наших підрозділів":<br>https://www.facebook.com/GeneralStaff.ua/posts/352410633738688<br>-----<br>30.06 - російські обстріли: https://censor.net/ua/n3351320<br>-----<br>28.06 - російські обстріли:<br>https://censor.net/ua/news/3350842<br>-----<br>27.06 - російські обстріли (РСЗВ "Ураган") УБИЛИ ВІСЬМОХ людей у черзі за водою, понад 20 поранено. Серед убитих - двоє дітей:<br>https://censor.net/ua/video_news/3350618/<br>-----<br>26.06 - "...основні зусилля ворог зосереджує на Лисичанському напрямку та спробах оточення підрозділів Сил оборони в районі Лисичанська":<br>https://censor.net/ua/n3350252<br>-----<br>25.06 - російські обстріли, авіаудар і наступ - "...окупанти намагалися блокувати місто з півдня:<br>https://censor.net/ua/n3350083<br>-----<br>23.06 - російський наступ "у напрямку південної околиці Лисичанська" зупинено - ЗСУ "завдали ворогу втрат та змусили відступити. Для поновлення наступу окупанти висувають резерви":<br>https://censor.net/ua/n3349820<br>-----<br>22.06 - російські обстріли:<br>https://censor.net/ua/photo_news/3349657<br>-----<br>21.06 - російські авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/344672697845815<br>-----<br>20.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/343975544582197<br>-----<br>16.06 - російські обстріли:<br>https://censor.net/ua/news/3348247/<br>-----<br>15.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/340232081623210<br>-----<br>14.06 - російські обстріли:<br>https://censor.net/ua/n3347933<br>-----<br>13.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/338799278433157<br>-----<br>12.06 - російські обстріли УБИЛИ ТРЬОХ, в тому числі 6-річного хлопчика:<br>https://censor.net/ua/news/3347551/<br>-----<br>11.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/337671438545941<br>-----<br>8.06 - російські обстріли: https://www.facebook.com/GeneralStaff.ua/posts/335494108763674<br>-----<br>7.06 - російські обстріли - "...ворог обстрілював підрозділи наших військ та цивільну інфраструктуру із ствольної та реактивної артилерії в районах Лисичанськ, Борівське та Метьолкіно":<br>https://censor.net/ua/n3346534<br>-----<br>5.06 - російські обстріли та авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/333318498981235<br>-----<br>4.06 - російський ракетний удар ("Точка-У"): https://censor.net/ua/n3345958<br>-----<br>3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>26.05 - російські обстріли УБИЛИ людину, зруйнували вісім будинків і гуманітарний центр:<br>https://novynarnia.com/2022/05/26/rashysty-obstrilyaly-lysychansk-i-syevyerodoneczk-ye-zagybli/<br>===<br>9.05 - російські обстріли - "...зруйновано житлові будинки у Сєверодонецьку та Лисичанську":<br>https://censor.net/ua/p3340324<br>-------<br>30.04 - "...по шість масованих артилерійських обстрілів витримали Сєверодонецьк та Лисичанськ":<br>https://censor.net/ua/p3338065<br>-------<br>28.04 - "...по десять разів ворог обстрілював Попасну та Лисичанськ...": <br>https://censor.net/ua/n3337351<br><br>element_type: red_dot<br>lat: 48.9272122<br>lon: 38.3855875]]></description>
+        <name>ЛИСИЧАНСЬК (окупований 3-4 липня)</name>
+        <description><![CDATA[description: 23.07 - ЗСУ знищили загін сахалінського ОМОНу біля Лисичанська – щонайменше 12 росіян ліквідовано: https://censor.net/ua/n3356095<br>-----<br>4.07 - "...після проведення артилерійської підготовки ворог форсував річку Сіверський Донець, закріплюється в районах Лисичанська і Білогорівки":<br>https://novynarnia.com/2022/07/04/okupanty-forsuvaly-siverskyj/<br>-----<br>3.07 - МІСТО ОКУПОВАНЕ - "Після важких боїв за Лисичанськ Сили оборони України були змушені відійти із займаних позицій і рубежів ... Ми продовжуємо боротьбу":<br>https://novynarnia.com/2022/07/03/genshtab-syly-oborony-ukrayiny-buly-zmusheni-vidijty-z-lysychanska/<br>-----<br>2.07, Юрій Бутусов - місто частково окуповане - "Наразі противник глибоко просунувся та захопив частину Лисичанська ... На відміну від Северодонецька та Рубіжного, у місті не ведеться запеклих боїв - переважно артилерійські дуелі ... Наші поступово відходять, росіяни не можуть цьому завадити":<br>https://censor.net/ua/resonance/3351736/lysychansk<br>-----<br>1.07 - російський наступ - "...противник основні зусилля зосереджує на оточенні наших військ в районі Лисичанська з півдня та заходу...":<br>https://www.facebook.com/GeneralStaff.ua/posts/352410633738688<br>-----<br>30.06 - російські обстріли: https://censor.net/ua/n3351320<br>-----<br>28.06 - російські обстріли:<br>https://censor.net/ua/news/3350842<br>-----<br>27.06 - російські обстріли (РСЗВ "Ураган") УБИЛИ ВІСЬМОХ людей у черзі за водою, понад 20 поранено. Серед убитих - двоє дітей:<br>https://censor.net/ua/video_news/3350618/<br>-----<br>26.06 - "...основні зусилля ворог зосереджує на спробах оточення підрозділів Сил оборони в районі Лисичанська":<br>https://censor.net/ua/n3350252<br>-----<br>25.06 - російські обстріли, авіаудар і наступ - "...окупанти намагалися блокувати місто з півдня:<br>https://censor.net/ua/n3350083<br>-----<br>23.06 - російський наступ "у напрямку південної околиці Лисичанська" зупинено - ЗСУ "завдали ворогу втрат та змусили відступити. Для поновлення наступу окупанти висувають резерви":<br>https://censor.net/ua/n3349820<br>-----<br>22.06 - російські обстріли:<br>https://censor.net/ua/photo_news/3349657<br>-----<br>21.06 - російські авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/344672697845815<br>-----<br>20.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/343975544582197<br>-----<br>16.06 - російські обстріли:<br>https://censor.net/ua/news/3348247/<br>-----<br>15.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/340232081623210<br>-----<br>14.06 - російські обстріли:<br>https://censor.net/ua/n3347933<br>-----<br>13.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/338799278433157<br>-----<br>12.06 - російські обстріли УБИЛИ ТРЬОХ, в тому числі 6-річного хлопчика:<br>https://censor.net/ua/news/3347551/<br>-----<br>11.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/337671438545941<br>-----<br>8.06 - російські обстріли: https://www.facebook.com/GeneralStaff.ua/posts/335494108763674<br>-----<br>7.06 - російські обстріли - "...ворог обстрілював підрозділи наших військ та цивільну інфраструктуру із ствольної та реактивної артилерії в районах Лисичанськ, Борівське та Метьолкіно":<br>https://censor.net/ua/n3346534<br>-----<br>5.06 - російські обстріли та авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/333318498981235<br>-----<br>4.06 - російський ракетний удар ("Точка-У"): https://censor.net/ua/n3345958<br>-----<br>3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>26.05 - російські обстріли УБИЛИ людину, зруйнували вісім будинків і гуманітарний центр:<br>https://novynarnia.com/2022/05/26/rashysty-obstrilyaly-lysychansk-i-syevyerodoneczk-ye-zagybli/<br>===<br>9.05 - російські обстріли - "...зруйновано житлові будинки у Сєверодонецьку та Лисичанську":<br>https://censor.net/ua/p3340324<br>-------<br>30.04 - "...по шість масованих артилерійських обстрілів витримали Сєверодонецьк та Лисичанськ":<br>https://censor.net/ua/p3338065<br>-------<br>28.04 - "...по десять разів ворог обстрілював Попасну та Лисичанськ...": <br>https://censor.net/ua/n3337351<br><br>element_type: red_dot<br>lat: 48.9272122<br>lon: 38.3855875]]></description>
         <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[4.07 - "...після проведення артилерійської підготовки ворог форсував річку Сіверський Донець, закріплюється в районах Лисичанська і Білогорівки":
+            <value><![CDATA[23.07 - ЗСУ знищили загін сахалінського ОМОНу біля Лисичанська – щонайменше 12 росіян ліквідовано: https://censor.net/ua/n3356095
+-----
+4.07 - "...після проведення артилерійської підготовки ворог форсував річку Сіверський Донець, закріплюється в районах Лисичанська і Білогорівки":
 https://novynarnia.com/2022/07/04/okupanty-forsuvaly-siverskyj/
 -----
 3.07 - МІСТО ОКУПОВАНЕ - "Після важких боїв за Лисичанськ Сили оборони України були змушені відійти із займаних позицій і рубежів ... Ми продовжуємо боротьбу":
 https://novynarnia.com/2022/07/03/genshtab-syly-oborony-ukrayiny-buly-zmusheni-vidijty-z-lysychanska/
 -----
-2.07, Юрій Бутусов - місто частково окуповане - "Наразі противник глибоко просунувся та захопив частину Лисичанська, росіяни демонструють відео з центру міста, це факт. На відміну від Северодонецька та Рубіжного, у місті не ведеться запеклих боїв - противник продовжує щільні обстріли та отримує у відповідь удари української артилерії ... Наші поступово відходять. Завадити нашому відходу росіянам не вдається":
+2.07, Юрій Бутусов - місто частково окуповане - "Наразі противник глибоко просунувся та захопив частину Лисичанська ... На відміну від Северодонецька та Рубіжного, у місті не ведеться запеклих боїв - переважно артилерійські дуелі ... Наші поступово відходять, росіяни не можуть цьому завадити":
 https://censor.net/ua/resonance/3351736/lysychansk
 -----
-1.07 - російський наступ - "...противник основні зусилля зосереджує на оточенні наших військ в районі Лисичанська з півдня та заходу, встановленні повного контролю над Луганською областю. Веде штурмові дії з метою блокування логістичного забезпечення наших підрозділів":
+1.07 - російський наступ - "...противник основні зусилля зосереджує на оточенні наших військ в районі Лисичанська з півдня та заходу...":
 https://www.facebook.com/GeneralStaff.ua/posts/352410633738688
 -----
 30.06 - російські обстріли: https://censor.net/ua/n3351320
@@ -20359,7 +20367,7 @@ https://censor.net/ua/news/3350842
 27.06 - російські обстріли (РСЗВ "Ураган") УБИЛИ ВІСЬМОХ людей у черзі за водою, понад 20 поранено. Серед убитих - двоє дітей:
 https://censor.net/ua/video_news/3350618/
 -----
-26.06 - "...основні зусилля ворог зосереджує на Лисичанському напрямку та спробах оточення підрозділів Сил оборони в районі Лисичанська":
+26.06 - "...основні зусилля ворог зосереджує на спробах оточення підрозділів Сил оборони в районі Лисичанська":
 https://censor.net/ua/n3350252
 -----
 25.06 - російські обстріли, авіаудар і наступ - "...окупанти намагалися блокувати місто з півдня:
@@ -30034,19 +30042,23 @@ https://www.facebook.com/GeneralStaff.ua/posts/309656384680780
         </Point>
       </Placemark>
       <Placemark>
-        <name>Ганнівка (13.05 - російські обстріли)</name>
-        <description><![CDATA[description: 13.05 - російські обстріли - "На Південнобузькому напрямку ... обстрілювали підрозділи наших військ зі ствольної артилерії та мінометів у районах населених пунктів ... Ганнівка і Осокорівка":<br>https://www.facebook.com/100069092624537/posts/315837394062679/<br>-----<br>9.05 - російські обстріли:<br>https://censor.net/ua/news/3340073/<br>element_type: grey_dot<br>lat: 47.5116594<br>lon: 33.3053436]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <name>Ганнівка</name>
+        <description><![CDATA[description: 23.07 - російські обстріли:<br>https://t.me/dnipropetrovskaODA/1375<br>-----<br>13.05 - російські обстріли - "На Південнобузькому напрямку ... обстрілювали підрозділи наших військ зі ствольної артилерії та мінометів у районах населених пунктів ... Ганнівка і Осокорівка":<br>https://www.facebook.com/100069092624537/posts/315837394062679/<br>-----<br>9.05 - російські обстріли:<br>https://censor.net/ua/news/3340073/<br><br>element_type: dark_red_dot<br>lat: 47.5116594<br>lon: 33.3053436]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[13.05 - російські обстріли - "На Південнобузькому напрямку ... обстрілювали підрозділи наших військ зі ствольної артилерії та мінометів у районах населених пунктів ... Ганнівка і Осокорівка":
+            <value><![CDATA[23.07 - російські обстріли:
+https://t.me/dnipropetrovskaODA/1375
+-----
+13.05 - російські обстріли - "На Південнобузькому напрямку ... обстрілювали підрозділи наших військ зі ствольної артилерії та мінометів у районах населених пунктів ... Ганнівка і Осокорівка":
 https://www.facebook.com/100069092624537/posts/315837394062679/
 -----
 9.05 - російські обстріли:
-https://censor.net/ua/news/3340073/]]></value>
+https://censor.net/ua/news/3340073/
+]]></value>
           </Data>
           <Data name="element_type">
-            <value>grey_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>47.5116594</value>
@@ -35470,7 +35482,7 @@ https://texty.org.ua/fragments/106582/
       </Placemark>
       <Placemark>
         <name>Михальчина Слобода</name>
-        <description><![CDATA[description: 8.07 - обстріли з території рф:<br>https://censor.net/ua/news/3352821/<br>-----<br>1.07 - обстріли з території рф:<br>https://www.facebook.com/GeneralStaff.ua/posts/352410633738688<br>-----<br>30.06 - обстріли з території рф:<br>https://censor.net/ua/news/3351205/<br>-----<br>14.06 - обстріли з території рф:<br>https://censor.net/ua/n3347933<br>-----<br>3.06 - мінометні обстріли з території рф:<br>https://www.facebook.com/GeneralStaff.ua/posts/331730485806703<br><br>element_type: grey_dot<br>lat: 52.3012673<br>lon: 33.2084584]]></description>
+        <description><![CDATA[description: 8.07 - обстріли з території рф:<br>https://censor.net/ua/news/3352821/<br>-----<br>1.07 - обстріли з території рф:<br>https://www.facebook.com/GeneralStaff.ua/posts/352410633738688<br>-----<br>30.06 - обстріли з території рф:<br>https://censor.net/ua/news/3351205/<br>-----<br>14.06 - обстріли з території рф:<br>https://censor.net/ua/n3347933<br>-----<br>3.06 - мінометні обстріли з території рф:<br>https://www.facebook.com/GeneralStaff.ua/posts/331730485806703<br><br>element_type: grey_dot<br>lat: 52.3035766<br>lon: 33.2166981]]></description>
         <styleUrl>#icon-ci-5</styleUrl>
         <ExtendedData>
           <Data name="description">
@@ -35494,15 +35506,15 @@ https://www.facebook.com/GeneralStaff.ua/posts/331730485806703
             <value>grey_dot</value>
           </Data>
           <Data name="lat">
-            <value>52.3012673</value>
+            <value>52.3035766</value>
           </Data>
           <Data name="lon">
-            <value>33.2084584</value>
+            <value>33.2166981</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            33.2084584,52.3012673,0
+            33.2166981,52.3035766,0
           </coordinates>
         </Point>
       </Placemark>
@@ -35755,11 +35767,14 @@ https://web.archive.org/web/20220225205430/https://dumskaya.net/news/odesskaya-m
       </Placemark>
       <Placemark>
         <name>Вуглегірська ТЕС (потенційно одна з найпотужніших теплових станцій в Україні)</name>
-        <description><![CDATA[description: 21.07 - російський штурм відбито:<br>https://censor.net/ua/n3355486<br>-----<br>20.07 - російський штурм відбито:<br>https://censor.net/ua/n3355431<br>-----<br>19.07 - російський наступ у напрямку ТЕЦ - "...успіху не мав":<br>https://censor.net/ua/n3355203<br>-----<br>17.07 - російські обстріли: https://censor.net/ua/n3354601<br>-----<br>16.07 - російський штурм - "...щоб встановити контроль над територією Вуглегірської ТЕС. Ворог успіху не має, відійшов":<br>https://censor.net/ua/n3354559<br>-----<br>15.07 - російські авіаудари й наступ - "...ворог намагався покращити тактичне положення на напрямках Миколаївка – Спірне, Миронівка – Вуглегірська ТЕС та Відродження – Вершина. Окупанти зазнали втрат та відкотилися...":<br>https://censor.net/ua/n3354397<br>-----<br>14.07, вечір - російський штурм відбито:<br>https://censor.net/ua/n3354174<br>14.07, ранок - російські обстріли:<br>https://censor.net/ua/news/3354012/<br>-----<br>13.07 - російські обстріли:<br>https://censor.net/ua/news/3353964/<br>-----<br>11.07 - російські ракетно-авіаційні удари:<br>https://censor.net/ua/news/3353295/<br>-----<br>10.07 - російські обстріли:<br>https://youtu.be/7NCz3G7B7Ws<br>-----<br>9.07 - російський наступ - "Окупанти намагалися встановити контроль над територією Вуглегірської ТЕС ... Українські воїни не дали їм цього зробити та відкинули на попередні позиції":<br>https://censor.net/ua/n3353032<br>-----<br>8.07 - російські авіаудари:<br>https://censor.net/ua/news/3352821/<br>-----<br>7.07 - російські обстріли:<br>https://censor.net/ua/news/3352572/<br>-----<br>6.07 - російський авіаудар:<br>https://censor.net/ua/news/3352360<br>-----<br>4.07, вечір - "Наші захисники змусили ворога відійти після його наступу в напрямку Вуглегірської ТЕС...":<br>https://censor.net/ua/n3352086<br>4.07, ранок - масовані ракетні удари:<br>https://novynarnia.com/2022/07/04/okupanty-forsuvaly-siverskyj/<br>-----<br>1.07 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/352410633738688<br>-----<br>30.06 - "Всі спроби наступальних та штурмових дій окупантів в напрямках ... Доломітне – Вуглегірська ТЕС наші захисники успішно припинили":<br>https://censor.net/ua/n3351320<br>-----<br>28.06 - російський штурм "у напрямку Миронівка – Вуглегірська ТЕС, бойові дії тривають":<br>https://censor.net/ua/n3350653<br>-----<br>24.06 - "Ворожа спроба розвідки боєм в напрямку Миронівка - Вуглегірська ТЕС провалилась. Окупанти з втратами відійшли":<br>https://www.facebook.com/GeneralStaff.ua/posts/347169520929466/<br>-----<br>22.06 - "Українські воїни на напрямку Миронівка – Семигір’я відбили штурм в напрямку Вуглегірської ТЕС":<br>https://censor.net/ua/n3349422<br>-----<br>12.06 - російські обстріли, на станції - пожежа:<br>https://www.pravda.com.ua/news/2022/06/12/7352113/<br>-----<br>7.06 - російський штурм - "...безуспішними виявилися ворожі спроби штурму у напрямку Світлодарська та Вуглегірської ТЕС":<br>https://censor.net/ua/n3346534<br>- - -<br>У комплекс електростанції входить, зокрема, сім енергоблоків (чотири зруйновано) і дві височезних (320 м) труби.<br><br>element_type: dark_red_dot<br>lat: 48.4656041<br>lon: 38.1991669]]></description>
+        <description><![CDATA[description: 24.07 - російські штурми "з різних напрямків" - "...українські воїни знову відкинули окупантів назад":<br>https://censor.net/ua/n3356099<br>-----<br>21.07 - російський штурм відбито:<br>https://censor.net/ua/n3355486<br>-----<br>20.07 - російський штурм відбито:<br>https://censor.net/ua/n3355431<br>-----<br>19.07 - російський наступ у напрямку ТЕЦ - "...успіху не мав":<br>https://censor.net/ua/n3355203<br>-----<br>17.07 - російські обстріли: https://censor.net/ua/n3354601<br>-----<br>16.07 - російський штурм - "...щоб встановити контроль над територією Вуглегірської ТЕС. Ворог успіху не має, відійшов":<br>https://censor.net/ua/n3354559<br>-----<br>15.07 - російські авіаудари й наступ - "...ворог намагався покращити тактичне положення на напрямках Миколаївка – Спірне, Миронівка – Вуглегірська ТЕС та Відродження – Вершина. Окупанти зазнали втрат та відкотилися...":<br>https://censor.net/ua/n3354397<br>-----<br>14.07, вечір - російський штурм відбито:<br>https://censor.net/ua/n3354174<br>14.07, ранок - російські обстріли:<br>https://censor.net/ua/news/3354012/<br>-----<br>13.07 - російські обстріли:<br>https://censor.net/ua/news/3353964/<br>-----<br>11.07 - російські ракетно-авіаційні удари:<br>https://censor.net/ua/news/3353295/<br>-----<br>10.07 - російські обстріли:<br>https://youtu.be/7NCz3G7B7Ws<br>-----<br>9.07 - російський наступ - "Окупанти намагалися встановити контроль над територією Вуглегірської ТЕС ... Українські воїни не дали їм цього зробити та відкинули на попередні позиції":<br>https://censor.net/ua/n3353032<br>-----<br>8.07 - російські авіаудари:<br>https://censor.net/ua/news/3352821/<br>-----<br>7.07 - російські обстріли:<br>https://censor.net/ua/news/3352572/<br>-----<br>6.07 - російський авіаудар:<br>https://censor.net/ua/news/3352360<br>-----<br>4.07, вечір - "Наші захисники змусили ворога відійти після його наступу в напрямку Вуглегірської ТЕС...":<br>https://censor.net/ua/n3352086<br>4.07, ранок - масовані ракетні удари:<br>https://novynarnia.com/2022/07/04/okupanty-forsuvaly-siverskyj/<br>-----<br>1.07 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/352410633738688<br>-----<br>30.06 - "Всі спроби наступальних та штурмових дій окупантів в напрямках ... Доломітне – Вуглегірська ТЕС наші захисники успішно припинили":<br>https://censor.net/ua/n3351320<br>-----<br>28.06 - російський штурм "у напрямку Миронівка – Вуглегірська ТЕС, бойові дії тривають":<br>https://censor.net/ua/n3350653<br>-----<br>24.06 - "Ворожа спроба розвідки боєм в напрямку Миронівка - Вуглегірська ТЕС провалилась. Окупанти з втратами відійшли":<br>https://www.facebook.com/GeneralStaff.ua/posts/347169520929466/<br>-----<br>22.06 - "Українські воїни на напрямку Миронівка – Семигір’я відбили штурм в напрямку Вуглегірської ТЕС":<br>https://censor.net/ua/n3349422<br>-----<br>12.06 - російські обстріли, на станції - пожежа:<br>https://www.pravda.com.ua/news/2022/06/12/7352113/<br>-----<br>7.06 - російський штурм - "...безуспішними виявилися ворожі спроби штурму у напрямку Світлодарська та Вуглегірської ТЕС":<br>https://censor.net/ua/n3346534<br>- - -<br>У комплекс електростанції входить, зокрема, сім енергоблоків (чотири зруйновано) і дві височезних (320 м) труби.<br><br>element_type: dark_red_dot<br>lat: 48.4656041<br>lon: 38.1991669]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[21.07 - російський штурм відбито:
+            <value><![CDATA[24.07 - російські штурми "з різних напрямків" - "...українські воїни знову відкинули окупантів назад":
+https://censor.net/ua/n3356099
+-----
+21.07 - російський штурм відбито:
 https://censor.net/ua/n3355486
 -----
 20.07 - російський штурм відбито:
@@ -43232,7 +43247,7 @@ https://www.facebook.com/GeneralStaff.ua/posts/352410633738688
       </Placemark>
       <Placemark>
         <name>Колос</name>
-        <description><![CDATA[description: 1.07 - обстріли з території рф:<br>https://www.facebook.com/GeneralStaff.ua/posts/352410633738688<br><br>element_type: grey_dot<br>lat: 52.3369525<br>lon: 33.3159553]]></description>
+        <description><![CDATA[description: 1.07 - обстріли з території рф:<br>https://www.facebook.com/GeneralStaff.ua/posts/352410633738688<br><br>element_type: grey_dot<br>lat: 52.3370574<br>lon: 33.3137237]]></description>
         <styleUrl>#icon-ci-5</styleUrl>
         <ExtendedData>
           <Data name="description">
@@ -43244,15 +43259,15 @@ https://www.facebook.com/GeneralStaff.ua/posts/352410633738688
             <value>grey_dot</value>
           </Data>
           <Data name="lat">
-            <value>52.3369525</value>
+            <value>52.3370574</value>
           </Data>
           <Data name="lon">
-            <value>33.3159553</value>
+            <value>33.3137237</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            33.3159553,52.3369525,0
+            33.3137237,52.3370574,0
           </coordinates>
         </Point>
       </Placemark>
@@ -47650,17 +47665,20 @@ https://censor.net/ua/n3353645
         </Point>
       </Placemark>
       <Placemark>
-        <name>Червоногригорівка</name>
-        <description><![CDATA[description: 13.07 - російські обстріли (РСЗВ):<br>https://censor.net/ua/news/3353769/<br><br>element_type: grey_dot<br>lat: 47.6218756<br>lon: 34.5415106]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <name>Червоногригорівка (окупанти обстрілюють селище з території Запорізької АЕС на протилежному березі Дніпра)</name>
+        <description><![CDATA[description: 23.07 - російські обстріли (РСЗВ):<br>https://t.me/dnipropetrovskaODA/1375<br>-----<br>13.07 - російські обстріли (РСЗВ):<br>https://censor.net/ua/news/3353769/<br><br>element_type: dark_red_dot<br>lat: 47.6218756<br>lon: 34.5415106]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>13.07 - російські обстріли (РСЗВ):
+            <value>23.07 - російські обстріли (РСЗВ):
+https://t.me/dnipropetrovskaODA/1375
+-----
+13.07 - російські обстріли (РСЗВ):
 https://censor.net/ua/news/3353769/
 </value>
           </Data>
           <Data name="element_type">
-            <value>grey_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>47.6218756</value>
@@ -47676,7 +47694,7 @@ https://censor.net/ua/news/3353769/
         </Point>
       </Placemark>
       <Placemark>
-        <name>Вищетарасівка (Мирівська СГ)</name>
+        <name>Вищетарасівка (Мирівська громада - окупанти обстрілюють її села з території ЗАЕС на протилежному березі Дніпра)</name>
         <description><![CDATA[description: 13.07 - російські обстріли (РСЗВ):<br>https://censor.net/ua/news/3353769/<br>element_type: grey_dot<br>lat: 47.5710538<br>lon: 34.890523]]></description>
         <styleUrl>#icon-ci-5</styleUrl>
         <ExtendedData>
@@ -49765,11 +49783,11 @@ https://censor.net/ua/n3355203
       </Placemark>
       <Placemark>
         <name>Антонівський автомобільний міст (ХЕРСОН), пошкоджений ударом ЗСУ 20 липня</name>
-        <description><![CDATA[description: 20.07 - сильно пошкоджено (легковик проїде, важча техніка - навряд чи) один із двох захоплених окупантами автомобільних мостів через Дніпро - ключову транспортну артерію між Херсоном і Кримом:<br>https://news.liga.net/ua/politics/video/povtornyy-udar-po-antonovskomu-mostu-v-hersone-okkupanty-pokazali-posledstviya-video<br><br>element_type: blue_bridge<br>lat: 46.668746<br>lon: 32.7201521]]></description>
+        <description><![CDATA[description: 20.07 - за словами окупантів, з 12 випущених ракет 11 влучило в міст - ключову транспортну артерію між Херсоном і Кримом. В результаті завданих пошкоджень (легковик проїде, важча техніка - навряд чи) сильно обмежено рух одним із двох захоплених окупантами автомобільних переходів через Дніпро (другий - дамба Каховської ГЕС):<br>https://news.liga.net/ua/politics/video/povtornyy-udar-po-antonovskomu-mostu-v-hersone-okkupanty-pokazali-posledstviya-video<br><br>element_type: blue_bridge<br>lat: 46.668746<br>lon: 32.7201521]]></description>
         <styleUrl>#icon-ci-6</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>20.07 - сильно пошкоджено (легковик проїде, важча техніка - навряд чи) один із двох захоплених окупантами автомобільних мостів через Дніпро - ключову транспортну артерію між Херсоном і Кримом:
+            <value>20.07 - за словами окупантів, з 12 випущених ракет 11 влучило в міст - ключову транспортну артерію між Херсоном і Кримом. В результаті завданих пошкоджень (легковик проїде, важча техніка - навряд чи) сильно обмежено рух одним із двох захоплених окупантами автомобільних переходів через Дніпро (другий - дамба Каховської ГЕС):
 https://news.liga.net/ua/politics/video/povtornyy-udar-po-antonovskomu-mostu-v-hersone-okkupanty-pokazali-posledstviya-video
 </value>
           </Data>
@@ -49812,6 +49830,141 @@ https://novynarnia.com/2022/07/23/nastupnogo-ranku-pislya-zernovyh-ugod-rosiya-a
         <Point>
           <coordinates>
             30.7576982,46.4895602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Автомобільний міст через Інгулець на трасі Мелітополь-Каховка-Херсон, пошкоджений ракетним  ударом ЗСУ 23 липня</name>
+        <description><![CDATA[description: 23.07, Херсонська ОВА - "Це — продовження операції з відрізання херсонського угрупування росіян від постачання":<br>https://www.facebook.com/photo.php?fbid=5368335479954483&set=a.468508653270548<br>- - -<br>В результаті удару сильно пошкоджено (легковик проїде, важча техніка - навряд чи) ключовий міст на основній рокадній дорозі правобережного угруповання окупантів.<br><br>Саме цей напрямок (через дамбу в Новій Каховці) став головним для російського постачання окупованого обласного центру після того, як три дні тому ЗСУ вивели з ладу Антонівський міст через Дніпро на трасі Херсон-Крим.<br><br><br>element_type: blue_bridge<br>lat: 46.7433871<br>lon: 32.8112553]]></description>
+        <styleUrl>#icon-ci-6</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[23.07, Херсонська ОВА - "Це — продовження операції з відрізання херсонського угрупування росіян від постачання":
+https://www.facebook.com/photo.php?fbid=5368335479954483&set=a.468508653270548
+- - -
+В результаті удару сильно пошкоджено (легковик проїде, важча техніка - навряд чи) ключовий міст на основній рокадній дорозі правобережного угруповання окупантів.
+
+Саме цей напрямок (через дамбу в Новій Каховці) став головним для російського постачання окупованого обласного центру після того, як три дні тому ЗСУ вивели з ладу Антонівський міст через Дніпро на трасі Херсон-Крим.
+
+]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>blue_bridge</value>
+          </Data>
+          <Data name="lat">
+            <value>46.7433871</value>
+          </Data>
+          <Data name="lon">
+            <value>32.8112553</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            32.8112553,46.7433871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>23 липня - удар ЗСУ по російському складу боєприпасів в окупованій Горлівці</name>
+        <description><![CDATA[description: 23.07 - вражено черговий склад БК окупантів, цього разу на території машинобудівельного заводу. Після прильоту української ракети розпочалася (і триває вже кілька годин) детонація, багато диму:<br>https://novynarnia.com/2022/07/23/zsu-vrazyly-sklad-boyeprypasiv-u-gorlivczi-video/<br><br>element_type: blue_fire<br>lat: 48.3117747<br>lon: 38.0482076]]></description>
+        <styleUrl>#icon-ci-9</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>23.07 - вражено черговий склад БК окупантів, цього разу на території машинобудівельного заводу. Після прильоту української ракети розпочалася (і триває вже кілька годин) детонація, багато диму:
+https://novynarnia.com/2022/07/23/zsu-vrazyly-sklad-boyeprypasiv-u-gorlivczi-video/
+</value>
+          </Data>
+          <Data name="element_type">
+            <value>blue_fire</value>
+          </Data>
+          <Data name="lat">
+            <value>48.3117747</value>
+          </Data>
+          <Data name="lon">
+            <value>38.0482076</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.0482076,48.3117747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[23 липня - російський ракетний удар по авіабазі "Канатове" й залізничній інфраструктурі (КРОПИВНИЦЬКИЙ)]]></name>
+        <description><![CDATA[description: 23.07 - масований (13 ракет - вісім "калібрів" і п'ять Х-22) ракетний удар по військовому аеродрому і трансформаторній підстанції під Кропивницьким. ТРОЄ ЗАГИБЛИХ, 16 поранених:<br>https://novynarnia.com/2022/07/23/rankovyj-udar-rf-po-kirovogradshhyni-13-raket-urazheno-aerodrom-i-zaliznyczyu-ye-zagybli-j-poraneni/<br><br>element_type: red_fire<br>lat: 48.5685124<br>lon: 32.3685287]]></description>
+        <styleUrl>#icon-ci-7</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[23.07 - масований (13 ракет - вісім "калібрів" і п'ять Х-22) ракетний удар по військовому аеродрому і трансформаторній підстанції під Кропивницьким. ТРОЄ ЗАГИБЛИХ, 16 поранених:
+https://novynarnia.com/2022/07/23/rankovyj-udar-rf-po-kirovogradshhyni-13-raket-urazheno-aerodrom-i-zaliznyczyu-ye-zagybli-j-poraneni/
+]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>red_fire</value>
+          </Data>
+          <Data name="lat">
+            <value>48.5685124</value>
+          </Data>
+          <Data name="lon">
+            <value>32.3685287</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            32.3685287,48.5685124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Гай</name>
+        <description><![CDATA[description: 24.07 - обстріли з території рф:<br>https://cheline.com.ua/news/vijna/obstrili-prikordonnya-ta-povitryana-rozvidka-zvedennya-genshtabu-na-siverskomu-napryamku-305980<br><br>element_type: dark_red_dot<br>lat: 52.3048098<br>lon: 33.286585]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>24.07 - обстріли з території рф:
+https://cheline.com.ua/news/vijna/obstrili-prikordonnya-ta-povitryana-rozvidka-zvedennya-genshtabu-na-siverskomu-napryamku-305980
+</value>
+          </Data>
+          <Data name="element_type">
+            <value>dark_red_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>52.3048098</value>
+          </Data>
+          <Data name="lon">
+            <value>33.286585</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            33.286585,52.3048098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Нижні Сірогози</name>
+        <description><![CDATA[description: 23.07 - на тлі акцій українського підпілля окупанти влаштували в селі масові обшуки, перевірки й фільтраційні заходи:<br>https://censor.net/ua/news/3356135/<br><br>element_type: red_dot<br>lat: 46.8455807<br>lon: 34.3796839]]></description>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>23.07 - на тлі акцій українського підпілля окупанти влаштували в селі масові обшуки, перевірки й фільтраційні заходи:
+https://censor.net/ua/news/3356135/
+</value>
+          </Data>
+          <Data name="element_type">
+            <value>red_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>46.8455807</value>
+          </Data>
+          <Data name="lon">
+            <value>34.3796839</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.3796839,46.8455807,0
           </coordinates>
         </Point>
       </Placemark>
@@ -51243,418 +51396,418 @@ https://novynarnia.com/2022/07/23/nastupnogo-ranku-pislya-zernovyh-ugod-rosiya-a
             <LinearRing>
               <tessellate>1</tessellate>
               <coordinates>
-                33.607759,46.223555,0
-                33.650542,46.234242,0
-                33.741454,46.1886,0
-                33.803251,46.205463,0
-                33.862076,46.197238,0
-                33.958931,46.149096,0
-                34.059944,46.109975,0
-                34.085495,46.120273,0
-                34.223349,46.058046,0
-                34.330899,46.061757,0
-                34.392099,46.033321,0
-                34.440081,45.971127,0
-                34.491736,45.940004,0
-                34.556017,45.986921,0
-                34.596881,45.995216,0
-                34.67884,45.963627,0
-                34.748172,45.909822,0
-                34.814749,45.900876,0
-                34.795695,45.802695,0
-                34.960071,45.758986,0
-                35.004609,45.775801,0
-                34.887662,45.947431,0
-                34.891227,45.998638,0
-                34.872213,46.100912,0
-                34.848445,46.178316,0
-                35.068298,46.234242,0
-                35.392879,46.375449,0
-                35.494771,46.439726,0
-                35.625234,46.48135,0
-                35.717244,46.542781,0
-                35.805135,46.605087,0
-                35.879121,46.64788,0
-                35.988984,46.663905,0
-                36.051984,46.665907,0
-                36.112409,46.65554,0
-                36.207166,46.648941,0
-                36.28819,46.588101,0
-                36.437192,46.7083,0
-                36.575527,46.751147,0
-                36.694104,46.776208,0
-                36.736914,46.764226,0
-                36.777083,46.743409,0
-                36.804635,46.73035,0
-                36.819054,46.71411,0
-                36.841324,46.697344,0
-                36.876085,46.764545,0
-                36.901041,46.80269,0
-                36.99641,46.862142,0
-                37.040084,46.867017,0
-                37.131442,46.904481,0
-                37.164865,46.911788,0
-                37.194724,46.930355,0
-                37.214332,46.931877,0
-                37.233495,46.947699,0
-                37.2500992,46.947508,0
-                37.2948449,46.9285571,0
-                37.3166971,46.9128084,0
-                37.3227492,46.8916621,0
-                37.2902327,46.8643827,0
-                37.315622,46.873657,0
-                37.3465203,46.8946586,0
-                37.405654,46.9568073,0
-                37.4473458,46.9938058,0
-                37.4717646,47.0221552,0
-                37.483178,47.033652,0
-                37.491457,47.042158,0
-                37.498136,47.040358,0
-                37.502522,47.047016,0
-                37.505545,47.051387,0
-                37.511156,47.056239,0
-                37.513158,47.059038,0
-                37.516391,47.060573,0
-                37.5182537,47.0611713,0
-                37.5191204,47.0670884,0
-                37.5213555,47.071219,0
-                37.5257184,47.0748527,0
-                37.5311267,47.0774706,0
-                37.5366448,47.0800284,0
-                37.550938,47.082664,0
-                37.564686,47.084514,0
-                37.57425,47.085149,0
-                37.585406,47.077264,0
-                37.608339,47.082527,0
-                37.600145,47.111479,0
-                37.590533,47.120412,0
-                37.591355,47.129148,0
-                37.602258,47.146446,0
-                37.589818,47.152417,0
-                37.577183,47.158306,0
-                37.570403,47.170039,0
-                37.566839,47.182241,0
-                37.570252,47.190176,0
-                37.550705,47.19289,0
-                37.518822,47.195852,0
-                37.502944,47.189739,0
-                37.438539,47.184387,0
-                37.389361,47.251593,0
-                37.312263,47.293926,0
-                37.183917,47.402927,0
-                36.990951,47.492737,0
-                36.82704,47.657343,0
-                36.79758,47.692037,0
-                36.784614,47.739808,0
-                36.775913,47.801303,0
-                36.745644,47.802299,0
-                36.719665,47.828281,0
-                36.699016,47.825971,0
-                36.675785,47.822216,0
-                36.66794,47.811982,0
-                36.66864,47.782641,0
-                36.670509,47.761449,0
-                36.665604,47.746217,0
-                36.632979,47.723256,0
-                36.551744,47.714212,0
-                36.535964,47.679597,0
-                36.522161,47.64527,0
-                36.41964,47.643585,0
-                36.342402,47.615499,0
-                36.281423,47.608641,0
-                36.239793,47.610869,0
-                36.231096,47.592974,0
-                36.236118,47.555713,0
-                36.191719,47.528452,0
-                36.126264,47.517467,0
-                36.0659681,47.5203558,0
-                35.993223,47.51132,0
-                35.958102,47.511599,0
-                35.917377,47.508887,0
-                35.85607,47.501638,0
-                35.8202,47.504434,0
-                35.762113,47.529834,0
-                35.721513,47.539645,0
-                35.688605,47.547722,0
-                35.641594,47.541953,0
-                35.571505,47.527236,0
-                35.512527,47.522908,0
-                35.479446,47.514006,0
-                35.445683,47.508521,0
-                35.407647,47.500149,0
-                35.369611,47.498994,0
-                35.281144,47.510542,0
-                35.231889,47.465828,0
-                35.207942,47.455644,0
-                35.172446,47.452964,0
-                35.093229,47.458517,0
-                35.043018,47.450421,0
-                34.963453,47.407307,0
-                34.908608,47.415672,0
-                34.866121,47.459039,0
-                34.780376,47.492194,0
-                34.714716,47.507067,0
-                34.672616,47.535237,0
-                34.630746,47.547998,0
-                34.606956,47.541495,0
-                34.582874,47.525137,0
-                34.538213,47.534598,0
-                34.49939,47.501479,0
-                34.463194,47.501281,0
-                34.410359,47.502859,0
-                34.381817,47.516129,0
-                34.338843,47.483333,0
-                34.328918,47.453734,0
-                34.309653,47.436362,0
-                34.268786,47.439521,0
-                34.206903,47.417404,0
-                34.147355,47.426489,0
-                34.119916,47.422934,0
-                34.048555,47.425311,0
-                34.01271,47.351837,0
-                34.008762,47.316354,0
-                33.971511,47.229698,0
-                33.908286,47.177469,0
-                33.845819,47.138962,0
-                33.800282,47.062263,0
-                33.703954,47.005363,0
-                33.691694,46.985056,0
-                33.681769,46.909331,0
-                33.646741,46.904944,0
-                33.629811,46.890982,0
-                33.633313,46.844682,0
-                33.612296,46.827908,0
-                33.561505,46.818721,0
-                33.514801,46.823115,0
-                33.468096,46.820319,0
-                33.427814,46.794345,0
-                33.391618,46.773558,0
-                33.367682,46.789549,0
-                33.399791,46.818721,0
-                33.435987,46.837095,0
-                33.515385,46.853865,0
-                33.58369,46.855063,0
-                33.597117,46.864644,0
-                33.60062,46.932459,0
-                33.610545,46.946808,0
-                33.663087,46.992423,0
-                33.659585,47.044563,0
-                33.693153,47.064053,0
-                33.765837,47.093672,0
-                33.791525,47.135785,0
-                33.788314,47.176874,0
-                33.809107,47.18964,0
-                33.883668,47.214373,0
-                33.915685,47.242072,0
-                33.924457,47.272733,0
-                33.970948,47.303673,0
-                33.978312,47.378735,0
-                33.941602,47.383784,0
-                33.87449,47.380677,0
-                33.864612,47.41226,0
-                33.784628,47.429319,0
-                33.640657,47.401551,0
-                33.597264,47.418717,0
-                33.581141,47.432655,0
-                33.565335,47.4619716,0
-                33.542282,47.47019,0
-                33.526053,47.473842,0
-                33.509034,47.480198,0
-                33.4920658,47.4842084,0
-                33.457585,47.4835745,0
-                33.43898,47.480398,0
-                33.408442,47.472543,0
-                33.392687,47.470206,0
-                33.38677,47.468514,0
-                33.385974,47.461976,0
-                33.387567,47.46013,0
-                33.38916,47.458361,0
-                33.388591,47.448436,0
-                33.387794,47.442204,0
-                33.381992,47.439126,0
-                33.388477,47.430583,0
-                33.403381,47.422039,0
-                33.381992,47.416728,0
-                33.371073,47.419644,0
-                33.366787,47.417288,0
-                33.366519,47.400066,0
-                33.373484,47.3832,0
-                33.355536,47.368325,0
-                33.338928,47.363789,0
-                33.311872,47.371228,0
-                33.296335,47.367962,0
-                33.288567,47.352357,0
-                33.284013,47.344553,0
-                33.297139,47.332572,0
-                33.292585,47.322405,0
-                33.277048,47.324764,0
-                33.255886,47.330575,0
-                33.246954,47.326801,0
-                33.236507,47.315361,0
-                33.253207,47.307148,0
-                33.271958,47.304424,0
-                33.271691,47.297157,0
-                33.261779,47.291707,0
-                33.2295,47.290072,0
-                33.207534,47.280622,0
-                33.195212,47.256629,0
-                33.21624,47.244537,0
-                33.21653,47.229757,0
-                33.206635,47.220116,0
-                33.199896,47.206905,0
-                33.185883,47.193056,0
-                33.153079,47.18548,0
-                33.113587,47.175739,0
-                33.067415,47.172037,0
-                33.04417,47.173761,0
-                33.036352,47.175341,0
-                33.029938,47.174936,0
-                33.012953,47.180654,0
-                33.00946,47.190688,0
-                32.99438,47.188422,0
-                32.995491,47.169864,0
-                32.993586,47.157992,0
-                32.997396,47.146549,0
-                33.003428,47.130999,0
-                32.996761,47.124195,0
-                32.971362,47.11523,0
-                32.9538368,47.1164524,0
-                32.9524503,47.1125233,0
-                32.9601739,47.1094037,0
-                32.9667189,47.1061517,0
-                32.9657105,47.102666,0
-                32.9626424,47.1011668,0
-                32.957171,47.1020043,0
-                32.9493234,47.1057818,0
-                32.9420384,47.1041544,0
-                32.9375007,47.0994887,0
-                32.933736,47.0920688,0
-                32.9320256,47.0883587,0
-                32.926539,47.0854667,0
-                32.9212307,47.0861108,0
-                32.9150641,47.0879235,0
-                32.9113143,47.0915472,0
-                32.9073786,47.0962812,0
-                32.9101265,47.1027592,0
-                32.9084114,47.1065496,0
-                32.8979426,47.1103904,0
-                32.8706537,47.1058034,0
-                32.8544459,47.09771,0
-                32.8093034,47.0977892,0
-                32.772756,47.08196,0
-                32.724626,47.059195,0
-                32.6836041,47.0375364,0
-                32.6642775,47.0174868,0
-                32.6256859,46.9986816,0
-                32.6008407,46.9948523,0
-                32.536806,46.9649947,0
-                32.5321828,46.9616118,0
-                32.5255412,46.9477044,0
-                32.5141393,46.939646,0
-                32.5005694,46.9374978,0
-                32.4952392,46.9402716,0
-                32.4768631,46.936598,0
-                32.4735944,46.93433,0
-                32.471145,46.9291077,0
-                32.4635464,46.9266986,0
-                32.4651725,46.919536,0
-                32.4533215,46.9124792,0
-                32.4505707,46.9004951,0
-                32.451255,46.880182,0
-                32.411514,46.840424,0
-                32.389366,46.810673,0
-                32.37593,46.783692,0
-                32.343683,46.774798,0
-                32.331686,46.7752287,0
-                32.3194964,46.7761794,0
-                32.3008642,46.7771676,0
-                32.276055,46.772037,0
-                32.250011,46.765726,0
-                32.218992,46.753635,0
-                32.1848077,46.7361922,0
-                32.1583031,46.7143012,0
-                32.1382027,46.6876085,0
-                32.124783,46.655414,0
-                32.1217765,46.6367629,0
-                32.1192924,46.623672,0
-                32.1150931,46.6152968,0
-                32.1120204,46.6121036,0
-                32.105643,46.603379,0
-                32.115401,46.591419,0
-                32.136157,46.55361,0
-                32.235549,46.580164,0
-                32.265418,46.584058,0
-                32.305272,46.549632,0
-                32.404035,46.553458,0
-                32.419336,46.487414,0
-                32.298193,46.472495,0
-                32.12698,46.505573,0
-                31.999444,46.502567,0
-                31.849196,46.534425,0
-                31.733016,46.55305,0
-                31.581895,46.542236,0
-                31.527735,46.556054,0
-                31.554815,46.530819,0
-                31.697201,46.436387,0
-                31.701569,46.46347,0
-                31.735637,46.479714,0
-                31.768831,46.48212,0
-                31.907723,46.450833,0
-                31.961009,46.435785,0
-                31.999444,46.449027,0
-                32.016041,46.448425,0
-                32.037006,46.412301,0
-                32.019536,46.37555,0
-                31.983721,46.352041,0
-                31.911217,46.338171,0
-                31.796784,46.33214,0
-                31.747866,46.317059,0
-                31.758349,46.26998,0
-                31.790669,46.253674,0
-                31.886758,46.262733,0
-                31.90947,46.28447,0
-                31.933056,46.283263,0
-                31.960135,46.255486,0
-                32.0229761,46.2444105,0
-                32.0542255,46.2485107,0
-                32.0755108,46.2358081,0
-                32.0878329,46.2201833,0
-                32.123486,46.201703,0
-                32.1535048,46.1962213,0
-                32.169784,46.185982,0
-                32.1908219,46.1739399,0
-                32.2143851,46.1817053,0
-                32.2283356,46.1742535,0
-                32.2294492,46.1583991,0
-                32.2264415,46.1453993,0
-                32.2229475,46.1305316,0
-                32.3078547,46.1080016,0
-                32.4793949,46.0741218,0
-                32.5261264,46.0656238,0
-                32.5419532,46.0640251,0
-                32.5569275,46.075946,0
-                32.618781,46.090951,0
-                32.7650347,46.1161332,0
-                32.8459,46.107912,0
-                32.923645,46.100644,0
-                33.034583,46.106095,0
-                33.0569866,46.1345769,0
-                33.122894,46.11739,0
-                33.1727023,46.1357572,0
-                33.2058522,46.1101821,0
-                33.2609563,46.1122033,0
-                33.2616452,46.0822191,0
-                33.290458,46.067941,0
-                33.3161613,46.073276,0
-                33.3336328,46.0881335,0
-                33.4124389,46.0301469,0
-                33.5138224,46.0278372,0
-                33.5175131,46.0594344,0
-                33.5619424,46.0790474,0
-                33.5718125,46.1164647,0
-                33.589933,46.121509,0
-                33.631527,46.142921,0
-                33.607759,46.223555,0
+                33.6088699,46.2294143,0
+                33.6516575,46.2401012,0
+                33.742579,46.1944591,0
+                33.8043827,46.211322,0
+                33.8632139,46.2030969,0
+                33.960079,46.1549547,0
+                34.0611026,46.1158335,0
+                34.0866564,46.1261314,0
+                34.2245247,46.0639041,0
+                34.3320861,46.0676149,0
+                34.3932925,46.0391787,0
+                34.4412792,45.9769846,0
+                34.4929395,45.9458614,0
+                34.5572276,45.9927782,0
+                34.5980959,46.0010731,0
+                34.6800634,45.9694838,0
+                34.7494024,45.9156786,0
+                34.8159863,45.9067324,0
+                34.7969296,45.8085514,0
+                34.9613225,45.7648418,0
+                35.0058654,45.7816567,0
+                34.8889074,45.9532871,0
+                34.8924731,46.0044941,0
+                34.8734579,46.1067682,0
+                34.8496879,46.1841722,0
+                35.0695648,46.2400974,0
+                35.3941818,46.381303,0
+                35.4960853,46.4455796,0
+                35.6265628,46.4872029,0
+                35.7185834,46.5486335,0
+                35.8064845,46.610939,0
+                35.880479,46.6537316,0
+                35.9903541,46.669756,0
+                36.0533609,46.6717577,0
+                36.1137923,46.6613903,0
+                36.2085595,46.6547908,0
+                36.2895915,46.5939503,0
+                36.4386112,46.7141483,0
+                36.5769618,46.7569944,0
+                36.695552,46.7820546,0
+                36.7383665,46.7700723,0
+                36.7785396,46.7492551,0
+                36.8060943,46.7361959,0
+                36.8205147,46.7199558,0
+                36.8427868,46.7031896,0
+                36.8775526,46.7703903,0
+                36.9025119,46.8085352,0
+                36.9978922,46.8679865,0
+                37.041571,46.8728611,0
+                37.1329396,46.9103245,0
+                37.1663664,46.9176312,0
+                37.1962289,46.936198,0
+                37.2158391,46.9377198,0
+                37.2350045,46.9535417,0
+                37.2516105,46.9533505,0
+                37.2963607,46.9343993,0
+                37.318215,46.9186504,0
+                37.3242674,46.8975041,0
+                37.2917469,46.8702249,0
+                37.3171392,46.879499,0
+                37.3480412,46.9005004,0
+                37.4071824,46.9626486,0
+                37.4488794,46.9996468,0
+                37.4733014,47.027996,0
+                37.4847162,47.0394927,0
+                37.4929963,47.0479986,0
+                37.499676,47.0461985,0
+                37.5040626,47.0528565,0
+                37.507086,47.0572275,0
+                37.5126977,47.0620794,0
+                37.5147,47.0648784,0
+                37.5179333,47.0664134,0
+                37.5197963,47.0670117,0
+                37.5206632,47.0729288,0
+                37.5228986,47.0770593,0
+                37.527262,47.080693,0
+                37.532671,47.0833109,0
+                37.5381897,47.0858686,0
+                37.5524845,47.0885041,0
+                37.5662341,47.090354,0
+                37.5757991,47.0909889,0
+                37.5869562,47.0831038,0
+                37.6098918,47.0883666,0
+                37.6016975,47.1173187,0
+                37.5920846,47.1262518,0
+                37.5929068,47.1349878,0
+                37.6038113,47.1522857,0
+                37.5913701,47.1582568,0
+                37.5787338,47.1641459,0
+                37.5719533,47.1758789,0
+                37.5683891,47.188081,0
+                37.5718026,47.1960159,0
+                37.5522535,47.1987301,0
+                37.520367,47.2016924,0
+                37.5044872,47.1955795,0
+                37.440075,47.190228,0
+                37.3908928,47.2574344,0
+                37.313787,47.299768,0
+                37.1854287,47.4087701,0
+                36.9924427,47.4985815,0
+                36.828516,47.6631887,0
+                36.7990533,47.6978829,0
+                36.7860865,47.745654,0
+                36.7773855,47.8071491,0
+                36.7471131,47.8081453,0
+                36.7211316,47.8341275,0
+                36.7004802,47.8318176,0
+                36.6772466,47.8280628,0
+                36.6694005,47.8178288,0
+                36.6701002,47.7884878,0
+                36.6719691,47.7672958,0
+                36.6670633,47.7520638,0
+                36.6344343,47.729103,0
+                36.55319,47.7200596,0
+                36.5374077,47.6854447,0
+                36.5236027,47.6511178,0
+                36.4210702,47.6494334,0
+                36.3438232,47.6213479,0
+                36.2828372,47.6144903,0
+                36.2412026,47.6167186,0
+                36.2325044,47.5988236,0
+                36.2375265,47.5615626,0
+                36.1931222,47.5343018,0
+                36.1276597,47.5233172,0
+                36.0673571,47.5262064,0
+                35.9946038,47.517171,0
+                35.9594789,47.5174502,0
+                35.9187493,47.5147384,0
+                35.8574354,47.5074897,0
+                35.8215614,47.5102859,0
+                35.7634682,47.5356862,0
+                35.7228638,47.5454975,0
+                35.6899522,47.5535746,0
+                35.6429359,47.5478059,0
+                35.5728389,47.5330892,0
+                35.5138543,47.5287615,0
+                35.4807695,47.5198596,0
+                35.4470027,47.5143748,0
+                35.4089624,47.506003,0
+                35.3709221,47.5048481,0
+                35.2824454,47.5163965,0
+                35.2331845,47.4716827,0
+                35.2092347,47.4614988,0
+                35.1737347,47.458819,0
+                35.0945089,47.4643723,0
+                35.0442923,47.4562765,0
+                34.9647181,47.4131628,0
+                34.909867,47.421528,0
+                34.8673757,47.4648952,0
+                34.7816214,47.4980505,0
+                34.7159541,47.5129237,0
+                34.6738496,47.5410938,0
+                34.6319751,47.553855,0
+                34.6081823,47.5473521,0
+                34.5840975,47.5309941,0
+                34.5394316,47.5404553,0
+                34.5006041,47.5073364,0
+                34.464404,47.5071385,0
+                34.4115631,47.5087166,0
+                34.383018,47.5219867,0
+                34.340039,47.4891908,0
+                34.3301128,47.4595919,0
+                34.3108455,47.4422199,0
+                34.269974,47.445379,0
+                34.208084,47.4232622,0
+                34.1485294,47.4323473,0
+                34.1210873,47.4287924,0
+                34.0497184,47.4311695,0
+                34.0138691,47.3576956,0
+                34.0099205,47.3222126,0
+                33.972665,47.2355567,0
+                33.9094328,47.1833278,0
+                33.8469587,47.1448209,0
+                33.8014164,47.068122,0
+                33.7050777,47.0112222,0
+                33.6928162,46.9909152,0
+                33.6828899,46.9151902,0
+                33.6478581,46.9108032,0
+                33.6309262,46.8968413,0
+                33.6344284,46.8505413,0
+                33.6134091,46.8337673,0
+                33.5626125,46.8245804,0
+                33.5159034,46.8289744,0
+                33.4691933,46.8261785,0
+                33.4289069,46.8002045,0
+                33.3927069,46.7794175,0
+                33.3687683,46.7954086,0
+                33.4008809,46.8245805,0
+                33.4370809,46.8429545,0
+                33.5164876,46.8597244,0
+                33.5848,46.8609223,0
+                33.5982285,46.8705033,0
+                33.6017321,46.9383183,0
+                33.6116582,46.9526673,0
+                33.6642061,46.9982822,0
+                33.6607039,47.0504222,0
+                33.6942757,47.0699122,0
+                33.7669678,47.0995311,0
+                33.7926587,47.141644,0
+                33.7894475,47.182733,0
+                33.8102429,47.195499,0
+                33.8848122,47.2202319,0
+                33.9168329,47.2479308,0
+                33.9256059,47.2785918,0
+                33.9721022,47.3095317,0
+                33.9794674,47.3845937,0
+                33.9427533,47.3896427,0
+                33.8756338,47.3865359,0
+                33.8657549,47.4181189,0
+                33.785762,47.435178,0
+                33.6417749,47.4074103,0
+                33.5983771,47.4245763,0
+                33.5822524,47.4385143,0
+                33.5664447,47.467831,0
+                33.5433892,47.4760494,0
+                33.5271584,47.4797014,0
+                33.5101375,47.4860574,0
+                33.4931674,47.4900678,0
+                33.4586828,47.489434,0
+                33.4400757,47.4862575,0
+                33.4095342,47.4784025,0
+                33.3937775,47.4760655,0
+                33.3878598,47.4743736,0
+                33.3870637,47.4678356,0
+                33.3886569,47.4659896,0
+                33.3902501,47.4642206,0
+                33.389681,47.4542956,0
+                33.3888839,47.4480636,0
+                33.3830812,47.4449856,0
+                33.3895669,47.4364426,0
+                33.4044726,47.4278985,0
+                33.3830812,47.4225876,0
+                33.372161,47.4255036,0
+                33.3678745,47.4231476,0
+                33.3676064,47.4059256,0
+                33.3745722,47.3890596,0
+                33.3566221,47.3741846,0
+                33.3400123,47.3696486,0
+                33.3129533,47.3770876,0
+                33.2974146,47.3738216,0
+                33.2896457,47.3582166,0
+                33.2850912,47.3504126,0
+                33.2982186,47.3384316,0
+                33.2936641,47.3282646,0
+                33.2781253,47.3306236,0
+                33.256961,47.3364347,0
+                33.248028,47.3326607,0
+                33.2375798,47.3212207,0
+                33.2542817,47.3130077,0
+                33.2730347,47.3102837,0
+                33.2727677,47.3030167,0
+                33.2628546,47.2975667,0
+                33.230572,47.2959317,0
+                33.2086036,47.2864817,0
+                33.1962802,47.2624887,0
+                33.2173105,47.2503967,0
+                33.2176005,47.2356167,0
+                33.2077044,47.2259757,0
+                33.2009646,47.2127647,0
+                33.1869501,47.1989157,0
+                33.1541424,47.1913397,0
+                33.1146461,47.1815987,0
+                33.068469,47.1778968,0
+                33.0452214,47.1796208,0
+                33.0374025,47.1812008,0
+                33.0309878,47.1807958,0
+                33.014001,47.1865138,0
+                33.0105076,47.1965478,0
+                32.9954259,47.1942818,0
+                32.996537,47.1757238,0
+                32.9946318,47.1638518,0
+                32.9984422,47.1524088,0
+                33.0044749,47.1368588,0
+                32.9978071,47.1300548,0
+                32.9724053,47.1210898,0
+                32.9548782,47.1223122,0
+                32.9534915,47.1183831,0
+                32.961216,47.1152635,0
+                32.9677617,47.1120115,0
+                32.9667532,47.1085258,0
+                32.9636848,47.1070266,0
+                32.9582128,47.1078641,0
+                32.9503643,47.1116416,0
+                32.9430785,47.1100142,0
+                32.9385403,47.1053485,0
+                32.9347752,47.0979286,0
+                32.9330646,47.0942185,0
+                32.9275774,47.0913265,0
+                32.9222685,47.0919706,0
+                32.9161012,47.0937833,0
+                32.912351,47.097407,0
+                32.9084149,47.102141,0
+                32.9111631,47.108619,0
+                32.9094478,47.1124094,0
+                32.8989778,47.1162502,0
+                32.8716859,47.1116632,0
+                32.8554764,47.1035698,0
+                32.8103289,47.103649,0
+                32.7737775,47.0878198,0
+                32.7256422,47.0650548,0
+                32.6846158,47.0433962,0
+                32.6652871,47.0233466,0
+                32.6266913,47.0045414,0
+                32.6018433,47.0007121,0
+                32.5378017,46.9708544,0
+                32.533178,46.9674715,0
+                32.5265356,46.9535641,0
+                32.5151325,46.9455057,0
+                32.5015611,46.9433575,0
+                32.4962303,46.9461313,0
+                32.4778522,46.9424577,0
+                32.4745832,46.9401897,0
+                32.4721335,46.9349674,0
+                32.4645341,46.9325583,0
+                32.4661604,46.9253957,0
+                32.4543081,46.9183389,0
+                32.451557,46.9063548,0
+                32.4522414,46.8860417,0
+                32.4124961,46.8462836,0
+                32.3903458,46.8165326,0
+                32.3769084,46.7895516,0
+                32.3446579,46.7806576,0
+                32.3326596,46.7810883,0
+                32.3204686,46.782039,0
+                32.3018344,46.7830271,0
+                32.2770225,46.7778965,0
+                32.2509757,46.7715855,0
+                32.2199533,46.7594945,0
+                32.1857654,46.7420516,0
+                32.1592579,46.7201606,0
+                32.1391554,46.6934679,0
+                32.1257344,46.6612733,0
+                32.1227276,46.6426222,0
+                32.1202433,46.6295313,0
+                32.1160435,46.6211561,0
+                32.1129705,46.6179629,0
+                32.1065924,46.6092383,0
+                32.1163515,46.5972783,0
+                32.1371099,46.5594694,0
+                32.2365126,46.5860235,0
+                32.2663848,46.5899175,0
+                32.3062431,46.5554915,0
+                32.4050168,46.5593176,0
+                32.4203196,46.4932736,0
+                32.2991635,46.4783545,0
+                32.127932,46.5114323,0
+                32.0003823,46.5084262,0
+                31.850118,46.5402839,0
+                31.7339254,46.5589087,0
+                31.5827881,46.5480944,0
+                31.5286222,46.5619123,0
+                31.5557052,46.5366773,0
+                31.698107,46.4422456,0
+                31.7024753,46.4693286,0
+                31.7365469,46.4855727,0
+                31.7697445,46.4879788,0
+                31.9086516,46.456692,0
+                31.9619434,46.4416441,0
+                32.0003825,46.4548862,0
+                32.0169812,46.4542842,0
+                32.0379486,46.4181602,0
+                32.0204768,46.3814092,0
+                31.9846581,46.3579001,0
+                31.9121464,46.34403,0
+                31.7977011,46.3379988,0
+                31.7487779,46.3229177,0
+                31.7592622,46.2758387,0
+                31.7915858,46.2595328,0
+                31.887685,46.268592,0
+                31.9103994,46.290329,0
+                31.9339879,46.2891221,0
+                31.9610699,46.2613451,0
+                32.0239177,46.2502697,0
+                32.0551704,46.2543699,0
+                32.0764581,46.2416674,0
+                32.0887815,46.2260426,0
+                32.1244385,46.2075623,0
+                32.1544605,46.2020807,0
+                32.1707414,46.1918414,0
+                32.1917816,46.1797993,0
+                32.2153473,46.1875648,0
+                32.2292993,46.180113,0
+                32.2304131,46.1642586,0
+                32.2274051,46.1512588,0
+                32.2239107,46.1363911,0
+                32.308827,46.1138611,0
+                32.4803855,46.0799815,0
+                32.527122,46.0714835,0
+                32.5429505,46.0698848,0
+                32.5579263,46.0818057,0
+                32.6197864,46.0968108,0
+                32.7660556,46.121993,0
+                32.8469295,46.1137718,0
+                32.9246828,46.1065038,0
+                33.0356326,46.1119548,0
+                33.0580386,46.1404367,0
+                33.123953,46.1232497,0
+                33.1737666,46.1416169,0
+                33.20692,46.1160418,0
+                33.26203,46.118063,0
+                33.2627189,46.0880788,0
+                33.2915347,46.0738006,0
+                33.3172408,46.0791356,0
+                33.3347142,46.0939931,0
+                33.4135285,46.0360064,0
+                33.5149227,46.0336966,0
+                33.5186139,46.0652938,0
+                33.563048,46.0849068,0
+                33.5729192,46.122324,0
+                33.5910417,46.1273683,0
+                33.6326402,46.1487803,0
+                33.6088699,46.2294143,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
