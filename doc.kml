@@ -8588,11 +8588,14 @@ https://suspilne.media/211572-voroza-tehnika-cerez-sumsinu-prodovzue-kurs-na-kii
       </Placemark>
       <Placemark>
         <name>Циркуни (звільнені 7 травня)</name>
-        <description><![CDATA[description: 21.07 - російські обстріли:<br>https://censor.net/ua/n3355486<br>-----<br>19.07 - російські обстріли:<br>https://t.me/synegubov/3698<br>-----<br>6.07 - російські обстріли:<br>https://censor.net/ua/news/3352518/<br>-----<br>28.06 - російські обстріли:<br>https://censor.net/ua/news/3350842<br>-----<br>25.06 - "...противник здійснив артилерійські обстріли по елементах інфраструктури в районах міста Харкова та В’ялівського водосховища [на схід від села]": https://censor.net/ua/n3350083<br>-----<br>11.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/337671438545941<br>-----<br>5.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/333318498981235<br>-----<br>2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>-----<br>1.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/329873672659051<br>-----<br>24.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/324283196551432<br>===<br>18.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/319447660368319<br>-----<br>7.05 - СЕЛО ЗВІЛЬНЕНЕ - "В результаті наступу підрозділів ЗСУ ворог втратив контроль над населеним пунктом Циркуни": <br>https://www.facebook.com/GeneralStaff.ua/posts/311567034489715<br>-------<br>21.04, Харківська ОВА:<br>"Не контролюємо північний напрямок – це Липці, Циркуни"<br>https://www.pravda.com.ua/articles/2022/04/21/7341146/<br><br>element_type: yellow_dot<br>lat: 50.0885852<br>lon: 36.392979]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <description><![CDATA[description: 27.07 - російські обстріли:<br>https://censor.net/ua/news/3357013/<br>-----<br>21.07 - російські обстріли:<br>https://censor.net/ua/n3355486<br>-----<br>19.07 - російські обстріли:<br>https://t.me/synegubov/3698<br>-----<br>6.07 - російські обстріли:<br>https://censor.net/ua/news/3352518/<br>-----<br>28.06 - російські обстріли:<br>https://censor.net/ua/news/3350842<br>-----<br>25.06 - "...противник здійснив артилерійські обстріли по елементах інфраструктури в районах міста Харкова та В’ялівського водосховища [на схід від села]": https://censor.net/ua/n3350083<br>-----<br>11.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/337671438545941<br>-----<br>5.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/333318498981235<br>-----<br>2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>-----<br>1.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/329873672659051<br>-----<br>24.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/324283196551432<br>===<br>18.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/319447660368319<br>-----<br>7.05 - СЕЛО ЗВІЛЬНЕНЕ - "В результаті наступу підрозділів ЗСУ ворог втратив контроль над населеним пунктом Циркуни": <br>https://www.facebook.com/GeneralStaff.ua/posts/311567034489715<br>-------<br>21.04, Харківська ОВА:<br>"Не контролюємо північний напрямок – це Липці, Циркуни"<br>https://www.pravda.com.ua/articles/2022/04/21/7341146/<br><br>element_type: dark_red_dot<br>lat: 50.0885852<br>lon: 36.392979]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[21.07 - російські обстріли:
+            <value><![CDATA[27.07 - російські обстріли:
+https://censor.net/ua/news/3357013/
+-----
+21.07 - російські обстріли:
 https://censor.net/ua/n3355486
 -----
 19.07 - російські обстріли:
@@ -8633,7 +8636,7 @@ https://www.pravda.com.ua/articles/2022/04/21/7341146/
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>yellow_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>50.0885852</value>
@@ -9744,11 +9747,14 @@ https://www.facebook.com/GeneralStaff.ua/posts/276000071379745/</value>
       </Placemark>
       <Placemark>
         <name>Руські Тишки (у липні - під щоденними обстрілами)</name>
-        <description><![CDATA[description: 21-22.07 - російські обстріли:<br>https://censor.net/ua/n3355486<br>-----<br>19.07 - російські обстріли:<br>https://censor.net/ua/news/3354991/<br>-----<br>16-17.07 - російські обстріли:<br>https://censor.net/ua/news/3354449/<br>https://censor.net/ua/news/3354686/<br> -----<br>13-14-15.07 - російські обстріли:<br>https://censor.net/ua/n3354174<br>https://censor.net/ua/news/3354012/<br>https://censor.net/ua/news/3353964/<br>-----<br>10-11-12.07 - російські обстріли:<br>https://censor.net/ua/news/3353554/<br>https://censor.net/ua/news/3353483/<br>https://youtu.be/7NCz3G7B7Ws<br>-----<br>7-8-9.07 - російські обстріли:<br>https://censor.net/ua/news/3352821/<br>https://censor.net/ua/photo_news/3353100/<br>https://censor.net/ua/n3352572<br>-----<br>5.07 - російські обстріли:<br>https://censor.net/ua/news/3352294/<br>-----<br>30.06 - російські обстріли: https://censor.net/ua/n3351320<br>-----<br>26.06 - російські обстріли:<br>https://novynarnia.com/2022/06/26/hronika-oborony-ukrayiny-den-123-26-06-2022-onovlyuyetsya/<br>-----<br>12.06 - російські обстріли:<br>https://censor.net/ua/n3347501<br>-----<br>9.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335842948728790<br>-----<br>5.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/333318498981235<br>-----<br>1.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330226645957087<br>-----<br>29.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/327663802880038<br>-----<br>28.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/326823172964101<br>-----<br>25.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/325028756476876<br>===<br>18.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/319447660368319<br>-----<br>15.05 - російські обстріли:<br>https://censor.net/ua/news/3341501/<br>-----<br>13.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/316199807359771<br>-----<br>12.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/315521040760981<br>-----<br>10.05 - СЕЛО ЗВІЛЬНЕНЕ - "...на Харківщині звільнено населені пункти Черкаські Тишки, Руські Тишки, Рубіжне та Байрак":<br>https://www.facebook.com/GeneralStaff.ua/posts/314011584245260<br>-----<br>21.04, Харківська ОВА:<br>"Не контролюємо північний напрямок – це Липці, Циркуни"<br>https://www.pravda.com.ua/articles/2022/04/21/7341146/<br>-----<br>15.03 - бойові дії:<br>https://news.liga.net/ua/politics/news/vsu-otbili-dve-ataki-rossiyskih-voysk-v-prigorodah-harkova<br><br>element_type: dark_red_dot<br>lat: 50.1364753<br>lon: 36.4177253]]></description>
+        <description><![CDATA[description: 28.07 - російський авіаудар, повітряна розвідка з БПЛА:<br>https://censor.net/ua/news/3357013/<br>-----<br>21-22.07 - російські обстріли:<br>https://censor.net/ua/n3355486<br>-----<br>19.07 - російські обстріли:<br>https://censor.net/ua/news/3354991/<br>-----<br>16-17.07 - російські обстріли:<br>https://censor.net/ua/news/3354449/<br>https://censor.net/ua/news/3354686/<br> -----<br>13-14-15.07 - російські обстріли:<br>https://censor.net/ua/n3354174<br>https://censor.net/ua/news/3354012/<br>https://censor.net/ua/news/3353964/<br>-----<br>10-11-12.07 - російські обстріли:<br>https://censor.net/ua/news/3353554/<br>https://censor.net/ua/news/3353483/<br>https://youtu.be/7NCz3G7B7Ws<br>-----<br>7-8-9.07 - російські обстріли:<br>https://censor.net/ua/news/3352821/<br>https://censor.net/ua/photo_news/3353100/<br>https://censor.net/ua/n3352572<br>-----<br>5.07 - російські обстріли:<br>https://censor.net/ua/news/3352294/<br>-----<br>30.06 - російські обстріли: https://censor.net/ua/n3351320<br>-----<br>26.06 - російські обстріли:<br>https://novynarnia.com/2022/06/26/hronika-oborony-ukrayiny-den-123-26-06-2022-onovlyuyetsya/<br>-----<br>12.06 - російські обстріли:<br>https://censor.net/ua/n3347501<br>-----<br>9.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335842948728790<br>-----<br>5.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/333318498981235<br>-----<br>1.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330226645957087<br>-----<br>29.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/327663802880038<br>-----<br>28.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/326823172964101<br>-----<br>25.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/325028756476876<br>===<br>18.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/319447660368319<br>-----<br>15.05 - російські обстріли:<br>https://censor.net/ua/news/3341501/<br>-----<br>13.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/316199807359771<br>-----<br>12.05 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/315521040760981<br>-----<br>10.05 - СЕЛО ЗВІЛЬНЕНЕ - "...на Харківщині звільнено населені пункти Черкаські Тишки, Руські Тишки, Рубіжне та Байрак":<br>https://www.facebook.com/GeneralStaff.ua/posts/314011584245260<br>-----<br>21.04, Харківська ОВА:<br>"Не контролюємо північний напрямок – це Липці, Циркуни"<br>https://www.pravda.com.ua/articles/2022/04/21/7341146/<br>-----<br>15.03 - бойові дії:<br>https://news.liga.net/ua/politics/news/vsu-otbili-dve-ataki-rossiyskih-voysk-v-prigorodah-harkova<br><br>element_type: dark_red_dot<br>lat: 50.1364753<br>lon: 36.4177253]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[21-22.07 - російські обстріли:
+            <value><![CDATA[28.07 - російський авіаудар, повітряна розвідка з БПЛА:
+https://censor.net/ua/news/3357013/
+-----
+21-22.07 - російські обстріли:
 https://censor.net/ua/n3355486
 -----
 19.07 - російські обстріли:
@@ -11625,11 +11631,14 @@ https://texty.org.ua/fragments/106582/
       </Placemark>
       <Placemark>
         <name>Пасіка (окупована на початку червня)</name>
-        <description><![CDATA[description: 27.07, ГШ - бойові дії - “В районі населеного пункту Пасіка противник, силами розвідувальної групи, намагався викрити позиції наших військ. Безуспішно. Група знешкоджена”:<br>https://novynarnia.com/2022/07/27/na-slovyanskomu-napryamku-3/<br>-----<br>26.06, Том Купер - в цьому районі ворог накопичує танки для розширення можливого прориву української оборони в бік Бахмута - "...схоже, тепер є четверта БТГр вагнерівців, «десь на північ від Слов’янська». Це також важливо, оскільки росармія у цьому районі зараз готується до того, що дається їй найкраще: надання артилерійських і танкових кейтерингових послуг бійцям вагнера ... По одній БТГр зі складу 1-ої гвардійської танкової дивізії [певно, йдеться про 1-шу армію все ж – перекл.] та 2-ої гвардійської [«Таманської»] мотострілецької дивізії рф передислоковано у район на півночі від Богородничного. Обидва підрозділи укомплектовані танками Т-90. Військова логіка каже нам, що від них не буде багато зиску в боях на тутешньому ландшафті. Але ці танки можуть берегти як «оперативний резерв» для ПВК вагнера на випадок ймовірного прориву української оборони в районі Долини – Богородичного":<br>https://texty.org.ua/fragments/107073/<br>-----<br>2.06, Том Купер - село ОКУПОВАНЕ - "...станом на 2 червня росіяни захопили Студенок, Яремівку і Пасіку, що на північний захід від Святогірська, тож українцям довелося відійти з Соснового":<br>https://texty.org.ua/fragments/106875/<br>-----<br>28.05 - російський наступ - "За підтримки артилерії намагався розвинути наступальні дії в районі населеного пункту Пасіка, успіху не мав, відійшов":<br>https://www.facebook.com/GeneralStaff.ua/posts/326823172964101<br>-----<br>25.05 - російський наступ - "За підтримки артилерії та армійської авіації ворог безуспішно спробував взяти під контроль населений пункт Пасіка":<br>https://www.facebook.com/GeneralStaff.ua/posts/324613886518363<br>-----<br>24.05 - бойові дії - "...противник провів розвідку боєм в районі населеного пункту Пасіка, зазнав втрат і відійшов":<br>https://www.facebook.com/GeneralStaff.ua/posts/324283196551432<br><br>element_type: dark_red_dot<br>lat: 49.0698181<br>lon: 37.4666264]]></description>
+        <description><![CDATA[description: 27-28.07, Харківська ОВА - російський штурм "у напрямку Пасіка - Долина" відбито:<br>https://censor.net/ua/n3357013<br>-----<br>27.07, ГШ - бойові дії - “В районі населеного пункту Пасіка противник, силами розвідувальної групи, намагався викрити позиції наших військ. Безуспішно. Група знешкоджена”:<br>https://novynarnia.com/2022/07/27/na-slovyanskomu-napryamku-3/<br>-----<br>26.06, Том Купер - в цьому районі ворог накопичує танки для розширення можливого прориву української оборони в бік Бахмута - "...схоже, тепер є четверта БТГр вагнерівців, «десь на північ від Слов’янська». Це також важливо, оскільки росармія у цьому районі зараз готується до того, що дається їй найкраще: надання артилерійських і танкових кейтерингових послуг бійцям вагнера ... По одній БТГр зі складу 1-ої гвардійської танкової дивізії [певно, йдеться про 1-шу армію все ж – перекл.] та 2-ої гвардійської [«Таманської»] мотострілецької дивізії рф передислоковано у район на півночі від Богородничного. Обидва підрозділи укомплектовані танками Т-90. Військова логіка каже нам, що від них не буде багато зиску в боях на тутешньому ландшафті. Але ці танки можуть берегти як «оперативний резерв» для ПВК вагнера на випадок ймовірного прориву української оборони в районі Долини – Богородичного":<br>https://texty.org.ua/fragments/107073/<br>-----<br>2.06, Том Купер - село ОКУПОВАНЕ - "...станом на 2 червня росіяни захопили Студенок, Яремівку і Пасіку, що на північний захід від Святогірська, тож українцям довелося відійти з Соснового":<br>https://texty.org.ua/fragments/106875/<br>-----<br>28.05 - російський наступ - "За підтримки артилерії намагався розвинути наступальні дії в районі населеного пункту Пасіка, успіху не мав, відійшов":<br>https://www.facebook.com/GeneralStaff.ua/posts/326823172964101<br>-----<br>25.05 - російський наступ - "За підтримки артилерії та армійської авіації ворог безуспішно спробував взяти під контроль населений пункт Пасіка":<br>https://www.facebook.com/GeneralStaff.ua/posts/324613886518363<br>-----<br>24.05 - бойові дії - "...противник провів розвідку боєм в районі населеного пункту Пасіка, зазнав втрат і відійшов":<br>https://www.facebook.com/GeneralStaff.ua/posts/324283196551432<br><br>element_type: dark_red_dot<br>lat: 49.0698181<br>lon: 37.4666264]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[27.07, ГШ - бойові дії - “В районі населеного пункту Пасіка противник, силами розвідувальної групи, намагався викрити позиції наших військ. Безуспішно. Група знешкоджена”:
+            <value><![CDATA[27-28.07, Харківська ОВА - російський штурм "у напрямку Пасіка - Долина" відбито:
+https://censor.net/ua/n3357013
+-----
+27.07, ГШ - бойові дії - “В районі населеного пункту Пасіка противник, силами розвідувальної групи, намагався викрити позиції наших військ. Безуспішно. Група знешкоджена”:
 https://novynarnia.com/2022/07/27/na-slovyanskomu-napryamku-3/
 -----
 26.06, Том Купер - в цьому районі ворог накопичує танки для розширення можливого прориву української оборони в бік Бахмута - "...схоже, тепер є четверта БТГр вагнерівців, «десь на північ від Слов’янська». Це також важливо, оскільки росармія у цьому районі зараз готується до того, що дається їй найкраще: надання артилерійських і танкових кейтерингових послуг бійцям вагнера ... По одній БТГр зі складу 1-ої гвардійської танкової дивізії [певно, йдеться про 1-шу армію все ж – перекл.] та 2-ої гвардійської [«Таманської»] мотострілецької дивізії рф передислоковано у район на півночі від Богородничного. Обидва підрозділи укомплектовані танками Т-90. Військова логіка каже нам, що від них не буде багато зиску в боях на тутешньому ландшафті. Але ці танки можуть берегти як «оперативний резерв» для ПВК вагнера на випадок ймовірного прориву української оборони в районі Долини – Богородичного":
@@ -16469,11 +16478,14 @@ https://www.unian.ua/war/situaciya-na-harkivshchini-zsu-zavdali-udaru-po-armiji-
       </Placemark>
       <Placemark>
         <name>ЧУГУЇВ (звільнений 7 березня)</name>
-        <description><![CDATA[description: 21.07 - російські обстріли:<br>https://censor.net/ua/news/3355666/<br>-----<br>19.07 - російські обстріли:<br>https://censor.net/ua/news/3354991/<br>-----<br>17.07 - російські обстріли:<br>https://censor.net/ua/n3354686<br>-----<br>16.07 - нічний російський обстріл УБИВ ТРЬОХ людей, ще трьох поранив:<br>https://censor.net/ua/news/3354461/<br>-----<br>25.06 - російські обстріли:<br>https://www.pravda.com.ua/news/2022/06/25/7354565/<br>-----<br>24.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/347169520929466/<br>-----<br>22.06 - російські обстріли УБИЛИ ДВОХ людей:<br>https://censor.net/ua/news/3349462/<br>-----<br>21.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/344672697845815<br>===<br>14.05, Харківська ОВА - російські обстріли - "Від обстрілів страждають: Чугуїв, Дергачі, Золочів, Лозова та інші населені пункти Харківщини":<br>https://censor.net/ua/n3341304<br>-----<br>28.04 - російські обстріли - "По області протягом доби росіяни обстрілювали Золочів, Дергачі, Чугуїв":<br> https://censor.net/ua/n3337351<br>-----<br>7.03 - МІСТО ЗВІЛЬНЕНЕ:<br>"...звільнено м. Чугуїв. Окупантам нанесено великих втрат в особовому складі та техніці. Знищено командира 61-ї окремої бригади морської піхоти ЗС РФ підполковника Дмитра Сафронова та заступника командира 11-ї окремої десантно-штурмової бригади ПДВ ЗС РФ підполковника Дениса Глєбова"<br>https://www.facebook.com/GeneralStaff.ua/posts/266469205666165/<br>-----<br>25.02 - МІСТО ОКУПОВАНЕ:<br>https://24tv.ua/chuguyiv-zahopili-okupanti_n1879327<br><br>element_type: yellow_dot<br>lat: 49.834666<br>lon: 36.6909776]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <description><![CDATA[description: 28.07 - російські обстріли (РСЗВ):<br>https://censor.net/ua/news/3357013/<br>-----<br>21.07 - російські обстріли:<br>https://censor.net/ua/news/3355666/<br>-----<br>19.07 - російські обстріли:<br>https://censor.net/ua/news/3354991/<br>-----<br>17.07 - російські обстріли:<br>https://censor.net/ua/n3354686<br>-----<br>16.07 - нічний російський обстріл УБИВ ТРЬОХ людей, ще трьох поранив:<br>https://censor.net/ua/news/3354461/<br>-----<br>25.06 - російські обстріли:<br>https://www.pravda.com.ua/news/2022/06/25/7354565/<br>-----<br>24.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/347169520929466/<br>-----<br>22.06 - російські обстріли УБИЛИ ДВОХ людей:<br>https://censor.net/ua/news/3349462/<br>-----<br>21.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/344672697845815<br>===<br>14.05, Харківська ОВА - російські обстріли - "Від обстрілів страждають: Чугуїв, Дергачі, Золочів, Лозова та інші населені пункти Харківщини":<br>https://censor.net/ua/n3341304<br>-----<br>28.04 - російські обстріли - "По області протягом доби росіяни обстрілювали Золочів, Дергачі, Чугуїв":<br> https://censor.net/ua/n3337351<br>-----<br>7.03 - МІСТО ЗВІЛЬНЕНЕ:<br>"...звільнено м. Чугуїв. Окупантам нанесено великих втрат в особовому складі та техніці. Знищено командира 61-ї окремої бригади морської піхоти ЗС РФ підполковника Дмитра Сафронова та заступника командира 11-ї окремої десантно-штурмової бригади ПДВ ЗС РФ підполковника Дениса Глєбова"<br>https://www.facebook.com/GeneralStaff.ua/posts/266469205666165/<br>-----<br>25.02 - МІСТО ОКУПОВАНЕ:<br>https://24tv.ua/chuguyiv-zahopili-okupanti_n1879327<br><br>element_type: dark_red_dot<br>lat: 49.834666<br>lon: 36.6909776]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[21.07 - російські обстріли:
+            <value><![CDATA[28.07 - російські обстріли (РСЗВ):
+https://censor.net/ua/news/3357013/
+-----
+21.07 - російські обстріли:
 https://censor.net/ua/news/3355666/
 -----
 19.07 - російські обстріли:
@@ -16512,7 +16524,7 @@ https://24tv.ua/chuguyiv-zahopili-okupanti_n1879327
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>yellow_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>49.834666</value>
@@ -19316,7 +19328,7 @@ https://texty.org.ua/fragments/106298/makariv-na-kyyivshyni-zrujnovanyj-na-40-ro
       </Placemark>
       <Placemark>
         <name>Лютіж</name>
-        <description><![CDATA[description: <br>element_type: blue_dot<br>lat: 50.6925108<br>lon: 30.3692248]]></description>
+        <description><![CDATA[description: <br>element_type: blue_dot<br>lat: 50.6980564<br>lon: 30.3906824]]></description>
         <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
@@ -19326,15 +19338,15 @@ https://texty.org.ua/fragments/106298/makariv-na-kyyivshyni-zrujnovanyj-na-40-ro
             <value>blue_dot</value>
           </Data>
           <Data name="lat">
-            <value>50.6925108</value>
+            <value>50.6980564</value>
           </Data>
           <Data name="lon">
-            <value>30.3692248</value>
+            <value>30.3906824</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            30.3692248,50.6925108,0
+            30.3906824,50.6980564,0
           </coordinates>
         </Point>
       </Placemark>
@@ -19784,14 +19796,22 @@ https://suspilne.media/211572-voroza-tehnika-cerez-sumsinu-prodovzue-kurs-na-kii
       </Placemark>
       <Placemark>
         <name>Гончарівське</name>
-        <description><![CDATA[description: <br>element_type: blue_dot<br>lat: 51.3045204<br>lon: 30.9241121]]></description>
-        <styleUrl>#icon-ci-3</styleUrl>
+        <description><![CDATA[description: 28.07 - російські ракетні удари - "...з 5:25 до 6:30 по Гончарівському Чернігівської області також було завдано обстрілу ... близько 20 ракет по позиціях наших військ. Наразі встановлено, що пуски були здійснені з району населеного пункту Зябрівка Республіки Білорусь. Є втрати у нашому особовому складі, втрати уточнюються": https://censor.net/ua/n3357064<br>- - -<br>СтратКом ЗСУ - удару по Гончарівському завдали зенітними ракетами комплексу С-300 - "...про використання С-300 насамперед свідчить кількість запущених ракет — не менше 20-25. "Іскандерів" у такій кількості на аеродромі "Зябрівка" немає. Частина ракет не влучила в якісь конкретні цілі, що говорить про застосування зброї невиборчої дії.<br>До цього росіяни використовували С-300 для ударів по наземним цілям в Миколаєві і на Харківщині. Такий режим роботи протиповітряного комплексу передбачений специфікацією ЗРК, але є "авральним" і доволі неточним.<br>Все більш активне використання росіянами ЗРК С-300 для "наземних" ударів пояснюється гострим дефіцитом тактичних ракет ("Іскандер", "Точка-У"):<br>https://focus.ua/uk/voennye-novosti/523612-vs-rf-ispolzovali-zrk-s-300-dlya-segodnyashnego-obstrela-ukrainy-iz-zaabrovki-stratkom-karta<br>- - -<br>ГОНЧАРІВСЬКЕ - класичне "гарнізонне" містечко. Багатоповерхівки, казарми, полігон (відомий в ЗСУ як "Гондурас" - у 2000 році саме звідти стартувала "Точка-У", що впала у Броварах). Є пунктом постійної дислокації, зокрема, 1-ї отбр. <br><br>element_type: dark_red_dot<br>lat: 51.3045204<br>lon: 30.9241121]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value/>
+            <value><![CDATA[28.07 - російські ракетні удари - "...з 5:25 до 6:30 по Гончарівському Чернігівської області також було завдано обстрілу ... близько 20 ракет по позиціях наших військ. Наразі встановлено, що пуски були здійснені з району населеного пункту Зябрівка Республіки Білорусь. Є втрати у нашому особовому складі, втрати уточнюються": https://censor.net/ua/n3357064
+- - -
+СтратКом ЗСУ - удару по Гончарівському завдали зенітними ракетами комплексу С-300 - "...про використання С-300 насамперед свідчить кількість запущених ракет — не менше 20-25. "Іскандерів" у такій кількості на аеродромі "Зябрівка" немає. Частина ракет не влучила в якісь конкретні цілі, що говорить про застосування зброї невиборчої дії.
+До цього росіяни використовували С-300 для ударів по наземним цілям в Миколаєві і на Харківщині. Такий режим роботи протиповітряного комплексу передбачений специфікацією ЗРК, але є "авральним" і доволі неточним.
+Все більш активне використання росіянами ЗРК С-300 для "наземних" ударів пояснюється гострим дефіцитом тактичних ракет ("Іскандер", "Точка-У"):
+https://focus.ua/uk/voennye-novosti/523612-vs-rf-ispolzovali-zrk-s-300-dlya-segodnyashnego-obstrela-ukrainy-iz-zaabrovki-stratkom-karta
+- - -
+ГОНЧАРІВСЬКЕ - класичне "гарнізонне" містечко. Багатоповерхівки, казарми, полігон (відомий в ЗСУ як "Гондурас" - у 2000 році саме звідти стартувала "Точка-У", що впала у Броварах). Є пунктом постійної дислокації, зокрема, 1-ї отбр. 
+]]></value>
           </Data>
           <Data name="element_type">
-            <value>blue_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>51.3045204</value>
@@ -25951,11 +25971,14 @@ https://www.facebook.com/GeneralStaff.ua/posts/306191908360561
       </Placemark>
       <Placemark>
         <name>ПЕЧЕНІГИ (звільнені наприкінці квітня)</name>
-        <description><![CDATA[description: 21.07 - російські обстріли:<br>https://censor.net/ua/n3355486<br>-----<br>9.07, 21:00 - російський обстріл УБИВ ЖІНКУ, двох людей поранив:<br>https://censor.net/ua/photo_news/3353180/<br>-----<br>1.07 - російські обстріли:<br>https://www.pravda.com.ua/news/2022/07/1/7355863/<br>-----<br>28.06 - російські обстріли:<br>https://censor.net/ua/news/3350842<br>-----<br>26.06 - російські обстріли:<br>https://novynarnia.com/2022/06/26/hronika-oborony-ukrayiny-den-123-26-06-2022-onovlyuyetsya/<br>-----<br>24.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/347169520929466/<br>-----<br>3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем ЗСУ:<br>https://texty.org.ua/fragments/106582/zsu-uvijshly-do-staroho-saltova-armiya-rf-perebuvaye-na-pidstupah-do-lymana-karty-potochnoyi-voyennoyi-sytuaciyi/<br>-----<br>21.04, Харківська ОВА про підконтрольність селища: "...Печеніги – там 50 на 50, російської присутності немає, але блокпости стоять і їхня техніка проїжджає". <br>https://www.pravda.com.ua/articles/2022/04/21/7341146/<br><br>element_type: blue_dot<br>lat: 49.8805984<br>lon: 36.9211388]]></description>
+        <description><![CDATA[description: 27.07 - російські обстріли ЗАПАЛЮВАЛЬНИМИ боєприпасами:<br>https://censor.net/ua/news/3357013/<br>-----<br>21.07 - російські обстріли:<br>https://censor.net/ua/n3355486<br>-----<br>9.07, 21:00 - російський обстріл УБИВ ЖІНКУ, двох людей поранив:<br>https://censor.net/ua/photo_news/3353180/<br>-----<br>1.07 - російські обстріли:<br>https://www.pravda.com.ua/news/2022/07/1/7355863/<br>-----<br>28.06 - російські обстріли:<br>https://censor.net/ua/news/3350842<br>-----<br>26.06 - російські обстріли:<br>https://novynarnia.com/2022/06/26/hronika-oborony-ukrayiny-den-123-26-06-2022-onovlyuyetsya/<br>-----<br>24.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/347169520929466/<br>-----<br>3.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/331331722513246<br>-----<br>станом на 3.05 - за НЕОФІЦІЙНИМИ (австралійський Інститут стратегічної політики) даними, під контролем ЗСУ:<br>https://texty.org.ua/fragments/106582/zsu-uvijshly-do-staroho-saltova-armiya-rf-perebuvaye-na-pidstupah-do-lymana-karty-potochnoyi-voyennoyi-sytuaciyi/<br>-----<br>21.04, Харківська ОВА про підконтрольність селища: "...Печеніги – там 50 на 50, російської присутності немає, але блокпости стоять і їхня техніка проїжджає". <br>https://www.pravda.com.ua/articles/2022/04/21/7341146/<br><br>element_type: blue_dot<br>lat: 49.8805984<br>lon: 36.9211388]]></description>
         <styleUrl>#icon-ci-3</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[21.07 - російські обстріли:
+            <value><![CDATA[27.07 - російські обстріли ЗАПАЛЮВАЛЬНИМИ боєприпасами:
+https://censor.net/ua/news/3357013/
+-----
+21.07 - російські обстріли:
 https://censor.net/ua/n3355486
 -----
 9.07, 21:00 - російський обстріл УБИВ ЖІНКУ, двох людей поранив:
@@ -38530,11 +38553,14 @@ https://censor.net/ua/n3347501
       </Placemark>
       <Placemark>
         <name>Мазанівка</name>
-        <description><![CDATA[description: 25.07 - російські обстріли:<br>https://censor.net/ua/n3356418<br>-----<br>15-16-17.07 - російські обстріли:<br>https://censor.net/ua/n3354686<br>https://censor.net/ua/news/3354449/<br>https://censor.net/ua/news/3354229/<br>-----<br>13.07 - російський авіаудар та обстріли:<br>https://censor.net/ua/news/3353964/<br>-----<br>12.07 - російські обстріли; штурм "з метою покращення тактичного положення поблизу Краснопілля, Довгенького, Мазанівки та Іванівки" відбито ... ЗСУ завдали окупантам значних втрат і змусили їх тікати":<br>https://censor.net/ua/n3353717<br>-----<br>11.07 - російські обстріли:<br>https://censor.net/ua/news/3353483/<br>-----<br>10.07, вечір - російська розвідка боєм, яку "окупанти ... відверто провалили та з втратами відійшли":<br>https://censor.net/ua/n3353256<br>10.07, ранок - російські обстріли:<br>https://youtu.be/7NCz3G7B7Ws<br>-----<br>8.07 - російські обстріли:<br>https://censor.net/ua/news/3352821/<br>-----<br>7.07 - російські обстріли:<br>https://censor.net/ua/news/3352759/<br>-----<br>6.07 - російський наступ "...на напрямку Довгеньке - Мазанівка. Окупанти отримали відсіч наших воїнів та, з втратами, відійшли":<br>https://censor.net/ua/n3352518<br>-----<br>4.07 - "Ворог веде штурмові дії в напрямку населеного пункту Мазанівка, має частковий успіх":<br>https://novynarnia.com/2022/07/04/zsu-zmusyly-rosiyan-vidijty-v-napryamku-vuglegirskoyi-tes-genshtab/<br>-----<br>3.07 - російський штурм - "...окупанти неодноразово безуспішно намагалися вести штурмові дії неподалік Мазанівки. Отримали відсіч та відійшли. Ворог застосовує комплекси радіоелектронної боротьби":<br>https://censor.net/ua/n3351750<br>-----<br>2.07 - російські обстріли:<br>https://censor.net/ua/news/3351613/<br>-----<br>1.07 - російські обстріли:<br>https://www.pravda.com.ua/news/2022/07/1/7355863/<br>-----<br>30.06 - російський штурм - "...у напрямку Довгеньке – Мазанівка наші воїни успішно відбили. Противник відійшов":<br>https://censor.net/ua/n3351320<br>-----<br>28.06 - російський штурм зупинено:<br>https://censor.net/ua/news/3350842<br>-----<br>26.06 - російські обстріли та наступ:<br>https://censor.net/ua/news/3350252/<br>-----<br>25.06, вечір - російський штурм відбито:<br>https://censor.net/ua/n3350200<br>25.06, ранок - російський наступ "...в напрямку Довгеньке - Мазанівка, бій триває":<br>https://censor.net/ua/n3350083<br>-----<br>21.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/344672697845815<br>-----<br>20.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/343975544582197<br>-----<br>12.06 - "На Слов’янському напрямку українські воїни успішно відбили ворожі штурмові дії на напрямках Довгеньке – Мазанівка та Довгеньке – Долина":<br>https://censor.net/ua/n3347501<br><br>element_type: dark_red_dot<br>lat: 48.9935679<br>lon: 37.3530992]]></description>
+        <description><![CDATA[description: 27-28.07 - російські штурми - "...у напрямках Довгеньке - Мазанівка та Пасіка - Долина ... успіху не мали, відступили з втратами":<br>https://censor.net/ua/n3357013<br>-----<br>25.07 - російські обстріли:<br>https://censor.net/ua/n3356418<br>-----<br>15-16-17.07 - російські обстріли:<br>https://censor.net/ua/n3354686<br>https://censor.net/ua/news/3354449/<br>https://censor.net/ua/news/3354229/<br>-----<br>13.07 - російський авіаудар та обстріли:<br>https://censor.net/ua/news/3353964/<br>-----<br>12.07 - російські обстріли; штурм "з метою покращення тактичного положення поблизу Краснопілля, Довгенького, Мазанівки та Іванівки" відбито ... ЗСУ завдали окупантам значних втрат і змусили їх тікати":<br>https://censor.net/ua/n3353717<br>-----<br>11.07 - російські обстріли:<br>https://censor.net/ua/news/3353483/<br>-----<br>10.07, вечір - російська розвідка боєм, яку "окупанти ... відверто провалили та з втратами відійшли":<br>https://censor.net/ua/n3353256<br>10.07, ранок - російські обстріли:<br>https://youtu.be/7NCz3G7B7Ws<br>-----<br>8.07 - російські обстріли:<br>https://censor.net/ua/news/3352821/<br>-----<br>7.07 - російські обстріли:<br>https://censor.net/ua/news/3352759/<br>-----<br>6.07 - російський наступ "...на напрямку Довгеньке - Мазанівка. Окупанти отримали відсіч наших воїнів та, з втратами, відійшли":<br>https://censor.net/ua/n3352518<br>-----<br>4.07 - "Ворог веде штурмові дії в напрямку населеного пункту Мазанівка, має частковий успіх":<br>https://novynarnia.com/2022/07/04/zsu-zmusyly-rosiyan-vidijty-v-napryamku-vuglegirskoyi-tes-genshtab/<br>-----<br>3.07 - російський штурм - "...окупанти неодноразово безуспішно намагалися вести штурмові дії неподалік Мазанівки. Отримали відсіч та відійшли. Ворог застосовує комплекси радіоелектронної боротьби":<br>https://censor.net/ua/n3351750<br>-----<br>2.07 - російські обстріли:<br>https://censor.net/ua/news/3351613/<br>-----<br>1.07 - російські обстріли:<br>https://www.pravda.com.ua/news/2022/07/1/7355863/<br>-----<br>30.06 - російський штурм - "...у напрямку Довгеньке – Мазанівка наші воїни успішно відбили. Противник відійшов":<br>https://censor.net/ua/n3351320<br>-----<br>28.06 - російський штурм зупинено:<br>https://censor.net/ua/news/3350842<br>-----<br>26.06 - російські обстріли та наступ:<br>https://censor.net/ua/news/3350252/<br>-----<br>25.06, вечір - російський штурм відбито:<br>https://censor.net/ua/n3350200<br>25.06, ранок - російський наступ "...в напрямку Довгеньке - Мазанівка, бій триває":<br>https://censor.net/ua/n3350083<br>-----<br>21.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/344672697845815<br>-----<br>20.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/343975544582197<br>-----<br>12.06 - "На Слов’янському напрямку українські воїни успішно відбили ворожі штурмові дії на напрямках Довгеньке – Мазанівка та Довгеньке – Долина":<br>https://censor.net/ua/n3347501<br><br>element_type: dark_red_dot<br>lat: 48.9935679<br>lon: 37.3530992]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[25.07 - російські обстріли:
+            <value><![CDATA[27-28.07 - російські штурми - "...у напрямках Довгеньке - Мазанівка та Пасіка - Долина ... успіху не мали, відступили з втратами":
+https://censor.net/ua/n3357013
+-----
+25.07 - російські обстріли:
 https://censor.net/ua/n3356418
 -----
 15-16-17.07 - російські обстріли:
@@ -39493,11 +39519,14 @@ https://www.facebook.com/GeneralStaff.ua/posts/339176611728757
       </Placemark>
       <Placemark>
         <name>ДОНЕЦЬК</name>
-        <description><![CDATA[description: 10.07 - з ночі в окупованих Шахтарську, Зугресі, Харцизьку, Чистяковому та Донецьку лунають вибухи на складах боєприпасів:<br>https://censor.net/ua/n3353181<br>-----<br>8.07 - український удар по російській автоколоні в окупованому Донецьку убив, зокрема, двох найкращих пілотів-винищувачів армії рф:<br>https://focus.ua/uk/voennye-novosti/523450-rabotayut-himars-vsu-unichtozhili-dvou-luchshih-pilotov-iz-rossii-smi<br>8.07 - "Склади боєприпасів та пального загорілися на території заводу "Топаз" в окупованому Донецьку...":<br>https://censor.net/ua/v3352884<br>-----<br>6.07 - "В Донецьку, в мікрорайоні Азотний точним даром знищено тимчасову перевалочну базу БК і паливно-мастильних матеріалів, яку поспіх обладнали ... оскільки потрібно було рятувати і розпихувати по місту боєприпаси, по яким іще не прилетіло":<br>https://censor.net/ua/v3352455<br>-----<br>5.07 - в окупованому місті горить і детонує ще одна база російських окупантів:<br>https://censor.net/ua/video_news/3352212<br>-----<br>4.07 - горить тилова база окупантів, масштабні вибухи, пожежі та стовпи диму:<br>https://novynarnia.com/2022/07/04/u-tymchasovo-okupovanomu-4/<br>-----<br>20.06 - ще один вражений арсенал окупантів:<br>https://novynarnia.com/2022/06/20/doneczku-vybuhy-video/<br>-----<br>18.06 - ЗСУ знищили тут російський склад боєприпасів - "... "гриб" над військовою частиною бачить майже все місто (боєприпаси детонують досі)":<br>https://censor.net/ua/n3348689<br>-----<br>13.06 - окупанти знову обстрілюють місто - "Сьогодні по центру цілий день завдавали артударів. Причому самі жителі фіксують, що стріляють практично із самого Донецька ... Місцеві усі розуміють. Як і 2014 року, Донецьк обстрілюють самі росіяни. ЗСУ за всі роки війни таких ударів по центру Донецька ніколи не завдавали":<br>https://censor.net/ua/n3347755<br>-----<br>4.05 - росіяни обстріляли центр Донецька:<br>https://censor.net/ua/news/3346047/rosiyiski_viyiskovi_obstrilyaly_tsentr_donetska_dlya_kartynky_u_zmi_tspd<br><br>element_type: dark_red_dot<br>lat: 47.9873429<br>lon: 37.798611]]></description>
+        <description><![CDATA[description: 28.07 - "На складі боєприпасів та паливно-мастильних матеріалів у тимчасово окупованому Донецьку пролунали вибухи", після чого розпочалася пожежа, багато чорного диму:<br>https://censor.net/ua/n3357038<br>-----<br>10.07 - з ночі в окупованих Шахтарську, Зугресі, Харцизьку, Чистяковому та Донецьку лунають вибухи на складах боєприпасів:<br>https://censor.net/ua/n3353181<br>-----<br>8.07 - український удар по російській автоколоні в окупованому Донецьку убив, зокрема, двох найкращих пілотів-винищувачів армії рф:<br>https://focus.ua/uk/voennye-novosti/523450-rabotayut-himars-vsu-unichtozhili-dvou-luchshih-pilotov-iz-rossii-smi<br>8.07 - "Склади боєприпасів та пального загорілися на території заводу "Топаз" в окупованому Донецьку...":<br>https://censor.net/ua/v3352884<br>-----<br>6.07 - "В Донецьку, в мікрорайоні Азотний точним даром знищено тимчасову перевалочну базу БК і паливно-мастильних матеріалів, яку поспіх обладнали ... оскільки потрібно було рятувати і розпихувати по місту боєприпаси, по яким іще не прилетіло":<br>https://censor.net/ua/v3352455<br>-----<br>5.07 - в окупованому місті горить і детонує ще одна база російських окупантів:<br>https://censor.net/ua/video_news/3352212<br>-----<br>4.07 - горить тилова база окупантів, масштабні вибухи, пожежі та стовпи диму:<br>https://novynarnia.com/2022/07/04/u-tymchasovo-okupovanomu-4/<br>-----<br>20.06 - ще один вражений арсенал окупантів:<br>https://novynarnia.com/2022/06/20/doneczku-vybuhy-video/<br>-----<br>18.06 - ЗСУ знищили тут російський склад боєприпасів - "... "гриб" над військовою частиною бачить майже все місто (боєприпаси детонують досі)":<br>https://censor.net/ua/n3348689<br>-----<br>13.06 - окупанти знову обстрілюють місто - "Сьогодні по центру цілий день завдавали артударів. Причому самі жителі фіксують, що стріляють практично із самого Донецька ... Місцеві усі розуміють. Як і 2014 року, Донецьк обстрілюють самі росіяни. ЗСУ за всі роки війни таких ударів по центру Донецька ніколи не завдавали":<br>https://censor.net/ua/n3347755<br>-----<br>4.05 - росіяни обстріляли центр Донецька:<br>https://censor.net/ua/news/3346047/rosiyiski_viyiskovi_obstrilyaly_tsentr_donetska_dlya_kartynky_u_zmi_tspd<br><br>element_type: dark_red_dot<br>lat: 47.9873429<br>lon: 37.798611]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[10.07 - з ночі в окупованих Шахтарську, Зугресі, Харцизьку, Чистяковому та Донецьку лунають вибухи на складах боєприпасів:
+            <value><![CDATA[28.07 - "На складі боєприпасів та паливно-мастильних матеріалів у тимчасово окупованому Донецьку пролунали вибухи", після чого розпочалася пожежа, багато чорного диму:
+https://censor.net/ua/n3357038
+-----
+10.07 - з ночі в окупованих Шахтарську, Зугресі, Харцизьку, Чистяковому та Донецьку лунають вибухи на складах боєприпасів:
 https://censor.net/ua/n3353181
 -----
 8.07 - український удар по російській автоколоні в окупованому Донецьку убив, зокрема, двох найкращих пілотів-винищувачів армії рф:
@@ -39693,11 +39722,14 @@ https://texty.org.ua/fragments/106808
       </Placemark>
       <Placemark>
         <name>Вершина</name>
-        <description><![CDATA[description: 25.07 - російський штурм "...у напрямку Вершина – Луганське завершився провалом та відходом назад":<br>https://censor.net/ua/n3356236<br>-----<br>21.07, вечір - російські штурми - "...на напрямках Клинове – Вершина, Миронівка – Вуглегірська ТЕС знову провалилися":<br>https://censor.net/ua/n3355666<br>21.07, ранок - російські обстріли й авіаудари:<br>https://censor.net/ua/n3355486<br>-----<br>19.07 - російський наступ у напрямку села ("...успіху не мав"), авіаудари та обстріли:<br>https://censor.net/ua/n3355203<br>-----<br>17.07 - російські обстріли:<br>https://censor.net/ua/n3354686<br>-----<br>16.07 - російський штурм - "...у напрямку Роти – Вершина" відбито. Противник відійшов:<br>https://censor.net/ua/n3354449<br>-----<br>15.07 - російські обстріли й наступ - "ворог намагався покращити тактичне положення на напрямках Миколаївка – Спірне, Миронівка – Вуглегірська ТЕС та Відродження – Вершина. Окупанти зазнали втрат та відкотилися...":<br>https://censor.net/ua/n3354397<br>-----<br>14.07 - російські обстріли; штурм "в напрямку Кодеми та Вершини" відбито:<br>https://censor.net/ua/news/3354012/<br>-----<br>13.07 - російські обстріли, авіаудар і наступ - "...в напрямках Веселої Долини, Яковлівки та Вершини, який [наступ] наші воїни влучним вогнем звели нанівець. Окупанти з втратами відійшли":<br>https://censor.net/ua/news/3353964/<br>-----<br>12.07 - російські обстріли й авіаудари:<br>https://censor.net/ua/news/3353717/<br>https://censor.net/ua/news/3353554/<br>-----<br>11.07 - російські обстріли:<br>https://censor.net/ua/news/3353483/<br>-----<br>10.07 - російські обстріли:<br>https://youtu.be/7NCz3G7B7Ws<br>-----<br>8.07 - російські обстріли й авіаудари:<br>https://censor.net/ua/news/3352821/<br>-----<br>7.07 - російський наступ - "...українські воїни завдали ворогу втрат, коли той намагався покращити тактичне положення неподалік Вершини та Берестового. Противник у паніці відійшов":<br>https://censor.net/ua/n3352759<br>-----<br>5.07 - "За підтримки артилерії та оперативно-тактичної авіації окупанти вели штурмові дії у районах н.п. Спірне та Вершина, бої тривають":<br>https://censor.net/ua/n3352294<br>-----<br>4.07 - російські обстріли та авіаудар:<br>https://censor.net/ua/news/3351634/<br>-----<br>2.07 - російські обстріли та авіаудари:<br>https://censor.net/ua/news/3351613/<br>-----<br>1.07 - російські обстріли:<br>https://www.pravda.com.ua/news/2022/07/1/7355863/<br>-----<br>28.06 - російські обстріли:<br>https://censor.net/ua/news/3350842<br>-----<br>27.06 - російський наступ - "Ворог має частковий успіх на напрямку Роти – Вершина, намагається закріпитися на перехресті автотраси Е-40":<br>https://www.pravda.com.ua/news/2022/06/27/7355013/<br>-----<br>25.06 - російський наступ - "У напрямку Роти – Вершина ворог просунувся на один кілометр": https://censor.net/ua/n3350083<br>-----<br>21.06 - російський наступ:<br>https://www.facebook.com/GeneralStaff.ua/posts/344672697845815<br>-----<br>14.06 - російський штурм "у напрямку Відродження - Вершина":<br>https://censor.net/ua/n3347772<br><br>element_type: dark_red_dot<br>lat: 48.5155838<br>lon: 38.1338762]]></description>
+        <description><![CDATA[description: 28.07 - успішний російський наступ - "На напрямку Відродження – Вершина противник має частковий успіх, закріплюється південно-східніше населеного пункту Вершина":<br>https://censor.net/ua/n3357010<br>-----<br>25.07 - російський штурм "...у напрямку Вершина – Луганське завершився провалом та відходом назад":<br>https://censor.net/ua/n3356236<br>-----<br>21.07, вечір - російські штурми - "...на напрямках Клинове – Вершина, Миронівка – Вуглегірська ТЕС знову провалилися":<br>https://censor.net/ua/n3355666<br>21.07, ранок - російські обстріли й авіаудари:<br>https://censor.net/ua/n3355486<br>-----<br>19.07 - російський наступ у напрямку села ("...успіху не мав"), авіаудари та обстріли:<br>https://censor.net/ua/n3355203<br>-----<br>17.07 - російські обстріли:<br>https://censor.net/ua/n3354686<br>-----<br>16.07 - російський штурм - "...у напрямку Роти – Вершина" відбито. Противник відійшов:<br>https://censor.net/ua/n3354449<br>-----<br>15.07 - російські обстріли й наступ - "ворог намагався покращити тактичне положення на напрямках Миколаївка – Спірне, Миронівка – Вуглегірська ТЕС та Відродження – Вершина. Окупанти зазнали втрат та відкотилися...":<br>https://censor.net/ua/n3354397<br>-----<br>14.07 - російські обстріли; штурм "в напрямку Кодеми та Вершини" відбито:<br>https://censor.net/ua/news/3354012/<br>-----<br>13.07 - російські обстріли, авіаудар і наступ - "...в напрямках Веселої Долини, Яковлівки та Вершини, який [наступ] наші воїни влучним вогнем звели нанівець. Окупанти з втратами відійшли":<br>https://censor.net/ua/news/3353964/<br>-----<br>12.07 - російські обстріли й авіаудари:<br>https://censor.net/ua/news/3353717/<br>https://censor.net/ua/news/3353554/<br>-----<br>11.07 - російські обстріли:<br>https://censor.net/ua/news/3353483/<br>-----<br>10.07 - російські обстріли:<br>https://youtu.be/7NCz3G7B7Ws<br>-----<br>8.07 - російські обстріли й авіаудари:<br>https://censor.net/ua/news/3352821/<br>-----<br>7.07 - російський наступ - "...українські воїни завдали ворогу втрат, коли той намагався покращити тактичне положення неподалік Вершини та Берестового. Противник у паніці відійшов":<br>https://censor.net/ua/n3352759<br>-----<br>5.07 - "За підтримки артилерії та оперативно-тактичної авіації окупанти вели штурмові дії у районах н.п. Спірне та Вершина, бої тривають":<br>https://censor.net/ua/n3352294<br>-----<br>4.07 - російські обстріли та авіаудар:<br>https://censor.net/ua/news/3351634/<br>-----<br>2.07 - російські обстріли та авіаудари:<br>https://censor.net/ua/news/3351613/<br>-----<br>1.07 - російські обстріли:<br>https://www.pravda.com.ua/news/2022/07/1/7355863/<br>-----<br>28.06 - російські обстріли:<br>https://censor.net/ua/news/3350842<br>-----<br>27.06 - російський наступ - "Ворог має частковий успіх на напрямку Роти – Вершина, намагається закріпитися на перехресті автотраси Е-40":<br>https://www.pravda.com.ua/news/2022/06/27/7355013/<br>-----<br>25.06 - російський наступ - "У напрямку Роти – Вершина ворог просунувся на один кілометр": https://censor.net/ua/n3350083<br>-----<br>21.06 - російський наступ:<br>https://www.facebook.com/GeneralStaff.ua/posts/344672697845815<br>-----<br>14.06 - російський штурм "у напрямку Відродження - Вершина":<br>https://censor.net/ua/n3347772<br><br>element_type: dark_red_dot<br>lat: 48.5159249<br>lon: 38.1273531]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[25.07 - російський штурм "...у напрямку Вершина – Луганське завершився провалом та відходом назад":
+            <value><![CDATA[28.07 - успішний російський наступ - "На напрямку Відродження – Вершина противник має частковий успіх, закріплюється південно-східніше населеного пункту Вершина":
+https://censor.net/ua/n3357010
+-----
+25.07 - російський штурм "...у напрямку Вершина – Луганське завершився провалом та відходом назад":
 https://censor.net/ua/n3356236
 -----
 21.07, вечір - російські штурми - "...на напрямках Клинове – Вершина, Миронівка – Вуглегірська ТЕС знову провалилися":
@@ -39770,15 +39802,15 @@ https://censor.net/ua/n3347772
             <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
-            <value>48.5155838</value>
+            <value>48.5159249</value>
           </Data>
           <Data name="lon">
-            <value>38.1338762</value>
+            <value>38.1273531</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            38.1338762,48.5155838,0
+            38.1273531,48.5159249,0
           </coordinates>
         </Point>
       </Placemark>
@@ -43402,11 +43434,14 @@ https://novynarnia.com/2022/06/30/rosiyany-zavdaly-udaru-3/
       </Placemark>
       <Placemark>
         <name>Немишлянський район (ХАРКІВ)</name>
-        <description><![CDATA[description: 14.07 - російські ракетні удари<br>https://censor.net/ua/news/3354039/<br>-----<br>12.07 - російські обстріли:<br>https://censor.net/ua/news/3353798/<br>-----<br>7.07 - російські обстріли ВБИЛИ ТРЬОХ людей, п'ятьох поранили:<br>https://censor.net/ua/photo_news/3352771/<br>-----<br>2.07, ОВА - "близько 4 ранку окупанти підступно вдарили ракетами по Немишлянському району...": <br>https://censor.net/ua/n3351633<br>-----<br>30.06 - російські обстріли:<br>https://novynarnia.com/2022/06/30/rosiyany-zavdaly-udaru-3/<br>-----<br>22.06 - російські обстріли:<br>https://censor.net/ua/news/3349462/<br><br>element_type: grey_dot<br>lat: 49.9580962<br>lon: 36.3413251]]></description>
-        <styleUrl>#icon-ci-5</styleUrl>
+        <description><![CDATA[description: 28.07 - російські ракетні удари:<br>https://censor.net/ua/news/3357013/<br>-----<br>14.07 - російські ракетні удари<br>https://censor.net/ua/news/3354039/<br>-----<br>12.07 - російські обстріли:<br>https://censor.net/ua/news/3353798/<br>-----<br>7.07 - російські обстріли ВБИЛИ ТРЬОХ людей, п'ятьох поранили:<br>https://censor.net/ua/photo_news/3352771/<br>-----<br>2.07, ОВА - "близько 4 ранку окупанти підступно вдарили ракетами по Немишлянському району...": <br>https://censor.net/ua/n3351633<br>-----<br>30.06 - російські обстріли:<br>https://novynarnia.com/2022/06/30/rosiyany-zavdaly-udaru-3/<br>-----<br>22.06 - російські обстріли:<br>https://censor.net/ua/news/3349462/<br><br>element_type: dark_red_dot<br>lat: 49.9580962<br>lon: 36.3413251]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[14.07 - російські ракетні удари
+            <value><![CDATA[28.07 - російські ракетні удари:
+https://censor.net/ua/news/3357013/
+-----
+14.07 - російські ракетні удари
 https://censor.net/ua/news/3354039/
 -----
 12.07 - російські обстріли:
@@ -43426,7 +43461,7 @@ https://censor.net/ua/news/3349462/
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>grey_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>49.9580962</value>
@@ -46538,13 +46573,16 @@ https://novynarnia.com/2022/07/04/u-rostovskij-oblasti-bezpilotnyk/
         </Point>
       </Placemark>
       <Placemark>
-        <name><![CDATA[Авіабаза окупантів "ЗЯБРAЎКА" (тут розміщуються "Іскандери" та С-400 росіян)]]></name>
-        <description><![CDATA[description: 7.07 - Білорусь передала аеродром “Зябрівка” під повний контроль російських окупантів. Зараз там тривають заходи щодо облаштування російської військової бази.<br>На території аеродрому перебувають ракетний дивізіон оперативно-тактичного ракетного комплексу “Іскандер-М” та дивізіон С-400 “Тріумф” зс рф:<br>https://novynarnia.com/2022/07/08/bilorus-peredala-pid-kontrol-rosiyi-aerodrom-zyabrivka/<br><br>element_type: red_dot<br>lat: 52.312354<br>lon: 31.1674736]]></description>
+        <name><![CDATA[Авіабаза окупантів "ЗЯБРAЎКА" (тут розміщуються російські ОТРК "Іскандер" й ЗРК С-300 та С-400)]]></name>
+        <description><![CDATA[description: 28.07, на світанку - саме звідси росіяни завдали (найімовірніше, за допомогою ЗРК С-300) ракетних ударів по Чернігівщині  - в тому числі й по позиціях ЗСУ в Гончарівському:<br>https://focus.ua/uk/voennye-novosti/523612-vs-rf-ispolzovali-zrk-s-300-dlya-segodnyashnego-obstrela-ukrainy-iz-zaabrovki-stratkom-karta<br>-----<br>7.07 - Білорусь передала аеродром “Зябрівка” під повний контроль російських окупантів. Зараз там тривають заходи щодо облаштування російської військової бази.<br>На території аеродрому перебувають ракетний дивізіон оперативно-тактичного ракетного комплексу “Іскандер-М” і дивізіон зенітно-ракетного комплексу С-400 “Тріумф” зс рф:<br>https://novynarnia.com/2022/07/08/bilorus-peredala-pid-kontrol-rosiyi-aerodrom-zyabrivka/<br><br>element_type: red_dot<br>lat: 52.312354<br>lon: 31.1674736]]></description>
         <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>7.07 - Білорусь передала аеродром “Зябрівка” під повний контроль російських окупантів. Зараз там тривають заходи щодо облаштування російської військової бази.
-На території аеродрому перебувають ракетний дивізіон оперативно-тактичного ракетного комплексу “Іскандер-М” та дивізіон С-400 “Тріумф” зс рф:
+            <value>28.07, на світанку - саме звідси росіяни завдали (найімовірніше, за допомогою ЗРК С-300) ракетних ударів по Чернігівщині  - в тому числі й по позиціях ЗСУ в Гончарівському:
+https://focus.ua/uk/voennye-novosti/523612-vs-rf-ispolzovali-zrk-s-300-dlya-segodnyashnego-obstrela-ukrainy-iz-zaabrovki-stratkom-karta
+-----
+7.07 - Білорусь передала аеродром “Зябрівка” під повний контроль російських окупантів. Зараз там тривають заходи щодо облаштування російської військової бази.
+На території аеродрому перебувають ракетний дивізіон оперативно-тактичного ракетного комплексу “Іскандер-М” і дивізіон зенітно-ракетного комплексу С-400 “Тріумф” зс рф:
 https://novynarnia.com/2022/07/08/bilorus-peredala-pid-kontrol-rosiyi-aerodrom-zyabrivka/
 </value>
           </Data>
@@ -48219,12 +48257,15 @@ https://censor.net/ua/photo_news/3352774/
       </Placemark>
       <Placemark>
         <name><![CDATA[Долина (цікавий історичний факт - під цим селом захлинувся аналогічний за планом наступ Червоної армії в липні 1943 року - див. "Ізюм-Барвенківська наступальна операція")]]></name>
-        <description><![CDATA[description: УВАГА! Це - ПРОДОВЖЕННЯ даних по Долині. Попередню (до 8 липня) ХРОНОЛОГІЮ бойових дій у районі села - ДИВІТЬСЯ поруч на карті сіру точку "ДОЛИНА (АРХІВ)"<br>-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- <br>25.07 - російські обстріли:<br>https://censor.net/ua/n3356418<br>-----<br>21.07 - російські обстріли:<br>https://censor.net/ua/news/3355666/<br>-----<br>19.07 - російські обстріли:<br>https://censor.net/ua/n3355203<br>-----<br>16-17.07 - російські обстріли:<br>https://censor.net/ua/news/3354559/<br>https://censor.net/ua/n3354686<br>-----<br>13.07, вечір - російські обстріли, штурм - "...у напрямках Іванівки та Долина наші захисники успішно відбили та відігнали окупантів назад":<br>https://censor.net/ua/n3353964<br>13.07, ранок - російський штурм "в напрямку н.п. Довгеньке і Долина" відбито:<br>https://censor.net/ua/n3353768<br>-----<br>10.07, вечір - російські обстріли:<br>https://censor.net/ua/news/3353256/<br>10.07, ранок - російська розвідка боєм:<br>https://censor.net/ua/news/3353174/<br>-----<br>9.07 - російський штурм з боку Пасіки відбито: https://censor.net/ua/n3353120<br>                        <br>                             * * *<br><br>element_type: dark_red_dot<br>lat: 49.0015647<br>lon: 37.4291845]]></description>
+        <description><![CDATA[description: УВАГА! Це - ПРОДОВЖЕННЯ даних по Долині. Попередню (до 8 липня) ХРОНОЛОГІЮ бойових дій у районі села - ДИВІТЬСЯ поруч на карті сіру точку "ДОЛИНА (АРХІВ)"<br>-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- <br>27-28.07 - російські штурми - "...у напрямках Довгеньке - Мазанівка та Пасіка - Долина ... успіху не мали, відступили з втратами":<br>https://censor.net/ua/n3357013<br>-----<br>25.07 - російські обстріли:<br>https://censor.net/ua/n3356418<br>-----<br>21.07 - російські обстріли:<br>https://censor.net/ua/news/3355666/<br>-----<br>19.07 - російські обстріли:<br>https://censor.net/ua/n3355203<br>-----<br>16-17.07 - російські обстріли:<br>https://censor.net/ua/news/3354559/<br>https://censor.net/ua/n3354686<br>-----<br>13.07, вечір - російські обстріли, штурм - "...у напрямках Іванівки та Долина наші захисники успішно відбили та відігнали окупантів назад":<br>https://censor.net/ua/n3353964<br>13.07, ранок - російський штурм "в напрямку н.п. Довгеньке і Долина" відбито:<br>https://censor.net/ua/n3353768<br>-----<br>10.07, вечір - російські обстріли:<br>https://censor.net/ua/news/3353256/<br>10.07, ранок - російська розвідка боєм:<br>https://censor.net/ua/news/3353174/<br>-----<br>9.07 - російський штурм з боку Пасіки відбито: https://censor.net/ua/n3353120<br>                        <br>                             * * *<br><br>element_type: dark_red_dot<br>lat: 49.0015647<br>lon: 37.4291845]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value><![CDATA[УВАГА! Це - ПРОДОВЖЕННЯ даних по Долині. Попередню (до 8 липня) ХРОНОЛОГІЮ бойових дій у районі села - ДИВІТЬСЯ поруч на карті сіру точку "ДОЛИНА (АРХІВ)"
 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+27-28.07 - російські штурми - "...у напрямках Довгеньке - Мазанівка та Пасіка - Долина ... успіху не мали, відступили з втратами":
+https://censor.net/ua/n3357013
+-----
 25.07 - російські обстріли:
 https://censor.net/ua/n3356418
 -----
@@ -48787,13 +48828,16 @@ https://novynarnia.com/2022/07/13/rosiyany-zrujnuvaly-zavod-zeus/
       </Placemark>
       <Placemark>
         <name>Довгеньке (окупанти понад місяць брехали Москві, що захопили село, а тепер [середина липня] ще понад місяць воюють за його околиці)</name>
-        <description><![CDATA[description: УВАГА! Це - ПРОДОВЖЕННЯ даних по Довгенькому.<br>Попередню (до 29 червня) ХРОНОЛОГІЮ бойових дій у районі села ДИВІТЬСЯ поруч на карті - в сірій точці "ДОВГЕНЬКЕ (АРХІВ)"<br>-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --<br>13.07 - російські обстріли:<br>https://censor.net/ua/news/3353768/<br>-----<br>12.07, перехоплення ГУР - командир розвідроти окупантів розповідає про суворі реалії боїв під селом, порівнює роботу в районі Довгенького гелікоптерів та арти (спойлер: на користь ЗСУ):<br>https://censor.net/ua/video_news/3353654<br>- - -<br>12.07 - російські штурми "з метою покращення тактичного положення поблизу Краснопілля, Довгенького, Мазанівки та Іванівки" відбито ... ЗСУ завдали окупантам значних втрат і змусили їх тікати":<br>https://censor.net/ua/n3353717<br>-----<br>1.07 - російські обстріли:<br>https://www.pravda.com.ua/news/2022/07/1/7355863/<br>                          * * *<br><br>element_type: red_dot<br>lat: 49.0102102<br>lon: 37.3241669]]></description>
+        <description><![CDATA[description: УВАГА! Це - ПРОДОВЖЕННЯ даних по Довгенькому.<br>Попередню (до 29 червня) ХРОНОЛОГІЮ бойових дій у районі села ДИВІТЬСЯ поруч на карті - в сірій точці "ДОВГЕНЬКЕ (АРХІВ)"<br>-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --<br>27-28.07 - російський штурм "у напрямку Довгеньке - Мазанівка" відбито:<br>https://censor.net/ua/n3357013<br>-----<br>13.07 - російські обстріли:<br>https://censor.net/ua/news/3353768/<br>-----<br>12.07, перехоплення ГУР - командир розвідроти окупантів розповідає про суворі реалії боїв під селом, порівнює роботу в районі Довгенького гелікоптерів та арти (спойлер: на користь ЗСУ):<br>https://censor.net/ua/video_news/3353654<br>- - -<br>12.07 - російські штурми "з метою покращення тактичного положення поблизу Краснопілля, Довгенького, Мазанівки та Іванівки" відбито ... ЗСУ завдали окупантам значних втрат і змусили їх тікати":<br>https://censor.net/ua/n3353717<br>-----<br>1.07 - російські обстріли:<br>https://www.pravda.com.ua/news/2022/07/1/7355863/<br>                          * * *<br><br>element_type: red_dot<br>lat: 49.0102102<br>lon: 37.3241669]]></description>
         <styleUrl>#icon-ci-1</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value><![CDATA[УВАГА! Це - ПРОДОВЖЕННЯ даних по Довгенькому.
 Попередню (до 29 червня) ХРОНОЛОГІЮ бойових дій у районі села ДИВІТЬСЯ поруч на карті - в сірій точці "ДОВГЕНЬКЕ (АРХІВ)"
 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+27-28.07 - російський штурм "у напрямку Довгеньке - Мазанівка" відбито:
+https://censor.net/ua/n3357013
+-----
 13.07 - російські обстріли:
 https://censor.net/ua/news/3353768/
 -----
@@ -51154,11 +51198,14 @@ https://defence-ua.com/army_and_war/zsu_zavershujut_vogneve_vidrizannja_armiji_r
       </Placemark>
       <Placemark>
         <name>Київський район (ХАРКІВ)</name>
-        <description><![CDATA[description: 21.07, близько 9:00 - російські обстріли (РСЗВ "Ураган") ВБИЛИ ТРЬОХ людей на зупинці громадського транспорту біля ринку, ще 20 поранили:<br>https://t.me/prokuratura_kharkiv/5042<br>-----<br>17.07, затемна - російський ракетний удар:<br>https://censor.net/ua/photo_news/3354645/<br>-----<br>16.07, близько 3:00 - російський ракетний удар (2 ракети) поранив 59-річну жінку:<br>https://censor.net/ua/news/3354614/<br>-----<br>11.07 - російський обстріл УБИВ ЛЮДИНУ, вісьмох поранив:<br>https://censor.net/ua/photo_news/3353392/<br>-----<br>6.07 - російські ракетні удари:<br>https://censor.net/ua/photo_news/3352378/<br><br>element_type: dark_red_dot<br>lat: 50.0518074<br>lon: 36.2892088]]></description>
+        <description><![CDATA[description: 28.07 - російські ракетні удари:<br>https://censor.net/ua/news/3357013/<br>-----<br>21.07, близько 9:00 - російські обстріли (РСЗВ "Ураган") ВБИЛИ ТРЬОХ людей на зупинці громадського транспорту біля ринку, ще 20 поранили:<br>https://t.me/prokuratura_kharkiv/5042<br>-----<br>17.07, затемна - російський ракетний удар:<br>https://censor.net/ua/photo_news/3354645/<br>-----<br>16.07, близько 3:00 - російський ракетний удар (2 ракети) поранив 59-річну жінку:<br>https://censor.net/ua/news/3354614/<br>-----<br>11.07 - російський обстріл УБИВ ЛЮДИНУ, вісьмох поранив:<br>https://censor.net/ua/photo_news/3353392/<br>-----<br>6.07 - російські ракетні удари:<br>https://censor.net/ua/photo_news/3352378/<br><br>element_type: dark_red_dot<br>lat: 50.0518074<br>lon: 36.2892088]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[21.07, близько 9:00 - російські обстріли (РСЗВ "Ураган") ВБИЛИ ТРЬОХ людей на зупинці громадського транспорту біля ринку, ще 20 поранили:
+            <value><![CDATA[28.07 - російські ракетні удари:
+https://censor.net/ua/news/3357013/
+-----
+21.07, близько 9:00 - російські обстріли (РСЗВ "Ураган") ВБИЛИ ТРЬОХ людей на зупинці громадського транспорту біля ринку, ще 20 поранили:
 https://t.me/prokuratura_kharkiv/5042
 -----
 17.07, затемна - російський ракетний удар:
@@ -51492,6 +51539,34 @@ https://amp.censor.net/ua/news/3356267/
         <Point>
           <coordinates>
             38.928136,48.1350778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>28 липня - російський ракетний удар по військовій частині у Лютіжі</name>
+        <description><![CDATA[description: 28.07, близько 5:00 - "...противник завдав ракетного удару шістьма крилатими ракетами "Калібр" по військовій частині в населеному пункті Лютіж Київської області. Наразі є інформація, що одна будівля зруйнована і дві будівлі пошкоджено. Крім того, одну крилату ракету було збито в повітрі над Бучанським кар'єром". <br>"Калібри" були запущені з акваторії Чорного моря, з району мису Фіолент в окупованому Криму":<br>https://censor.net/ua/n3357064<br>- - -<br>У Лютіжі розташована одна з військових частин Головного управління розвідки Міноборони.<br>element_type: red_fire<br>lat: 50.6729024<br>lon: 30.4023247]]></description>
+        <styleUrl>#icon-ci-7</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[28.07, близько 5:00 - "...противник завдав ракетного удару шістьма крилатими ракетами "Калібр" по військовій частині в населеному пункті Лютіж Київської області. Наразі є інформація, що одна будівля зруйнована і дві будівлі пошкоджено. Крім того, одну крилату ракету було збито в повітрі над Бучанським кар'єром". 
+"Калібри" були запущені з акваторії Чорного моря, з району мису Фіолент в окупованому Криму":
+https://censor.net/ua/n3357064
+- - -
+У Лютіжі розташована одна з військових частин Головного управління розвідки Міноборони.]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>red_fire</value>
+          </Data>
+          <Data name="lat">
+            <value>50.6729024</value>
+          </Data>
+          <Data name="lon">
+            <value>30.4023247</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.4023247,50.6729024,0
           </coordinates>
         </Point>
       </Placemark>
@@ -54348,12 +54423,14 @@ https://amp.censor.net/ua/news/3356267/
                 38.1425016,48.5724071,0
                 38.1463915,48.5597178,0
                 38.1528396,48.5440047,0
-                38.1539933,48.5349767,0
-                38.1553293,48.5227707,0
-                38.1553005,48.5146425,0
-                38.1650876,48.5066411,0
-                38.206939,48.4939953,0
-                38.2186959,48.4897653,0
+                38.1563966,48.5302024,0
+                38.1556726,48.5211789,0
+                38.149464,48.5110035,0
+                38.1451749,48.5039115,0
+                38.1461881,48.4977022,0
+                38.1544106,48.4939953,0
+                38.170588,48.491996,0
+                38.1946633,48.4927232,0
                 38.2305268,48.4813243,0
                 38.2450977,48.4711903,0
                 38.2515466,48.4577273,0
@@ -54480,12 +54557,15 @@ https://amp.censor.net/ua/news/3356267/
                 38.2177801,48.462512,0
                 38.2153565,48.4676929,0
                 38.2085548,48.4728169,0
-                38.1923818,48.4751277,0
-                38.1844527,48.4739423,0
-                38.1730521,48.4701736,0
-                38.1630651,48.4587108,0
-                38.1548142,48.4474796,0
-                38.1407314,48.4413598,0
+                38.1984758,48.4730223,0
+                38.1864268,48.4726335,0
+                38.1763137,48.468694,0
+                38.1714485,48.4617102,0
+                38.1698457,48.4555232,0
+                38.1684048,48.4512353,0
+                38.1626727,48.4463779,0
+                38.155415,48.4440066,0
+                38.1399589,48.4428402,0
                 38.1276734,48.4385686,0
                 38.1230532,48.4315958,0
                 38.123202,48.425722,0
