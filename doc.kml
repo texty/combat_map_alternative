@@ -21120,11 +21120,14 @@ https://censor.net/ua/p3334872
       </Placemark>
       <Placemark>
         <name>ЗАЙЦЕВЕ (селище)</name>
-        <description><![CDATA[description: 30.07, вечір - російські обстріли:<br>https://censor.net/ua/n3357551<br>30.07, ранок - "...тривають бойові дії":<br>https://censor.net/ua/news/3357447/<br>-----<br>28-29.07 - російські обстріли:<br>https://censor.net/ua/news/3357170/<br>https://censor.net/ua/news/3357389/<br>-----<br>25.07 - російські обстріли:<br>https://censor.net/ua/n3356418<br>-----<br>21.07 - російські обстріли:<br>https://censor.net/ua/n3355486<br>-----<br>16.07 - російські обстріли:<br>https://censor.net/ua/news/3354605/<br>-----<br>13.07 - російські обстріли:<br>https://censor.net/ua/news/3353964/<br>-----<br>11.07 - російські обстріли:<br>https://censor.net/ua/photo_news/3353335/<br>-----<br>8.07 - російські обстріли:<br>https://censor.net/ua/news/3352821/<br>-----<br>5.07 - російські обстріли:<br>https://censor.net/ua/news/3352294/<br>-----<br>1.07 - російські обстріли:<br>https://www.pravda.com.ua/news/2022/07/1/7355863/<br>-----<br>28.06 - російські обстріли:<br>https://censor.net/ua/news/3350842<br>-----<br>20.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/343975544582197<br>-----<br>18.06 - російські обстріли ВБИЛИ людину - "За 19 червня росіяни вбили 2 мирних жителів Донеччини: у Максимільянівці та Зайцевому. Ще 12 людей [в інших населених пунктах області] одержали поранення"<br>https://censor.net/ua/n3348899<br>-----<br>5.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/333318498981235<br>===<br>13.05, Нацполіція - "Упродовж минулої доби російські війська вдарили по таких населених пунктах - Маріуполь, Авдіївка, Світлодарськ, Святогірськ, Красногорівка, Торецьк, Соледар, Лиман, Білозерське, Ярове, Черкаське, Нью-Йорк, Новоселівка-3, Зайцеве, Цукурине, Восход, Дробишеве, Желанне, Званівка, Переїзне, Соснове, Федорівка": https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br><br>element_type: dark_red_dot<br>lat: 48.4286783<br>lon: 38.0198676]]></description>
+        <description><![CDATA[description: 9.08 - російські авіаудари:<br>https://censor.net/ua/n3359637/<br>-----<br>30.07, вечір - російські обстріли:<br>https://censor.net/ua/n3357551<br>30.07, ранок - "...тривають бойові дії":<br>https://censor.net/ua/news/3357447/<br>-----<br>28-29.07 - російські обстріли:<br>https://censor.net/ua/news/3357170/<br>https://censor.net/ua/news/3357389/<br>-----<br>25.07 - російські обстріли:<br>https://censor.net/ua/n3356418<br>-----<br>21.07 - російські обстріли:<br>https://censor.net/ua/n3355486<br>-----<br>16.07 - російські обстріли:<br>https://censor.net/ua/news/3354605/<br>-----<br>13.07 - російські обстріли:<br>https://censor.net/ua/news/3353964/<br>-----<br>11.07 - російські обстріли:<br>https://censor.net/ua/photo_news/3353335/<br>-----<br>8.07 - російські обстріли:<br>https://censor.net/ua/news/3352821/<br>-----<br>5.07 - російські обстріли:<br>https://censor.net/ua/news/3352294/<br>-----<br>1.07 - російські обстріли:<br>https://www.pravda.com.ua/news/2022/07/1/7355863/<br>-----<br>28.06 - російські обстріли:<br>https://censor.net/ua/news/3350842<br>-----<br>20.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/343975544582197<br>-----<br>18.06 - російські обстріли ВБИЛИ людину - "За 19 червня росіяни вбили 2 мирних жителів Донеччини: у Максимільянівці та Зайцевому. Ще 12 людей [в інших населених пунктах області] одержали поранення"<br>https://censor.net/ua/n3348899<br>-----<br>5.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/333318498981235<br>===<br>13.05, Нацполіція - "Упродовж минулої доби російські війська вдарили по таких населених пунктах - Маріуполь, Авдіївка, Світлодарськ, Святогірськ, Красногорівка, Торецьк, Соледар, Лиман, Білозерське, Ярове, Черкаське, Нью-Йорк, Новоселівка-3, Зайцеве, Цукурине, Восход, Дробишеве, Желанне, Званівка, Переїзне, Соснове, Федорівка": https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br><br>element_type: dark_red_dot<br>lat: 48.4286783<br>lon: 38.0198676]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[30.07, вечір - російські обстріли:
+            <value><![CDATA[9.08 - російські авіаудари:
+https://censor.net/ua/n3359637/
+-----
+30.07, вечір - російські обстріли:
 https://censor.net/ua/n3357551
 30.07, ранок - "...тривають бойові дії":
 https://censor.net/ua/news/3357447/
@@ -21665,11 +21668,14 @@ https://www.radiosvoboda.org/a/news-rosiiski-viiska-nastup-na-iziumskyi-napriamo
       </Placemark>
       <Placemark>
         <name>ТОРЕЦЬК</name>
-        <description><![CDATA[description: 6.08 - російські обстріли:<br>https://censor.net/ua/n3358912<br>-----<br>28.07 - російські обстріли:<br>https://censor.net/ua/news/3357170/<br>-----<br>27.07 - російські ракетні удаои:<br>https://t.me/pavlokyrylenko_donoda/4298<br>-----<br>26.07 - російські обстріли:<br>https://censor.net/ua/news/3356698/<br>-----<br>23.07 - російські обстріли ВБИЛИ ЛЮДИНУ:<br>https://censor.net/ua/photo_news/3356102/<br>-----<br>21-22.07 - російські обстріли:<br>https://censor.net/ua/n3355486<br>https://censor.net/ua/photo_news/3355989<br>-----<br>19.07 - російські авіаудари:<br>https://censor.net/ua/n3355203<br>-----<br>16-17.07 - російські обстріли та ракетний удар:<br>https://www.pravda.com.ua/news/2022/07/17/7358561/<br>-----<br>14.06 - російські обстріли:<br>https://censor.net/ua/photo_news/3354256/<br>-----<br>13.07 - російські обстріли й ракетно-авіаційні удари:<br>https://censor.net/ua/news/3353964/<br>https://censor.net/ua/news/3353768/<br>-----<br>11.07 - російські обстріли: https://censor.net/ua/photo_news/3353398/<br>-----<br>8.07 - російські обстріли:<br>https://censor.net/ua/news/3352821/<br>-----<br>6.07 - російський ракетний удар:<br>https://censor.net/ua/photo_news/3352418/<br>-----<br>27.06 - російські обстріли:<br>https://censor.net/ua/photo_news/3350415/<br>-----<br>12.06, Нацполіція - "Російські війська вдарили по населених пунктах – Торецьк, Сіверськ, Авдіївка, Птиче, Богоявленка, Орлівка, Нью-Йорк. Били з артилерії та реактивних систем залпового вогню "Ураган":<br>https://censor.net/ua/p3347452<br>-----<br>5.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/333318498981235<br>-----<br>4.06 - російські обстріли:<br>https://censor.net/ua/n3345958<br>-----<br>2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>===<br>13.05, Нацполіція - російські обстріли:<br>https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br>-----<br>У квітні місто обстрілювали регулярно.<br>-----<br>20.04, Нацполіція - російські обстріли:<br>"Упродовж минулої доби російські військові вдарили по таких населених пунктах Донеччини: Маріуполь, Авдіївка, Вугледар, Мар’їнка, Краматорськ, Новогродівка, Торецьк, Миколаївка, Благодатне, Орлівка, Рубці, Привілля"<br>https://novynarnia.com/2022/04/20/okupanty-obstrilyaly-12-mist/<br><br>element_type: dark_red_dot<br>lat: 48.3899662<br>lon: 37.8514302]]></description>
+        <description><![CDATA[description: 9.08 - російські обстріли:<br>https://censor.net/ua/n3359637/<br>-----<br>6.08 - російські обстріли:<br>https://censor.net/ua/n3358912<br>-----<br>28.07 - російські обстріли:<br>https://censor.net/ua/news/3357170/<br>-----<br>27.07 - російські ракетні удаои:<br>https://t.me/pavlokyrylenko_donoda/4298<br>-----<br>26.07 - російські обстріли:<br>https://censor.net/ua/news/3356698/<br>-----<br>23.07 - російські обстріли ВБИЛИ ЛЮДИНУ:<br>https://censor.net/ua/photo_news/3356102/<br>-----<br>21-22.07 - російські обстріли:<br>https://censor.net/ua/n3355486<br>https://censor.net/ua/photo_news/3355989<br>-----<br>19.07 - російські авіаудари:<br>https://censor.net/ua/n3355203<br>-----<br>16-17.07 - російські обстріли та ракетний удар:<br>https://www.pravda.com.ua/news/2022/07/17/7358561/<br>-----<br>14.06 - російські обстріли:<br>https://censor.net/ua/photo_news/3354256/<br>-----<br>13.07 - російські обстріли й ракетно-авіаційні удари:<br>https://censor.net/ua/news/3353964/<br>https://censor.net/ua/news/3353768/<br>-----<br>11.07 - російські обстріли: https://censor.net/ua/photo_news/3353398/<br>-----<br>8.07 - російські обстріли:<br>https://censor.net/ua/news/3352821/<br>-----<br>6.07 - російський ракетний удар:<br>https://censor.net/ua/photo_news/3352418/<br>-----<br>27.06 - російські обстріли:<br>https://censor.net/ua/photo_news/3350415/<br>-----<br>12.06, Нацполіція - "Російські війська вдарили по населених пунктах – Торецьк, Сіверськ, Авдіївка, Птиче, Богоявленка, Орлівка, Нью-Йорк. Били з артилерії та реактивних систем залпового вогню "Ураган":<br>https://censor.net/ua/p3347452<br>-----<br>5.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/333318498981235<br>-----<br>4.06 - російські обстріли:<br>https://censor.net/ua/n3345958<br>-----<br>2.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/330999902546428<br>===<br>13.05, Нацполіція - російські обстріли:<br>https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br>-----<br>У квітні місто обстрілювали регулярно.<br>-----<br>20.04, Нацполіція - російські обстріли:<br>"Упродовж минулої доби російські військові вдарили по таких населених пунктах Донеччини: Маріуполь, Авдіївка, Вугледар, Мар’їнка, Краматорськ, Новогродівка, Торецьк, Миколаївка, Благодатне, Орлівка, Рубці, Привілля"<br>https://novynarnia.com/2022/04/20/okupanty-obstrilyaly-12-mist/<br><br>element_type: dark_red_dot<br>lat: 48.3899662<br>lon: 37.8514302]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[6.08 - російські обстріли:
+            <value><![CDATA[9.08 - російські обстріли:
+https://censor.net/ua/n3359637/
+-----
+6.08 - російські обстріли:
 https://censor.net/ua/n3358912
 -----
 28.07 - російські обстріли:
@@ -29001,11 +29007,14 @@ https://www.facebook.com/GeneralStaff.ua/posts/325028756476876
       </Placemark>
       <Placemark>
         <name><![CDATA[Яковлівка (село на трасі "Бахмут-Сєвєродонецьк")]]></name>
-        <description><![CDATA[description: 8.08 - російський штурм відбито, російську розвідгрупу знешкоджено, авіаудари, обстріли:<br>https://censor.net/ua/n3359231/<br>-----<br>7.08 - російський штурм на напрямку Володимирівка – Яковлівка, обстріли:<br>https://censor.net/ua/n3359079<br>-----<br>6.08 - російський штурм "в напрямку Володимирівка – Яковлівка" відбито, авіаудари, обстріли: https://censor.net/ua/n3359032<br>-----<br>4.08 - російський наступ на напрямку Василівка – Яковлівка - "...успіху не мав і відійшов"; авіаудари:<br>https://censor.net/ua/n3358478<br>-----<br>2.08 - російський наступ - "...у напрямку Володимирівка – Яковлівка успішно відбито"; авіаудари й обстріли:<br>https://censor.net/ua/n3358169<br>-----<br>1.08 - російська розвідка - "...Окупанти виявлені і зазнали втрат. Залишки розвідгрупи втекли"; авіаудари:<br>https://censor.net/ua/n3357923<br>-----<br>31.07 - російський штурм - "...у районі Яковлівки провалився, окупанти відійшли":<br>https://censor.net/ua/n3357680<br>-----<br>30.07 - російські авіаудари, обстріли:<br>https://censor.net/ua/n3357551<br>-----<br>29.07 - російські обстріли:<br>https://censor.net/ua/news/3357218/<br>-----<br>28.07 - російський штурм у напрямку села - "...зазнав невдачі, підрозділи ворога з втратами відійшли"; авіаудари:<br>https://censor.net/ua/n3357170<br>-----<br>25.07 - російські обстріли:<br>https://censor.net/ua/n3356418<br>-----<br>22.07 - російські обстріли:<br>https://censor.net/ua/n3355720<br>-----<br>19-20.07 - російські обстріли:<br>https://censor.net/ua/n3355203<br>https://censor.net/ua/news/3355431/<br>-----<br>17.07 - російський штурм/наступ "поблизу" села - "Недолугі дії ворога знову завершились провалом та втратами":<br>https://censor.net/ua/n3354686<br>-----<br>14.07 - російські авіаудари:<br>https://censor.net/ua/n3354174<br>-----<br>13.07 - російський наступ "...в напрямках Веселої Долини, Яковлівки та Вершини наші воїни влучним вогнем звели нанівець. Окупанти з втратами відійшли":<br>https://censor.net/ua/news/3353964/<br>-----<br>12.07 - російські обстріли:<br>https://censor.net/ua/news/3353717/<br>-----<br>11.07 - російські авіаудари (Су-25):<br>https://censor.net/ua/news/3353483/<br>-----<br>7.07 - російські обстріли:<br>https://censor.net/ua/news/3352759/<br>-----<br>1.07 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/352410633738688<br>-----<br>28.06 - російські обстріли та авіаудари:<br>https://censor.net/ua/n3350653<br>-----<br>20.06 - російські обстріли та авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/343975544582197<br>-----<br>15.06, вечір - російський наступ - "Українські воїни завдали ворогу втрат під час його наступу на напрямках Василівка – Яковлівка та Василівка – Берестове. Окупанти відійшли":<br>https://censor.net/ua/n3348183<br>15.06, ранок - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/340232081623210<br>-----<br>8.06 - російські авіаудари (вертольотами Ка-52) та обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335130078800077<br>-----<br>4.06 - російські авіаудари (вертольоти Ка-52):<br>https://censor.net/ua/n3345958<br>-----<br>29.05 - російський авіаудар - "На Бахмутському напрямку ворог ... силами армійської авіації завдав авіаударів поблизу Яковлівки":<br>https://www.facebook.com/GeneralStaff.ua/posts/327663802880038<br>-----<br>25.05 - невдалий російський наступ - "На Бахмутському напрямку противник вів наступальні дії в районі Комишувахи, Яковлівки і Троїцького, успіху не мав, зазнав втрат":<br>https://www.facebook.com/GeneralStaff.ua/posts/324613886518363<br><br>element_type: dark_red_dot<br>lat: 48.7083276<br>lon: 38.1481951]]></description>
+        <description><![CDATA[description: 9.08 - російський наступ, розвідка боєм, авіаудари, обстріли:<br>https://censor.net/ua/n3359637/<br>-----<br>8.08 - російський штурм відбито, російську розвідгрупу знешкоджено, авіаудари, обстріли:<br>https://censor.net/ua/n3359231/<br>-----<br>7.08 - російський штурм на напрямку Володимирівка – Яковлівка, обстріли:<br>https://censor.net/ua/n3359079<br>-----<br>6.08 - російський штурм "в напрямку Володимирівка – Яковлівка" відбито, авіаудари, обстріли: https://censor.net/ua/n3359032<br>-----<br>4.08 - російський наступ на напрямку Василівка – Яковлівка - "...успіху не мав і відійшов"; авіаудари:<br>https://censor.net/ua/n3358478<br>-----<br>2.08 - російський наступ - "...у напрямку Володимирівка – Яковлівка успішно відбито"; авіаудари й обстріли:<br>https://censor.net/ua/n3358169<br>-----<br>1.08 - російська розвідка - "...Окупанти виявлені і зазнали втрат. Залишки розвідгрупи втекли"; авіаудари:<br>https://censor.net/ua/n3357923<br>-----<br>31.07 - російський штурм - "...у районі Яковлівки провалився, окупанти відійшли":<br>https://censor.net/ua/n3357680<br>-----<br>30.07 - російські авіаудари, обстріли:<br>https://censor.net/ua/n3357551<br>-----<br>29.07 - російські обстріли:<br>https://censor.net/ua/news/3357218/<br>-----<br>28.07 - російський штурм у напрямку села - "...зазнав невдачі, підрозділи ворога з втратами відійшли"; авіаудари:<br>https://censor.net/ua/n3357170<br>-----<br>25.07 - російські обстріли:<br>https://censor.net/ua/n3356418<br>-----<br>22.07 - російські обстріли:<br>https://censor.net/ua/n3355720<br>-----<br>19-20.07 - російські обстріли:<br>https://censor.net/ua/n3355203<br>https://censor.net/ua/news/3355431/<br>-----<br>17.07 - російський штурм/наступ "поблизу" села - "Недолугі дії ворога знову завершились провалом та втратами":<br>https://censor.net/ua/n3354686<br>-----<br>14.07 - російські авіаудари:<br>https://censor.net/ua/n3354174<br>-----<br>13.07 - російський наступ "...в напрямках Веселої Долини, Яковлівки та Вершини наші воїни влучним вогнем звели нанівець. Окупанти з втратами відійшли":<br>https://censor.net/ua/news/3353964/<br>-----<br>12.07 - російські обстріли:<br>https://censor.net/ua/news/3353717/<br>-----<br>11.07 - російські авіаудари (Су-25):<br>https://censor.net/ua/news/3353483/<br>-----<br>7.07 - російські обстріли:<br>https://censor.net/ua/news/3352759/<br>-----<br>1.07 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/352410633738688<br>-----<br>28.06 - російські обстріли та авіаудари:<br>https://censor.net/ua/n3350653<br>-----<br>20.06 - російські обстріли та авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/343975544582197<br>-----<br>15.06, вечір - російський наступ - "Українські воїни завдали ворогу втрат під час його наступу на напрямках Василівка – Яковлівка та Василівка – Берестове. Окупанти відійшли":<br>https://censor.net/ua/n3348183<br>15.06, ранок - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/340232081623210<br>-----<br>8.06 - російські авіаудари (вертольотами Ка-52) та обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335130078800077<br>-----<br>4.06 - російські авіаудари (вертольоти Ка-52):<br>https://censor.net/ua/n3345958<br>-----<br>29.05 - російський авіаудар - "На Бахмутському напрямку ворог ... силами армійської авіації завдав авіаударів поблизу Яковлівки":<br>https://www.facebook.com/GeneralStaff.ua/posts/327663802880038<br>-----<br>25.05 - невдалий російський наступ - "На Бахмутському напрямку противник вів наступальні дії в районі Комишувахи, Яковлівки і Троїцького, успіху не мав, зазнав втрат":<br>https://www.facebook.com/GeneralStaff.ua/posts/324613886518363<br><br>element_type: dark_red_dot<br>lat: 48.7083276<br>lon: 38.1481951]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[8.08 - російський штурм відбито, російську розвідгрупу знешкоджено, авіаудари, обстріли:
+            <value><![CDATA[9.08 - російський наступ, розвідка боєм, авіаудари, обстріли:
+https://censor.net/ua/n3359637/
+-----
+8.08 - російський штурм відбито, російську розвідгрупу знешкоджено, авіаудари, обстріли:
 https://censor.net/ua/n3359231/
 -----
 7.08 - російський штурм на напрямку Володимирівка – Яковлівка, обстріли:
@@ -30674,11 +30683,14 @@ https://www.ukrinform.ua/rubric-regions/3472713-na-doneccini-rosiani-za-dobu-obs
       </Placemark>
       <Placemark>
         <name>БАХМУТ</name>
-        <description><![CDATA[description: 8.08, ГШ - російський штурм відбито, російську розвідгрупу знешкоджено, авіаудари, обстріли:<br>https://censor.net/ua/news/3359407/<br>8.08, Нацполіція - російські обстріли поранили вісьмох:<br>https://censor.net/ua/photo_news/3359485/<br>-----<br>7.08, Нацполіція - російські обстріли УБИЛИ ЛЮДИНУ, чотирьох поранили:<br>https://censor.net/ua/n3359234/<br>7.08, ГШ - російський штурм "в напрямку Покровське – Бахмут", авіаудари, обстріли: <br>https://censor.net/ua/n3359079<br>-----<br>6.08 - російський штурм "в напрямку Покровське – Бахмут" відбито, авіаудари, обстріли: https://censor.net/ua/n3359032<br>-----<br>4.08 - російський наступ на напрямку Покровське – Бахмут - "...ворог успіху не мав, відійшов":<br>https://censor.net/ua/n3358478<br>-----<br>2.08 - російський наступ - "...у напрямку Покровське – Бахмут успішно відбито"; авіаудари й обстріли:<br>https://censor.net/ua/n3358169<br>-----<br>1.08 - російський штурм - "...успіху не мав, відійшов"; авіаудари:<br>https://censor.net/ua/n3357923<br>-----<br>31.07 - російські штурми "у напрямках Роти – Вершина і Покровське – Бахмут" відбито:<br>https://censor.net/ua/n3357598<br>-----<br>29-30.07 - російські обстріли:<br>https://censor.net/ua/news/3357389/<br>https://censor.net/ua/n3357551<br>-----<br>28.07 - російський штурм "на напрямку Клинове – Бахмут" відбито; обстріли: https://censor.net/ua/n3357010<br>-----<br>27.07 - російські обстріли - "...поцілили у готель, є ЗАГИБЛІ й поранені...":<br>https://t.me/pavlokyrylenko_donoda/4298<br>-----<br>25.07 - російські обстріли:<br>https://censor.net/ua/n3356418<br>-----<br>23.07 - російські обстріли:<br>https://censor.net/ua/photo_news/3356121/<br>-----<br>21-22.07 - російські обстріли:<br>https://censor.net/ua/n3355720<br>https://censor.net/ua/news/3355666/<br>-----<br>19.07 - російські обстріли:<br>https://censor.net/ua/n3355203<br>-----<br>16-17.07 - російські обстріли:<br>https://www.pravda.com.ua/news/2022/07/17/7358561/<br>-----<br>15.07 - російський авіаудар та обстріли (РСЗВ) по центру міста:<br>https://censor.net/ua/news/3354397<br>https://censor.net/ua/news/3354396/<br>-----<br>14.07 - російські обстріли ВБИЛИ ЛЮДИНУ:<br>https://censor.net/ua/photo_news/3354233/<br>-----<br>13.07 - російські обстріли:<br>https://censor.net/ua/news/3353964/<br>-----<br>12.07 - російські обстріли ВБИЛИ ЛЮДИНУ:<br>https://censor.net/ua/photo_news/3353772/<br>-----<br>11.07 - російські обстріли зруйнували півсотнів будинків і стадіон:<br>https://censor.net/ua/photo_news/3353335/<br>-----<br>8.07 - російські обстріли:<br>https://censor.net/ua/news/3352821/<br>-----<br>5.07 - російські обстріли (РСЗВ "Смерч"), є ВБИТІ й поранені:<br>https://censor.net/ua/video_news/3352199/<br>-----<br>4.07 - "...основні зусилля угруповань противника зосереджені на поступовому витісненні підрозділів Сил оборони на рубіж Сіверськ – Федорівка – Бахмут":<br>https://novynarnia.com/2022/07/04/okupanty-forsuvaly-siverskyj/<br>-----<br>3.07 - російські обстріли:<br>https://censor.net/ua/news/3351846/<br>-----<br>2.07 - російські обстріли й ракетні удари:<br>https://censor.net/ua/news/3351613/<br>https://censor.net/ua/news/3351634/<br>-----<br>-----<br>1.07 - російські обстріли:<br>https://www.pravda.com.ua/news/2022/07/1/7355863/<br>-----<br>28.06 - російські обстріли:<br>https://censor.net/ua/n3350653<br>-----<br>27.06 - російські обстріли:<br>https://censor.net/ua/photo_news/3350415/<br>-----<br>25.06 - російські обстріли:<br>https://www.pravda.com.ua/news/2022/06/25/7354565/<br>-----<br>18.06 - російські обстріли поранили трьох людей:<br>https://censor.net/ua/n3348899<br>-----<br>14.06 - російські обстріли:<br>https://censor.net/ua/n3347772<br>-----<br>5.06 - російські авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/333318498981235<br>-----<br>4.06 - російський ракетний удар ("Точка-У"): https://censor.net/ua/n3345958<br>===<br>7.05 - російський авіаудар УБИВ мінімум одного:<br>https://t.me/pavlokyrylenko_donoda/3323<br>-----<br>2.05 - російські обстріли:<br>https://www.ukrinform.ua/rubric-regions/3472713-na-doneccini-rosiani-za-dobu-obstrilali-11-naselenih-punktiv.html<br><br>element_type: dark_red_dot<br>lat: 48.5931761<br>lon: 38.0016575]]></description>
+        <description><![CDATA[description: 9.08 - російський наступ, розвідка боєм, авіаудари, обстріли:<br>https://censor.net/ua/n3359637/<br>-----<br>8.08, ГШ - російський штурм відбито, російську розвідгрупу знешкоджено, авіаудари, обстріли:<br>https://censor.net/ua/news/3359407/<br>8.08, Нацполіція - російські обстріли поранили вісьмох:<br>https://censor.net/ua/photo_news/3359485/<br>-----<br>7.08, Нацполіція - російські обстріли УБИЛИ ЛЮДИНУ, чотирьох поранили:<br>https://censor.net/ua/n3359234/<br>7.08, ГШ - російський штурм "в напрямку Покровське – Бахмут", авіаудари, обстріли: <br>https://censor.net/ua/n3359079<br>-----<br>6.08 - російський штурм "в напрямку Покровське – Бахмут" відбито, авіаудари, обстріли: https://censor.net/ua/n3359032<br>-----<br>4.08 - російський наступ на напрямку Покровське – Бахмут - "...ворог успіху не мав, відійшов":<br>https://censor.net/ua/n3358478<br>-----<br>2.08 - російський наступ - "...у напрямку Покровське – Бахмут успішно відбито"; авіаудари й обстріли:<br>https://censor.net/ua/n3358169<br>-----<br>1.08 - російський штурм - "...успіху не мав, відійшов"; авіаудари:<br>https://censor.net/ua/n3357923<br>-----<br>31.07 - російські штурми "у напрямках Роти – Вершина і Покровське – Бахмут" відбито:<br>https://censor.net/ua/n3357598<br>-----<br>29-30.07 - російські обстріли:<br>https://censor.net/ua/news/3357389/<br>https://censor.net/ua/n3357551<br>-----<br>28.07 - російський штурм "на напрямку Клинове – Бахмут" відбито; обстріли: https://censor.net/ua/n3357010<br>-----<br>27.07 - російські обстріли - "...поцілили у готель, є ЗАГИБЛІ й поранені...":<br>https://t.me/pavlokyrylenko_donoda/4298<br>-----<br>25.07 - російські обстріли:<br>https://censor.net/ua/n3356418<br>-----<br>23.07 - російські обстріли:<br>https://censor.net/ua/photo_news/3356121/<br>-----<br>21-22.07 - російські обстріли:<br>https://censor.net/ua/n3355720<br>https://censor.net/ua/news/3355666/<br>-----<br>19.07 - російські обстріли:<br>https://censor.net/ua/n3355203<br>-----<br>16-17.07 - російські обстріли:<br>https://www.pravda.com.ua/news/2022/07/17/7358561/<br>-----<br>15.07 - російський авіаудар та обстріли (РСЗВ) по центру міста:<br>https://censor.net/ua/news/3354397<br>https://censor.net/ua/news/3354396/<br>-----<br>14.07 - російські обстріли ВБИЛИ ЛЮДИНУ:<br>https://censor.net/ua/photo_news/3354233/<br>-----<br>13.07 - російські обстріли:<br>https://censor.net/ua/news/3353964/<br>-----<br>12.07 - російські обстріли ВБИЛИ ЛЮДИНУ:<br>https://censor.net/ua/photo_news/3353772/<br>-----<br>11.07 - російські обстріли зруйнували півсотнів будинків і стадіон:<br>https://censor.net/ua/photo_news/3353335/<br>-----<br>8.07 - російські обстріли:<br>https://censor.net/ua/news/3352821/<br>-----<br>5.07 - російські обстріли (РСЗВ "Смерч"), є ВБИТІ й поранені:<br>https://censor.net/ua/video_news/3352199/<br>-----<br>4.07 - "...основні зусилля угруповань противника зосереджені на поступовому витісненні підрозділів Сил оборони на рубіж Сіверськ – Федорівка – Бахмут":<br>https://novynarnia.com/2022/07/04/okupanty-forsuvaly-siverskyj/<br>-----<br>3.07 - російські обстріли:<br>https://censor.net/ua/news/3351846/<br>-----<br>2.07 - російські обстріли й ракетні удари:<br>https://censor.net/ua/news/3351613/<br>https://censor.net/ua/news/3351634/<br>-----<br>-----<br>1.07 - російські обстріли:<br>https://www.pravda.com.ua/news/2022/07/1/7355863/<br>-----<br>28.06 - російські обстріли:<br>https://censor.net/ua/n3350653<br>-----<br>27.06 - російські обстріли:<br>https://censor.net/ua/photo_news/3350415/<br>-----<br>25.06 - російські обстріли:<br>https://www.pravda.com.ua/news/2022/06/25/7354565/<br>-----<br>18.06 - російські обстріли поранили трьох людей:<br>https://censor.net/ua/n3348899<br>-----<br>14.06 - російські обстріли:<br>https://censor.net/ua/n3347772<br>-----<br>5.06 - російські авіаудари:<br>https://www.facebook.com/GeneralStaff.ua/posts/333318498981235<br>-----<br>4.06 - російський ракетний удар ("Точка-У"): https://censor.net/ua/n3345958<br>===<br>7.05 - російський авіаудар УБИВ мінімум одного:<br>https://t.me/pavlokyrylenko_donoda/3323<br>-----<br>2.05 - російські обстріли:<br>https://www.ukrinform.ua/rubric-regions/3472713-na-doneccini-rosiani-za-dobu-obstrilali-11-naselenih-punktiv.html<br><br>element_type: dark_red_dot<br>lat: 48.5931761<br>lon: 38.0016575]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[8.08, ГШ - російський штурм відбито, російську розвідгрупу знешкоджено, авіаудари, обстріли:
+            <value><![CDATA[9.08 - російський наступ, розвідка боєм, авіаудари, обстріли:
+https://censor.net/ua/n3359637/
+-----
+8.08, ГШ - російський штурм відбито, російську розвідгрупу знешкоджено, авіаудари, обстріли:
 https://censor.net/ua/news/3359407/
 8.08, Нацполіція - російські обстріли поранили вісьмох:
 https://censor.net/ua/photo_news/3359485/
@@ -30808,11 +30820,14 @@ https://www.ukrinform.ua/rubric-regions/3472713-na-doneccini-rosiani-za-dobu-obs
       </Placemark>
       <Placemark>
         <name>КОСТЯНТИНІВКА</name>
-        <description><![CDATA[description: 7-8.08 - російські обстріли:<br>https://censor.net/ua/n3359187/<br>https://censor.net/ua/n3359231/<br>-----<br>1.08 - російські обстріли:<br>https://censor.net/ua/n3357923/<br>-----<br>30.07 - російські обстріли:<br>https://censor.net/ua/n3357447/<br>-----<br>28.07 - російські обстріли:<br>https://censor.net/ua/n3357170/<br>-----<br>25.07 - російські обстріли:<br>https://censor.net/ua/n3356418<br>-----<br>22-23.07 - російські обстріли:<br>https://censor.net/ua/photo_news/3356121/<br>https://censor.net/ua/n3355720<br>-----<br>21.07 - російські авіаудари:<br>https://censor.net/ua/n3355666/<br>-----<br>20.07 - російські обстріли:<br>https://censor.net/ua/n3355431/<br>-----<br>17.07 - російські обстріли й ракетно-авіаційні удари:<br>https://censor.net/ua/n3354686<br>-----<br>16.07 - російські обстріли:<br>https://www.pravda.com.ua/news/2022/07/17/7358561/<br>-----<br>15.07 - російські обстріли:<br>https://censor.net/ua/photo_news/3354243<br>-----<br>12.07 - російські обстріли:<br>https://censor.net/ua/photo_news/3353772/<br>-----<br>1-2.07 - російські обстріли:<br>https://censor.net/ua/p3351855<br>-----<br>28.06 - російські обстріли:<br>https://censor.net/ua/n3350653<br>-----<br>27.06 - російські обстріли:<br>https://censor.net/ua/photo_news/3350415/<br>-----<br>24.06 - російський авіаудар - "...загарбники завдали ракетного удару з літаків Ту-22М3 по місту Костянтинівка":<br>https://www.facebook.com/GeneralStaff.ua/posts/347169520929466/<br>-----<br>4.06 - російський ракетний удар ("Точка-У"): https://censor.net/ua/n3345958<br>-----<br>10.05, Донецька ОВА - російські обстріли, четверо ЗАГИБЛИХ - "...вдалося уточнити інформацію щодо 4 загиблих та 8 поранених у Костянтинівці. Наразі неможливо встановити точну кількість жертв у Маріуполі та Волновасі": <br>https://censor.net/ua/n3340475<br><br>element_type: dark_red_dot<br>lat: 48.5121189<br>lon: 37.7181808]]></description>
+        <description><![CDATA[description: 9.08 - російські обстріли:<br>https://censor.net/ua/n3359637/<br>-----<br>7-8.08 - російські обстріли:<br>https://censor.net/ua/n3359187/<br>https://censor.net/ua/n3359231/<br>-----<br>1.08 - російські обстріли:<br>https://censor.net/ua/n3357923/<br>-----<br>30.07 - російські обстріли:<br>https://censor.net/ua/n3357447/<br>-----<br>28.07 - російські обстріли:<br>https://censor.net/ua/n3357170/<br>-----<br>25.07 - російські обстріли:<br>https://censor.net/ua/n3356418<br>-----<br>22-23.07 - російські обстріли:<br>https://censor.net/ua/photo_news/3356121/<br>https://censor.net/ua/n3355720<br>-----<br>21.07 - російські авіаудари:<br>https://censor.net/ua/n3355666/<br>-----<br>20.07 - російські обстріли:<br>https://censor.net/ua/n3355431/<br>-----<br>17.07 - російські обстріли й ракетно-авіаційні удари:<br>https://censor.net/ua/n3354686<br>-----<br>16.07 - російські обстріли:<br>https://www.pravda.com.ua/news/2022/07/17/7358561/<br>-----<br>15.07 - російські обстріли:<br>https://censor.net/ua/photo_news/3354243<br>-----<br>12.07 - російські обстріли:<br>https://censor.net/ua/photo_news/3353772/<br>-----<br>1-2.07 - російські обстріли:<br>https://censor.net/ua/p3351855<br>-----<br>28.06 - російські обстріли:<br>https://censor.net/ua/n3350653<br>-----<br>27.06 - російські обстріли:<br>https://censor.net/ua/photo_news/3350415/<br>-----<br>24.06 - російський авіаудар - "...загарбники завдали ракетного удару з літаків Ту-22М3 по місту Костянтинівка":<br>https://www.facebook.com/GeneralStaff.ua/posts/347169520929466/<br>-----<br>4.06 - російський ракетний удар ("Точка-У"): https://censor.net/ua/n3345958<br>-----<br>10.05, Донецька ОВА - російські обстріли, четверо ЗАГИБЛИХ - "...вдалося уточнити інформацію щодо 4 загиблих та 8 поранених у Костянтинівці. Наразі неможливо встановити точну кількість жертв у Маріуполі та Волновасі": <br>https://censor.net/ua/n3340475<br><br>element_type: dark_red_dot<br>lat: 48.5121189<br>lon: 37.7181808]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[7-8.08 - російські обстріли:
+            <value><![CDATA[9.08 - російські обстріли:
+https://censor.net/ua/n3359637/
+-----
+7-8.08 - російські обстріли:
 https://censor.net/ua/n3359187/
 https://censor.net/ua/n3359231/
 -----
@@ -31131,11 +31146,14 @@ https://censor.net/ua/news/3353483/
       </Placemark>
       <Placemark>
         <name><![CDATA[СОЛЕДАР (тут розташовані потужності компанії "Артемсіль" - основного виробника солі в Україні)]]></name>
-        <description><![CDATA[description: 8.08 - російські авіаудари:<br>https://censor.net/ua/news/3359407/<br>-----<br>7.08 - російські обстріли УБИЛИ ДВОХ, одну поранили:<br>https://censor.net/ua/n3359234/<br>-----<br>6.08 - російський штурм "в напрямку Покровське – Соледар" відбито, авіаудари, обстріли: <br>https://censor.net/ua/n3359032<br>-----<br>4.08 - російський наступ на напрямку Стряпівка – Соледар - "...успіху не мав і відійшов"; авіаудари:<br>https://censor.net/ua/n3358478<br>-----<br>2.08 - російські авіаудари й обстріли:<br>https://censor.net/ua/news/3358169/<br>-----<br>1.08 - російський штурм - "...успіху не мав, відійшов"; авіаудари та обстріли:<br>https://censor.net/ua/n3357923<br>-----<br>31.07 - російська розвідка - "...переднього краю позицій ЗСУ на напрямку Стряпівка – Соледар, розвідувальну групу противника виявлено та знешкоджено"; обстріли: <br>https://censor.net/ua/n3357598<br>-----<br>30.07 - російський авіаудар, обстріли:<br>https://censor.net/ua/news/3357447/<br>-----<br>29.07 - російський штурм, авіаудари й обстріли - "...І знову безуспішно - зазнали втрат і відійшли:<br>https://censor.net/ua/n3357389<br>-----<br>28.07 - російський наступ - "...у напрямках Володимирівка – Соледар та Стряпівка – Соледар завершився для окупантів провалом":<br>https://censor.net/ua/n3357010<br>-----<br>27.07 - російські штурми - "...на напрямках Володимирівка – Соледар і Роти – Семигір’я українські воїни успішно відбили. Ворог з втратами відійшов”:<br>https://novynarnia.com/2022/07/27/okupanty-probuvaly/<br>-----<br>26.07 - російський штурм, обстріли:<br>https://censor.net/ua/news/3356698/<br>-----<br>25.07 - російські авіаудари та обстріли:<br>https://censor.net/ua/n3356418<br>-----<br>22.07 - російський штурм "у напрямку Стряпівка – Соледар" завершився російськими втратами й безладним відступом:<br>https://censor.net/ua/n3355720<br>22.07 - російські обстріли:<br>https://censor.net/ua/photo_news/3355989<br>-----<br>20-21.07 - російські обстріли:<br>https://censor.net/ua/news/3355431/<br>https://censor.net/ua/news/3355666/<br>-----<br>19.07 - російські авіаудари:<br>https://censor.net/ua/news/3354991/<br>-----<br>17.07 - російські ракетно-авіаційні удари: https://censor.net/ua/n3354601<br>-----<br>16.07 - російські авіаудари та обстріли:<br>https://censor.net/ua/news/3354559/<br>-----<br>15.07 - російський авіаудар:<br>https://censor.net/ua/news/3354397<br>-----<br>14.07 - російські обстріли:<br>https://censor.net/ua/news/3354012/<br>-----<br>13.07 - російські обстріли:<br>https://censor.net/ua/news/3353964/<br>-----<br>12.07 - російські обстріли:<br>https://censor.net/ua/news/3353717/<br>-----<br>11.07 - російські обстріли:<br>https://censor.net/ua/news/3353483/<br>-----<br>7.07 - російські обстріли:<br>https://censor.net/ua/news/3352759/<br>-----<br>3.07 - російські обстріли:<br>https://censor.net/ua/news/3351846/<br>-----<br>30.06 - російські ракетно-авіаційні удари:<br>https://censor.net/ua/news/3351320/<br>-----<br>28.06 - російські обстріли:<br>https://censor.net/ua/n3350653<br>-----<br>16.06 - російські обстріли:<br>https://censor.net/ua/news/3348247/<br>-----<br>4.06 - російські ракетно-авіаційні удари:<br>https://censor.net/ua/n3345958<br>-----<br>29.05 - російські ракетні удари:<br>https://www.facebook.com/GeneralStaff.ua/posts/328041022842316<br>===<br>13.05, Нацполіція - російські обстріли:<br>https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br>-----<br><br>element_type: dark_red_dot<br>lat: 48.6780107<br>lon: 38.0920028]]></description>
+        <description><![CDATA[description: 9.08 - російські розвідгрупи відійшли під вогнем, обстріли:<br>https://censor.net/ua/n3359637/<br>-----<br>8.08 - російські авіаудари:<br>https://censor.net/ua/news/3359407/<br>-----<br>7.08 - російські обстріли УБИЛИ ДВОХ, одну поранили:<br>https://censor.net/ua/n3359234/<br>-----<br>6.08 - російський штурм "в напрямку Покровське – Соледар" відбито, авіаудари, обстріли: <br>https://censor.net/ua/n3359032<br>-----<br>4.08 - російський наступ на напрямку Стряпівка – Соледар - "...успіху не мав і відійшов"; авіаудари:<br>https://censor.net/ua/n3358478<br>-----<br>2.08 - російські авіаудари й обстріли:<br>https://censor.net/ua/news/3358169/<br>-----<br>1.08 - російський штурм - "...успіху не мав, відійшов"; авіаудари та обстріли:<br>https://censor.net/ua/n3357923<br>-----<br>31.07 - російська розвідка - "...переднього краю позицій ЗСУ на напрямку Стряпівка – Соледар, розвідувальну групу противника виявлено та знешкоджено"; обстріли: <br>https://censor.net/ua/n3357598<br>-----<br>30.07 - російський авіаудар, обстріли:<br>https://censor.net/ua/news/3357447/<br>-----<br>29.07 - російський штурм, авіаудари й обстріли - "...І знову безуспішно - зазнали втрат і відійшли:<br>https://censor.net/ua/n3357389<br>-----<br>28.07 - російський наступ - "...у напрямках Володимирівка – Соледар та Стряпівка – Соледар завершився для окупантів провалом":<br>https://censor.net/ua/n3357010<br>-----<br>27.07 - російські штурми - "...на напрямках Володимирівка – Соледар і Роти – Семигір’я українські воїни успішно відбили. Ворог з втратами відійшов”:<br>https://novynarnia.com/2022/07/27/okupanty-probuvaly/<br>-----<br>26.07 - російський штурм, обстріли:<br>https://censor.net/ua/news/3356698/<br>-----<br>25.07 - російські авіаудари та обстріли:<br>https://censor.net/ua/n3356418<br>-----<br>22.07 - російський штурм "у напрямку Стряпівка – Соледар" завершився російськими втратами й безладним відступом:<br>https://censor.net/ua/n3355720<br>22.07 - російські обстріли:<br>https://censor.net/ua/photo_news/3355989<br>-----<br>20-21.07 - російські обстріли:<br>https://censor.net/ua/news/3355431/<br>https://censor.net/ua/news/3355666/<br>-----<br>19.07 - російські авіаудари:<br>https://censor.net/ua/news/3354991/<br>-----<br>17.07 - російські ракетно-авіаційні удари: https://censor.net/ua/n3354601<br>-----<br>16.07 - російські авіаудари та обстріли:<br>https://censor.net/ua/news/3354559/<br>-----<br>15.07 - російський авіаудар:<br>https://censor.net/ua/news/3354397<br>-----<br>14.07 - російські обстріли:<br>https://censor.net/ua/news/3354012/<br>-----<br>13.07 - російські обстріли:<br>https://censor.net/ua/news/3353964/<br>-----<br>12.07 - російські обстріли:<br>https://censor.net/ua/news/3353717/<br>-----<br>11.07 - російські обстріли:<br>https://censor.net/ua/news/3353483/<br>-----<br>7.07 - російські обстріли:<br>https://censor.net/ua/news/3352759/<br>-----<br>3.07 - російські обстріли:<br>https://censor.net/ua/news/3351846/<br>-----<br>30.06 - російські ракетно-авіаційні удари:<br>https://censor.net/ua/news/3351320/<br>-----<br>28.06 - російські обстріли:<br>https://censor.net/ua/n3350653<br>-----<br>16.06 - російські обстріли:<br>https://censor.net/ua/news/3348247/<br>-----<br>4.06 - російські ракетно-авіаційні удари:<br>https://censor.net/ua/n3345958<br>-----<br>29.05 - російські ракетні удари:<br>https://www.facebook.com/GeneralStaff.ua/posts/328041022842316<br>===<br>13.05, Нацполіція - російські обстріли:<br>https://dn.npu.gov.ua/news/obstril/na-donechchini-za-dobu-rosiyani-obstrilyali-22-naselenix-punkti-je-zagibli-ta-poraneni/<br>-----<br><br>element_type: dark_red_dot<br>lat: 48.6780107<br>lon: 38.0920028]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[8.08 - російські авіаудари:
+            <value><![CDATA[9.08 - російські розвідгрупи відійшли під вогнем, обстріли:
+https://censor.net/ua/n3359637/
+-----
+8.08 - російські авіаудари:
 https://censor.net/ua/news/3359407/
 -----
 7.08 - російські обстріли УБИЛИ ДВОХ, одну поранили:
@@ -31420,11 +31438,14 @@ https://novynarnia.com/2022/07/04/okupanty-forsuvaly-siverskyj/
       </Placemark>
       <Placemark>
         <name>Бахмутське</name>
-        <description><![CDATA[description: 8.08 - російська розвідка ("розвідгрупу знешкоджено"), обстріли:<br>https://censor.net/ua/n3359231/<br>-----<br>7.08 - російські обстріли:<br>https://censor.net/ua/n3359187/<br>-----<br>6.08 - російський штурм "в напрямку Стряпівка – Бахмутське" відбито, обстріли: https://censor.net/ua/n3359032<br>-----<br>29.07 - російські обстріли:<br>https://censor.net/ua/n3357218/<br>-----<br>25.07 - російські обстріли:<br>https://censor.net/ua/n3356418<br>-----<br>20.07 - російські обстріли:<br>https://censor.net/ua/news/3355431/<br>-----<br>15.07 - "Ворог задіяв БпЛА поблизу Бахмутського":<br>https://censor.net/ua/n3354229<br>-----<br>13.07 - російські обстріли:<br>https://censor.net/ua/news/3353964/<br>-----<br>7.07 - російські обстріли:<br>https://censor.net/ua/news/3352759/<br>-----<br>14.05 - російські обстріли:<br>https://censor.net/ua/p3341281<br><br>element_type: dark_red_dot<br>lat: 48.6563928<br>lon: 38.0952538]]></description>
+        <description><![CDATA[description: 9.08 - російські обстріли:<br>https://censor.net/ua/n3359482/<br>-----<br>8.08 - російська розвідка ("розвідгрупу знешкоджено"), обстріли:<br>https://censor.net/ua/n3359231/<br>-----<br>7.08 - російські обстріли:<br>https://censor.net/ua/n3359187/<br>-----<br>6.08 - російський штурм "в напрямку Стряпівка – Бахмутське" відбито, обстріли: https://censor.net/ua/n3359032<br>-----<br>29.07 - російські обстріли:<br>https://censor.net/ua/n3357218/<br>-----<br>25.07 - російські обстріли:<br>https://censor.net/ua/n3356418<br>-----<br>20.07 - російські обстріли:<br>https://censor.net/ua/news/3355431/<br>-----<br>15.07 - "Ворог задіяв БпЛА поблизу Бахмутського":<br>https://censor.net/ua/n3354229<br>-----<br>13.07 - російські обстріли:<br>https://censor.net/ua/news/3353964/<br>-----<br>7.07 - російські обстріли:<br>https://censor.net/ua/news/3352759/<br>-----<br>14.05 - російські обстріли:<br>https://censor.net/ua/p3341281<br><br>element_type: dark_red_dot<br>lat: 48.6563928<br>lon: 38.0952538]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[8.08 - російська розвідка ("розвідгрупу знешкоджено"), обстріли:
+            <value><![CDATA[9.08 - російські обстріли:
+https://censor.net/ua/n3359482/
+-----
+8.08 - російська розвідка ("розвідгрупу знешкоджено"), обстріли:
 https://censor.net/ua/n3359231/
 -----
 7.08 - російські обстріли:
@@ -39959,13 +39980,16 @@ https://www.facebook.com/GeneralStaff.ua/posts/335842948728790
       </Placemark>
       <Placemark>
         <name><![CDATA[Майорськ (тут проходить ВОДНИЙ КАНАЛ "Сіверський Донець - Донбас" - складна технологічна споруда, основне джерело води для міст Донеччини)]]></name>
-        <description><![CDATA[description: Як Україна напуває Донбас. ІНФОГРАФІКА:<br>https://texty.org.ua/articles/82720/<br>-------------------------------------------------------------<br>26.07 - російські обстріли:<br>https://censor.net/ua/news/3356698/<br>-----<br>25.07 - російські обстріли:<br>https://censor.net/ua/n3356418<br>-----<br>20.07 - російські обстріли:<br>https://censor.net/ua/news/3355431/<br>-----<br>19.07 - російські авіаудари:<br>https://censor.net/ua/n3355203<br>-----<br>15.07 - російські обстріли:<br>https://censor.net/ua/news/3354229/<br>-----<br>13.07 - російські обстріли:<br>https://censor.net/ua/news/3353964/<br>-----<br>12.07 - російські обстріли:<br>https://censor.net/ua/news/3353717/<br>-----<br>7.07 - російські обстріли:<br>https://censor.net/ua/news/3352759/<br>-----<br>4.07 - російський наступ "...успіху не має":<br>https://novynarnia.com/2022/07/04/okupanty-forsuvaly-siverskyj/<br>-----<br>24.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/347169520929466/<br>-----<br>9.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335842948728790<br><br>element_type: blue_dot<br>lat: 48.4032645<br>lon: 37.9613427]]></description>
+        <description><![CDATA[description: Як Україна напуває Донбас. ІНФОГРАФІКА:<br>https://texty.org.ua/articles/82720/<br>-------------------------------------------------------------<br>9.08 - російські обстріли:<br>https://censor.net/ua/n3359637/<br>-----<br>26.07 - російські обстріли:<br>https://censor.net/ua/news/3356698/<br>-----<br>25.07 - російські обстріли:<br>https://censor.net/ua/n3356418<br>-----<br>20.07 - російські обстріли:<br>https://censor.net/ua/news/3355431/<br>-----<br>19.07 - російські авіаудари:<br>https://censor.net/ua/n3355203<br>-----<br>15.07 - російські обстріли:<br>https://censor.net/ua/news/3354229/<br>-----<br>13.07 - російські обстріли:<br>https://censor.net/ua/news/3353964/<br>-----<br>12.07 - російські обстріли:<br>https://censor.net/ua/news/3353717/<br>-----<br>7.07 - російські обстріли:<br>https://censor.net/ua/news/3352759/<br>-----<br>4.07 - російський наступ "...успіху не має":<br>https://novynarnia.com/2022/07/04/okupanty-forsuvaly-siverskyj/<br>-----<br>24.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/347169520929466/<br>-----<br>9.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/335842948728790<br><br>element_type: blue_dot<br>lat: 48.4032645<br>lon: 37.9613427]]></description>
         <styleUrl>#icon-ci-4</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value><![CDATA[Як Україна напуває Донбас. ІНФОГРАФІКА:
 https://texty.org.ua/articles/82720/
 -------------------------------------------------------------
+9.08 - російські обстріли:
+https://censor.net/ua/n3359637/
+-----
 26.07 - російські обстріли:
 https://censor.net/ua/news/3356698/
 -----
@@ -41380,11 +41404,14 @@ https://www.facebook.com/GeneralStaff.ua/posts/338062698506815
       </Placemark>
       <Placemark>
         <name>Кодема</name>
-        <description><![CDATA[description: 8.08 - російський штурм, авіаудари:<br>https://censor.net/ua/news/3359407/<br>-----<br>7.08 - російський наступ - "...на напрямках Новолуганське – Кодема, Травневе – Кодема ... бої тривають", обстріли: <br>https://censor.net/ua/n3359079<br>-----<br>6.08 - російський наступ - "...на напрямку Кодема – Зайцеве ... успіху не мав, відійшов", обстріли:<br>https://censor.net/ua/n3358912<br>-----<br>4.08, вечір - бойові дії - "...в районі Кодеми тривають":<br>https://censor.net/ua/news/3358643/<br>4.08, ранок - російський наступ - "...у напрямку Новолуганське – Кодема"; авіаудари: https://censor.net/ua/n3358478<br>-----<br>2.08 - успішний російський наступ - "У напрямку Відродження – Кодема окремі підрозділи ворога мають частковий успіх"; авіаудари й обстріли: <br>https://censor.net/ua/n3358169<br>-----<br>1.08 - російські авіаудари й обстріли:<br>https://censor.net/ua/n3357923<br>-----<br>31.07 - російські обстріли:<br>https://censor.net/ua/news/3357680/<br>-----<br>29-30.07 - російські обстріли:<br>https://censor.net/ua/news/3357389/<br>https://censor.net/ua/n3357551<br>-----<br>26.07 - постійні російські обстріли й авіаудари:<br>https://novynarnia.com/2022/07/26/ukrayinski-vijska-vijdijshly-iz-selyshhe-novoluganske-mva/<br>-----<br>25.07 - російські обстріли:<br>https://censor.net/ua/n3356418<br>-----<br>22.07 - російські обстріли:<br>https://censor.net/ua/n3355720<br>-----<br>20.07 - російські обстріли:<br>https://censor.net/ua/news/3355431/<br>-----<br>16.07 - російські обстріли:<br>https://censor.net/ua/news/3354559/<br>-----<br>15.07 - російський штурм "в районі Кодеми та Білогорівки наші воїни успішно зупинили ... Окупанти отримали жорсткий опір, зазнали значних втрат та безславно відійшли": https://censor.net/ua/n3354229<br>-----<br>14.07 - російський штурм "в напрямку Кодеми та Вершини" відбито:<br>https://censor.net/ua/news/3354012/<br>-----<br>13.07 - російські обстріли:<br>https://censor.net/ua/news/3353964/<br>-----<br>12.07 - російські обстріли:<br>https://censor.net/ua/news/3353554/<br>-----<br>11.07 - російські обстріли:<br>https://censor.net/ua/news/3353483/<br>-----<br>8.07 - російські обстріли:<br>https://censor.net/ua/news/3352821/<br>-----<br>7.07 - російські обстріли:<br>https://censor.net/ua/news/3352759/<br>-----<br>5.07 - російські обстріли:<br>https://censor.net/ua/news/3352294/<br>-----<br>2.07 - російські обстріли:<br>https://censor.net/ua/news/3351707/<br>-----<br>1.07 - російські обстріли:<br>https://www.pravda.com.ua/news/2022/07/1/7355863/<br>-----<br>13.06 - "Для покращення тактичного положення та оволодіння панівними висотами ворог безуспішно вів штурмові дії у напрямках Доломітне – Кодема, Доломітне – Новолуганське":<br>https://www.facebook.com/GeneralStaff.ua/posts/338799278433157<br><br>element_type: dark_red_dot<br>lat: 48.4771338<br>lon: 38.0783667]]></description>
+        <description><![CDATA[description: 9.08 - російські обстріли:<br>https://censor.net/ua/n3359637/<br>-----<br>8.08 - російський штурм, авіаудари:<br>https://censor.net/ua/news/3359407/<br>-----<br>7.08 - російський наступ - "...на напрямках Новолуганське – Кодема, Травневе – Кодема ... бої тривають", обстріли: <br>https://censor.net/ua/n3359079<br>-----<br>6.08 - російський наступ - "...на напрямку Кодема – Зайцеве ... успіху не мав, відійшов", обстріли:<br>https://censor.net/ua/n3358912<br>-----<br>4.08, вечір - бойові дії - "...в районі Кодеми тривають":<br>https://censor.net/ua/news/3358643/<br>4.08, ранок - російський наступ - "...у напрямку Новолуганське – Кодема"; авіаудари: https://censor.net/ua/n3358478<br>-----<br>2.08 - успішний російський наступ - "У напрямку Відродження – Кодема окремі підрозділи ворога мають частковий успіх"; авіаудари й обстріли: <br>https://censor.net/ua/n3358169<br>-----<br>1.08 - російські авіаудари й обстріли:<br>https://censor.net/ua/n3357923<br>-----<br>31.07 - російські обстріли:<br>https://censor.net/ua/news/3357680/<br>-----<br>29-30.07 - російські обстріли:<br>https://censor.net/ua/news/3357389/<br>https://censor.net/ua/n3357551<br>-----<br>26.07 - постійні російські обстріли й авіаудари:<br>https://novynarnia.com/2022/07/26/ukrayinski-vijska-vijdijshly-iz-selyshhe-novoluganske-mva/<br>-----<br>25.07 - російські обстріли:<br>https://censor.net/ua/n3356418<br>-----<br>22.07 - російські обстріли:<br>https://censor.net/ua/n3355720<br>-----<br>20.07 - російські обстріли:<br>https://censor.net/ua/news/3355431/<br>-----<br>16.07 - російські обстріли:<br>https://censor.net/ua/news/3354559/<br>-----<br>15.07 - російський штурм "в районі Кодеми та Білогорівки наші воїни успішно зупинили ... Окупанти отримали жорсткий опір, зазнали значних втрат та безславно відійшли": https://censor.net/ua/n3354229<br>-----<br>14.07 - російський штурм "в напрямку Кодеми та Вершини" відбито:<br>https://censor.net/ua/news/3354012/<br>-----<br>13.07 - російські обстріли:<br>https://censor.net/ua/news/3353964/<br>-----<br>12.07 - російські обстріли:<br>https://censor.net/ua/news/3353554/<br>-----<br>11.07 - російські обстріли:<br>https://censor.net/ua/news/3353483/<br>-----<br>8.07 - російські обстріли:<br>https://censor.net/ua/news/3352821/<br>-----<br>7.07 - російські обстріли:<br>https://censor.net/ua/news/3352759/<br>-----<br>5.07 - російські обстріли:<br>https://censor.net/ua/news/3352294/<br>-----<br>2.07 - російські обстріли:<br>https://censor.net/ua/news/3351707/<br>-----<br>1.07 - російські обстріли:<br>https://www.pravda.com.ua/news/2022/07/1/7355863/<br>-----<br>13.06 - "Для покращення тактичного положення та оволодіння панівними висотами ворог безуспішно вів штурмові дії у напрямках Доломітне – Кодема, Доломітне – Новолуганське":<br>https://www.facebook.com/GeneralStaff.ua/posts/338799278433157<br><br>element_type: dark_red_dot<br>lat: 48.4771338<br>lon: 38.0783667]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[8.08 - російський штурм, авіаудари:
+            <value><![CDATA[9.08 - російські обстріли:
+https://censor.net/ua/n3359637/
+-----
+8.08 - російський штурм, авіаудари:
 https://censor.net/ua/news/3359407/
 -----
 7.08 - російський наступ - "...на напрямках Новолуганське – Кодема, Травневе – Кодема ... бої тривають", обстріли: 
@@ -42789,26 +42816,15 @@ https://texty.org.ua/fragments/106582/
         </Point>
       </Placemark>
       <Placemark>
-        <name>Спірне</name>
-        <description><![CDATA[description: 8.08 - російські обстріли:<br>https://censor.net/ua/news/3359231/<br>-----<br>7.08 - російський авіаудар (літаками штурмової авіації):<br>https://censor.net/ua/news/3359079/<br>-----<br>6.08 - російські обстріли:<br>https://censor.net/ua/n3359032/<br>-----<br>4.08 - російські авіаудар, обстріли:<br>https://censor.net/ua/n3358643<br>-----<br>1.08 - російські авіаудари, обстріли:<br>https://censor.net/ua/news/3357720/<br>-----<br>30-31.07 - російські авіаудари, обстріли:<br>https://censor.net/ua/news/3357447/<br>https://censor.net/ua/news/3357680/<br>-----<br>29.07 - російські авіаудари, обстріли:<br>https://censor.net/ua/news/3357389/<br>-----<br>28.07 - російські обстріли:<br>https://censor.net/ua/news/3357170/<br>-----<br>25.07, вечір - російський наступ відбито; обстріли:<br>https://censor.net/ua/n3356418<br>25.07, ранок - російський наступ "неподалік Спірного, бої тривають": https://censor.net/ua/n3356236<br>-----<br>21-22.07 - російські обстріли й авіаудари:<br>https://censor.net/ua/n3355486<br>https://censor.net/ua/n3355720<br>-----<br>20.07 - російський штурм відбито:<br>https://censor.net/ua/n3355431<br>-----<br>19.07 - російський наступ у напрямку села - "Українські воїни завдали окупантам значних втрат ... Ворог безладно відступив", обстріли:<br>https://censor.net/ua/n3355203<br>-----<br>17.07 - вранці бої ідуть уже "в районі Івано-Дар'ївки" (3 км на захід від Спірного):<br>https://censor.net/ua/n3354601<br>-----<br>16.07, вечір - російський штурм; можливо, село (частково) окуповане - "Штурмові дії у напрямку Спірне – Івано-Дар’ївка наші захисники успішно відбили":<br>https://censor.net/ua/n3354449<br>16.07, ранок - російські обстріли:<br>https://censor.net/ua/news/3354559/<br>-----<br>15.07 - російський наступ - "ворог намагався покращити тактичне положення на напрямках Миколаївка – Спірне, Миронівка – Вуглегірська ТЕС та Відродження – Вершина. Окупанти зазнали втрат та відкотилися...":<br>https://censor.net/ua/n3354397<br>-----<br>14.07 - російські обстріли:<br>https://censor.net/ua/news/3354012/<br>-----<br>13.07 - російські авіаудари:<br>https://censor.net/ua/news/3353964/<br>-----<br>12.07 - російський наступ "в напрямку Спірне – Івано-Дар’ївка" - "...ворог зазнав втрат від кинжального вогню наших захисників та хаотично відійшов": https://censor.net/ua/n3353717<br>-----<br>11.07 - російські обстріли й ракетно-авіаційні удари:<br>https://censor.net/ua/news/3353295/<br>-----<br>10.07 - російські авіаудари:<br>https://youtu.be/7NCz3G7B7Ws<br>-----<br>9.07 - російський авіаудар:<br> https://censor.net/ua/n3353032<br>-----<br>8.07 - російський наступ - "За підтримки артилерії та оперативно-тактичної авіації окупанти безуспішно намагалися вести наступ у районах населених пунктів Спірне та Івано-Дар’ївка. Зазнали втрат та відійшли":<br>https://censor.net/ua/n3352977<br>-----<br>7.07, вечір - село (частково) окуповане - "Ворог закріплюється на околицях населеного пункту Спірне":<br>https://censor.net/ua/n3352759<br>7.07, ранок - російський авіаудар<br>https://censor.net/ua/news/3352572/<br>-----<br>6.07 - російські обстріли:<br>https://censor.net/ua/news/3352518/<br>-----<br>5.07 - "За підтримки артилерії та оперативно-тактичної авіації окупанти вели штурмові дії у районах н.п. Спірне та Вершина, бої тривають":<br>https://censor.net/ua/n3352294<br>-----<br>4.07 - російський наступ "...успіху не має":<br>https://novynarnia.com/2022/07/04/okupanty-forsuvaly-siverskyj/<br>-----<br>3.07, вечір - російський штурм - "...на напрямках Вовчоярівка – Спірне та Миколаївка – Спірне. Зазнав значних втрат та відійшов":<br>https://censor.net/ua/n3351846<br>3.07, ранок - російський наступ, "...бойові дії тривають":<br>https://censor.net/ua/n3351750<br>-----<br>2.07 - російські обстріли:<br>https://censor.net/ua/news/3351613/<br>-----<br>30.06 - російський наступ з метою "покращити тактичне положення в районі Спірного" відбито:<br>https://censor.net/ua/n3351078<br>-----<br>28.06 - російський наступ - "...ворог провів розвідку боєм у напрямку Миколаївка – Спірне, в подальшому - вів наступ у зазначеному напрямку. Українські воїни успішно придушили всі ці спроби та змусили ворога відійти":<br>https://censor.net/ua/n3350653<br>-----<br>25.06 - російські обстріли:<br>https://censor.net/ua/n3350083<br>-----<br>15.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/340232081623210<br><br>element_type: dark_red_dot<br>lat: 48.8104007<br>lon: 38.2574701]]></description>
-        <styleUrl>#icon-ci-2</styleUrl>
+        <name>Спірне (АРХІВ до 31 липня)</name>
+        <description><![CDATA[description: УВАГА: гугл-сервіс обмежує кількість знаків у цьому полі, і ми досягли максимуму.<br>Дивіться ПРОДОВЖЕННЯ даних про бойові дії довкола села В СУСІДНІЙ ТОЧЦІ - з назвою "СПІРНЕ".<br>-----------------------------------------------------------------<br>                                                        * * *<br>30-31.07 - російські авіаудари, обстріли:<br>https://censor.net/ua/news/3357447/<br>https://censor.net/ua/news/3357680/<br>-----<br>29.07 - російські авіаудари, обстріли:<br>https://censor.net/ua/news/3357389/<br>-----<br>28.07 - російські обстріли:<br>https://censor.net/ua/news/3357170/<br>-----<br>25.07, вечір - російський наступ відбито; обстріли:<br>https://censor.net/ua/n3356418<br>25.07, ранок - російський наступ "неподалік Спірного, бої тривають": https://censor.net/ua/n3356236<br>-----<br>21-22.07 - російські обстріли й авіаудари:<br>https://censor.net/ua/n3355486<br>https://censor.net/ua/n3355720<br>-----<br>20.07 - російський штурм відбито:<br>https://censor.net/ua/n3355431<br>-----<br>19.07 - російський наступ у напрямку села - "Українські воїни завдали окупантам значних втрат ... Ворог безладно відступив", обстріли:<br>https://censor.net/ua/n3355203<br>-----<br>17.07 - вранці бої ідуть уже "в районі Івано-Дар'ївки" (3 км на захід від Спірного):<br>https://censor.net/ua/n3354601<br>-----<br>16.07, вечір - російський штурм; можливо, село (частково) окуповане - "Штурмові дії у напрямку Спірне – Івано-Дар’ївка наші захисники успішно відбили":<br>https://censor.net/ua/n3354449<br>16.07, ранок - російські обстріли:<br>https://censor.net/ua/news/3354559/<br>-----<br>15.07 - російський наступ - "ворог намагався покращити тактичне положення на напрямках Миколаївка – Спірне, Миронівка – Вуглегірська ТЕС та Відродження – Вершина. Окупанти зазнали втрат та відкотилися...":<br>https://censor.net/ua/n3354397<br>-----<br>14.07 - російські обстріли:<br>https://censor.net/ua/news/3354012/<br>-----<br>13.07 - російські авіаудари:<br>https://censor.net/ua/news/3353964/<br>-----<br>12.07 - російський наступ "в напрямку Спірне – Івано-Дар’ївка" - "...ворог зазнав втрат від кинжального вогню наших захисників та хаотично відійшов": https://censor.net/ua/n3353717<br>-----<br>11.07 - російські обстріли й ракетно-авіаційні удари:<br>https://censor.net/ua/news/3353295/<br>-----<br>10.07 - російські авіаудари:<br>https://youtu.be/7NCz3G7B7Ws<br>-----<br>9.07 - російський авіаудар:<br> https://censor.net/ua/n3353032<br>-----<br>8.07 - російський наступ - "За підтримки артилерії та оперативно-тактичної авіації окупанти безуспішно намагалися вести наступ у районах населених пунктів Спірне та Івано-Дар’ївка. Зазнали втрат та відійшли":<br>https://censor.net/ua/n3352977<br>-----<br>7.07, вечір - село (частково) окуповане - "Ворог закріплюється на околицях населеного пункту Спірне":<br>https://censor.net/ua/n3352759<br>7.07, ранок - російський авіаудар<br>https://censor.net/ua/news/3352572/<br>-----<br>6.07 - російські обстріли:<br>https://censor.net/ua/news/3352518/<br>-----<br>5.07 - "За підтримки артилерії та оперативно-тактичної авіації окупанти вели штурмові дії у районах н.п. Спірне та Вершина, бої тривають":<br>https://censor.net/ua/n3352294<br>-----<br>4.07 - російський наступ "...успіху не має":<br>https://novynarnia.com/2022/07/04/okupanty-forsuvaly-siverskyj/<br>-----<br>3.07, вечір - російський штурм - "...на напрямках Вовчоярівка – Спірне та Миколаївка – Спірне. Зазнав значних втрат та відійшов":<br>https://censor.net/ua/n3351846<br>3.07, ранок - російський наступ, "...бойові дії тривають":<br>https://censor.net/ua/n3351750<br>-----<br>2.07 - російські обстріли:<br>https://censor.net/ua/news/3351613/<br>-----<br>30.06 - російський наступ з метою "покращити тактичне положення в районі Спірного" відбито:<br>https://censor.net/ua/n3351078<br>-----<br>28.06 - російський наступ - "...ворог провів розвідку боєм у напрямку Миколаївка – Спірне, в подальшому - вів наступ у зазначеному напрямку. Українські воїни успішно придушили всі ці спроби та змусили ворога відійти":<br>https://censor.net/ua/n3350653<br>-----<br>25.06 - російські обстріли:<br>https://censor.net/ua/n3350083<br>-----<br>15.06 - російські обстріли:<br>https://www.facebook.com/GeneralStaff.ua/posts/340232081623210<br><br>element_type: grey_dot<br>lat: 48.8091571<br>lon: 38.2667398]]></description>
+        <styleUrl>#icon-ci-5</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[8.08 - російські обстріли:
-https://censor.net/ua/news/3359231/
------
-7.08 - російський авіаудар (літаками штурмової авіації):
-https://censor.net/ua/news/3359079/
------
-6.08 - російські обстріли:
-https://censor.net/ua/n3359032/
------
-4.08 - російські авіаудар, обстріли:
-https://censor.net/ua/n3358643
------
-1.08 - російські авіаудари, обстріли:
-https://censor.net/ua/news/3357720/
------
+            <value><![CDATA[УВАГА: гугл-сервіс обмежує кількість знаків у цьому полі, і ми досягли максимуму.
+Дивіться ПРОДОВЖЕННЯ даних про бойові дії довкола села В СУСІДНІЙ ТОЧЦІ - з назвою "СПІРНЕ".
+-----------------------------------------------------------------
+                                                        * * *
 30-31.07 - російські авіаудари, обстріли:
 https://censor.net/ua/news/3357447/
 https://censor.net/ua/news/3357680/
@@ -42900,18 +42916,18 @@ https://www.facebook.com/GeneralStaff.ua/posts/340232081623210
 ]]></value>
           </Data>
           <Data name="element_type">
-            <value>dark_red_dot</value>
+            <value>grey_dot</value>
           </Data>
           <Data name="lat">
-            <value>48.8104007</value>
+            <value>48.8091571</value>
           </Data>
           <Data name="lon">
-            <value>38.2574701</value>
+            <value>38.2667398</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            38.2574701,48.8104007,0
+            38.2667398,48.8091571,0
           </coordinates>
         </Point>
       </Placemark>
@@ -43032,11 +43048,14 @@ https://censor.net/ua/news/3348247/
       </Placemark>
       <Placemark>
         <name>Веселе</name>
-        <description><![CDATA[description: 2.08 - російські обстріли:<br>https://censor.net/ua/news/3358169/<br>-----<br>1.08 - російські обстріли:<br>https://censor.net/ua/news/3357923/<br>-----<br>23.07 - російські обстріли:<br>https://censor.net/ua/photo_news/3356121/<br>-----<br>20-21.07 - російські обстріли:<br>https://censor.net/ua/news/3355431/<br>https://censor.net/ua/news/3355666/<br>-----<br>17.07 - російські обстріли:<br>https://censor.net/ua/n3354686<br>-----<br>15.07 - російські обстріли:<br>https://censor.net/ua/news/3354229/<br>-----<br>14.07 - російські обстріли:<br>https://censor.net/ua/news/3354012/<br>-----<br>10.07 - російські обстріли:<br>https://youtu.be/7NCz3G7B7Ws<br>-----<br>6.07 - російські обстріли:<br>https://censor.net/ua/news/3352518/<br>-----<br>16.06 - російські обстріли:<br>https://censor.net/ua/news/3348247/<br><br>element_type: dark_red_dot<br>lat: 48.7427281<br>lon: 38.1512719]]></description>
+        <description><![CDATA[description: 9.08 - російські розвідгрупи відійшли під вогнем:<br>https://censor.net/ua/n3359637/<br>-----<br>2.08 - російські обстріли:<br>https://censor.net/ua/news/3358169/<br>-----<br>1.08 - російські обстріли:<br>https://censor.net/ua/news/3357923/<br>-----<br>23.07 - російські обстріли:<br>https://censor.net/ua/photo_news/3356121/<br>-----<br>20-21.07 - російські обстріли:<br>https://censor.net/ua/news/3355431/<br>https://censor.net/ua/news/3355666/<br>-----<br>17.07 - російські обстріли:<br>https://censor.net/ua/n3354686<br>-----<br>15.07 - російські обстріли:<br>https://censor.net/ua/news/3354229/<br>-----<br>14.07 - російські обстріли:<br>https://censor.net/ua/news/3354012/<br>-----<br>10.07 - російські обстріли:<br>https://youtu.be/7NCz3G7B7Ws<br>-----<br>6.07 - російські обстріли:<br>https://censor.net/ua/news/3352518/<br>-----<br>16.06 - російські обстріли:<br>https://censor.net/ua/news/3348247/<br><br>element_type: dark_red_dot<br>lat: 48.7427281<br>lon: 38.1512719]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>2.08 - російські обстріли:
+            <value>9.08 - російські розвідгрупи відійшли під вогнем:
+https://censor.net/ua/n3359637/
+-----
+2.08 - російські обстріли:
 https://censor.net/ua/news/3358169/
 -----
 1.08 - російські обстріли:
@@ -44150,11 +44169,14 @@ https://texty.org.ua/articles/107019/ohlyad-podij-na-fronti/
       </Placemark>
       <Placemark>
         <name>Зайцеве (село)</name>
-        <description><![CDATA[description: 8.08 - російський штурм відбито, авіаудари, обстріли:<br>https://censor.net/ua/n3359231/<br>-----<br>7.08 - російський штурм - "...на напрямку Новолуганське-Зайцеве відбито ... на напрямку Семигір'я-Зайцеве бої тривають", авіаудари, обстріли:<br>https://censor.net/ua/n3359079<br>-----<br>6.08 - російський наступ "на напрямку Кодема – Зайцеве" відбито, авіаудари, обстріли:<br>https://censor.net/ua/n3358912<br>-----<br>4.08 - російські обстріли:<br>https://censor.net/ua/n3358643<br>-----<br>2.08 - російський наступ - "...у напрямках Роти – Вершина, Клинове – Зайцеве та Покровське – Бахмут успішно відбито"; російські обстріли:<br>https://censor.net/ua/n3358169<br>-----<br>1.08 - російські обстріли:<br>https://censor.net/ua/n3357923/<br>-----<br>31.07 - російські обстріли:<br>https://censor.net/ua/n3357680/<br>-----<br>30.07 - російські авіаудари:<br>https://censor.net/ua/n3357551<br>-----<br>21.07 - російські обстріли:<br>https://censor.net/ua/n3355666/<br>-----<br>19.07 - російські обстріли:<br>https://censor.net/ua/n3355203<br>-----<br>11.07 - російські обстріли:<br>https://censor.net/ua/n3353483/<br>-----<br>10.07 - російські обстріли:<br>https://youtu.be/7NCz3G7B7Ws<br>-----<br>9.07 - російські обстріли:<br>https://censor.net/ua/n3353032<br><br>element_type: dark_red_dot<br>lat: 48.5260121<br>lon: 38.0774445]]></description>
+        <description><![CDATA[description: 9.08 - російський наступ, обстріли:<br>https://censor.net/ua/n3359637/<br>-----<br>8.08 - російський штурм відбито, авіаудари, обстріли:<br>https://censor.net/ua/n3359231/<br>-----<br>7.08 - російський штурм - "...на напрямку Новолуганське-Зайцеве відбито ... на напрямку Семигір'я-Зайцеве бої тривають", авіаудари, обстріли:<br>https://censor.net/ua/n3359079<br>-----<br>6.08 - російський наступ "на напрямку Кодема – Зайцеве" відбито, авіаудари, обстріли:<br>https://censor.net/ua/n3358912<br>-----<br>4.08 - російські обстріли:<br>https://censor.net/ua/n3358643<br>-----<br>2.08 - російський наступ - "...у напрямках Роти – Вершина, Клинове – Зайцеве та Покровське – Бахмут успішно відбито"; російські обстріли:<br>https://censor.net/ua/n3358169<br>-----<br>1.08 - російські обстріли:<br>https://censor.net/ua/n3357923/<br>-----<br>31.07 - російські обстріли:<br>https://censor.net/ua/n3357680/<br>-----<br>30.07 - російські авіаудари:<br>https://censor.net/ua/n3357551<br>-----<br>21.07 - російські обстріли:<br>https://censor.net/ua/n3355666/<br>-----<br>19.07 - російські обстріли:<br>https://censor.net/ua/n3355203<br>-----<br>11.07 - російські обстріли:<br>https://censor.net/ua/n3353483/<br>-----<br>10.07 - російські обстріли:<br>https://youtu.be/7NCz3G7B7Ws<br>-----<br>9.07 - російські обстріли:<br>https://censor.net/ua/n3353032<br><br>element_type: dark_red_dot<br>lat: 48.5260121<br>lon: 38.0774445]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[8.08 - російський штурм відбито, авіаудари, обстріли:
+            <value><![CDATA[9.08 - російський наступ, обстріли:
+https://censor.net/ua/n3359637/
+-----
+8.08 - російський штурм відбито, авіаудари, обстріли:
 https://censor.net/ua/n3359231/
 -----
 7.08 - російський штурм - "...на напрямку Новолуганське-Зайцеве відбито ... на напрямку Семигір'я-Зайцеве бої тривають", авіаудари, обстріли:
@@ -44543,11 +44565,14 @@ https://censor.net/ua/news/3350200/
       </Placemark>
       <Placemark>
         <name>Виїмка</name>
-        <description><![CDATA[description: 6.08 - російські обстріли:<br>https://censor.net/ua/n3359032/<br>-----<br>31.07 - російські обстріли:<br>https://censor.net/ua/news/3357680/<br>-----<br>29.07 - російські обстріли:<br>https://censor.net/ua/news/3357389/<br>-----<br>26.07 - російські обстріли:<br>https://censor.net/ua/news/3356698/<br>-----<br>21.07 - російські обстріли:<br>https://censor.net/ua/news/3355666/<br>-----<br>17.07 - російські обстріли:<br>https://censor.net/ua/n3354686<br>-----<br>14.07 - російські обстріли:<br>https://censor.net/ua/news/3354012/<br>-----<br>13.07 - російські обстріли:<br>https://censor.net/ua/news/3353964/<br>-----<br>11.07 - російські обстріли:<br>https://censor.net/ua/news/3353483/<br>-----<br>10.07 - російські обстріли:<br>https://censor.net/ua/news/3353256/<br>-----<br>7.07 - російські обстріли:<br>https://censor.net/ua/news/3352759/<br>-----<br>6.07 - російські обстріли:<br>https://censor.net/ua/news/3352518/<br>-----<br>29.06 - російські обстріли:<br>https://censor.net/ua/news/3351078/<br>-----<br>28.06 - російські обстріли:<br>https://censor.net/ua/n3350653<br>-----<br>26.06 - російські обстріли:<br>https://censor.net/ua/news/3350252/<br>-----<br>25.06 - російські обстріли:<br>https://censor.net/ua/news/3350200/<br><br>element_type: blue_dot<br>lat: 48.8051393<br>lon: 38.1511772]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <description><![CDATA[description: 9.08 - російські обстріли:<br>https://censor.net/ua/n3359482/<br>-----<br>6.08 - російські обстріли:<br>https://censor.net/ua/n3359032/<br>-----<br>31.07 - російські обстріли:<br>https://censor.net/ua/news/3357680/<br>-----<br>29.07 - російські обстріли:<br>https://censor.net/ua/news/3357389/<br>-----<br>26.07 - російські обстріли:<br>https://censor.net/ua/news/3356698/<br>-----<br>21.07 - російські обстріли:<br>https://censor.net/ua/news/3355666/<br>-----<br>17.07 - російські обстріли:<br>https://censor.net/ua/n3354686<br>-----<br>14.07 - російські обстріли:<br>https://censor.net/ua/news/3354012/<br>-----<br>13.07 - російські обстріли:<br>https://censor.net/ua/news/3353964/<br>-----<br>11.07 - російські обстріли:<br>https://censor.net/ua/news/3353483/<br>-----<br>10.07 - російські обстріли:<br>https://censor.net/ua/news/3353256/<br>-----<br>7.07 - російські обстріли:<br>https://censor.net/ua/news/3352759/<br>-----<br>6.07 - російські обстріли:<br>https://censor.net/ua/news/3352518/<br>-----<br>29.06 - російські обстріли:<br>https://censor.net/ua/news/3351078/<br>-----<br>28.06 - російські обстріли:<br>https://censor.net/ua/n3350653<br>-----<br>26.06 - російські обстріли:<br>https://censor.net/ua/news/3350252/<br>-----<br>25.06 - російські обстріли:<br>https://censor.net/ua/news/3350200/<br><br>element_type: dark_red_dot<br>lat: 48.8051393<br>lon: 38.1511772]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>6.08 - російські обстріли:
+            <value>9.08 - російські обстріли:
+https://censor.net/ua/n3359482/
+-----
+6.08 - російські обстріли:
 https://censor.net/ua/n3359032/
 -----
 31.07 - російські обстріли:
@@ -44597,7 +44622,7 @@ https://censor.net/ua/news/3350200/
 </value>
           </Data>
           <Data name="element_type">
-            <value>blue_dot</value>
+            <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
             <value>48.8051393</value>
@@ -49321,11 +49346,14 @@ https://censor.net/ua/news/3352837/
       </Placemark>
       <Placemark>
         <name>Весела Долина</name>
-        <description><![CDATA[description: 7.08 - російські обстріли:<br>https://censor.net/ua/n3359079<br>-----<br>1.08 - російські обстріли:<br>https://censor.net/ua/news/3357923/<br>-----<br>30.07 - російські обстріли:<br>https://censor.net/ua/news/3357447/<br>-----<br>28-29.07 - російські авіаудари, обстріли:<br>https://censor.net/ua/news/3357218/<br>https://censor.net/ua/news/3357170<br>-----<br>25-26.07 - російські обстріли:<br>https://censor.net/ua/n3356418<br>https://censor.net/ua/news/3356698/<br>-----<br>22.07 - російські обстріли:<br>https://censor.net/ua/n3355720<br>-----<br>19.07 - російські обстріли:<br>https://censor.net/ua/n3355203<br>-----<br>15.07 - російські обстріли й авіаудар:<br>https://censor.net/ua/news/3354229/<br>https://censor.net/ua/news/3354397<br>-----<br>14.07 - російські обстріли:<br>https://censor.net/ua/news/3354012/<br>-----<br>13.07 - російські обстріли; наступ "...в напрямках Веселої Долини, Яковлівки та Вершини наші воїни влучним вогнем звели нанівець. Окупанти з втратами відійшли":<br>https://censor.net/ua/news/3353964/<br>-----<br>12.07 - російські обстріли:<br>https://censor.net/ua/news/3353554/<br>-----<br>10.07, Том Купер - російський штурм - "Бахмут: тут ситуація залишається найбільш критичною. Уже два дні пвк "вагнер" і/або спецпідрозділи росіян атакують Веселу Долину...":<br>https://texty.org.ua/fragments/107203/<br>-----<br>8.07, вечір - "Тривають бої поблизу Веселої Долини":<br>https://censor.net/ua/n3352977<br>8.07, ранок - російський наступ  -"Окупанти наступають в напрямку Веселої Долини ... бойові дії тривають": https://censor.net/ua/n3352821<br><br>element_type: dark_red_dot<br>lat: 48.5503994<br>lon: 38.0699294]]></description>
+        <description><![CDATA[description: 9.08 - російські авіаудари:<br>https://censor.net/ua/n3359637/<br>-----<br>7.08 - російські обстріли:<br>https://censor.net/ua/n3359079<br>-----<br>1.08 - російські обстріли:<br>https://censor.net/ua/news/3357923/<br>-----<br>30.07 - російські обстріли:<br>https://censor.net/ua/news/3357447/<br>-----<br>28-29.07 - російські авіаудари, обстріли:<br>https://censor.net/ua/news/3357218/<br>https://censor.net/ua/news/3357170<br>-----<br>25-26.07 - російські обстріли:<br>https://censor.net/ua/n3356418<br>https://censor.net/ua/news/3356698/<br>-----<br>22.07 - російські обстріли:<br>https://censor.net/ua/n3355720<br>-----<br>19.07 - російські обстріли:<br>https://censor.net/ua/n3355203<br>-----<br>15.07 - російські обстріли й авіаудар:<br>https://censor.net/ua/news/3354229/<br>https://censor.net/ua/news/3354397<br>-----<br>14.07 - російські обстріли:<br>https://censor.net/ua/news/3354012/<br>-----<br>13.07 - російські обстріли; наступ "...в напрямках Веселої Долини, Яковлівки та Вершини наші воїни влучним вогнем звели нанівець. Окупанти з втратами відійшли":<br>https://censor.net/ua/news/3353964/<br>-----<br>12.07 - російські обстріли:<br>https://censor.net/ua/news/3353554/<br>-----<br>10.07, Том Купер - російський штурм - "Бахмут: тут ситуація залишається найбільш критичною. Уже два дні пвк "вагнер" і/або спецпідрозділи росіян атакують Веселу Долину...":<br>https://texty.org.ua/fragments/107203/<br>-----<br>8.07, вечір - "Тривають бої поблизу Веселої Долини":<br>https://censor.net/ua/n3352977<br>8.07, ранок - російський наступ  -"Окупанти наступають в напрямку Веселої Долини ... бойові дії тривають": https://censor.net/ua/n3352821<br><br>element_type: dark_red_dot<br>lat: 48.5503994<br>lon: 38.0699294]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value><![CDATA[7.08 - російські обстріли:
+            <value><![CDATA[9.08 - російські авіаудари:
+https://censor.net/ua/n3359637/
+-----
+7.08 - російські обстріли:
 https://censor.net/ua/n3359079
 -----
 1.08 - російські обстріли:
@@ -52559,14 +52587,15 @@ https://censor.net/ua/news/3354397
       </Placemark>
       <Placemark>
         <name><![CDATA[Білогорівка (село на трасі "Бахмут-Сєвєродонецьк")]]></name>
-        <description><![CDATA[description: УВАГА! Це - ПРОДОВЖЕННЯ даних по Білогорівці. Щоб побачити попередню (до 3 липня) ХРОНОЛОГІЮ бойових дій довкола села - ДИВІТЬСЯ поруч сіру точку "БІЛОГОРІВКА (АРХІВ)"<br>-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- <br>8.08 - російські обстріли:<br>https://censor.net/ua/n3359231/<br>-----<br>7.08, вечір - російська розвідка неподалік Білогорівки - "...розвідгрупа виявлена і знешкоджена":<br>https://censor.net/ua/n3359187<br>7.08, ранок - російські обстріли:<br>https://censor.net/ua/n3359079<br>-----<br>6.08 - російські обстріли:<br>https://censor.net/ua/n3358912<br>-----<br>2.08 - російські авіаудари:<br>https://censor.net/ua/news/3357985/<br>-----<br>30-31.07 - російські обстріли:<br>https://censor.net/ua/n3357551<br>https://censor.net/ua/n3357680/<br>-----<br>25.07 - російські обстріли:<br>https://censor.net/ua/n3356418<br>-----<br>22.07 - російські обстріли:<br>https://censor.net/ua/n3355720<br>-----<br>21.07 - російські авіаудари та обстріли:<br>https://censor.net/ua/n3355486<br>-----<br>19.07 - російський наступ у напрямку села - "...успіху не мав":<br>https://censor.net/ua/n3355203<br>-----<br>17.07 - російський штурм/наступ "поблизу" села - "Недолугі дії ворога знов завершились провалом і втратами":<br>https://censor.net/ua/n3354686<br>-----<br>15.07 - російський авіаудар, потім штурм у напрямку села - "...ЗСУ відкинули ворога назад":<br>https://censor.net/ua/n3354397<br>-----<br>13.07 - російські обстріли:<br>https://censor.net/ua/news/3353964/<br>-----<br>12.07 - російські обстріли й авіаудари:<br>https://censor.net/ua/news/3353554/<br>-----<br>6-7.07 - російські обстріли:<br>https://censor.net/ua/news/3352759/<br>-----<br>5.07 - російський наступ:<br>https://censor.net/ua/n3352294<br>                            * * *<br><br>element_type: dark_red_dot<br>lat: 48.7306906<br>lon: 38.2190399]]></description>
+        <description><![CDATA[description: УВАГА! Це - ПРОДОВЖЕННЯ даних по Білогорівці. Щоб побачити попередню (до 3 липня) ХРОНОЛОГІЮ бойових дій довкола села - ДИВІТЬСЯ поруч сіру точку "БІЛОГОРІВКА (АРХІВ)"<br>-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- <br>8-9.08 - російські обстріли:<br>https://censor.net/ua/n3359231/<br>https://censor.net/ua/n3359637/<br>-----<br>7.08, вечір - російська розвідка неподалік Білогорівки - "...розвідгрупа виявлена і знешкоджена":<br>https://censor.net/ua/n3359187<br>7.08, ранок - російські обстріли:<br>https://censor.net/ua/n3359079<br>-----<br>6.08 - російські обстріли:<br>https://censor.net/ua/n3358912<br>-----<br>2.08 - російські авіаудари:<br>https://censor.net/ua/news/3357985/<br>-----<br>30-31.07 - російські обстріли:<br>https://censor.net/ua/n3357551<br>https://censor.net/ua/n3357680/<br>-----<br>25.07 - російські обстріли:<br>https://censor.net/ua/n3356418<br>-----<br>22.07 - російські обстріли:<br>https://censor.net/ua/n3355720<br>-----<br>21.07 - російські авіаудари та обстріли:<br>https://censor.net/ua/n3355486<br>-----<br>19.07 - російський наступ у напрямку села - "...успіху не мав":<br>https://censor.net/ua/n3355203<br>-----<br>17.07 - російський штурм/наступ "поблизу" села - "Недолугі дії ворога знов завершились провалом і втратами":<br>https://censor.net/ua/n3354686<br>-----<br>15.07 - російський авіаудар, потім штурм у напрямку села - "...ЗСУ відкинули ворога назад":<br>https://censor.net/ua/n3354397<br>-----<br>13.07 - російські обстріли:<br>https://censor.net/ua/news/3353964/<br>-----<br>12.07 - російські обстріли й авіаудари:<br>https://censor.net/ua/news/3353554/<br>-----<br>6-7.07 - російські обстріли:<br>https://censor.net/ua/news/3352759/<br>-----<br>5.07 - російський наступ:<br>https://censor.net/ua/n3352294<br>                            * * *<br><br>element_type: dark_red_dot<br>lat: 48.7306906<br>lon: 38.2190399]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value><![CDATA[УВАГА! Це - ПРОДОВЖЕННЯ даних по Білогорівці. Щоб побачити попередню (до 3 липня) ХРОНОЛОГІЮ бойових дій довкола села - ДИВІТЬСЯ поруч сіру точку "БІЛОГОРІВКА (АРХІВ)"
 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
-8.08 - російські обстріли:
+8-9.08 - російські обстріли:
 https://censor.net/ua/n3359231/
+https://censor.net/ua/n3359637/
 -----
 7.08, вечір - російська розвідка неподалік Білогорівки - "...розвідгрупа виявлена і знешкоджена":
 https://censor.net/ua/n3359187
@@ -54608,14 +54637,15 @@ https://censor.net/ua/n3356418
       </Placemark>
       <Placemark>
         <name>Покровське (окуповане в перші дні серпня)</name>
-        <description><![CDATA[description: УВАГА! Це - ПРОДОВЖЕННЯ даних по Покровському. Щоб побачити попередню (до 17 липня) ХРОНОЛОГІЮ бойових дій довкола села - ДИВІТЬСЯ південніше на карті сіру точку "ПОКРОВСЬКЕ (АРХІВ)"<br>-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --<br>8.08 - російські обстріли:<br>https://censor.net/ua/news/3359407/<br>-----<br>7.08, вечір - російські обстріли:<br>https://censor.net/ua/news/3359187/<br>7.08, ранок - російський штурм "на напрямку Покровське – Бахмут":<br>https://censor.net/ua/n3359079<br>-----<br>6.08 - російський штурм "у напрямках Покровське - Соледар, Покровське - Бахмут, Покровське - Вершина" відбито:<br>https://censor.net/ua/n3359032<br>-----<br>4.08 - ймовірно, село повністю ОКУПОВАНЕ - російський наступ "на напрямку Покровське – Бахмут" відбито:<br>https://censor.net/ua/n3358478<br>-----<br>2.08 - російський наступ - "...у напрямку Покровське – Бахмут успішно відбито"; авіаудари й обстріли:<br>https://censor.net/ua/n3358169<br>-----<br>1.08 - російські авіаудари:<br>https://censor.net/ua/n3357923<br>-----<br>31.07, вечір - російський штурм - "...у районі Покровського провалився, окупанти відійшли":<br>https://censor.net/ua/n3357680<br>31.07, ранок - російський штурм "у напрямку Покровське – Бахмут" відбито:<br>https://censor.net/ua/n3357598<br>-----<br>30.07 - російський штурм у напрямках Пилипчатине – Покровське ... успіху не мав, відійшов":<br>https://censor.net/ua/n3357551<br>-----<br>29.07 - російські авіаудари:<br>https://censor.net/ua/news/3357389/<br>-----<br>28.07 - російські авіаудари, обстріли:<br>https://censor.net/ua/news/3357170<br>-----<br>26.07 - російський штурм, авіаудари, обстріли:<br>https://censor.net/ua/news/3356698/<br>-----<br>25.07 - російські штурми "на напрямках Клинове - Покровське та Володимирівка - Покровське" відбито:<br>https://censor.net/ua/n3356418<br>-----<br>22.07 - російський штурм "поблизу села" та обстріли:<br>https://censor.net/ua/n3355720<br>-----<br>20-21.07 - російські обстріли:<br>https://censor.net/ua/news/3355431/<br>https://censor.net/ua/n3355486<br>-----<br>19.07 - село частково ОКУПОВАНЕ - "Ворог вів штурмові дії у напрямку Покровського, має частковий успіх, закріплюється на південній околиці населеного пункту, завдавав авіаударів":<br>https://censor.net/ua/n3355203<br><br>                                * * *<br><br>element_type: dark_red_dot<br>lat: 48.6382583<br>lon: 38.1267274]]></description>
+        <description><![CDATA[description: УВАГА! Це - ПРОДОВЖЕННЯ даних по Покровському. Щоб побачити попередню (до 17 липня) ХРОНОЛОГІЮ бойових дій довкола села - ДИВІТЬСЯ південніше на карті сіру точку "ПОКРОВСЬКЕ (АРХІВ)"<br>-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --<br>8-9.08 - російські обстріли:<br>https://censor.net/ua/n3359407/<br>https://censor.net/ua/n3359637/<br>-----<br>7.08, вечір - російські обстріли:<br>https://censor.net/ua/news/3359187/<br>7.08, ранок - російський штурм "на напрямку Покровське – Бахмут":<br>https://censor.net/ua/n3359079<br>-----<br>6.08 - російський штурм "у напрямках Покровське - Соледар, Покровське - Бахмут, Покровське - Вершина" відбито:<br>https://censor.net/ua/n3359032<br>-----<br>4.08 - ймовірно, село повністю ОКУПОВАНЕ - російський наступ "на напрямку Покровське – Бахмут" відбито:<br>https://censor.net/ua/n3358478<br>-----<br>2.08 - російський наступ - "...у напрямку Покровське – Бахмут успішно відбито"; авіаудари й обстріли:<br>https://censor.net/ua/n3358169<br>-----<br>1.08 - російські авіаудари:<br>https://censor.net/ua/n3357923<br>-----<br>31.07, вечір - російський штурм - "...у районі Покровського провалився, окупанти відійшли":<br>https://censor.net/ua/n3357680<br>31.07, ранок - російський штурм "у напрямку Покровське – Бахмут" відбито:<br>https://censor.net/ua/n3357598<br>-----<br>30.07 - російський штурм у напрямках Пилипчатине – Покровське ... успіху не мав, відійшов":<br>https://censor.net/ua/n3357551<br>-----<br>29.07 - російські авіаудари:<br>https://censor.net/ua/news/3357389/<br>-----<br>28.07 - російські авіаудари, обстріли:<br>https://censor.net/ua/news/3357170<br>-----<br>26.07 - російський штурм, авіаудари, обстріли:<br>https://censor.net/ua/news/3356698/<br>-----<br>25.07 - російські штурми "на напрямках Клинове - Покровське та Володимирівка - Покровське" відбито:<br>https://censor.net/ua/n3356418<br>-----<br>22.07 - російський штурм "поблизу села" та обстріли:<br>https://censor.net/ua/n3355720<br>-----<br>20-21.07 - російські обстріли:<br>https://censor.net/ua/news/3355431/<br>https://censor.net/ua/n3355486<br>-----<br>19.07 - село частково ОКУПОВАНЕ - "Ворог вів штурмові дії у напрямку Покровського, має частковий успіх, закріплюється на південній околиці населеного пункту, завдавав авіаударів":<br>https://censor.net/ua/n3355203<br><br>                                * * *<br><br>element_type: dark_red_dot<br>lat: 48.6455171<br>lon: 38.1184874]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value><![CDATA[УВАГА! Це - ПРОДОВЖЕННЯ даних по Покровському. Щоб побачити попередню (до 17 липня) ХРОНОЛОГІЮ бойових дій довкола села - ДИВІТЬСЯ південніше на карті сіру точку "ПОКРОВСЬКЕ (АРХІВ)"
 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
-8.08 - російські обстріли:
-https://censor.net/ua/news/3359407/
+8-9.08 - російські обстріли:
+https://censor.net/ua/n3359407/
+https://censor.net/ua/n3359637/
 -----
 7.08, вечір - російські обстріли:
 https://censor.net/ua/news/3359187/
@@ -54671,15 +54701,15 @@ https://censor.net/ua/n3355203
             <value>dark_red_dot</value>
           </Data>
           <Data name="lat">
-            <value>48.6382583</value>
+            <value>48.6455171</value>
           </Data>
           <Data name="lon">
-            <value>38.1267274</value>
+            <value>38.1184874</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            38.1267274,48.6382583,0
+            38.1184874,48.6455171,0
           </coordinates>
         </Point>
       </Placemark>
@@ -55989,13 +56019,13 @@ https://censor.net/ua/n3358912
       </Placemark>
       <Placemark>
         <name>Вершина</name>
-        <description><![CDATA[description: УВАГА! Це - ПРОДОВЖЕННЯ даних по Вершині. Щоб побачити попередню (до 4 серпня) ХРОНОЛОГІЮ бойових дій довкола села - ДИВІТЬСЯ східніше на карті сіру точку "ВЕРШИНА (АРХІВ)"<br>-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --<br>9.08 - російський наступ - "...має частковий успіх у напрямку села Вершина", авіаудари: https://censor.net/ua/n3359637<br>-----<br>8.08 - російський штурм, обстріли:<br>https://censor.net/ua/news/3359407/<br>-----<br>7.08 - російський штурм "на напрямку Відродження – Вершина", обстріли:<br>https://censor.net/ua/n3359079<br>-----<br>6.08 - російський штурм "в напрямках Відродження – Вершина, Покровське – Вершина" відбито, обстріли: https://censor.net/ua/n3359032<br>-----<br><br>element_type: dark_red_dot<br>lat: 48.5218111<br>lon: 38.1127571]]></description>
+        <description><![CDATA[description: УВАГА! Це - ПРОДОВЖЕННЯ даних по Вершині. Щоб побачити попередню (до 4 серпня) ХРОНОЛОГІЮ бойових дій довкола села - ДИВІТЬСЯ східніше на карті сіру точку "ВЕРШИНА (АРХІВ)"<br>-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --<br>9.08 - російський наступ - "...має частковий успіх у напрямку села Вершина", авіаудари, обстріли: https://censor.net/ua/n3359637<br>-----<br>8.08 - російський штурм, обстріли:<br>https://censor.net/ua/news/3359407/<br>-----<br>7.08 - російський штурм "на напрямку Відродження – Вершина", обстріли:<br>https://censor.net/ua/n3359079<br>-----<br>6.08 - російський штурм "в напрямках Відродження – Вершина, Покровське – Вершина" відбито, обстріли: https://censor.net/ua/n3359032<br>-----<br><br>element_type: dark_red_dot<br>lat: 48.5218111<br>lon: 38.1127571]]></description>
         <styleUrl>#icon-ci-2</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value><![CDATA[УВАГА! Це - ПРОДОВЖЕННЯ даних по Вершині. Щоб побачити попередню (до 4 серпня) ХРОНОЛОГІЮ бойових дій довкола села - ДИВІТЬСЯ східніше на карті сіру точку "ВЕРШИНА (АРХІВ)"
 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
-9.08 - російський наступ - "...має частковий успіх у напрямку села Вершина", авіаудари: https://censor.net/ua/n3359637
+9.08 - російський наступ - "...має частковий успіх у напрямку села Вершина", авіаудари, обстріли: https://censor.net/ua/n3359637
 -----
 8.08 - російський штурм, обстріли:
 https://censor.net/ua/news/3359407/
@@ -56252,6 +56282,103 @@ https://censor.net/ua/news/3359637/
         <Point>
           <coordinates>
             35.314053,50.6344314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Спірне</name>
+        <description><![CDATA[description: УВАГА! Це - ПРОДОВЖЕННЯ даних по Спірному. Щоб побачити попередню (до 31 липня) ХРОНОЛОГІЮ бойових дій довкола села -<br>ДИВІТЬСЯ східніше на мапі сіру точку "СПІРНЕ (АРХІВ)"<br>-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  9.08 - російський штурм у районі Спірного - "...потрапив під кинджальний вогонь і хаотично відступив", авіаудари:<br>https://censor.net/ua/n3359637<br>-----<br>8.08 - російські обстріли:<br>https://censor.net/ua/n3359231/<br>-----<br>7.08 - російський авіаудар (літаками штурмової авіації):<br>https://censor.net/ua/n3359079/<br>-----<br>6.08 - російські обстріли:<br>https://censor.net/ua/n3359032/<br>-----<br>4.08 - російські авіаудар, обстріли:<br>https://censor.net/ua/n3358643<br>-----<br>1.08 - російські авіаудари, обстріли:<br>https://censor.net/ua/news/3357720/<br><br>                                        * * *<br><br>element_type: dark_red_dot<br>lat: 48.8069345<br>lon: 38.2426131]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[УВАГА! Це - ПРОДОВЖЕННЯ даних по Спірному. Щоб побачити попередню (до 31 липня) ХРОНОЛОГІЮ бойових дій довкола села -
+ДИВІТЬСЯ східніше на мапі сіру точку "СПІРНЕ (АРХІВ)"
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  9.08 - російський штурм у районі Спірного - "...потрапив під кинджальний вогонь і хаотично відступив", авіаудари:
+https://censor.net/ua/n3359637
+-----
+8.08 - російські обстріли:
+https://censor.net/ua/n3359231/
+-----
+7.08 - російський авіаудар (літаками штурмової авіації):
+https://censor.net/ua/n3359079/
+-----
+6.08 - російські обстріли:
+https://censor.net/ua/n3359032/
+-----
+4.08 - російські авіаудар, обстріли:
+https://censor.net/ua/n3358643
+-----
+1.08 - російські авіаудари, обстріли:
+https://censor.net/ua/news/3357720/
+
+                                        * * *
+]]></value>
+          </Data>
+          <Data name="element_type">
+            <value>dark_red_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>48.8069345</value>
+          </Data>
+          <Data name="lon">
+            <value>38.2426131</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.2426131,48.8069345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Підгородне</name>
+        <description><![CDATA[description: 9.08 - російська розвідка боєм (відбито):<br>https://censor.net/ua/n3359637/<br><br>element_type: dark_red_dot<br>lat: 48.6346077<br>lon: 38.0338116]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>9.08 - російська розвідка боєм (відбито):
+https://censor.net/ua/n3359637/
+</value>
+          </Data>
+          <Data name="element_type">
+            <value>dark_red_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>48.6346077</value>
+          </Data>
+          <Data name="lon">
+            <value>38.0338116</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.0338116,48.6346077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Дача</name>
+        <description><![CDATA[description: 9.08 - російські авіаудари:<br>https://censor.net/ua/n3359637/<br><br>element_type: dark_red_dot<br>lat: 48.4452025<br>lon: 38.0381918]]></description>
+        <styleUrl>#icon-ci-2</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>9.08 - російські авіаудари:
+https://censor.net/ua/n3359637/
+</value>
+          </Data>
+          <Data name="element_type">
+            <value>dark_red_dot</value>
+          </Data>
+          <Data name="lat">
+            <value>48.4452025</value>
+          </Data>
+          <Data name="lon">
+            <value>38.0381918</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.0381918,48.4452025,0
           </coordinates>
         </Point>
       </Placemark>
@@ -59175,12 +59302,11 @@ https://censor.net/ua/news/3359637/
                 38.1173876,48.6772127,0
                 38.1143514,48.6744205,0
                 38.1170789,48.6692979,0
-                38.120998,48.657714,0
-                38.1267274,48.6382583,0
-                38.111914,48.6360178,0
-                38.1052069,48.6307699,0
-                38.0971207,48.6212781,0
-                38.0996809,48.6122378,0
+                38.1184874,48.6455171,0
+                38.0859808,48.634854,0
+                38.0502571,48.6321704,0
+                38.0456076,48.6263091,0
+                38.0703936,48.6069087,0
                 38.0833253,48.592837,0
                 38.08654,48.5846727,0
                 38.1050211,48.5585816,0
